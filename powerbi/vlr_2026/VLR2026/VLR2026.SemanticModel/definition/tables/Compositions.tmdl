@@ -1,0 +1,107 @@
+table Compositions
+	lineageTag: c47f343d-5585-5a8e-aef4-bddf88a769b6
+
+	/// Nombre de compositions jouées (une équipe, une map, cinq agents)
+	measure Compositions = COUNTROWS(Compositions)
+		formatString: #,##0
+		displayFolder: Compositions
+		lineageTag: 56f52621-cdbc-54dc-af41-e2a5e58aa58d
+
+	/// Nombre de maps jouées ; une map compte deux compositions, une par équipe
+	measure 'Maps jouées' = DISTINCTCOUNT(Compositions[Match])
+		formatString: #,##0
+		displayFolder: Compositions
+		lineageTag: 1cb07e67-98b7-5f9d-a319-8e9cb406c6a6
+
+	/// Nombre de combinaisons de cinq agents différentes
+	measure 'Compos différentes' = DISTINCTCOUNT(Compositions[Agents])
+		formatString: #,##0
+		displayFolder: Compositions
+		lineageTag: d923fd97-b684-559a-887a-ada50e9525e8
+
+	/// Part de compositions différentes ; 100 % = jamais deux fois la même, bas = compo fixe
+	measure 'Diversité des compos' = DIVIDE([Compos différentes], [Compositions])
+		formatString: 0 %
+		displayFolder: Compositions
+		lineageTag: 10a0de5b-1f2d-596a-82ba-aee28e4d46b6
+
+	column CompID
+		dataType: string
+		isHidden
+		lineageTag: 0fac68d5-75f6-5d9b-8982-881212efda64
+		summarizeBy: none
+		sourceColumn: CompID
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Événement'
+		dataType: string
+		isHidden
+		lineageTag: 496e9843-a067-5db2-b3dc-b0b3e8d79ce8
+		summarizeBy: none
+		sourceColumn: Événement
+
+		annotation SummarizationSetBy = Automatic
+
+	column Map
+		dataType: string
+		isHidden
+		lineageTag: 76ba7b69-70ab-52d9-9d5f-bee4d483aded
+		summarizeBy: none
+		sourceColumn: Map
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Équipe'
+		dataType: string
+		isHidden
+		lineageTag: b638e03d-badd-55fb-84aa-47d3ee6c1467
+		summarizeBy: none
+		sourceColumn: Équipe
+
+		annotation SummarizationSetBy = Automatic
+
+	column Adversaire
+		dataType: string
+		lineageTag: 40db51c4-2d30-5c57-85c1-771ece735a4d
+		summarizeBy: none
+		sourceColumn: Adversaire
+
+		annotation SummarizationSetBy = Automatic
+
+	column Match
+		dataType: string
+		isHidden
+		lineageTag: 29d38385-d4e5-5585-8be1-51439647c819
+		summarizeBy: none
+		sourceColumn: Match
+
+		annotation SummarizationSetBy = Automatic
+
+	column Agents
+		dataType: string
+		lineageTag: 69d8b731-f858-5e72-9882-1e58e4c57bcc
+		summarizeBy: none
+		sourceColumn: Agents
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Archétype'
+		dataType: string
+		lineageTag: 65dfe337-4c19-5b0f-9eb9-cb70fca5a596
+		summarizeBy: none
+		sourceColumn: Archétype
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Compositions = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "Compositions.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"CompID", type text}, {"Événement", type text}, {"Map", type text}, {"Équipe", type text}, {"Adversaire", type text}, {"Match", type text}, {"Agents", type text}, {"Archétype", type text}}, "en-US")
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table

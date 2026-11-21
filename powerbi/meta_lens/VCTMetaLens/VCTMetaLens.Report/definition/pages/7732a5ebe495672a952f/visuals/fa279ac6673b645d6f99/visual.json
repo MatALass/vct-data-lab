@@ -136,6 +136,108 @@
       }
     },
     "drillFilterOtherVisuals": true,
+    "objects": {
+      "columnWidth": [
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "82.3D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "dim_player.player"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "82.3D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_player_map.Maps joueur"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "82.3D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_player_map.Rating (10 maps min.)"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "82.3D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_player_map.ACS moyen"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "82.3D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_player_map.K/D"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "82.3D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_player_map.FK/FD"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "82.3D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_player_map.HS %"
+          }
+        }
+      ]
+    },
     "visualContainerObjects": {
       "title": [
         {

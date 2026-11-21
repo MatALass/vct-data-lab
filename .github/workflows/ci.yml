@@ -5,9 +5,13 @@ on:
     branches: [main]
   pull_request:
 
+env:
+  # Même commit que l'extra [powerbi] de pyproject.toml
+  PBIP_GENERATOR_REF: e68d603c4e244b6ff81e463ca44280c7cd061cd9
+
 jobs:
   tests:
-    name: Tests et rapport Power BI à jour
+    name: Tests et rapports Power BI à jour
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -21,3 +25,32 @@ jobs:
         run: |
           python powerbi/meta_lens/build_report.py
           git diff --exit-code -- powerbi/meta_lens/VCTMetaLens
+      - name: Les données et le projet PBIP VLR 2026 versionnés correspondent à la spec
+        run: |
+          python -m vlr_analytics.powerbi_model
+          pbip-generator build data/powerbi/vlr_2026 --spec powerbi/vlr_2026/report.yaml -n VLR2026 \
+            -o powerbi/vlr_2026 --data-folder 'C:\pbip\vct-data-lab\data\powerbi\vlr_2026\' --overwrite --strict
+          git diff --exit-code -- data/powerbi powerbi/vlr_2026
+          test -z "$(git status --porcelain -- data/powerbi powerbi/vlr_2026)"
+
+  # TOM, la bibliothèque de Power BI, charge chaque modèle sémantique : attrape les erreurs
+  # de syntaxe et de références TMDL qu'aucun schéma JSON ne voit.
+  tmdl:
+    name: Modèles Power BI chargés par TOM
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/checkout@v5
+        with:
+          repository: MatALass/pbip-generator
+          ref: ${{ env.PBIP_GENERATOR_REF }}
+          path: pbip-generator
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x"
+      - name: Charger les modèles
+        shell: pwsh
+        run: |
+          dotnet run --project pbip-generator/tools/tmdl-check -c Release -- `
+            powerbi/meta_lens/VCTMetaLens/VCTMetaLens.SemanticModel/definition `
+            powerbi/vlr_2026/VLR2026/VLR2026.SemanticModel/definition

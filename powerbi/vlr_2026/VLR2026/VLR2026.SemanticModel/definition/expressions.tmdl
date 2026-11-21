@@ -1,0 +1,4 @@
+expression DataFolder = "C:\pbip\vct-data-lab\data\powerbi\vlr_2026\" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: 34af2bb6-8bbc-539b-b30f-fee076aa346d
+
+	annotation PBI_ResultType = Text

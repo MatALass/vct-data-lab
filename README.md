@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" alt="Project status">
   </a>
   <img src="https://img.shields.io/badge/python-3.11%2B-blue?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/tests-122%20passed-brightgreen?style=for-the-badge&logo=pytest" alt="Tests">
+  <img src="https://img.shields.io/badge/tests-128%20passed-brightgreen?style=for-the-badge&logo=pytest" alt="Tests">
   <img src="https://img.shields.io/badge/FastAPI-API-009688?style=for-the-badge&logo=fastapi" alt="FastAPI">
   <img src="https://img.shields.io/badge/Streamlit-apps-FF4B4B?style=for-the-badge&logo=streamlit" alt="Streamlit">
   <img src="https://img.shields.io/badge/React-frontends-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
@@ -43,7 +43,7 @@ This project was developed by **Mathieu Alassoeur**.
 
 ## Project scope
 
-VCT Data Lab currently covers six analytical areas:
+VCT Data Lab currently covers seven analytical areas:
 
 | Module                     | Purpose                                                                                  |
 | -------------------------- | ---------------------------------------------------------------------------------------- |
@@ -51,6 +51,7 @@ VCT Data Lab currently covers six analytical areas:
 | **VCT Role Ranker**        | Infer player roles, compare players through duels, and build user-driven rankings        |
 | **Playoff Odds Simulator** | Simulate qualification/playoff scenarios using Monte Carlo logic and what-if assumptions |
 | **Meta Lens (Power BI)**   | Season-long meta: 15 tournaments, 59 teams, 349 players, 100,000+ kills, star schema and PBIP report |
+| **VLR 2026 (Power BI)**    | 2026 Stage 1 compositions (4 regions, 464 compositions): agents, maps, pairs, team profiles, EMEA players |
 | **Roster tracker**         | Daily ranking snapshots in Excel, transfers, eliminated teams highlighted from bracket results |
 | **Kickoff simulator**      | Triple-elimination Kickoff bracket (BO3/BO5) and an interactive worst-to-best ranker |
 
@@ -224,7 +225,22 @@ python powerbi/meta_lens/build_report.py --data-folder "<absolute path to data/m
 Then open `powerbi/meta_lens/VCTMetaLens/VCTMetaLens.pbip` in Power BI Desktop and refresh.
 The CI regenerates the PBIP and fails if the committed project differs from the script.
 
-### 6. Roster tracker (VCT 2026 EMEA)
+### 6. VLR 2026 report in Power BI
+
+A second PBIP report, built on the VLR analytics outputs already in the repo (Stage 1 2026, four regions),
+so it opens without running any scraper. The model keeps one row per composition, per agent picked and per
+agent pair, so pick rates stay right under any filter (team, map, region, role).
+
+```bash
+python -m vlr_analytics.powerbi_model   # data/marts + data/models -> data/powerbi/vlr_2026/*.csv
+pbip-generator build data/powerbi/vlr_2026 --spec powerbi/vlr_2026/report.yaml -n VLR2026 \
+  -o powerbi/vlr_2026 --data-folder 'C:\pbip\vct-data-lab\data\powerbi\vlr_2026\' --overwrite --strict
+```
+
+Open `powerbi/vlr_2026/VLR2026/VLR2026.pbip` and refresh. Pages, measures and modeling choices:
+[powerbi/vlr_2026/README.md](powerbi/vlr_2026/README.md).
+
+### 7. Roster tracker (VCT 2026 EMEA)
 
 ```bash
 python -m vct_roster.run_daily              # scrape, add a dated sheet to data/roster/vct.xlsx, compare
@@ -233,7 +249,7 @@ python -m streamlit run apps/roster_streamlit/app.py
 
 Details: [docs/roster/README.md](docs/roster/README.md).
 
-### 7. Kickoff simulator
+### 8. Kickoff simulator
 
 ```bash
 python -m streamlit run apps/kickoff_streamlit/Home.py
@@ -268,6 +284,7 @@ VCT-Data-Lab/
 │
 ├── docs/                            # Technical documentation (one folder per merged module)
 ├── powerbi/meta_lens/               # Power BI report as code + generated PBIP
+├── powerbi/vlr_2026/                # Power BI spec (YAML) + generated PBIP on 2026 data
 ├── frontend/                        # React frontend for VLR analytics
 ├── notebooks/                       # Preserved exploratory notebooks
 ├── scripts/                         # Utility scripts
@@ -332,7 +349,7 @@ python -m pytest
 Expected result:
 
 ```text
-122 passed
+128 passed
 ```
 
 ---
@@ -412,7 +429,7 @@ npm run build
 The project has been validated with:
 
 ```text
-Python tests: 122 passed (CI on every push)
+Python tests: 128 passed (CI on every push)
 VLR React frontend: build passed
 Playoff Odds React frontend: build passed
 Playoff Odds npm audit: 0 vulnerabilities

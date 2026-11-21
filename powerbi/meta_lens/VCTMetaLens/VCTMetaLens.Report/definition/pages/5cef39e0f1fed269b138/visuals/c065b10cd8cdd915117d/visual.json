@@ -122,6 +122,94 @@
       }
     },
     "drillFilterOtherVisuals": true,
+    "objects": {
+      "columnWidth": [
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "116.5D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "dim_team.team"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "116.5D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_match_team.Matchs"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "116.5D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_match_team.Winrate matchs %"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "116.5D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_match_team.Maps gagnées %"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "116.5D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_eco.Pistols gagnés %"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "116.5D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_eco.Conversion éco %"
+          }
+        }
+      ]
+    },
     "visualContainerObjects": {
       "title": [
         {

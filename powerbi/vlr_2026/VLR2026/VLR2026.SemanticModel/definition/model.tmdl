@@ -1,0 +1,20 @@
+model Model
+	culture: fr-FR
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: fr-FR
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 0
+
+annotation PBI_QueryOrder = ["DataFolder", "Agents", "Compositions", "Equipes", "Evenements", "Joueurs", "Maps", "Paires", "Picks"]
+
+ref table Agents
+ref table Compositions
+ref table Equipes
+ref table Evenements
+ref table Joueurs
+ref table Maps
+ref table Paires
+ref table Picks

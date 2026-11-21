@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "VLR2026"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1ba241bb-1f40-5594-8c99-9403fbc6c952"
+  }
+}

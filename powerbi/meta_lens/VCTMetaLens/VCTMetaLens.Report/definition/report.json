@@ -23,6 +23,7 @@
   "settings": {
     "useStylableVisualContainerHeader": true,
     "defaultDrillFilterOtherVisuals": true,
+    "defaultFilterActionIsDataFilter": true,
     "allowChangeFilterTypes": true,
     "useEnhancedTooltips": true
   }

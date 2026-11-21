@@ -1,0 +1,49 @@
+table Evenements
+	lineageTag: 83d0ffbb-8992-50e2-a863-d06d21122975
+
+	column 'Événement'
+		dataType: string
+		isHidden
+		lineageTag: 9ae8cffe-e0f1-5b2c-953e-4cc70c047b94
+		summarizeBy: none
+		sourceColumn: Événement
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Nom événement'
+		dataType: string
+		lineageTag: 54c0e981-1bb3-5b69-b51d-52ced73c86db
+		summarizeBy: none
+		sourceColumn: Nom événement
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Région'
+		dataType: string
+		lineageTag: 190c0988-be6b-5a23-8659-fdd0b59769a1
+		summarizeBy: none
+		sourceColumn: Région
+
+		annotation SummarizationSetBy = Automatic
+
+	column Ordre
+		dataType: int64
+		formatString: #,##0
+		isHidden
+		lineageTag: 9c14d266-7789-596b-a819-8ad65777ac7b
+		summarizeBy: sum
+		sourceColumn: Ordre
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Evenements = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "Evenements.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"Événement", type text}, {"Nom événement", type text}, {"Région", type text}, {"Ordre", Int64.Type}}, "en-US")
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table

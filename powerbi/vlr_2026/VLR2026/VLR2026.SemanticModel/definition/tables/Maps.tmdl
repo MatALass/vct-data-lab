@@ -1,0 +1,22 @@
+table Maps
+	lineageTag: 57d7ab2b-7fdc-5a3c-9634-fc5b7881c56b
+
+	column Map
+		dataType: string
+		lineageTag: f166d15b-e72b-529f-b592-aa6265b8e29c
+		summarizeBy: none
+		sourceColumn: Map
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Maps = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "Maps.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"Map", type text}}, "en-US")
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table

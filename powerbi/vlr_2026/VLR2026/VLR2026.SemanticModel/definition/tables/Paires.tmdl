@@ -1,0 +1,70 @@
+table Paires
+	lineageTag: 0fcab9c9-49a3-5fba-9ab6-24181cdcfde2
+
+	/// Part des compositions qui contiennent les deux agents de la paire
+	measure 'Pick rate paire' = DIVIDE(DISTINCTCOUNT(Paires[CompID]), [Compositions])
+		formatString: 0 %
+		displayFolder: Paires
+		lineageTag: cd07f484-34ad-5060-91bb-85f246488694
+
+	/// Nombre d'équipes qui ont joué la paire ; une paire jouée par une seule équipe est une signature, pas une méta
+	measure 'Équipes (paire)' = DISTINCTCOUNT(Paires[Équipe])
+		formatString: #,##0
+		displayFolder: Paires
+		lineageTag: 17a62e4b-a011-5986-8dcf-f581bfa5154e
+
+	column CompID
+		dataType: string
+		isHidden
+		lineageTag: 3f8adbaf-179c-52fd-9e5d-b7c4f8651948
+		summarizeBy: none
+		sourceColumn: CompID
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Événement'
+		dataType: string
+		isHidden
+		lineageTag: c5ae1cc8-ddc2-5c90-b503-a037d9138f8a
+		summarizeBy: none
+		sourceColumn: Événement
+
+		annotation SummarizationSetBy = Automatic
+
+	column Map
+		dataType: string
+		isHidden
+		lineageTag: bde337b1-351a-55ef-966c-d5e9f25cd6f2
+		summarizeBy: none
+		sourceColumn: Map
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Équipe'
+		dataType: string
+		isHidden
+		lineageTag: 0e933ed3-811d-5e70-a1d8-cd32131ae3cb
+		summarizeBy: none
+		sourceColumn: Équipe
+
+		annotation SummarizationSetBy = Automatic
+
+	column Paire
+		dataType: string
+		lineageTag: 632cef0b-2940-57a1-8d9c-eacbe8b6d214
+		summarizeBy: none
+		sourceColumn: Paire
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Paires = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "Paires.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"CompID", type text}, {"Événement", type text}, {"Map", type text}, {"Équipe", type text}, {"Paire", type text}}, "en-US")
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
