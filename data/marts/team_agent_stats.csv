@@ -1,682 +1,1251 @@
 team,agent,agent_picks,team_total_compositions,team_agent_pick_rate,observed,signature_level
-100 Thieves,neon,3,5,0.6,True,core
-100 Thieves,omen,3,5,0.6,True,core
-100 Thieves,phoenix,3,5,0.6,True,core
-100 Thieves,sova,3,5,0.6,True,core
-100 Thieves,cypher,2,5,0.4,True,rotation
-100 Thieves,fade,2,5,0.4,True,rotation
-100 Thieves,viper,2,5,0.4,True,rotation
-100 Thieves,astra,1,5,0.2,True,rare
-100 Thieves,chamber,1,5,0.2,True,rare
-100 Thieves,harbor,1,5,0.2,True,rare
-100 Thieves,jett,1,5,0.2,True,rare
-100 Thieves,kayo,1,5,0.2,True,rare
-100 Thieves,raze,1,5,0.2,True,rare
-100 Thieves,sage,1,5,0.2,True,rare
-All Gamers,neon,15,16,0.9375,True,signature
-All Gamers,waylay,15,16,0.9375,True,signature
-All Gamers,omen,8,16,0.5,True,core
-All Gamers,skye,8,16,0.5,True,core
-All Gamers,viper,8,16,0.5,True,core
-All Gamers,cypher,6,16,0.375,True,rotation
-All Gamers,fade,6,16,0.375,True,rotation
-All Gamers,astra,4,16,0.25,True,rotation
-All Gamers,brimstone,4,16,0.25,True,rotation
-All Gamers,sova,2,16,0.125,True,rare
-All Gamers,chamber,1,16,0.0625,True,rare
-All Gamers,gekko,1,16,0.0625,True,rare
-All Gamers,killjoy,1,16,0.0625,True,rare
-All Gamers,phoenix,1,16,0.0625,True,rare
-BBL Esports,omen,7,10,0.7,True,signature
-BBL Esports,neon,6,10,0.6,True,core
-BBL Esports,jett,5,10,0.5,True,core
-BBL Esports,sova,5,10,0.5,True,core
-BBL Esports,raze,4,10,0.4,True,rotation
-BBL Esports,viper,4,10,0.4,True,rotation
-BBL Esports,astra,3,10,0.3,True,rotation
-BBL Esports,cypher,3,10,0.3,True,rotation
-BBL Esports,fade,3,10,0.3,True,rotation
-BBL Esports,vyse,3,10,0.3,True,rotation
-BBL Esports,breach,2,10,0.2,True,rare
-BBL Esports,skye,2,10,0.2,True,rare
-BBL Esports,waylay,2,10,0.2,True,rare
-BBL Esports,kayo,1,10,0.1,True,rare
-Bilibili Gaming,neon,10,13,0.7692,True,signature
-Bilibili Gaming,tejo,6,13,0.4615,True,core
-Bilibili Gaming,viper,6,13,0.4615,True,core
-Bilibili Gaming,astra,5,13,0.3846,True,rotation
-Bilibili Gaming,killjoy,5,13,0.3846,True,rotation
-Bilibili Gaming,waylay,5,13,0.3846,True,rotation
-Bilibili Gaming,brimstone,4,13,0.3077,True,rotation
-Bilibili Gaming,cypher,4,13,0.3077,True,rotation
-Bilibili Gaming,omen,4,13,0.3077,True,rotation
-Bilibili Gaming,fade,3,13,0.2308,True,rotation
-Bilibili Gaming,phoenix,3,13,0.2308,True,rotation
-Bilibili Gaming,raze,3,13,0.2308,True,rotation
-Bilibili Gaming,skye,2,13,0.1538,True,rare
-Bilibili Gaming,sova,2,13,0.1538,True,rare
-Bilibili Gaming,chamber,1,13,0.0769,True,rare
-Bilibili Gaming,jett,1,13,0.0769,True,rare
-Bilibili Gaming,kayo,1,13,0.0769,True,rare
-Cloud9,neon,5,5,1.0,True,signature
-Cloud9,omen,3,5,0.6,True,core
-Cloud9,skye,3,5,0.6,True,core
-Cloud9,viper,3,5,0.6,True,core
-Cloud9,astra,2,5,0.4,True,rotation
-Cloud9,killjoy,2,5,0.4,True,rotation
-Cloud9,sova,2,5,0.4,True,rotation
-Cloud9,tejo,2,5,0.4,True,rotation
-Cloud9,vyse,2,5,0.4,True,rotation
-Cloud9,chamber,1,5,0.2,True,rare
-DetonatioN FocusMe,neon,7,10,0.7,True,signature
-DetonatioN FocusMe,waylay,5,10,0.5,True,core
-DetonatioN FocusMe,omen,4,10,0.4,True,rotation
-DetonatioN FocusMe,tejo,4,10,0.4,True,rotation
-DetonatioN FocusMe,astra,3,10,0.3,True,rotation
-DetonatioN FocusMe,brimstone,3,10,0.3,True,rotation
-DetonatioN FocusMe,fade,3,10,0.3,True,rotation
-DetonatioN FocusMe,killjoy,3,10,0.3,True,rotation
-DetonatioN FocusMe,skye,3,10,0.3,True,rotation
-DetonatioN FocusMe,sova,3,10,0.3,True,rotation
-DetonatioN FocusMe,viper,3,10,0.3,True,rotation
-DetonatioN FocusMe,cypher,2,10,0.2,True,rare
-DetonatioN FocusMe,raze,2,10,0.2,True,rare
-DetonatioN FocusMe,vyse,2,10,0.2,True,rare
-DetonatioN FocusMe,breach,1,10,0.1,True,rare
-DetonatioN FocusMe,iso,1,10,0.1,True,rare
-DetonatioN FocusMe,jett,1,10,0.1,True,rare
-Dragon Ranger Gaming,neon,15,15,1.0,True,signature
-Dragon Ranger Gaming,skye,15,15,1.0,True,signature
-Dragon Ranger Gaming,waylay,15,15,1.0,True,signature
-Dragon Ranger Gaming,omen,10,15,0.6667,True,signature
-Dragon Ranger Gaming,cypher,7,15,0.4667,True,core
-Dragon Ranger Gaming,astra,6,15,0.4,True,rotation
-Dragon Ranger Gaming,brimstone,2,15,0.1333,True,rare
-Dragon Ranger Gaming,miks,2,15,0.1333,True,rare
-Dragon Ranger Gaming,viper,2,15,0.1333,True,rare
-Dragon Ranger Gaming,vyse,1,15,0.0667,True,rare
-EDward Gaming,omen,9,15,0.6,True,core
-EDward Gaming,cypher,8,15,0.5333,True,core
-EDward Gaming,neon,8,15,0.5333,True,core
-EDward Gaming,waylay,7,15,0.4667,True,core
-EDward Gaming,fade,6,15,0.4,True,rotation
-EDward Gaming,phoenix,6,15,0.4,True,rotation
-EDward Gaming,skye,5,15,0.3333,True,rotation
-EDward Gaming,viper,5,15,0.3333,True,rotation
-EDward Gaming,brimstone,4,15,0.2667,True,rotation
-EDward Gaming,raze,4,15,0.2667,True,rotation
-EDward Gaming,kayo,3,15,0.2,True,rare
-EDward Gaming,sova,3,15,0.2,True,rare
-EDward Gaming,chamber,2,15,0.1333,True,rare
-EDward Gaming,harbor,2,15,0.1333,True,rare
-EDward Gaming,jett,2,15,0.1333,True,rare
-EDward Gaming,gekko,1,15,0.0667,True,rare
-ENVY,neon,6,8,0.75,True,signature
-ENVY,sova,4,8,0.5,True,core
-ENVY,viper,4,8,0.5,True,core
-ENVY,astra,3,8,0.375,True,rotation
-ENVY,chamber,3,8,0.375,True,rotation
-ENVY,skye,3,8,0.375,True,rotation
-ENVY,veto,3,8,0.375,True,rotation
-ENVY,brimstone,2,8,0.25,True,rotation
-ENVY,omen,2,8,0.25,True,rotation
-ENVY,phoenix,2,8,0.25,True,rotation
-ENVY,breach,1,8,0.125,True,rare
-ENVY,fade,1,8,0.125,True,rare
-ENVY,harbor,1,8,0.125,True,rare
-ENVY,iso,1,8,0.125,True,rare
-ENVY,jett,1,8,0.125,True,rare
-ENVY,raze,1,8,0.125,True,rare
-ENVY,tejo,1,8,0.125,True,rare
-ENVY,waylay,1,8,0.125,True,rare
-Eternal Fire,neon,9,10,0.9,True,signature
-Eternal Fire,viper,6,10,0.6,True,core
-Eternal Fire,fade,5,10,0.5,True,core
-Eternal Fire,raze,5,10,0.5,True,core
-Eternal Fire,omen,4,10,0.4,True,rotation
-Eternal Fire,skye,4,10,0.4,True,rotation
-Eternal Fire,astra,3,10,0.3,True,rotation
-Eternal Fire,brimstone,3,10,0.3,True,rotation
-Eternal Fire,cypher,3,10,0.3,True,rotation
-Eternal Fire,jett,1,10,0.1,True,rare
-Eternal Fire,kayo,1,10,0.1,True,rare
-Eternal Fire,phoenix,1,10,0.1,True,rare
-Eternal Fire,sova,1,10,0.1,True,rare
-Eternal Fire,tejo,1,10,0.1,True,rare
-Eternal Fire,veto,1,10,0.1,True,rare
-Eternal Fire,vyse,1,10,0.1,True,rare
-Eternal Fire,waylay,1,10,0.1,True,rare
-Evil Geniuses,neon,5,5,1.0,True,signature
-Evil Geniuses,sova,4,5,0.8,True,signature
-Evil Geniuses,viper,4,5,0.8,True,signature
-Evil Geniuses,killjoy,3,5,0.6,True,core
-Evil Geniuses,omen,3,5,0.6,True,core
-Evil Geniuses,astra,1,5,0.2,True,rare
-Evil Geniuses,fade,1,5,0.2,True,rare
-Evil Geniuses,harbor,1,5,0.2,True,rare
-Evil Geniuses,kayo,1,5,0.2,True,rare
-Evil Geniuses,vyse,1,5,0.2,True,rare
-Evil Geniuses,waylay,1,5,0.2,True,rare
-FNATIC,neon,9,10,0.9,True,signature
-FNATIC,viper,9,10,0.9,True,signature
-FNATIC,skye,4,10,0.4,True,rotation
-FNATIC,sova,4,10,0.4,True,rotation
-FNATIC,harbor,3,10,0.3,True,rotation
-FNATIC,omen,3,10,0.3,True,rotation
-FNATIC,waylay,3,10,0.3,True,rotation
-FNATIC,astra,2,10,0.2,True,rare
-FNATIC,brimstone,2,10,0.2,True,rare
-FNATIC,fade,2,10,0.2,True,rare
-FNATIC,kayo,2,10,0.2,True,rare
-FNATIC,killjoy,2,10,0.2,True,rare
-FNATIC,raze,2,10,0.2,True,rare
-FNATIC,cypher,1,10,0.1,True,rare
-FNATIC,iso,1,10,0.1,True,rare
-FNATIC,phoenix,1,10,0.1,True,rare
-FULL SENSE,cypher,7,9,0.7778,True,signature
-FULL SENSE,neon,6,9,0.6667,True,signature
-FULL SENSE,skye,6,9,0.6667,True,signature
-FULL SENSE,waylay,6,9,0.6667,True,signature
-FULL SENSE,omen,4,9,0.4444,True,core
-FULL SENSE,brimstone,3,9,0.3333,True,rotation
-FULL SENSE,deadlock,3,9,0.3333,True,rotation
-FULL SENSE,fade,3,9,0.3333,True,rotation
-FULL SENSE,phoenix,3,9,0.3333,True,rotation
-FULL SENSE,astra,2,9,0.2222,True,rotation
-FULL SENSE,viper,1,9,0.1111,True,rare
-FULL SENSE,vyse,1,9,0.1111,True,rare
-FURIA,neon,7,7,1.0,True,signature
-FURIA,fade,5,7,0.7143,True,signature
-FURIA,omen,5,7,0.7143,True,signature
-FURIA,viper,4,7,0.5714,True,core
-FURIA,killjoy,3,7,0.4286,True,core
-FURIA,phoenix,3,7,0.4286,True,core
-FURIA,vyse,3,7,0.4286,True,core
-FURIA,astra,2,7,0.2857,True,rotation
-FURIA,sova,2,7,0.2857,True,rotation
-FURIA,cypher,1,7,0.1429,True,rare
-FUT Esports,neon,11,11,1.0,True,signature
-FUT Esports,omen,6,11,0.5455,True,core
-FUT Esports,viper,6,11,0.5455,True,core
-FUT Esports,brimstone,4,11,0.3636,True,rotation
-FUT Esports,raze,4,11,0.3636,True,rotation
-FUT Esports,skye,4,11,0.3636,True,rotation
-FUT Esports,sova,4,11,0.3636,True,rotation
-FUT Esports,cypher,3,11,0.2727,True,rotation
-FUT Esports,waylay,3,11,0.2727,True,rotation
-FUT Esports,fade,2,11,0.1818,True,rare
-FUT Esports,jett,2,11,0.1818,True,rare
-FUT Esports,killjoy,2,11,0.1818,True,rare
-FUT Esports,astra,1,11,0.0909,True,rare
-FUT Esports,breach,1,11,0.0909,True,rare
-FUT Esports,chamber,1,11,0.0909,True,rare
-FUT Esports,phoenix,1,11,0.0909,True,rare
-FunPlus Phoenix,neon,13,13,1.0,True,signature
-FunPlus Phoenix,waylay,13,13,1.0,True,signature
-FunPlus Phoenix,fade,9,13,0.6923,True,signature
-FunPlus Phoenix,viper,7,13,0.5385,True,core
-FunPlus Phoenix,astra,6,13,0.4615,True,core
-FunPlus Phoenix,omen,6,13,0.4615,True,core
-FunPlus Phoenix,killjoy,4,13,0.3077,True,rotation
-FunPlus Phoenix,sage,2,13,0.1538,True,rare
-FunPlus Phoenix,skye,2,13,0.1538,True,rare
-FunPlus Phoenix,tejo,2,13,0.1538,True,rare
-FunPlus Phoenix,brimstone,1,13,0.0769,True,rare
-G2 Esports,vyse,6,7,0.8571,True,signature
-G2 Esports,astra,5,7,0.7143,True,signature
-G2 Esports,fade,5,7,0.7143,True,signature
-G2 Esports,harbor,5,7,0.7143,True,signature
-G2 Esports,neon,5,7,0.7143,True,signature
-G2 Esports,raze,2,7,0.2857,True,rotation
-G2 Esports,sova,2,7,0.2857,True,rotation
-G2 Esports,brimstone,1,7,0.1429,True,rare
-G2 Esports,chamber,1,7,0.1429,True,rare
-G2 Esports,omen,1,7,0.1429,True,rare
-G2 Esports,phoenix,1,7,0.1429,True,rare
-G2 Esports,viper,1,7,0.1429,True,rare
-GIANTX,neon,9,11,0.8182,True,signature
-GIANTX,cypher,6,11,0.5455,True,core
-GIANTX,omen,6,11,0.5455,True,core
-GIANTX,sova,5,11,0.4545,True,core
-GIANTX,viper,5,11,0.4545,True,core
-GIANTX,astra,4,11,0.3636,True,rotation
-GIANTX,phoenix,4,11,0.3636,True,rotation
-GIANTX,skye,4,11,0.3636,True,rotation
-GIANTX,waylay,4,11,0.3636,True,rotation
-GIANTX,fade,3,11,0.2727,True,rotation
-GIANTX,tejo,3,11,0.2727,True,rotation
-GIANTX,brimstone,1,11,0.0909,True,rare
-GIANTX,chamber,1,11,0.0909,True,rare
-Gen.G,neon,9,10,0.9,True,signature
-Gen.G,fade,8,10,0.8,True,signature
-Gen.G,omen,5,10,0.5,True,core
-Gen.G,phoenix,4,10,0.4,True,rotation
-Gen.G,chamber,3,10,0.3,True,rotation
-Gen.G,viper,3,10,0.3,True,rotation
-Gen.G,astra,2,10,0.2,True,rare
-Gen.G,brimstone,2,10,0.2,True,rare
-Gen.G,cypher,2,10,0.2,True,rare
-Gen.G,raze,2,10,0.2,True,rare
-Gen.G,vyse,2,10,0.2,True,rare
-Gen.G,breach,1,10,0.1,True,rare
-Gen.G,harbor,1,10,0.1,True,rare
-Gen.G,jett,1,10,0.1,True,rare
-Gen.G,kayo,1,10,0.1,True,rare
-Gen.G,killjoy,1,10,0.1,True,rare
-Gen.G,sova,1,10,0.1,True,rare
-Gen.G,waylay,1,10,0.1,True,rare
-Gen.G,yoru,1,10,0.1,True,rare
-Gentle Mates,neon,10,10,1.0,True,signature
-Gentle Mates,fade,8,10,0.8,True,signature
-Gentle Mates,cypher,4,10,0.4,True,rotation
-Gentle Mates,omen,4,10,0.4,True,rotation
-Gentle Mates,phoenix,4,10,0.4,True,rotation
-Gentle Mates,viper,4,10,0.4,True,rotation
-Gentle Mates,astra,3,10,0.3,True,rotation
-Gentle Mates,brimstone,3,10,0.3,True,rotation
-Gentle Mates,veto,3,10,0.3,True,rotation
-Gentle Mates,breach,2,10,0.2,True,rare
-Gentle Mates,raze,2,10,0.2,True,rare
-Gentle Mates,skye,1,10,0.1,True,rare
-Gentle Mates,sova,1,10,0.1,True,rare
-Gentle Mates,waylay,1,10,0.1,True,rare
-Global Esports,fade,5,8,0.625,True,core
-Global Esports,omen,5,8,0.625,True,core
-Global Esports,deadlock,4,8,0.5,True,core
-Global Esports,raze,4,8,0.5,True,core
-Global Esports,neon,3,8,0.375,True,rotation
-Global Esports,viper,3,8,0.375,True,rotation
-Global Esports,astra,2,8,0.25,True,rotation
-Global Esports,brimstone,2,8,0.25,True,rotation
-Global Esports,tejo,2,8,0.25,True,rotation
-Global Esports,veto,2,8,0.25,True,rotation
-Global Esports,breach,1,8,0.125,True,rare
-Global Esports,chamber,1,8,0.125,True,rare
-Global Esports,cypher,1,8,0.125,True,rare
-Global Esports,gekko,1,8,0.125,True,rare
-Global Esports,kayo,1,8,0.125,True,rare
-Global Esports,skye,1,8,0.125,True,rare
-Global Esports,vyse,1,8,0.125,True,rare
-Global Esports,waylay,1,8,0.125,True,rare
-JDG Esports,neon,11,14,0.7857,True,signature
-JDG Esports,omen,10,14,0.7143,True,signature
-JDG Esports,cypher,7,14,0.5,True,core
-JDG Esports,waylay,7,14,0.5,True,core
-JDG Esports,brimstone,5,14,0.3571,True,rotation
-JDG Esports,sova,5,14,0.3571,True,rotation
-JDG Esports,fade,4,14,0.2857,True,rotation
-JDG Esports,killjoy,4,14,0.2857,True,rotation
-JDG Esports,skye,4,14,0.2857,True,rotation
-JDG Esports,viper,4,14,0.2857,True,rotation
-JDG Esports,raze,3,14,0.2143,True,rotation
-JDG Esports,astra,1,14,0.0714,True,rare
-JDG Esports,breach,1,14,0.0714,True,rare
-JDG Esports,chamber,1,14,0.0714,True,rare
-JDG Esports,phoenix,1,14,0.0714,True,rare
-JDG Esports,tejo,1,14,0.0714,True,rare
-JDG Esports,vyse,1,14,0.0714,True,rare
-KRÜ Esports,neon,6,6,1.0,True,signature
-KRÜ Esports,omen,6,6,1.0,True,signature
-KRÜ Esports,fade,5,6,0.8333,True,signature
-KRÜ Esports,viper,5,6,0.8333,True,signature
-KRÜ Esports,vyse,4,6,0.6667,True,signature
-KRÜ Esports,chamber,1,6,0.1667,True,rare
-KRÜ Esports,cypher,1,6,0.1667,True,rare
-KRÜ Esports,phoenix,1,6,0.1667,True,rare
-KRÜ Esports,sova,1,6,0.1667,True,rare
-Karmine Corp,fade,10,11,0.9091,True,signature
-Karmine Corp,omen,7,11,0.6364,True,core
-Karmine Corp,neon,5,11,0.4545,True,core
-Karmine Corp,vyse,5,11,0.4545,True,core
-Karmine Corp,astra,4,11,0.3636,True,rotation
-Karmine Corp,cypher,4,11,0.3636,True,rotation
-Karmine Corp,phoenix,4,11,0.3636,True,rotation
-Karmine Corp,waylay,4,11,0.3636,True,rotation
-Karmine Corp,jett,2,11,0.1818,True,rare
-Karmine Corp,kayo,2,11,0.1818,True,rare
-Karmine Corp,tejo,2,11,0.1818,True,rare
-Karmine Corp,brimstone,1,11,0.0909,True,rare
-Karmine Corp,gekko,1,11,0.0909,True,rare
-Karmine Corp,raze,1,11,0.0909,True,rare
-Karmine Corp,skye,1,11,0.0909,True,rare
-Karmine Corp,veto,1,11,0.0909,True,rare
-Karmine Corp,viper,1,11,0.0909,True,rare
-Kiwoom DRX,neon,8,10,0.8,True,signature
-Kiwoom DRX,chamber,6,10,0.6,True,core
-Kiwoom DRX,omen,5,10,0.5,True,core
-Kiwoom DRX,cypher,4,10,0.4,True,rotation
-Kiwoom DRX,breach,3,10,0.3,True,rotation
-Kiwoom DRX,brimstone,3,10,0.3,True,rotation
-Kiwoom DRX,fade,3,10,0.3,True,rotation
-Kiwoom DRX,phoenix,3,10,0.3,True,rotation
-Kiwoom DRX,raze,3,10,0.3,True,rotation
-Kiwoom DRX,skye,3,10,0.3,True,rotation
-Kiwoom DRX,astra,2,10,0.2,True,rare
-Kiwoom DRX,jett,2,10,0.2,True,rare
-Kiwoom DRX,tejo,2,10,0.2,True,rare
-Kiwoom DRX,waylay,2,10,0.2,True,rare
-Kiwoom DRX,sova,1,10,0.1,True,rare
-LEVIATÁN,neon,7,7,1.0,True,signature
-LEVIATÁN,phoenix,5,7,0.7143,True,signature
-LEVIATÁN,viper,4,7,0.5714,True,core
-LEVIATÁN,brimstone,3,7,0.4286,True,core
-LEVIATÁN,chamber,3,7,0.4286,True,core
-LEVIATÁN,sova,3,7,0.4286,True,core
-LEVIATÁN,astra,2,7,0.2857,True,rotation
-LEVIATÁN,omen,2,7,0.2857,True,rotation
-LEVIATÁN,skye,2,7,0.2857,True,rotation
-LEVIATÁN,breach,1,7,0.1429,True,rare
-LEVIATÁN,fade,1,7,0.1429,True,rare
-LEVIATÁN,tejo,1,7,0.1429,True,rare
-LEVIATÁN,waylay,1,7,0.1429,True,rare
-LOUD,neon,5,7,0.7143,True,signature
-LOUD,sova,5,7,0.7143,True,signature
-LOUD,omen,4,7,0.5714,True,core
-LOUD,viper,4,7,0.5714,True,core
-LOUD,astra,3,7,0.4286,True,core
-LOUD,kayo,3,7,0.4286,True,core
-LOUD,vyse,3,7,0.4286,True,core
-LOUD,chamber,2,7,0.2857,True,rotation
-LOUD,cypher,1,7,0.1429,True,rare
-LOUD,fade,1,7,0.1429,True,rare
-LOUD,harbor,1,7,0.1429,True,rare
-LOUD,jett,1,7,0.1429,True,rare
-LOUD,raze,1,7,0.1429,True,rare
-LOUD,skye,1,7,0.1429,True,rare
-MIBR,fade,4,4,1.0,True,signature
-MIBR,vyse,4,4,1.0,True,signature
-MIBR,neon,3,4,0.75,True,signature
-MIBR,raze,3,4,0.75,True,signature
-MIBR,astra,2,4,0.5,True,core
-MIBR,omen,2,4,0.5,True,core
-MIBR,jett,1,4,0.25,True,rotation
-MIBR,phoenix,1,4,0.25,True,rotation
-NRG,neon,3,5,0.6,True,core
-NRG,omen,3,5,0.6,True,core
-NRG,viper,3,5,0.6,True,core
-NRG,astra,2,5,0.4,True,rotation
-NRG,fade,2,5,0.4,True,rotation
-NRG,killjoy,2,5,0.4,True,rotation
-NRG,sova,2,5,0.4,True,rotation
-NRG,tejo,2,5,0.4,True,rotation
-NRG,vyse,2,5,0.4,True,rotation
-NRG,deadlock,1,5,0.2,True,rare
-NRG,raze,1,5,0.2,True,rare
-NRG,skye,1,5,0.2,True,rare
-NRG,waylay,1,5,0.2,True,rare
-Natus Vincere,neon,10,11,0.9091,True,signature
-Natus Vincere,viper,9,11,0.8182,True,signature
-Natus Vincere,chamber,7,11,0.6364,True,core
-Natus Vincere,fade,6,11,0.5455,True,core
-Natus Vincere,omen,6,11,0.5455,True,core
-Natus Vincere,brimstone,3,11,0.2727,True,rotation
-Natus Vincere,skye,3,11,0.2727,True,rotation
-Natus Vincere,vyse,3,11,0.2727,True,rotation
-Natus Vincere,astra,2,11,0.1818,True,rare
-Natus Vincere,sova,2,11,0.1818,True,rare
-Natus Vincere,tejo,2,11,0.1818,True,rare
-Natus Vincere,raze,1,11,0.0909,True,rare
-Natus Vincere,waylay,1,11,0.0909,True,rare
-Nongshim RedForce,neon,8,8,1.0,True,signature
-Nongshim RedForce,breach,4,8,0.5,True,core
-Nongshim RedForce,fade,4,8,0.5,True,core
-Nongshim RedForce,omen,4,8,0.5,True,core
-Nongshim RedForce,viper,3,8,0.375,True,rotation
-Nongshim RedForce,brimstone,2,8,0.25,True,rotation
-Nongshim RedForce,cypher,2,8,0.25,True,rotation
-Nongshim RedForce,phoenix,2,8,0.25,True,rotation
-Nongshim RedForce,sova,2,8,0.25,True,rotation
-Nongshim RedForce,tejo,2,8,0.25,True,rotation
-Nongshim RedForce,waylay,2,8,0.25,True,rotation
-Nongshim RedForce,astra,1,8,0.125,True,rare
-Nongshim RedForce,chamber,1,8,0.125,True,rare
-Nongshim RedForce,harbor,1,8,0.125,True,rare
-Nongshim RedForce,killjoy,1,8,0.125,True,rare
-Nongshim RedForce,vyse,1,8,0.125,True,rare
-Nova Esports,neon,9,10,0.9,True,signature
-Nova Esports,viper,8,10,0.8,True,signature
-Nova Esports,omen,7,10,0.7,True,signature
-Nova Esports,sova,4,10,0.4,True,rotation
-Nova Esports,brimstone,3,10,0.3,True,rotation
-Nova Esports,cypher,3,10,0.3,True,rotation
-Nova Esports,fade,3,10,0.3,True,rotation
-Nova Esports,chamber,2,10,0.2,True,rare
-Nova Esports,jett,2,10,0.2,True,rare
-Nova Esports,killjoy,2,10,0.2,True,rare
-Nova Esports,skye,2,10,0.2,True,rare
-Nova Esports,breach,1,10,0.1,True,rare
-Nova Esports,raze,1,10,0.1,True,rare
-Nova Esports,tejo,1,10,0.1,True,rare
-Nova Esports,vyse,1,10,0.1,True,rare
-Nova Esports,waylay,1,10,0.1,True,rare
-PCIFIC Esports,neon,8,10,0.8,True,signature
-PCIFIC Esports,fade,7,10,0.7,True,signature
-PCIFIC Esports,astra,6,10,0.6,True,core
-PCIFIC Esports,viper,6,10,0.6,True,core
-PCIFIC Esports,raze,5,10,0.5,True,core
-PCIFIC Esports,omen,4,10,0.4,True,rotation
-PCIFIC Esports,veto,3,10,0.3,True,rotation
-PCIFIC Esports,sova,2,10,0.2,True,rare
-PCIFIC Esports,chamber,1,10,0.1,True,rare
-PCIFIC Esports,deadlock,1,10,0.1,True,rare
-PCIFIC Esports,jett,1,10,0.1,True,rare
-PCIFIC Esports,kayo,1,10,0.1,True,rare
-PCIFIC Esports,sage,1,10,0.1,True,rare
-PCIFIC Esports,skye,1,10,0.1,True,rare
-PCIFIC Esports,tejo,1,10,0.1,True,rare
-PCIFIC Esports,vyse,1,10,0.1,True,rare
-PCIFIC Esports,waylay,1,10,0.1,True,rare
-Paper Rex,omen,7,10,0.7,True,signature
-Paper Rex,raze,7,10,0.7,True,signature
-Paper Rex,neon,6,10,0.6,True,core
-Paper Rex,jett,5,10,0.5,True,core
-Paper Rex,viper,4,10,0.4,True,rotation
-Paper Rex,fade,3,10,0.3,True,rotation
-Paper Rex,skye,3,10,0.3,True,rotation
-Paper Rex,vyse,3,10,0.3,True,rotation
-Paper Rex,breach,2,10,0.2,True,rare
-Paper Rex,brimstone,2,10,0.2,True,rare
-Paper Rex,killjoy,2,10,0.2,True,rare
-Paper Rex,phoenix,2,10,0.2,True,rare
-Paper Rex,sova,2,10,0.2,True,rare
-Paper Rex,astra,1,10,0.1,True,rare
-Paper Rex,chamber,1,10,0.1,True,rare
-Rex Regum Qeon,neon,10,10,1.0,True,signature
-Rex Regum Qeon,skye,6,10,0.6,True,core
-Rex Regum Qeon,viper,5,10,0.5,True,core
-Rex Regum Qeon,brimstone,4,10,0.4,True,rotation
-Rex Regum Qeon,omen,4,10,0.4,True,rotation
-Rex Regum Qeon,sova,4,10,0.4,True,rotation
-Rex Regum Qeon,waylay,4,10,0.4,True,rotation
-Rex Regum Qeon,astra,2,10,0.2,True,rare
-Rex Regum Qeon,chamber,2,10,0.2,True,rare
-Rex Regum Qeon,kayo,2,10,0.2,True,rare
-Rex Regum Qeon,raze,2,10,0.2,True,rare
-Rex Regum Qeon,veto,2,10,0.2,True,rare
-Rex Regum Qeon,cypher,1,10,0.1,True,rare
-Rex Regum Qeon,jett,1,10,0.1,True,rare
-Rex Regum Qeon,killjoy,1,10,0.1,True,rare
-Sentinels,viper,4,4,1.0,True,signature
-Sentinels,neon,3,4,0.75,True,signature
-Sentinels,omen,3,4,0.75,True,signature
-Sentinels,sova,2,4,0.5,True,core
-Sentinels,fade,1,4,0.25,True,rotation
-Sentinels,harbor,1,4,0.25,True,rotation
-Sentinels,iso,1,4,0.25,True,rotation
-Sentinels,killjoy,1,4,0.25,True,rotation
-Sentinels,raze,1,4,0.25,True,rotation
-Sentinels,sage,1,4,0.25,True,rotation
-Sentinels,skye,1,4,0.25,True,rotation
-Sentinels,veto,1,4,0.25,True,rotation
-T1,neon,6,6,1.0,True,signature
-T1,chamber,5,6,0.8333,True,signature
-T1,skye,5,6,0.8333,True,signature
-T1,astra,4,6,0.6667,True,signature
-T1,killjoy,4,6,0.6667,True,signature
-T1,viper,2,6,0.3333,True,rotation
-T1,brimstone,1,6,0.1667,True,rare
-T1,fade,1,6,0.1667,True,rare
-T1,omen,1,6,0.1667,True,rare
-T1,phoenix,1,6,0.1667,True,rare
-TYLOO,neon,12,15,0.8,True,signature
-TYLOO,viper,11,15,0.7333,True,signature
-TYLOO,waylay,7,15,0.4667,True,core
-TYLOO,skye,6,15,0.4,True,rotation
-TYLOO,sova,6,15,0.4,True,rotation
-TYLOO,astra,5,15,0.3333,True,rotation
-TYLOO,brimstone,5,15,0.3333,True,rotation
-TYLOO,omen,5,15,0.3333,True,rotation
-TYLOO,cypher,3,15,0.2,True,rare
-TYLOO,jett,3,15,0.2,True,rare
-TYLOO,kayo,3,15,0.2,True,rare
-TYLOO,phoenix,3,15,0.2,True,rare
-TYLOO,fade,2,15,0.1333,True,rare
-TYLOO,killjoy,2,15,0.1333,True,rare
-TYLOO,chamber,1,15,0.0667,True,rare
-TYLOO,tejo,1,15,0.0667,True,rare
-Team Heretics,neon,10,10,1.0,True,signature
-Team Heretics,chamber,5,10,0.5,True,core
-Team Heretics,skye,5,10,0.5,True,core
-Team Heretics,astra,4,10,0.4,True,rotation
-Team Heretics,fade,4,10,0.4,True,rotation
-Team Heretics,omen,4,10,0.4,True,rotation
-Team Heretics,raze,4,10,0.4,True,rotation
-Team Heretics,cypher,3,10,0.3,True,rotation
-Team Heretics,harbor,3,10,0.3,True,rotation
-Team Heretics,brimstone,2,10,0.2,True,rare
-Team Heretics,viper,2,10,0.2,True,rare
-Team Heretics,vyse,2,10,0.2,True,rare
-Team Heretics,phoenix,1,10,0.1,True,rare
-Team Heretics,sova,1,10,0.1,True,rare
-Team Liquid,neon,9,9,1.0,True,signature
-Team Liquid,phoenix,6,9,0.6667,True,signature
-Team Liquid,fade,4,9,0.4444,True,core
-Team Liquid,killjoy,4,9,0.4444,True,core
-Team Liquid,omen,4,9,0.4444,True,core
-Team Liquid,skye,4,9,0.4444,True,core
-Team Liquid,viper,4,9,0.4444,True,core
-Team Liquid,astra,3,9,0.3333,True,rotation
-Team Liquid,brimstone,2,9,0.2222,True,rotation
-Team Liquid,raze,2,9,0.2222,True,rotation
-Team Liquid,cypher,1,9,0.1111,True,rare
-Team Liquid,kayo,1,9,0.1111,True,rare
-Team Liquid,sova,1,9,0.1111,True,rare
-Team Secret,neon,5,6,0.8333,True,signature
-Team Secret,skye,4,6,0.6667,True,signature
-Team Secret,viper,4,6,0.6667,True,signature
-Team Secret,astra,3,6,0.5,True,core
-Team Secret,cypher,3,6,0.5,True,core
-Team Secret,omen,2,6,0.3333,True,rotation
-Team Secret,brimstone,1,6,0.1667,True,rare
-Team Secret,chamber,1,6,0.1667,True,rare
-Team Secret,fade,1,6,0.1667,True,rare
-Team Secret,jett,1,6,0.1667,True,rare
-Team Secret,kayo,1,6,0.1667,True,rare
-Team Secret,killjoy,1,6,0.1667,True,rare
-Team Secret,sova,1,6,0.1667,True,rare
-Team Secret,tejo,1,6,0.1667,True,rare
-Team Secret,vyse,1,6,0.1667,True,rare
-Team Vitality,viper,8,9,0.8889,True,signature
-Team Vitality,neon,7,9,0.7778,True,signature
-Team Vitality,omen,5,9,0.5556,True,core
-Team Vitality,sova,5,9,0.5556,True,core
-Team Vitality,fade,4,9,0.4444,True,core
-Team Vitality,kayo,3,9,0.3333,True,rotation
-Team Vitality,killjoy,3,9,0.3333,True,rotation
-Team Vitality,harbor,2,9,0.2222,True,rotation
-Team Vitality,jett,2,9,0.2222,True,rotation
-Team Vitality,astra,1,9,0.1111,True,rare
-Team Vitality,brimstone,1,9,0.1111,True,rare
-Team Vitality,chamber,1,9,0.1111,True,rare
-Team Vitality,phoenix,1,9,0.1111,True,rare
-Team Vitality,raze,1,9,0.1111,True,rare
-Team Vitality,vyse,1,9,0.1111,True,rare
-Titan Esports Club,neon,14,14,1.0,True,signature
-Titan Esports Club,waylay,14,14,1.0,True,signature
-Titan Esports Club,skye,9,14,0.6429,True,core
-Titan Esports Club,viper,8,14,0.5714,True,core
-Titan Esports Club,brimstone,6,14,0.4286,True,core
-Titan Esports Club,cypher,6,14,0.4286,True,core
-Titan Esports Club,omen,5,14,0.3571,True,rotation
-Titan Esports Club,sova,4,14,0.2857,True,rotation
-Titan Esports Club,astra,2,14,0.1429,True,rare
-Titan Esports Club,fade,1,14,0.0714,True,rare
-Titan Esports Club,harbor,1,14,0.0714,True,rare
-Trace Esports,viper,13,15,0.8667,True,signature
-Trace Esports,omen,11,15,0.7333,True,signature
-Trace Esports,neon,8,15,0.5333,True,core
-Trace Esports,waylay,7,15,0.4667,True,core
-Trace Esports,fade,5,15,0.3333,True,rotation
-Trace Esports,skye,5,15,0.3333,True,rotation
-Trace Esports,brimstone,4,15,0.2667,True,rotation
-Trace Esports,sova,4,15,0.2667,True,rotation
-Trace Esports,jett,3,15,0.2,True,rare
-Trace Esports,phoenix,3,15,0.2,True,rare
-Trace Esports,raze,3,15,0.2,True,rare
-Trace Esports,veto,3,15,0.2,True,rare
-Trace Esports,killjoy,2,15,0.1333,True,rare
-Trace Esports,breach,1,15,0.0667,True,rare
-Trace Esports,cypher,1,15,0.0667,True,rare
-Trace Esports,tejo,1,15,0.0667,True,rare
-Trace Esports,vyse,1,15,0.0667,True,rare
-VARREL,neon,5,9,0.5556,True,core
-VARREL,astra,4,9,0.4444,True,core
-VARREL,omen,4,9,0.4444,True,core
-VARREL,cypher,3,9,0.3333,True,rotation
-VARREL,fade,3,9,0.3333,True,rotation
-VARREL,jett,3,9,0.3333,True,rotation
-VARREL,raze,3,9,0.3333,True,rotation
-VARREL,skye,3,9,0.3333,True,rotation
-VARREL,waylay,3,9,0.3333,True,rotation
-VARREL,chamber,2,9,0.2222,True,rotation
-VARREL,deadlock,2,9,0.2222,True,rotation
-VARREL,sova,2,9,0.2222,True,rotation
-VARREL,viper,2,9,0.2222,True,rotation
-VARREL,breach,1,9,0.1111,True,rare
-VARREL,brimstone,1,9,0.1111,True,rare
-VARREL,kayo,1,9,0.1111,True,rare
-VARREL,killjoy,1,9,0.1111,True,rare
-VARREL,phoenix,1,9,0.1111,True,rare
-VARREL,tejo,1,9,0.1111,True,rare
-Wolves Esports,waylay,9,12,0.75,True,signature
-Wolves Esports,viper,7,12,0.5833,True,core
-Wolves Esports,brimstone,5,12,0.4167,True,core
-Wolves Esports,fade,5,12,0.4167,True,core
-Wolves Esports,killjoy,5,12,0.4167,True,core
-Wolves Esports,omen,5,12,0.4167,True,core
-Wolves Esports,tejo,4,12,0.3333,True,rotation
-Wolves Esports,cypher,3,12,0.25,True,rotation
-Wolves Esports,neon,3,12,0.25,True,rotation
-Wolves Esports,skye,3,12,0.25,True,rotation
-Wolves Esports,astra,2,12,0.1667,True,rare
-Wolves Esports,breach,2,12,0.1667,True,rare
-Wolves Esports,raze,2,12,0.1667,True,rare
-Wolves Esports,sova,2,12,0.1667,True,rare
-Wolves Esports,jett,1,12,0.0833,True,rare
-Wolves Esports,kayo,1,12,0.0833,True,rare
-Wolves Esports,vyse,1,12,0.0833,True,rare
-Xi Lai Gaming,neon,16,16,1.0,True,signature
-Xi Lai Gaming,viper,15,16,0.9375,True,signature
-Xi Lai Gaming,skye,13,16,0.8125,True,signature
-Xi Lai Gaming,waylay,12,16,0.75,True,signature
-Xi Lai Gaming,omen,9,16,0.5625,True,core
-Xi Lai Gaming,brimstone,6,16,0.375,True,rotation
-Xi Lai Gaming,sova,3,16,0.1875,True,rare
-Xi Lai Gaming,killjoy,2,16,0.125,True,rare
-Xi Lai Gaming,chamber,1,16,0.0625,True,rare
-Xi Lai Gaming,sage,1,16,0.0625,True,rare
-Xi Lai Gaming,tejo,1,16,0.0625,True,rare
-Xi Lai Gaming,veto,1,16,0.0625,True,rare
-ZETA DIVISION,neon,8,8,1.0,True,signature
-ZETA DIVISION,waylay,7,8,0.875,True,signature
-ZETA DIVISION,omen,4,8,0.5,True,core
-ZETA DIVISION,viper,4,8,0.5,True,core
-ZETA DIVISION,brimstone,3,8,0.375,True,rotation
-ZETA DIVISION,skye,3,8,0.375,True,rotation
-ZETA DIVISION,breach,2,8,0.25,True,rotation
-ZETA DIVISION,cypher,2,8,0.25,True,rotation
-ZETA DIVISION,fade,2,8,0.25,True,rotation
-ZETA DIVISION,veto,2,8,0.25,True,rotation
-ZETA DIVISION,astra,1,8,0.125,True,rare
-ZETA DIVISION,phoenix,1,8,0.125,True,rare
-ZETA DIVISION,sova,1,8,0.125,True,rare
+100 Thieves,neon,45,80,0.5625,True,core
+100 Thieves,omen,45,80,0.5625,True,core
+100 Thieves,phoenix,40,80,0.5,True,core
+100 Thieves,cypher,35,80,0.4375,True,core
+100 Thieves,fade,31,80,0.3875,True,rotation
+100 Thieves,sova,31,80,0.3875,True,rotation
+100 Thieves,viper,26,80,0.325,True,rotation
+100 Thieves,chamber,24,80,0.3,True,rotation
+100 Thieves,harbor,18,80,0.225,True,rotation
+100 Thieves,waylay,18,80,0.225,True,rotation
+100 Thieves,skye,16,80,0.2,True,rare
+100 Thieves,sage,15,80,0.1875,True,rare
+100 Thieves,jett,13,80,0.1625,True,rare
+100 Thieves,astra,10,80,0.125,True,rare
+100 Thieves,kayo,9,80,0.1125,True,rare
+100 Thieves,brimstone,7,80,0.0875,True,rare
+100 Thieves,raze,7,80,0.0875,True,rare
+100 Thieves,veto,7,80,0.0875,True,rare
+100 Thieves,tejo,2,80,0.025,True,rare
+100 Thieves,vyse,1,80,0.0125,True,rare
+2Game Esports,omen,5,5,1.0,True,signature
+2Game Esports,neon,3,5,0.6,True,core
+2Game Esports,phoenix,3,5,0.6,True,core
+2Game Esports,sova,3,5,0.6,True,core
+2Game Esports,viper,3,5,0.6,True,core
+2Game Esports,cypher,2,5,0.4,True,rotation
+2Game Esports,jett,2,5,0.4,True,rotation
+2Game Esports,fade,1,5,0.2,True,rare
+2Game Esports,killjoy,1,5,0.2,True,rare
+2Game Esports,raze,1,5,0.2,True,rare
+2Game Esports,skye,1,5,0.2,True,rare
+A Team,omen,5,5,1.0,True,signature
+A Team,neon,4,5,0.8,True,signature
+A Team,cypher,3,5,0.6,True,core
+A Team,fade,3,5,0.6,True,core
+A Team,sage,2,5,0.4,True,rotation
+A Team,sova,2,5,0.4,True,rotation
+A Team,waylay,2,5,0.4,True,rotation
+A Team,chamber,1,5,0.2,True,rare
+A Team,phoenix,1,5,0.2,True,rare
+A Team,viper,1,5,0.2,True,rare
+A Team,vyse,1,5,0.2,True,rare
+All Gamers,omen,53,74,0.7162,True,signature
+All Gamers,neon,43,74,0.5811,True,core
+All Gamers,waylay,35,74,0.473,True,core
+All Gamers,viper,33,74,0.4459,True,core
+All Gamers,fade,28,74,0.3784,True,rotation
+All Gamers,skye,27,74,0.3649,True,rotation
+All Gamers,cypher,25,74,0.3378,True,rotation
+All Gamers,raze,25,74,0.3378,True,rotation
+All Gamers,sova,19,74,0.2568,True,rotation
+All Gamers,astra,12,74,0.1622,True,rare
+All Gamers,yoru,12,74,0.1622,True,rare
+All Gamers,jett,11,74,0.1486,True,rare
+All Gamers,phoenix,11,74,0.1486,True,rare
+All Gamers,brimstone,9,74,0.1216,True,rare
+All Gamers,chamber,9,74,0.1216,True,rare
+All Gamers,kayo,6,74,0.0811,True,rare
+All Gamers,killjoy,5,74,0.0676,True,rare
+All Gamers,veto,3,74,0.0405,True,rare
+All Gamers,vyse,2,74,0.027,True,rare
+All Gamers,gekko,1,74,0.0135,True,rare
+All Gamers,harbor,1,74,0.0135,True,rare
+BBL Esports,omen,39,52,0.75,True,signature
+BBL Esports,sova,39,52,0.75,True,signature
+BBL Esports,cypher,38,52,0.7308,True,signature
+BBL Esports,yoru,33,52,0.6346,True,core
+BBL Esports,neon,22,52,0.4231,True,core
+BBL Esports,waylay,14,52,0.2692,True,rotation
+BBL Esports,jett,13,52,0.25,True,rotation
+BBL Esports,viper,13,52,0.25,True,rotation
+BBL Esports,fade,10,52,0.1923,True,rare
+BBL Esports,raze,10,52,0.1923,True,rare
+BBL Esports,astra,8,52,0.1538,True,rare
+BBL Esports,deadlock,6,52,0.1154,True,rare
+BBL Esports,vyse,5,52,0.0962,True,rare
+BBL Esports,breach,3,52,0.0577,True,rare
+BBL Esports,phoenix,2,52,0.0385,True,rare
+BBL Esports,skye,2,52,0.0385,True,rare
+BBL Esports,brimstone,1,52,0.0192,True,rare
+BBL Esports,kayo,1,52,0.0192,True,rare
+BBL Esports,tejo,1,52,0.0192,True,rare
+BESTIA,cypher,6,7,0.8571,True,signature
+BESTIA,neon,5,7,0.7143,True,signature
+BESTIA,omen,4,7,0.5714,True,core
+BESTIA,sova,4,7,0.5714,True,core
+BESTIA,fade,3,7,0.4286,True,core
+BESTIA,harbor,3,7,0.4286,True,core
+BESTIA,jett,3,7,0.4286,True,core
+BESTIA,waylay,2,7,0.2857,True,rotation
+BESTIA,chamber,1,7,0.1429,True,rare
+BESTIA,raze,1,7,0.1429,True,rare
+BESTIA,sage,1,7,0.1429,True,rare
+BESTIA,viper,1,7,0.1429,True,rare
+BESTIA,yoru,1,7,0.1429,True,rare
+Bilibili Gaming,omen,41,59,0.6949,True,signature
+Bilibili Gaming,neon,29,59,0.4915,True,core
+Bilibili Gaming,waylay,27,59,0.4576,True,core
+Bilibili Gaming,fade,25,59,0.4237,True,core
+Bilibili Gaming,cypher,22,59,0.3729,True,rotation
+Bilibili Gaming,viper,22,59,0.3729,True,rotation
+Bilibili Gaming,astra,18,59,0.3051,True,rotation
+Bilibili Gaming,raze,17,59,0.2881,True,rotation
+Bilibili Gaming,tejo,15,59,0.2542,True,rotation
+Bilibili Gaming,sova,13,59,0.2203,True,rotation
+Bilibili Gaming,breach,12,59,0.2034,True,rotation
+Bilibili Gaming,yoru,10,59,0.1695,True,rare
+Bilibili Gaming,skye,9,59,0.1525,True,rare
+Bilibili Gaming,killjoy,8,59,0.1356,True,rare
+Bilibili Gaming,phoenix,7,59,0.1186,True,rare
+Bilibili Gaming,brimstone,6,59,0.1017,True,rare
+Bilibili Gaming,kayo,5,59,0.0847,True,rare
+Bilibili Gaming,chamber,4,59,0.0678,True,rare
+Bilibili Gaming,gekko,3,59,0.0508,True,rare
+Bilibili Gaming,deadlock,1,59,0.0169,True,rare
+Bilibili Gaming,jett,1,59,0.0169,True,rare
+Cloud9,viper,33,48,0.6875,True,signature
+Cloud9,neon,32,48,0.6667,True,signature
+Cloud9,omen,25,48,0.5208,True,core
+Cloud9,sova,19,48,0.3958,True,rotation
+Cloud9,cypher,13,48,0.2708,True,rotation
+Cloud9,fade,12,48,0.25,True,rotation
+Cloud9,raze,12,48,0.25,True,rotation
+Cloud9,skye,12,48,0.25,True,rotation
+Cloud9,astra,11,48,0.2292,True,rotation
+Cloud9,chamber,11,48,0.2292,True,rotation
+Cloud9,harbor,9,48,0.1875,True,rare
+Cloud9,vyse,9,48,0.1875,True,rare
+Cloud9,kayo,7,48,0.1458,True,rare
+Cloud9,tejo,7,48,0.1458,True,rare
+Cloud9,jett,4,48,0.0833,True,rare
+Cloud9,waylay,4,48,0.0833,True,rare
+Cloud9,breach,3,48,0.0625,True,rare
+Cloud9,killjoy,3,48,0.0625,True,rare
+Cloud9,sage,3,48,0.0625,True,rare
+Cloud9,yoru,3,48,0.0625,True,rare
+Cloud9,brimstone,2,48,0.0417,True,rare
+Cloud9,iso,2,48,0.0417,True,rare
+Cloud9,veto,2,48,0.0417,True,rare
+Cloud9,deadlock,1,48,0.0208,True,rare
+Cloud9,phoenix,1,48,0.0208,True,rare
+DetonatioN FocusMe,omen,34,54,0.6296,True,core
+DetonatioN FocusMe,neon,32,54,0.5926,True,core
+DetonatioN FocusMe,fade,21,54,0.3889,True,rotation
+DetonatioN FocusMe,sova,21,54,0.3889,True,rotation
+DetonatioN FocusMe,cypher,18,54,0.3333,True,rotation
+DetonatioN FocusMe,jett,18,54,0.3333,True,rotation
+DetonatioN FocusMe,viper,18,54,0.3333,True,rotation
+DetonatioN FocusMe,yoru,18,54,0.3333,True,rotation
+DetonatioN FocusMe,raze,13,54,0.2407,True,rotation
+DetonatioN FocusMe,astra,12,54,0.2222,True,rotation
+DetonatioN FocusMe,skye,10,54,0.1852,True,rare
+DetonatioN FocusMe,phoenix,9,54,0.1667,True,rare
+DetonatioN FocusMe,waylay,9,54,0.1667,True,rare
+DetonatioN FocusMe,killjoy,7,54,0.1296,True,rare
+DetonatioN FocusMe,vyse,6,54,0.1111,True,rare
+DetonatioN FocusMe,brimstone,5,54,0.0926,True,rare
+DetonatioN FocusMe,tejo,5,54,0.0926,True,rare
+DetonatioN FocusMe,chamber,4,54,0.0741,True,rare
+DetonatioN FocusMe,breach,3,54,0.0556,True,rare
+DetonatioN FocusMe,harbor,3,54,0.0556,True,rare
+DetonatioN FocusMe,sage,2,54,0.037,True,rare
+DetonatioN FocusMe,iso,1,54,0.0185,True,rare
+DetonatioN FocusMe,veto,1,54,0.0185,True,rare
+Dragon Ranger Gaming,waylay,53,73,0.726,True,signature
+Dragon Ranger Gaming,cypher,52,73,0.7123,True,signature
+Dragon Ranger Gaming,neon,50,73,0.6849,True,signature
+Dragon Ranger Gaming,omen,49,73,0.6712,True,signature
+Dragon Ranger Gaming,skye,42,73,0.5753,True,core
+Dragon Ranger Gaming,astra,18,73,0.2466,True,rotation
+Dragon Ranger Gaming,jett,18,73,0.2466,True,rotation
+Dragon Ranger Gaming,yoru,15,73,0.2055,True,rotation
+Dragon Ranger Gaming,fade,13,73,0.1781,True,rare
+Dragon Ranger Gaming,sova,11,73,0.1507,True,rare
+Dragon Ranger Gaming,viper,9,73,0.1233,True,rare
+Dragon Ranger Gaming,vyse,6,73,0.0822,True,rare
+Dragon Ranger Gaming,harbor,5,73,0.0685,True,rare
+Dragon Ranger Gaming,brimstone,4,73,0.0548,True,rare
+Dragon Ranger Gaming,gekko,4,73,0.0548,True,rare
+Dragon Ranger Gaming,phoenix,4,73,0.0548,True,rare
+Dragon Ranger Gaming,reyna,4,73,0.0548,True,rare
+Dragon Ranger Gaming,tejo,3,73,0.0411,True,rare
+Dragon Ranger Gaming,chamber,2,73,0.0274,True,rare
+Dragon Ranger Gaming,miks,2,73,0.0274,True,rare
+Dragon Ranger Gaming,veto,1,73,0.0137,True,rare
+EDward Gaming,omen,56,89,0.6292,True,core
+EDward Gaming,sova,41,89,0.4607,True,core
+EDward Gaming,neon,40,89,0.4494,True,core
+EDward Gaming,jett,36,89,0.4045,True,core
+EDward Gaming,viper,36,89,0.4045,True,core
+EDward Gaming,cypher,32,89,0.3596,True,rotation
+EDward Gaming,fade,26,89,0.2921,True,rotation
+EDward Gaming,kayo,22,89,0.2472,True,rotation
+EDward Gaming,raze,21,89,0.236,True,rotation
+EDward Gaming,phoenix,20,89,0.2247,True,rotation
+EDward Gaming,skye,20,89,0.2247,True,rotation
+EDward Gaming,yoru,19,89,0.2135,True,rotation
+EDward Gaming,astra,15,89,0.1685,True,rare
+EDward Gaming,harbor,13,89,0.1461,True,rare
+EDward Gaming,waylay,11,89,0.1236,True,rare
+EDward Gaming,brimstone,9,89,0.1011,True,rare
+EDward Gaming,chamber,9,89,0.1011,True,rare
+EDward Gaming,vyse,6,89,0.0674,True,rare
+EDward Gaming,killjoy,4,89,0.0449,True,rare
+EDward Gaming,sage,4,89,0.0449,True,rare
+EDward Gaming,iso,2,89,0.0225,True,rare
+EDward Gaming,breach,1,89,0.0112,True,rare
+EDward Gaming,gekko,1,89,0.0112,True,rare
+EDward Gaming,tejo,1,89,0.0112,True,rare
+ENVY,neon,28,46,0.6087,True,core
+ENVY,sova,27,46,0.587,True,core
+ENVY,omen,25,46,0.5435,True,core
+ENVY,viper,20,46,0.4348,True,core
+ENVY,chamber,18,46,0.3913,True,rotation
+ENVY,yoru,17,46,0.3696,True,rotation
+ENVY,astra,16,46,0.3478,True,rotation
+ENVY,phoenix,16,46,0.3478,True,rotation
+ENVY,fade,12,46,0.2609,True,rotation
+ENVY,jett,7,46,0.1522,True,rare
+ENVY,skye,7,46,0.1522,True,rare
+ENVY,waylay,7,46,0.1522,True,rare
+ENVY,killjoy,4,46,0.087,True,rare
+ENVY,brimstone,3,46,0.0652,True,rare
+ENVY,cypher,3,46,0.0652,True,rare
+ENVY,iso,3,46,0.0652,True,rare
+ENVY,raze,3,46,0.0652,True,rare
+ENVY,sage,3,46,0.0652,True,rare
+ENVY,veto,3,46,0.0652,True,rare
+ENVY,harbor,2,46,0.0435,True,rare
+ENVY,breach,1,46,0.0217,True,rare
+ENVY,clove,1,46,0.0217,True,rare
+ENVY,kayo,1,46,0.0217,True,rare
+ENVY,reyna,1,46,0.0217,True,rare
+ENVY,tejo,1,46,0.0217,True,rare
+ENVY,vyse,1,46,0.0217,True,rare
+Eintracht Frankfurt,vyse,9,12,0.75,True,signature
+Eintracht Frankfurt,fade,7,12,0.5833,True,core
+Eintracht Frankfurt,omen,7,12,0.5833,True,core
+Eintracht Frankfurt,raze,7,12,0.5833,True,core
+Eintracht Frankfurt,astra,5,12,0.4167,True,core
+Eintracht Frankfurt,neon,5,12,0.4167,True,core
+Eintracht Frankfurt,sova,5,12,0.4167,True,core
+Eintracht Frankfurt,viper,4,12,0.3333,True,rotation
+Eintracht Frankfurt,cypher,3,12,0.25,True,rotation
+Eintracht Frankfurt,breach,2,12,0.1667,True,rare
+Eintracht Frankfurt,jett,2,12,0.1667,True,rare
+Eintracht Frankfurt,phoenix,2,12,0.1667,True,rare
+Eintracht Frankfurt,waylay,1,12,0.0833,True,rare
+Eintracht Frankfurt,yoru,1,12,0.0833,True,rare
+Enterprise Esports,neon,12,15,0.8,True,signature
+Enterprise Esports,omen,10,15,0.6667,True,signature
+Enterprise Esports,phoenix,7,15,0.4667,True,core
+Enterprise Esports,sova,7,15,0.4667,True,core
+Enterprise Esports,raze,6,15,0.4,True,rotation
+Enterprise Esports,skye,6,15,0.4,True,rotation
+Enterprise Esports,vyse,6,15,0.4,True,rotation
+Enterprise Esports,cypher,4,15,0.2667,True,rotation
+Enterprise Esports,astra,3,15,0.2,True,rare
+Enterprise Esports,harbor,3,15,0.2,True,rare
+Enterprise Esports,jett,3,15,0.2,True,rare
+Enterprise Esports,brimstone,2,15,0.1333,True,rare
+Enterprise Esports,fade,2,15,0.1333,True,rare
+Enterprise Esports,viper,2,15,0.1333,True,rare
+Enterprise Esports,yoru,2,15,0.1333,True,rare
+Eternal Fire,neon,32,40,0.8,True,signature
+Eternal Fire,omen,26,40,0.65,True,core
+Eternal Fire,fade,24,40,0.6,True,core
+Eternal Fire,viper,19,40,0.475,True,core
+Eternal Fire,cypher,18,40,0.45,True,core
+Eternal Fire,raze,15,40,0.375,True,rotation
+Eternal Fire,astra,11,40,0.275,True,rotation
+Eternal Fire,phoenix,10,40,0.25,True,rotation
+Eternal Fire,sova,10,40,0.25,True,rotation
+Eternal Fire,waylay,7,40,0.175,True,rare
+Eternal Fire,jett,5,40,0.125,True,rare
+Eternal Fire,skye,5,40,0.125,True,rare
+Eternal Fire,veto,5,40,0.125,True,rare
+Eternal Fire,brimstone,3,40,0.075,True,rare
+Eternal Fire,tejo,3,40,0.075,True,rare
+Eternal Fire,vyse,3,40,0.075,True,rare
+Eternal Fire,kayo,2,40,0.05,True,rare
+Eternal Fire,breach,1,40,0.025,True,rare
+Eternal Fire,sage,1,40,0.025,True,rare
+Evil Geniuses,sova,34,45,0.7556,True,signature
+Evil Geniuses,omen,32,45,0.7111,True,signature
+Evil Geniuses,viper,30,45,0.6667,True,signature
+Evil Geniuses,neon,28,45,0.6222,True,core
+Evil Geniuses,cypher,14,45,0.3111,True,rotation
+Evil Geniuses,phoenix,12,45,0.2667,True,rotation
+Evil Geniuses,yoru,11,45,0.2444,True,rotation
+Evil Geniuses,killjoy,9,45,0.2,True,rare
+Evil Geniuses,fade,8,45,0.1778,True,rare
+Evil Geniuses,waylay,8,45,0.1778,True,rare
+Evil Geniuses,astra,7,45,0.1556,True,rare
+Evil Geniuses,brimstone,5,45,0.1111,True,rare
+Evil Geniuses,veto,5,45,0.1111,True,rare
+Evil Geniuses,vyse,5,45,0.1111,True,rare
+Evil Geniuses,breach,4,45,0.0889,True,rare
+Evil Geniuses,jett,4,45,0.0889,True,rare
+Evil Geniuses,raze,3,45,0.0667,True,rare
+Evil Geniuses,skye,3,45,0.0667,True,rare
+Evil Geniuses,chamber,1,45,0.0222,True,rare
+Evil Geniuses,harbor,1,45,0.0222,True,rare
+Evil Geniuses,kayo,1,45,0.0222,True,rare
+FNATIC,viper,32,55,0.5818,True,core
+FNATIC,neon,28,55,0.5091,True,core
+FNATIC,sova,26,55,0.4727,True,core
+FNATIC,fade,24,55,0.4364,True,core
+FNATIC,omen,24,55,0.4364,True,core
+FNATIC,astra,18,55,0.3273,True,rotation
+FNATIC,yoru,16,55,0.2909,True,rotation
+FNATIC,kayo,14,55,0.2545,True,rotation
+FNATIC,raze,13,55,0.2364,True,rotation
+FNATIC,vyse,12,55,0.2182,True,rotation
+FNATIC,cypher,11,55,0.2,True,rare
+FNATIC,phoenix,9,55,0.1636,True,rare
+FNATIC,waylay,9,55,0.1636,True,rare
+FNATIC,brimstone,8,55,0.1455,True,rare
+FNATIC,jett,6,55,0.1091,True,rare
+FNATIC,chamber,5,55,0.0909,True,rare
+FNATIC,harbor,5,55,0.0909,True,rare
+FNATIC,killjoy,5,55,0.0909,True,rare
+FNATIC,skye,5,55,0.0909,True,rare
+FNATIC,sage,4,55,0.0727,True,rare
+FNATIC,iso,1,55,0.0182,True,rare
+FULL SENSE,cypher,34,62,0.5484,True,core
+FULL SENSE,omen,34,62,0.5484,True,core
+FULL SENSE,fade,29,62,0.4677,True,core
+FULL SENSE,neon,25,62,0.4032,True,core
+FULL SENSE,raze,21,62,0.3387,True,rotation
+FULL SENSE,skye,19,62,0.3065,True,rotation
+FULL SENSE,jett,18,62,0.2903,True,rotation
+FULL SENSE,astra,17,62,0.2742,True,rotation
+FULL SENSE,waylay,16,62,0.2581,True,rotation
+FULL SENSE,phoenix,15,62,0.2419,True,rotation
+FULL SENSE,yoru,15,62,0.2419,True,rotation
+FULL SENSE,sova,13,62,0.2097,True,rotation
+FULL SENSE,viper,13,62,0.2097,True,rotation
+FULL SENSE,deadlock,9,62,0.1452,True,rare
+FULL SENSE,vyse,9,62,0.1452,True,rare
+FULL SENSE,brimstone,8,62,0.129,True,rare
+FULL SENSE,killjoy,4,62,0.0645,True,rare
+FULL SENSE,chamber,3,62,0.0484,True,rare
+FULL SENSE,harbor,3,62,0.0484,True,rare
+FULL SENSE,sage,3,62,0.0484,True,rare
+FULL SENSE,tejo,1,62,0.0161,True,rare
+FULL SENSE,veto,1,62,0.0161,True,rare
+FURIA,sova,40,63,0.6349,True,core
+FURIA,omen,38,63,0.6032,True,core
+FURIA,neon,36,63,0.5714,True,core
+FURIA,viper,27,63,0.4286,True,core
+FURIA,fade,22,63,0.3492,True,rotation
+FURIA,astra,21,63,0.3333,True,rotation
+FURIA,phoenix,21,63,0.3333,True,rotation
+FURIA,cypher,19,63,0.3016,True,rotation
+FURIA,jett,13,63,0.2063,True,rotation
+FURIA,waylay,13,63,0.2063,True,rotation
+FURIA,yoru,13,63,0.2063,True,rotation
+FURIA,harbor,10,63,0.1587,True,rare
+FURIA,kayo,8,63,0.127,True,rare
+FURIA,killjoy,8,63,0.127,True,rare
+FURIA,vyse,7,63,0.1111,True,rare
+FURIA,chamber,4,63,0.0635,True,rare
+FURIA,raze,4,63,0.0635,True,rare
+FURIA,tejo,4,63,0.0635,True,rare
+FURIA,breach,2,63,0.0317,True,rare
+FURIA,deadlock,2,63,0.0317,True,rare
+FURIA,brimstone,1,63,0.0159,True,rare
+FURIA,iso,1,63,0.0159,True,rare
+FURIA,skye,1,63,0.0159,True,rare
+FUT Esports,omen,58,79,0.7342,True,signature
+FUT Esports,neon,52,79,0.6582,True,signature
+FUT Esports,cypher,38,79,0.481,True,core
+FUT Esports,sova,33,79,0.4177,True,core
+FUT Esports,waylay,31,79,0.3924,True,rotation
+FUT Esports,viper,27,79,0.3418,True,rotation
+FUT Esports,fade,26,79,0.3291,True,rotation
+FUT Esports,raze,26,79,0.3291,True,rotation
+FUT Esports,jett,25,79,0.3165,True,rotation
+FUT Esports,skye,19,79,0.2405,True,rotation
+FUT Esports,phoenix,14,79,0.1772,True,rare
+FUT Esports,astra,13,79,0.1646,True,rare
+FUT Esports,brimstone,8,79,0.1013,True,rare
+FUT Esports,chamber,5,79,0.0633,True,rare
+FUT Esports,vyse,5,79,0.0633,True,rare
+FUT Esports,kayo,4,79,0.0506,True,rare
+FUT Esports,breach,3,79,0.038,True,rare
+FUT Esports,killjoy,3,79,0.038,True,rare
+FUT Esports,sage,2,79,0.0253,True,rare
+FUT Esports,tejo,2,79,0.0253,True,rare
+FUT Esports,harbor,1,79,0.0127,True,rare
+Fire Flux Esports,omen,14,16,0.875,True,signature
+Fire Flux Esports,waylay,9,16,0.5625,True,core
+Fire Flux Esports,neon,8,16,0.5,True,core
+Fire Flux Esports,astra,6,16,0.375,True,rotation
+Fire Flux Esports,sova,6,16,0.375,True,rotation
+Fire Flux Esports,viper,6,16,0.375,True,rotation
+Fire Flux Esports,fade,5,16,0.3125,True,rotation
+Fire Flux Esports,cypher,4,16,0.25,True,rotation
+Fire Flux Esports,skye,4,16,0.25,True,rotation
+Fire Flux Esports,vyse,4,16,0.25,True,rotation
+Fire Flux Esports,yoru,4,16,0.25,True,rotation
+Fire Flux Esports,chamber,3,16,0.1875,True,rare
+Fire Flux Esports,raze,3,16,0.1875,True,rare
+Fire Flux Esports,deadlock,1,16,0.0625,True,rare
+Fire Flux Esports,harbor,1,16,0.0625,True,rare
+Fire Flux Esports,jett,1,16,0.0625,True,rare
+Fire Flux Esports,kayo,1,16,0.0625,True,rare
+Fluxo W7M,omen,4,5,0.8,True,signature
+Fluxo W7M,neon,3,5,0.6,True,core
+Fluxo W7M,vyse,3,5,0.6,True,core
+Fluxo W7M,fade,2,5,0.4,True,rotation
+Fluxo W7M,jett,2,5,0.4,True,rotation
+Fluxo W7M,sova,2,5,0.4,True,rotation
+Fluxo W7M,waylay,2,5,0.4,True,rotation
+Fluxo W7M,astra,1,5,0.2,True,rare
+Fluxo W7M,cypher,1,5,0.2,True,rare
+Fluxo W7M,harbor,1,5,0.2,True,rare
+Fluxo W7M,kayo,1,5,0.2,True,rare
+Fluxo W7M,raze,1,5,0.2,True,rare
+Fluxo W7M,skye,1,5,0.2,True,rare
+Fluxo W7M,viper,1,5,0.2,True,rare
+FunPlus Phoenix,neon,32,41,0.7805,True,signature
+FunPlus Phoenix,omen,24,41,0.5854,True,core
+FunPlus Phoenix,viper,20,41,0.4878,True,core
+FunPlus Phoenix,waylay,19,41,0.4634,True,core
+FunPlus Phoenix,fade,18,41,0.439,True,core
+FunPlus Phoenix,sova,15,41,0.3659,True,rotation
+FunPlus Phoenix,cypher,11,41,0.2683,True,rotation
+FunPlus Phoenix,astra,9,41,0.2195,True,rotation
+FunPlus Phoenix,killjoy,9,41,0.2195,True,rotation
+FunPlus Phoenix,jett,7,41,0.1707,True,rare
+FunPlus Phoenix,raze,7,41,0.1707,True,rare
+FunPlus Phoenix,tejo,6,41,0.1463,True,rare
+FunPlus Phoenix,brimstone,5,41,0.122,True,rare
+FunPlus Phoenix,chamber,5,41,0.122,True,rare
+FunPlus Phoenix,vyse,4,41,0.0976,True,rare
+FunPlus Phoenix,harbor,3,41,0.0732,True,rare
+FunPlus Phoenix,yoru,3,41,0.0732,True,rare
+FunPlus Phoenix,kayo,2,41,0.0488,True,rare
+FunPlus Phoenix,sage,2,41,0.0488,True,rare
+FunPlus Phoenix,skye,2,41,0.0488,True,rare
+FunPlus Phoenix,clove,1,41,0.0244,True,rare
+FunPlus Phoenix,iso,1,41,0.0244,True,rare
+G2 Esports,neon,64,109,0.5872,True,core
+G2 Esports,astra,57,109,0.5229,True,core
+G2 Esports,viper,53,109,0.4862,True,core
+G2 Esports,vyse,45,109,0.4128,True,core
+G2 Esports,fade,44,109,0.4037,True,core
+G2 Esports,omen,42,109,0.3853,True,rotation
+G2 Esports,chamber,41,109,0.3761,True,rotation
+G2 Esports,sova,37,109,0.3394,True,rotation
+G2 Esports,skye,27,109,0.2477,True,rotation
+G2 Esports,waylay,24,109,0.2202,True,rotation
+G2 Esports,harbor,22,109,0.2018,True,rotation
+G2 Esports,yoru,22,109,0.2018,True,rotation
+G2 Esports,phoenix,21,109,0.1927,True,rare
+G2 Esports,raze,21,109,0.1927,True,rare
+G2 Esports,sage,7,109,0.0642,True,rare
+G2 Esports,brimstone,5,109,0.0459,True,rare
+G2 Esports,iso,4,109,0.0367,True,rare
+G2 Esports,breach,3,109,0.0275,True,rare
+G2 Esports,tejo,2,109,0.0183,True,rare
+G2 Esports,cypher,1,109,0.0092,True,rare
+G2 Esports,jett,1,109,0.0092,True,rare
+G2 Esports,kayo,1,109,0.0092,True,rare
+G2 Esports,veto,1,109,0.0092,True,rare
+GIANTX,omen,26,42,0.619,True,core
+GIANTX,neon,25,42,0.5952,True,core
+GIANTX,sova,23,42,0.5476,True,core
+GIANTX,viper,20,42,0.4762,True,core
+GIANTX,cypher,18,42,0.4286,True,core
+GIANTX,phoenix,18,42,0.4286,True,core
+GIANTX,astra,10,42,0.2381,True,rotation
+GIANTX,skye,10,42,0.2381,True,rotation
+GIANTX,fade,8,42,0.1905,True,rare
+GIANTX,waylay,8,42,0.1905,True,rare
+GIANTX,jett,7,42,0.1667,True,rare
+GIANTX,tejo,6,42,0.1429,True,rare
+GIANTX,breach,5,42,0.119,True,rare
+GIANTX,brimstone,5,42,0.119,True,rare
+GIANTX,kayo,5,42,0.119,True,rare
+GIANTX,raze,5,42,0.119,True,rare
+GIANTX,chamber,4,42,0.0952,True,rare
+GIANTX,sage,3,42,0.0714,True,rare
+GIANTX,killjoy,2,42,0.0476,True,rare
+GIANTX,harbor,1,42,0.0238,True,rare
+GIANTX,veto,1,42,0.0238,True,rare
+Gen.G,neon,33,43,0.7674,True,signature
+Gen.G,fade,25,43,0.5814,True,core
+Gen.G,omen,25,43,0.5814,True,core
+Gen.G,chamber,15,43,0.3488,True,rotation
+Gen.G,astra,14,43,0.3256,True,rotation
+Gen.G,sova,14,43,0.3256,True,rotation
+Gen.G,yoru,12,43,0.2791,True,rotation
+Gen.G,raze,10,43,0.2326,True,rotation
+Gen.G,phoenix,9,43,0.2093,True,rotation
+Gen.G,vyse,9,43,0.2093,True,rotation
+Gen.G,jett,8,43,0.186,True,rare
+Gen.G,sage,8,43,0.186,True,rare
+Gen.G,viper,8,43,0.186,True,rare
+Gen.G,cypher,7,43,0.1628,True,rare
+Gen.G,waylay,4,43,0.093,True,rare
+Gen.G,killjoy,3,43,0.0698,True,rare
+Gen.G,brimstone,2,43,0.0465,True,rare
+Gen.G,harbor,2,43,0.0465,True,rare
+Gen.G,tejo,2,43,0.0465,True,rare
+Gen.G,veto,2,43,0.0465,True,rare
+Gen.G,breach,1,43,0.0233,True,rare
+Gen.G,kayo,1,43,0.0233,True,rare
+Gen.G,skye,1,43,0.0233,True,rare
+Gentle Mates,fade,35,58,0.6034,True,core
+Gentle Mates,neon,32,58,0.5517,True,core
+Gentle Mates,astra,30,58,0.5172,True,core
+Gentle Mates,cypher,30,58,0.5172,True,core
+Gentle Mates,yoru,26,58,0.4483,True,core
+Gentle Mates,omen,25,58,0.431,True,core
+Gentle Mates,sova,21,58,0.3621,True,rotation
+Gentle Mates,phoenix,20,58,0.3448,True,rotation
+Gentle Mates,viper,20,58,0.3448,True,rotation
+Gentle Mates,raze,14,58,0.2414,True,rotation
+Gentle Mates,waylay,13,58,0.2241,True,rotation
+Gentle Mates,jett,8,58,0.1379,True,rare
+Gentle Mates,brimstone,7,58,0.1207,True,rare
+Gentle Mates,veto,3,58,0.0517,True,rare
+Gentle Mates,breach,2,58,0.0345,True,rare
+Gentle Mates,skye,2,58,0.0345,True,rare
+Gentle Mates,kayo,1,58,0.0172,True,rare
+Gentle Mates,vyse,1,58,0.0172,True,rare
+Global Esports,omen,48,82,0.5854,True,core
+Global Esports,sova,37,82,0.4512,True,core
+Global Esports,astra,35,82,0.4268,True,core
+Global Esports,neon,33,82,0.4024,True,core
+Global Esports,fade,32,82,0.3902,True,rotation
+Global Esports,yoru,28,82,0.3415,True,rotation
+Global Esports,viper,26,82,0.3171,True,rotation
+Global Esports,veto,25,82,0.3049,True,rotation
+Global Esports,raze,20,82,0.2439,True,rotation
+Global Esports,chamber,18,82,0.2195,True,rotation
+Global Esports,sage,18,82,0.2195,True,rotation
+Global Esports,waylay,14,82,0.1707,True,rare
+Global Esports,skye,11,82,0.1341,True,rare
+Global Esports,tejo,10,82,0.122,True,rare
+Global Esports,killjoy,9,82,0.1098,True,rare
+Global Esports,cypher,8,82,0.0976,True,rare
+Global Esports,deadlock,8,82,0.0976,True,rare
+Global Esports,phoenix,8,82,0.0976,True,rare
+Global Esports,jett,7,82,0.0854,True,rare
+Global Esports,vyse,4,82,0.0488,True,rare
+Global Esports,brimstone,3,82,0.0366,True,rare
+Global Esports,gekko,3,82,0.0366,True,rare
+Global Esports,kayo,3,82,0.0366,True,rare
+Global Esports,breach,1,82,0.0122,True,rare
+Global Esports,iso,1,82,0.0122,True,rare
+JD Gaming,omen,55,78,0.7051,True,signature
+JD Gaming,neon,51,78,0.6538,True,signature
+JD Gaming,cypher,34,78,0.4359,True,core
+JD Gaming,sova,34,78,0.4359,True,core
+JD Gaming,fade,28,78,0.359,True,rotation
+JD Gaming,viper,27,78,0.3462,True,rotation
+JD Gaming,waylay,27,78,0.3462,True,rotation
+JD Gaming,raze,22,78,0.2821,True,rotation
+JD Gaming,yoru,22,78,0.2821,True,rotation
+JD Gaming,skye,15,78,0.1923,True,rare
+JD Gaming,astra,12,78,0.1538,True,rare
+JD Gaming,jett,11,78,0.141,True,rare
+JD Gaming,phoenix,9,78,0.1154,True,rare
+JD Gaming,brimstone,8,78,0.1026,True,rare
+JD Gaming,chamber,8,78,0.1026,True,rare
+JD Gaming,killjoy,8,78,0.1026,True,rare
+JD Gaming,vyse,8,78,0.1026,True,rare
+JD Gaming,harbor,6,78,0.0769,True,rare
+JD Gaming,deadlock,2,78,0.0256,True,rare
+JD Gaming,breach,1,78,0.0128,True,rare
+JD Gaming,sage,1,78,0.0128,True,rare
+JD Gaming,tejo,1,78,0.0128,True,rare
+Joblife,omen,12,13,0.9231,True,signature
+Joblife,neon,9,13,0.6923,True,signature
+Joblife,raze,7,13,0.5385,True,core
+Joblife,cypher,6,13,0.4615,True,core
+Joblife,jett,6,13,0.4615,True,core
+Joblife,fade,5,13,0.3846,True,rotation
+Joblife,sova,5,13,0.3846,True,rotation
+Joblife,viper,5,13,0.3846,True,rotation
+Joblife,kayo,3,13,0.2308,True,rotation
+Joblife,skye,3,13,0.2308,True,rotation
+Joblife,vyse,2,13,0.1538,True,rare
+Joblife,astra,1,13,0.0769,True,rare
+Joblife,waylay,1,13,0.0769,True,rare
+KIWOOM DRX,omen,43,61,0.7049,True,signature
+KIWOOM DRX,neon,32,61,0.5246,True,core
+KIWOOM DRX,sova,25,61,0.4098,True,core
+KIWOOM DRX,cypher,22,61,0.3607,True,rotation
+KIWOOM DRX,fade,19,61,0.3115,True,rotation
+KIWOOM DRX,waylay,18,61,0.2951,True,rotation
+KIWOOM DRX,phoenix,17,61,0.2787,True,rotation
+KIWOOM DRX,raze,17,61,0.2787,True,rotation
+KIWOOM DRX,viper,16,61,0.2623,True,rotation
+KIWOOM DRX,chamber,13,61,0.2131,True,rotation
+KIWOOM DRX,yoru,13,61,0.2131,True,rotation
+KIWOOM DRX,jett,12,61,0.1967,True,rare
+KIWOOM DRX,tejo,9,61,0.1475,True,rare
+KIWOOM DRX,astra,8,61,0.1311,True,rare
+KIWOOM DRX,skye,8,61,0.1311,True,rare
+KIWOOM DRX,vyse,8,61,0.1311,True,rare
+KIWOOM DRX,breach,7,61,0.1148,True,rare
+KIWOOM DRX,brimstone,7,61,0.1148,True,rare
+KIWOOM DRX,kayo,6,61,0.0984,True,rare
+KIWOOM DRX,harbor,3,61,0.0492,True,rare
+KIWOOM DRX,killjoy,1,61,0.0164,True,rare
+KIWOOM DRX,sage,1,61,0.0164,True,rare
+KRÜ Esports,neon,41,48,0.8542,True,signature
+KRÜ Esports,omen,31,48,0.6458,True,core
+KRÜ Esports,fade,29,48,0.6042,True,core
+KRÜ Esports,viper,25,48,0.5208,True,core
+KRÜ Esports,chamber,18,48,0.375,True,rotation
+KRÜ Esports,sova,18,48,0.375,True,rotation
+KRÜ Esports,kayo,16,48,0.3333,True,rotation
+KRÜ Esports,phoenix,9,48,0.1875,True,rare
+KRÜ Esports,vyse,9,48,0.1875,True,rare
+KRÜ Esports,cypher,8,48,0.1667,True,rare
+KRÜ Esports,astra,6,48,0.125,True,rare
+KRÜ Esports,yoru,6,48,0.125,True,rare
+KRÜ Esports,harbor,5,48,0.1042,True,rare
+KRÜ Esports,raze,5,48,0.1042,True,rare
+KRÜ Esports,brimstone,4,48,0.0833,True,rare
+KRÜ Esports,jett,3,48,0.0625,True,rare
+KRÜ Esports,waylay,3,48,0.0625,True,rare
+KRÜ Esports,killjoy,2,48,0.0417,True,rare
+KRÜ Esports,sage,1,48,0.0208,True,rare
+KRÜ Esports,skye,1,48,0.0208,True,rare
+Karmine Corp,omen,44,53,0.8302,True,signature
+Karmine Corp,neon,33,53,0.6226,True,core
+Karmine Corp,fade,30,53,0.566,True,core
+Karmine Corp,viper,21,53,0.3962,True,rotation
+Karmine Corp,cypher,19,53,0.3585,True,rotation
+Karmine Corp,phoenix,19,53,0.3585,True,rotation
+Karmine Corp,sova,19,53,0.3585,True,rotation
+Karmine Corp,chamber,17,53,0.3208,True,rotation
+Karmine Corp,astra,14,53,0.2642,True,rotation
+Karmine Corp,waylay,9,53,0.1698,True,rare
+Karmine Corp,tejo,7,53,0.1321,True,rare
+Karmine Corp,yoru,6,53,0.1132,True,rare
+Karmine Corp,jett,5,53,0.0943,True,rare
+Karmine Corp,skye,5,53,0.0943,True,rare
+Karmine Corp,vyse,5,53,0.0943,True,rare
+Karmine Corp,kayo,4,53,0.0755,True,rare
+Karmine Corp,raze,2,53,0.0377,True,rare
+Karmine Corp,brimstone,1,53,0.0189,True,rare
+Karmine Corp,gekko,1,53,0.0189,True,rare
+Karmine Corp,harbor,1,53,0.0189,True,rare
+Karmine Corp,killjoy,1,53,0.0189,True,rare
+Karmine Corp,sage,1,53,0.0189,True,rare
+Karmine Corp,veto,1,53,0.0189,True,rare
+KeepBest Gaming,cypher,4,5,0.8,True,signature
+KeepBest Gaming,neon,4,5,0.8,True,signature
+KeepBest Gaming,omen,4,5,0.8,True,signature
+KeepBest Gaming,sova,4,5,0.8,True,signature
+KeepBest Gaming,viper,3,5,0.6,True,core
+KeepBest Gaming,breach,1,5,0.2,True,rare
+KeepBest Gaming,harbor,1,5,0.2,True,rare
+KeepBest Gaming,iso,1,5,0.2,True,rare
+KeepBest Gaming,jett,1,5,0.2,True,rare
+KeepBest Gaming,kayo,1,5,0.2,True,rare
+KeepBest Gaming,phoenix,1,5,0.2,True,rare
+LEVIATÁN,neon,61,79,0.7722,True,signature
+LEVIATÁN,phoenix,47,79,0.5949,True,core
+LEVIATÁN,omen,46,79,0.5823,True,core
+LEVIATÁN,chamber,34,79,0.4304,True,core
+LEVIATÁN,sova,31,79,0.3924,True,rotation
+LEVIATÁN,viper,31,79,0.3924,True,rotation
+LEVIATÁN,fade,30,79,0.3797,True,rotation
+LEVIATÁN,astra,21,79,0.2658,True,rotation
+LEVIATÁN,waylay,15,79,0.1899,True,rare
+LEVIATÁN,jett,13,79,0.1646,True,rare
+LEVIATÁN,brimstone,12,79,0.1519,True,rare
+LEVIATÁN,skye,11,79,0.1392,True,rare
+LEVIATÁN,yoru,11,79,0.1392,True,rare
+LEVIATÁN,raze,7,79,0.0886,True,rare
+LEVIATÁN,tejo,7,79,0.0886,True,rare
+LEVIATÁN,vyse,7,79,0.0886,True,rare
+LEVIATÁN,breach,5,79,0.0633,True,rare
+LEVIATÁN,harbor,4,79,0.0506,True,rare
+LEVIATÁN,kayo,2,79,0.0253,True,rare
+LOUD,omen,56,71,0.7887,True,signature
+LOUD,neon,53,71,0.7465,True,signature
+LOUD,chamber,43,71,0.6056,True,core
+LOUD,sova,40,71,0.5634,True,core
+LOUD,fade,28,71,0.3944,True,rotation
+LOUD,viper,27,71,0.3803,True,rotation
+LOUD,sage,22,71,0.3099,True,rotation
+LOUD,astra,13,71,0.1831,True,rare
+LOUD,yoru,11,71,0.1549,True,rare
+LOUD,harbor,10,71,0.1408,True,rare
+LOUD,kayo,8,71,0.1127,True,rare
+LOUD,vyse,8,71,0.1127,True,rare
+LOUD,phoenix,7,71,0.0986,True,rare
+LOUD,jett,5,71,0.0704,True,rare
+LOUD,raze,5,71,0.0704,True,rare
+LOUD,waylay,5,71,0.0704,True,rare
+LOUD,cypher,4,71,0.0563,True,rare
+LOUD,killjoy,3,71,0.0423,True,rare
+LOUD,skye,3,71,0.0423,True,rare
+LOUD,brimstone,2,71,0.0282,True,rare
+LOUD,tejo,2,71,0.0282,True,rare
+M80,cypher,3,4,0.75,True,signature
+M80,neon,3,4,0.75,True,signature
+M80,omen,3,4,0.75,True,signature
+M80,sova,3,4,0.75,True,signature
+M80,deadlock,1,4,0.25,True,rotation
+M80,fade,1,4,0.25,True,rotation
+M80,harbor,1,4,0.25,True,rotation
+M80,kayo,1,4,0.25,True,rotation
+M80,phoenix,1,4,0.25,True,rotation
+M80,raze,1,4,0.25,True,rotation
+M80,viper,1,4,0.25,True,rotation
+M80,waylay,1,4,0.25,True,rotation
+MIBR,omen,35,56,0.625,True,core
+MIBR,sova,33,56,0.5893,True,core
+MIBR,neon,32,56,0.5714,True,core
+MIBR,cypher,22,56,0.3929,True,rotation
+MIBR,jett,21,56,0.375,True,rotation
+MIBR,phoenix,20,56,0.3571,True,rotation
+MIBR,viper,19,56,0.3393,True,rotation
+MIBR,astra,15,56,0.2679,True,rotation
+MIBR,fade,15,56,0.2679,True,rotation
+MIBR,raze,15,56,0.2679,True,rotation
+MIBR,vyse,10,56,0.1786,True,rare
+MIBR,skye,8,56,0.1429,True,rare
+MIBR,yoru,8,56,0.1429,True,rare
+MIBR,harbor,7,56,0.125,True,rare
+MIBR,kayo,7,56,0.125,True,rare
+MIBR,brimstone,4,56,0.0714,True,rare
+MIBR,killjoy,3,56,0.0536,True,rare
+MIBR,waylay,3,56,0.0536,True,rare
+MIBR,chamber,2,56,0.0357,True,rare
+MIBR,sage,1,56,0.0179,True,rare
+NRG,sova,68,99,0.6869,True,signature
+NRG,omen,56,99,0.5657,True,core
+NRG,viper,54,99,0.5455,True,core
+NRG,neon,41,99,0.4141,True,core
+NRG,waylay,28,99,0.2828,True,rotation
+NRG,tejo,24,99,0.2424,True,rotation
+NRG,fade,23,99,0.2323,True,rotation
+NRG,kayo,23,99,0.2323,True,rotation
+NRG,vyse,22,99,0.2222,True,rotation
+NRG,phoenix,21,99,0.2121,True,rotation
+NRG,astra,19,99,0.1919,True,rare
+NRG,cypher,19,99,0.1919,True,rare
+NRG,jett,19,99,0.1919,True,rare
+NRG,killjoy,15,99,0.1515,True,rare
+NRG,brimstone,14,99,0.1414,True,rare
+NRG,raze,12,99,0.1212,True,rare
+NRG,chamber,10,99,0.101,True,rare
+NRG,harbor,10,99,0.101,True,rare
+NRG,skye,9,99,0.0909,True,rare
+NRG,yoru,6,99,0.0606,True,rare
+NRG,deadlock,1,99,0.0101,True,rare
+NRG,sage,1,99,0.0101,True,rare
+Natus Vincere,omen,28,43,0.6512,True,signature
+Natus Vincere,viper,28,43,0.6512,True,signature
+Natus Vincere,neon,24,43,0.5581,True,core
+Natus Vincere,sova,23,43,0.5349,True,core
+Natus Vincere,chamber,13,43,0.3023,True,rotation
+Natus Vincere,skye,12,43,0.2791,True,rotation
+Natus Vincere,phoenix,9,43,0.2093,True,rotation
+Natus Vincere,raze,9,43,0.2093,True,rotation
+Natus Vincere,cypher,8,43,0.186,True,rare
+Natus Vincere,fade,8,43,0.186,True,rare
+Natus Vincere,yoru,8,43,0.186,True,rare
+Natus Vincere,astra,7,43,0.1628,True,rare
+Natus Vincere,sage,7,43,0.1628,True,rare
+Natus Vincere,brimstone,6,43,0.1395,True,rare
+Natus Vincere,tejo,6,43,0.1395,True,rare
+Natus Vincere,waylay,6,43,0.1395,True,rare
+Natus Vincere,vyse,5,43,0.1163,True,rare
+Natus Vincere,killjoy,3,43,0.0698,True,rare
+Natus Vincere,harbor,2,43,0.0465,True,rare
+Natus Vincere,kayo,2,43,0.0465,True,rare
+Natus Vincere,jett,1,43,0.0233,True,rare
+Nongshim RedForce,neon,69,84,0.8214,True,signature
+Nongshim RedForce,omen,61,84,0.7262,True,signature
+Nongshim RedForce,yoru,53,84,0.631,True,core
+Nongshim RedForce,sova,42,84,0.5,True,core
+Nongshim RedForce,fade,37,84,0.4405,True,core
+Nongshim RedForce,viper,34,84,0.4048,True,core
+Nongshim RedForce,cypher,24,84,0.2857,True,rotation
+Nongshim RedForce,waylay,16,84,0.1905,True,rare
+Nongshim RedForce,phoenix,15,84,0.1786,True,rare
+Nongshim RedForce,killjoy,13,84,0.1548,True,rare
+Nongshim RedForce,harbor,11,84,0.131,True,rare
+Nongshim RedForce,chamber,9,84,0.1071,True,rare
+Nongshim RedForce,astra,8,84,0.0952,True,rare
+Nongshim RedForce,brimstone,7,84,0.0833,True,rare
+Nongshim RedForce,breach,4,84,0.0476,True,rare
+Nongshim RedForce,sage,4,84,0.0476,True,rare
+Nongshim RedForce,jett,3,84,0.0357,True,rare
+Nongshim RedForce,raze,3,84,0.0357,True,rare
+Nongshim RedForce,skye,3,84,0.0357,True,rare
+Nongshim RedForce,tejo,2,84,0.0238,True,rare
+Nongshim RedForce,vyse,2,84,0.0238,True,rare
+Nova Esports,neon,23,39,0.5897,True,core
+Nova Esports,omen,22,39,0.5641,True,core
+Nova Esports,viper,21,39,0.5385,True,core
+Nova Esports,fade,14,39,0.359,True,rotation
+Nova Esports,phoenix,13,39,0.3333,True,rotation
+Nova Esports,raze,12,39,0.3077,True,rotation
+Nova Esports,astra,11,39,0.2821,True,rotation
+Nova Esports,sova,11,39,0.2821,True,rotation
+Nova Esports,cypher,10,39,0.2564,True,rotation
+Nova Esports,skye,8,39,0.2051,True,rotation
+Nova Esports,chamber,7,39,0.1795,True,rare
+Nova Esports,killjoy,7,39,0.1795,True,rare
+Nova Esports,waylay,7,39,0.1795,True,rare
+Nova Esports,kayo,5,39,0.1282,True,rare
+Nova Esports,deadlock,4,39,0.1026,True,rare
+Nova Esports,tejo,4,39,0.1026,True,rare
+Nova Esports,brimstone,3,39,0.0769,True,rare
+Nova Esports,harbor,3,39,0.0769,True,rare
+Nova Esports,breach,2,39,0.0513,True,rare
+Nova Esports,jett,2,39,0.0513,True,rare
+Nova Esports,veto,2,39,0.0513,True,rare
+Nova Esports,vyse,2,39,0.0513,True,rare
+Nova Esports,yoru,2,39,0.0513,True,rare
+ONSIDE GAMING,neon,10,11,0.9091,True,signature
+ONSIDE GAMING,omen,9,11,0.8182,True,signature
+ONSIDE GAMING,sova,9,11,0.8182,True,signature
+ONSIDE GAMING,cypher,5,11,0.4545,True,core
+ONSIDE GAMING,phoenix,5,11,0.4545,True,core
+ONSIDE GAMING,chamber,2,11,0.1818,True,rare
+ONSIDE GAMING,kayo,2,11,0.1818,True,rare
+ONSIDE GAMING,viper,2,11,0.1818,True,rare
+ONSIDE GAMING,vyse,2,11,0.1818,True,rare
+ONSIDE GAMING,yoru,2,11,0.1818,True,rare
+ONSIDE GAMING,astra,1,11,0.0909,True,rare
+ONSIDE GAMING,fade,1,11,0.0909,True,rare
+ONSIDE GAMING,harbor,1,11,0.0909,True,rare
+ONSIDE GAMING,jett,1,11,0.0909,True,rare
+ONSIDE GAMING,raze,1,11,0.0909,True,rare
+ONSIDE GAMING,skye,1,11,0.0909,True,rare
+ONSIDE GAMING,waylay,1,11,0.0909,True,rare
+PCIFIC Esports,omen,27,38,0.7105,True,signature
+PCIFIC Esports,viper,24,38,0.6316,True,core
+PCIFIC Esports,fade,22,38,0.5789,True,core
+PCIFIC Esports,neon,16,38,0.4211,True,core
+PCIFIC Esports,sova,12,38,0.3158,True,rotation
+PCIFIC Esports,astra,10,38,0.2632,True,rotation
+PCIFIC Esports,raze,10,38,0.2632,True,rotation
+PCIFIC Esports,chamber,9,38,0.2368,True,rotation
+PCIFIC Esports,waylay,9,38,0.2368,True,rotation
+PCIFIC Esports,phoenix,8,38,0.2105,True,rotation
+PCIFIC Esports,kayo,6,38,0.1579,True,rare
+PCIFIC Esports,cypher,5,38,0.1316,True,rare
+PCIFIC Esports,deadlock,5,38,0.1316,True,rare
+PCIFIC Esports,sage,5,38,0.1316,True,rare
+PCIFIC Esports,veto,5,38,0.1316,True,rare
+PCIFIC Esports,tejo,4,38,0.1053,True,rare
+PCIFIC Esports,brimstone,3,38,0.0789,True,rare
+PCIFIC Esports,yoru,3,38,0.0789,True,rare
+PCIFIC Esports,harbor,2,38,0.0526,True,rare
+PCIFIC Esports,jett,2,38,0.0526,True,rare
+PCIFIC Esports,killjoy,1,38,0.0263,True,rare
+PCIFIC Esports,skye,1,38,0.0263,True,rare
+PCIFIC Esports,vyse,1,38,0.0263,True,rare
+Paper Rex,omen,83,112,0.7411,True,signature
+Paper Rex,viper,58,112,0.5179,True,core
+Paper Rex,yoru,56,112,0.5,True,core
+Paper Rex,raze,51,112,0.4554,True,core
+Paper Rex,fade,49,112,0.4375,True,core
+Paper Rex,sova,41,112,0.3661,True,rotation
+Paper Rex,jett,35,112,0.3125,True,rotation
+Paper Rex,vyse,27,112,0.2411,True,rotation
+Paper Rex,neon,20,112,0.1786,True,rare
+Paper Rex,phoenix,18,112,0.1607,True,rare
+Paper Rex,skye,18,112,0.1607,True,rare
+Paper Rex,chamber,17,112,0.1518,True,rare
+Paper Rex,astra,15,112,0.1339,True,rare
+Paper Rex,sage,14,112,0.125,True,rare
+Paper Rex,waylay,14,112,0.125,True,rare
+Paper Rex,brimstone,11,112,0.0982,True,rare
+Paper Rex,killjoy,9,112,0.0804,True,rare
+Paper Rex,harbor,8,112,0.0714,True,rare
+Paper Rex,breach,6,112,0.0536,True,rare
+Paper Rex,gekko,3,112,0.0268,True,rare
+Paper Rex,veto,3,112,0.0268,True,rare
+Paper Rex,tejo,2,112,0.0179,True,rare
+Paper Rex,kayo,1,112,0.0089,True,rare
+Paper Rex,miks,1,112,0.0089,True,rare
+QT DIG∞,neon,5,6,0.8333,True,signature
+QT DIG∞,cypher,4,6,0.6667,True,signature
+QT DIG∞,omen,4,6,0.6667,True,signature
+QT DIG∞,phoenix,3,6,0.5,True,core
+QT DIG∞,raze,3,6,0.5,True,core
+QT DIG∞,fade,2,6,0.3333,True,rotation
+QT DIG∞,skye,2,6,0.3333,True,rotation
+QT DIG∞,sova,2,6,0.3333,True,rotation
+QT DIG∞,astra,1,6,0.1667,True,rare
+QT DIG∞,chamber,1,6,0.1667,True,rare
+QT DIG∞,harbor,1,6,0.1667,True,rare
+QT DIG∞,jett,1,6,0.1667,True,rare
+QT DIG∞,viper,1,6,0.1667,True,rare
+Rex Regum Qeon,neon,46,56,0.8214,True,signature
+Rex Regum Qeon,sova,36,56,0.6429,True,core
+Rex Regum Qeon,omen,28,56,0.5,True,core
+Rex Regum Qeon,viper,23,56,0.4107,True,core
+Rex Regum Qeon,chamber,20,56,0.3571,True,rotation
+Rex Regum Qeon,cypher,16,56,0.2857,True,rotation
+Rex Regum Qeon,astra,15,56,0.2679,True,rotation
+Rex Regum Qeon,waylay,11,56,0.1964,True,rare
+Rex Regum Qeon,yoru,11,56,0.1964,True,rare
+Rex Regum Qeon,fade,10,56,0.1786,True,rare
+Rex Regum Qeon,skye,10,56,0.1786,True,rare
+Rex Regum Qeon,brimstone,9,56,0.1607,True,rare
+Rex Regum Qeon,jett,6,56,0.1071,True,rare
+Rex Regum Qeon,raze,6,56,0.1071,True,rare
+Rex Regum Qeon,sage,6,56,0.1071,True,rare
+Rex Regum Qeon,harbor,5,56,0.0893,True,rare
+Rex Regum Qeon,kayo,5,56,0.0893,True,rare
+Rex Regum Qeon,phoenix,5,56,0.0893,True,rare
+Rex Regum Qeon,killjoy,4,56,0.0714,True,rare
+Rex Regum Qeon,veto,4,56,0.0714,True,rare
+Rex Regum Qeon,tejo,3,56,0.0536,True,rare
+Rex Regum Qeon,vyse,1,56,0.0179,True,rare
+Sentinels,omen,27,40,0.675,True,signature
+Sentinels,viper,25,40,0.625,True,core
+Sentinels,neon,21,40,0.525,True,core
+Sentinels,sova,18,40,0.45,True,core
+Sentinels,waylay,16,40,0.4,True,rotation
+Sentinels,fade,14,40,0.35,True,rotation
+Sentinels,phoenix,12,40,0.3,True,rotation
+Sentinels,harbor,11,40,0.275,True,rotation
+Sentinels,cypher,9,40,0.225,True,rotation
+Sentinels,raze,7,40,0.175,True,rare
+Sentinels,vyse,7,40,0.175,True,rare
+Sentinels,skye,6,40,0.15,True,rare
+Sentinels,yoru,5,40,0.125,True,rare
+Sentinels,killjoy,4,40,0.1,True,rare
+Sentinels,astra,3,40,0.075,True,rare
+Sentinels,iso,3,40,0.075,True,rare
+Sentinels,tejo,3,40,0.075,True,rare
+Sentinels,brimstone,2,40,0.05,True,rare
+Sentinels,chamber,2,40,0.05,True,rare
+Sentinels,sage,2,40,0.05,True,rare
+Sentinels,breach,1,40,0.025,True,rare
+Sentinels,jett,1,40,0.025,True,rare
+Sentinels,veto,1,40,0.025,True,rare
+Sharper Esports,neon,12,12,1.0,True,signature
+Sharper Esports,sova,12,12,1.0,True,signature
+Sharper Esports,omen,9,12,0.75,True,signature
+Sharper Esports,cypher,6,12,0.5,True,core
+Sharper Esports,sage,5,12,0.4167,True,core
+Sharper Esports,phoenix,4,12,0.3333,True,rotation
+Sharper Esports,viper,4,12,0.3333,True,rotation
+Sharper Esports,harbor,3,12,0.25,True,rotation
+Sharper Esports,killjoy,3,12,0.25,True,rotation
+Sharper Esports,yoru,2,12,0.1667,True,rare
+T1,omen,55,83,0.6627,True,signature
+T1,neon,54,83,0.6506,True,signature
+T1,sova,46,83,0.5542,True,core
+T1,viper,40,83,0.4819,True,core
+T1,yoru,33,83,0.3976,True,rotation
+T1,chamber,31,83,0.3735,True,rotation
+T1,fade,29,83,0.3494,True,rotation
+T1,killjoy,17,83,0.2048,True,rotation
+T1,astra,15,83,0.1807,True,rare
+T1,jett,13,83,0.1566,True,rare
+T1,cypher,9,83,0.1084,True,rare
+T1,phoenix,9,83,0.1084,True,rare
+T1,raze,9,83,0.1084,True,rare
+T1,waylay,9,83,0.1084,True,rare
+T1,brimstone,8,83,0.0964,True,rare
+T1,harbor,8,83,0.0964,True,rare
+T1,sage,8,83,0.0964,True,rare
+T1,skye,8,83,0.0964,True,rare
+T1,kayo,7,83,0.0843,True,rare
+T1,tejo,3,83,0.0361,True,rare
+T1,vyse,3,83,0.0361,True,rare
+T1,iso,1,83,0.012,True,rare
+TYLOO,omen,49,76,0.6447,True,core
+TYLOO,neon,41,76,0.5395,True,core
+TYLOO,viper,40,76,0.5263,True,core
+TYLOO,fade,33,76,0.4342,True,core
+TYLOO,waylay,27,76,0.3553,True,rotation
+TYLOO,sova,24,76,0.3158,True,rotation
+TYLOO,cypher,22,76,0.2895,True,rotation
+TYLOO,jett,18,76,0.2368,True,rotation
+TYLOO,skye,18,76,0.2368,True,rotation
+TYLOO,astra,15,76,0.1974,True,rare
+TYLOO,phoenix,14,76,0.1842,True,rare
+TYLOO,yoru,13,76,0.1711,True,rare
+TYLOO,raze,12,76,0.1579,True,rare
+TYLOO,brimstone,10,76,0.1316,True,rare
+TYLOO,chamber,10,76,0.1316,True,rare
+TYLOO,kayo,9,76,0.1184,True,rare
+TYLOO,killjoy,8,76,0.1053,True,rare
+TYLOO,sage,7,76,0.0921,True,rare
+TYLOO,tejo,5,76,0.0658,True,rare
+TYLOO,harbor,3,76,0.0395,True,rare
+TYLOO,veto,2,76,0.0263,True,rare
+Team Heretics,neon,54,69,0.7826,True,signature
+Team Heretics,omen,39,69,0.5652,True,core
+Team Heretics,fade,33,69,0.4783,True,core
+Team Heretics,cypher,31,69,0.4493,True,core
+Team Heretics,sova,31,69,0.4493,True,core
+Team Heretics,raze,23,69,0.3333,True,rotation
+Team Heretics,vyse,20,69,0.2899,True,rotation
+Team Heretics,chamber,16,69,0.2319,True,rotation
+Team Heretics,viper,16,69,0.2319,True,rotation
+Team Heretics,astra,15,69,0.2174,True,rotation
+Team Heretics,jett,15,69,0.2174,True,rotation
+Team Heretics,yoru,11,69,0.1594,True,rare
+Team Heretics,brimstone,9,69,0.1304,True,rare
+Team Heretics,phoenix,7,69,0.1014,True,rare
+Team Heretics,sage,7,69,0.1014,True,rare
+Team Heretics,skye,5,69,0.0725,True,rare
+Team Heretics,harbor,3,69,0.0435,True,rare
+Team Heretics,kayo,3,69,0.0435,True,rare
+Team Heretics,waylay,3,69,0.0435,True,rare
+Team Heretics,gekko,2,69,0.029,True,rare
+Team Heretics,tejo,1,69,0.0145,True,rare
+Team Heretics,veto,1,69,0.0145,True,rare
+Team Liquid,omen,48,80,0.6,True,core
+Team Liquid,neon,34,80,0.425,True,core
+Team Liquid,viper,34,80,0.425,True,core
+Team Liquid,cypher,30,80,0.375,True,rotation
+Team Liquid,sova,30,80,0.375,True,rotation
+Team Liquid,fade,29,80,0.3625,True,rotation
+Team Liquid,raze,28,80,0.35,True,rotation
+Team Liquid,jett,26,80,0.325,True,rotation
+Team Liquid,yoru,24,80,0.3,True,rotation
+Team Liquid,phoenix,23,80,0.2875,True,rotation
+Team Liquid,skye,19,80,0.2375,True,rotation
+Team Liquid,waylay,18,80,0.225,True,rotation
+Team Liquid,astra,16,80,0.2,True,rare
+Team Liquid,brimstone,12,80,0.15,True,rare
+Team Liquid,killjoy,10,80,0.125,True,rare
+Team Liquid,harbor,7,80,0.0875,True,rare
+Team Liquid,kayo,3,80,0.0375,True,rare
+Team Liquid,breach,2,80,0.025,True,rare
+Team Liquid,tejo,2,80,0.025,True,rare
+Team Liquid,vyse,2,80,0.025,True,rare
+Team Liquid,chamber,1,80,0.0125,True,rare
+Team Liquid,gekko,1,80,0.0125,True,rare
+Team Liquid,sage,1,80,0.0125,True,rare
+Team Secret,neon,25,36,0.6944,True,signature
+Team Secret,viper,21,36,0.5833,True,core
+Team Secret,omen,20,36,0.5556,True,core
+Team Secret,sova,19,36,0.5278,True,core
+Team Secret,cypher,16,36,0.4444,True,core
+Team Secret,astra,10,36,0.2778,True,rotation
+Team Secret,fade,9,36,0.25,True,rotation
+Team Secret,skye,8,36,0.2222,True,rotation
+Team Secret,kayo,6,36,0.1667,True,rare
+Team Secret,phoenix,6,36,0.1667,True,rare
+Team Secret,vyse,6,36,0.1667,True,rare
+Team Secret,yoru,6,36,0.1667,True,rare
+Team Secret,brimstone,5,36,0.1389,True,rare
+Team Secret,jett,4,36,0.1111,True,rare
+Team Secret,raze,4,36,0.1111,True,rare
+Team Secret,waylay,4,36,0.1111,True,rare
+Team Secret,chamber,3,36,0.0833,True,rare
+Team Secret,killjoy,3,36,0.0833,True,rare
+Team Secret,tejo,2,36,0.0556,True,rare
+Team Secret,deadlock,1,36,0.0278,True,rare
+Team Secret,harbor,1,36,0.0278,True,rare
+Team Secret,sage,1,36,0.0278,True,rare
+Team Vitality,sova,52,92,0.5652,True,core
+Team Vitality,omen,50,92,0.5435,True,core
+Team Vitality,viper,46,92,0.5,True,core
+Team Vitality,neon,38,92,0.413,True,core
+Team Vitality,fade,36,92,0.3913,True,rotation
+Team Vitality,phoenix,31,92,0.337,True,rotation
+Team Vitality,chamber,29,92,0.3152,True,rotation
+Team Vitality,yoru,27,92,0.2935,True,rotation
+Team Vitality,jett,25,92,0.2717,True,rotation
+Team Vitality,astra,22,92,0.2391,True,rotation
+Team Vitality,raze,21,92,0.2283,True,rotation
+Team Vitality,harbor,18,92,0.1957,True,rare
+Team Vitality,vyse,16,92,0.1739,True,rare
+Team Vitality,kayo,14,92,0.1522,True,rare
+Team Vitality,cypher,6,92,0.0652,True,rare
+Team Vitality,brimstone,5,92,0.0543,True,rare
+Team Vitality,killjoy,5,92,0.0543,True,rare
+Team Vitality,sage,5,92,0.0543,True,rare
+Team Vitality,skye,4,92,0.0435,True,rare
+Team Vitality,waylay,4,92,0.0435,True,rare
+Team Vitality,tejo,3,92,0.0326,True,rare
+Team Vitality,veto,3,92,0.0326,True,rare
+Titan Esports Club,neon,49,60,0.8167,True,signature
+Titan Esports Club,omen,39,60,0.65,True,core
+Titan Esports Club,sova,32,60,0.5333,True,core
+Titan Esports Club,cypher,29,60,0.4833,True,core
+Titan Esports Club,viper,27,60,0.45,True,core
+Titan Esports Club,waylay,25,60,0.4167,True,core
+Titan Esports Club,phoenix,21,60,0.35,True,rotation
+Titan Esports Club,fade,15,60,0.25,True,rotation
+Titan Esports Club,skye,12,60,0.2,True,rare
+Titan Esports Club,astra,10,60,0.1667,True,rare
+Titan Esports Club,brimstone,9,60,0.15,True,rare
+Titan Esports Club,raze,7,60,0.1167,True,rare
+Titan Esports Club,killjoy,4,60,0.0667,True,rare
+Titan Esports Club,sage,4,60,0.0667,True,rare
+Titan Esports Club,yoru,4,60,0.0667,True,rare
+Titan Esports Club,jett,3,60,0.05,True,rare
+Titan Esports Club,tejo,3,60,0.05,True,rare
+Titan Esports Club,chamber,2,60,0.0333,True,rare
+Titan Esports Club,harbor,2,60,0.0333,True,rare
+Titan Esports Club,kayo,2,60,0.0333,True,rare
+Titan Esports Club,vyse,1,60,0.0167,True,rare
+Trace Esports,omen,48,62,0.7742,True,signature
+Trace Esports,viper,32,62,0.5161,True,core
+Trace Esports,neon,31,62,0.5,True,core
+Trace Esports,sova,31,62,0.5,True,core
+Trace Esports,waylay,25,62,0.4032,True,core
+Trace Esports,fade,22,62,0.3548,True,rotation
+Trace Esports,cypher,16,62,0.2581,True,rotation
+Trace Esports,jett,15,62,0.2419,True,rotation
+Trace Esports,raze,11,62,0.1774,True,rare
+Trace Esports,kayo,10,62,0.1613,True,rare
+Trace Esports,sage,9,62,0.1452,True,rare
+Trace Esports,vyse,9,62,0.1452,True,rare
+Trace Esports,yoru,9,62,0.1452,True,rare
+Trace Esports,skye,8,62,0.129,True,rare
+Trace Esports,brimstone,6,62,0.0968,True,rare
+Trace Esports,astra,5,62,0.0806,True,rare
+Trace Esports,breach,5,62,0.0806,True,rare
+Trace Esports,phoenix,5,62,0.0806,True,rare
+Trace Esports,killjoy,4,62,0.0645,True,rare
+Trace Esports,harbor,3,62,0.0484,True,rare
+Trace Esports,veto,3,62,0.0484,True,rare
+Trace Esports,tejo,2,62,0.0323,True,rare
+Trace Esports,chamber,1,62,0.0161,True,rare
+ULF Esports,viper,6,9,0.6667,True,signature
+ULF Esports,astra,5,9,0.5556,True,core
+ULF Esports,sova,5,9,0.5556,True,core
+ULF Esports,waylay,5,9,0.5556,True,core
+ULF Esports,breach,4,9,0.4444,True,core
+ULF Esports,neon,4,9,0.4444,True,core
+ULF Esports,omen,4,9,0.4444,True,core
+ULF Esports,fade,3,9,0.3333,True,rotation
+ULF Esports,chamber,2,9,0.2222,True,rotation
+ULF Esports,jett,2,9,0.2222,True,rotation
+ULF Esports,brimstone,1,9,0.1111,True,rare
+ULF Esports,kayo,1,9,0.1111,True,rare
+ULF Esports,killjoy,1,9,0.1111,True,rare
+ULF Esports,skye,1,9,0.1111,True,rare
+ULF Esports,yoru,1,9,0.1111,True,rare
+VARREL,omen,27,40,0.675,True,signature
+VARREL,fade,17,40,0.425,True,core
+VARREL,raze,16,40,0.4,True,rotation
+VARREL,viper,16,40,0.4,True,rotation
+VARREL,neon,15,40,0.375,True,rotation
+VARREL,sova,14,40,0.35,True,rotation
+VARREL,cypher,13,40,0.325,True,rotation
+VARREL,astra,10,40,0.25,True,rotation
+VARREL,phoenix,8,40,0.2,True,rare
+VARREL,sage,8,40,0.2,True,rare
+VARREL,waylay,8,40,0.2,True,rare
+VARREL,chamber,7,40,0.175,True,rare
+VARREL,jett,7,40,0.175,True,rare
+VARREL,yoru,7,40,0.175,True,rare
+VARREL,skye,6,40,0.15,True,rare
+VARREL,brimstone,5,40,0.125,True,rare
+VARREL,deadlock,3,40,0.075,True,rare
+VARREL,tejo,3,40,0.075,True,rare
+VARREL,vyse,3,40,0.075,True,rare
+VARREL,breach,2,40,0.05,True,rare
+VARREL,veto,2,40,0.05,True,rare
+VARREL,harbor,1,40,0.025,True,rare
+VARREL,kayo,1,40,0.025,True,rare
+VARREL,killjoy,1,40,0.025,True,rare
+Wolves Esports,omen,34,50,0.68,True,signature
+Wolves Esports,viper,34,50,0.68,True,signature
+Wolves Esports,sova,24,50,0.48,True,core
+Wolves Esports,neon,18,50,0.36,True,rotation
+Wolves Esports,waylay,16,50,0.32,True,rotation
+Wolves Esports,killjoy,14,50,0.28,True,rotation
+Wolves Esports,raze,13,50,0.26,True,rotation
+Wolves Esports,fade,12,50,0.24,True,rotation
+Wolves Esports,skye,12,50,0.24,True,rotation
+Wolves Esports,astra,10,50,0.2,True,rare
+Wolves Esports,cypher,9,50,0.18,True,rare
+Wolves Esports,vyse,9,50,0.18,True,rare
+Wolves Esports,brimstone,8,50,0.16,True,rare
+Wolves Esports,yoru,6,50,0.12,True,rare
+Wolves Esports,jett,5,50,0.1,True,rare
+Wolves Esports,kayo,5,50,0.1,True,rare
+Wolves Esports,sage,5,50,0.1,True,rare
+Wolves Esports,tejo,5,50,0.1,True,rare
+Wolves Esports,chamber,4,50,0.08,True,rare
+Wolves Esports,veto,4,50,0.08,True,rare
+Wolves Esports,breach,2,50,0.04,True,rare
+Wolves Esports,phoenix,1,50,0.02,True,rare
+Xi Lai Gaming,omen,74,92,0.8043,True,signature
+Xi Lai Gaming,viper,48,92,0.5217,True,core
+Xi Lai Gaming,waylay,46,92,0.5,True,core
+Xi Lai Gaming,neon,38,92,0.413,True,core
+Xi Lai Gaming,sova,33,92,0.3587,True,rotation
+Xi Lai Gaming,fade,32,92,0.3478,True,rotation
+Xi Lai Gaming,skye,25,92,0.2717,True,rotation
+Xi Lai Gaming,cypher,22,92,0.2391,True,rotation
+Xi Lai Gaming,jett,19,92,0.2065,True,rotation
+Xi Lai Gaming,yoru,19,92,0.2065,True,rotation
+Xi Lai Gaming,astra,12,92,0.1304,True,rare
+Xi Lai Gaming,killjoy,12,92,0.1304,True,rare
+Xi Lai Gaming,phoenix,12,92,0.1304,True,rare
+Xi Lai Gaming,brimstone,10,92,0.1087,True,rare
+Xi Lai Gaming,raze,10,92,0.1087,True,rare
+Xi Lai Gaming,sage,10,92,0.1087,True,rare
+Xi Lai Gaming,chamber,8,92,0.087,True,rare
+Xi Lai Gaming,deadlock,8,92,0.087,True,rare
+Xi Lai Gaming,kayo,6,92,0.0652,True,rare
+Xi Lai Gaming,harbor,5,92,0.0543,True,rare
+Xi Lai Gaming,tejo,5,92,0.0543,True,rare
+Xi Lai Gaming,vyse,5,92,0.0543,True,rare
+Xi Lai Gaming,veto,1,92,0.0109,True,rare
+Xipto Esports,omen,5,5,1.0,True,signature
+Xipto Esports,cypher,3,5,0.6,True,core
+Xipto Esports,neon,3,5,0.6,True,core
+Xipto Esports,fade,2,5,0.4,True,rotation
+Xipto Esports,phoenix,2,5,0.4,True,rotation
+Xipto Esports,raze,2,5,0.4,True,rotation
+Xipto Esports,sova,2,5,0.4,True,rotation
+Xipto Esports,jett,1,5,0.2,True,rare
+Xipto Esports,killjoy,1,5,0.2,True,rare
+Xipto Esports,skye,1,5,0.2,True,rare
+Xipto Esports,viper,1,5,0.2,True,rare
+Xipto Esports,waylay,1,5,0.2,True,rare
+Xipto Esports,yoru,1,5,0.2,True,rare
+ZETA DIVISION,neon,37,43,0.8605,True,signature
+ZETA DIVISION,omen,31,43,0.7209,True,signature
+ZETA DIVISION,viper,19,43,0.4419,True,core
+ZETA DIVISION,cypher,17,43,0.3953,True,rotation
+ZETA DIVISION,sova,16,43,0.3721,True,rotation
+ZETA DIVISION,yoru,14,43,0.3256,True,rotation
+ZETA DIVISION,waylay,13,43,0.3023,True,rotation
+ZETA DIVISION,fade,12,43,0.2791,True,rotation
+ZETA DIVISION,skye,12,43,0.2791,True,rotation
+ZETA DIVISION,sage,9,43,0.2093,True,rotation
+ZETA DIVISION,brimstone,7,43,0.1628,True,rare
+ZETA DIVISION,harbor,5,43,0.1163,True,rare
+ZETA DIVISION,raze,5,43,0.1163,True,rare
+ZETA DIVISION,breach,4,43,0.093,True,rare
+ZETA DIVISION,kayo,4,43,0.093,True,rare
+ZETA DIVISION,astra,3,43,0.0698,True,rare
+ZETA DIVISION,veto,2,43,0.0465,True,rare
+ZETA DIVISION,vyse,2,43,0.0465,True,rare
+ZETA DIVISION,chamber,1,43,0.0233,True,rare
+ZETA DIVISION,killjoy,1,43,0.0233,True,rare
+ZETA DIVISION,phoenix,1,43,0.0233,True,rare

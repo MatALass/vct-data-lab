@@ -25,6 +25,26 @@ table Compositions
 		displayFolder: Compositions
 		lineageTag: 10a0de5b-1f2d-596a-82ba-aee28e4d46b6
 
+	/// Part des maps gagnées par les compositions sélectionnées (50 % sur toutes les maps, par construction)
+	measure Winrate = AVERAGE(Compositions[Victoire])
+		formatString: 0 %
+		displayFolder: Compositions
+		lineageTag: 898e8883-31ca-59f6-8013-269f9c9ce888
+
+	/// Couleur de mise en évidence de Winrate
+	measure 'Couleur Winrate' =
+			VAR _v = [Winrate]
+			RETURN SWITCH(
+			    TRUE(),
+			    ISBLANK(_v), BLANK(),
+			    _v < 0.45, "#E03131",
+			    _v < 0.55, "#F59F00",
+			    "#12B886"
+			)
+		displayFolder: Couleurs
+		isHidden
+		lineageTag: ddaee843-94bf-53dd-9fa1-e2ffeba7c447
+
 	column CompID
 		dataType: string
 		isHidden
@@ -78,6 +98,24 @@ table Compositions
 
 		annotation SummarizationSetBy = Automatic
 
+	column 'Résultat'
+		dataType: string
+		lineageTag: f7a8dd1f-fa12-5f16-92e0-cecfb17bf3c2
+		summarizeBy: none
+		sourceColumn: Résultat
+
+		annotation SummarizationSetBy = Automatic
+
+	column Victoire
+		dataType: int64
+		formatString: #,##0
+		isHidden
+		lineageTag: cfc3b591-b4ac-5921-8efb-c01b667cb024
+		summarizeBy: sum
+		sourceColumn: Victoire
+
+		annotation SummarizationSetBy = Automatic
+
 	column Agents
 		dataType: string
 		lineageTag: 69d8b731-f858-5e72-9882-1e58e4c57bcc
@@ -100,7 +138,7 @@ table Compositions
 				let
 				    Source = Csv.Document(File.Contents(DataFolder & "Compositions.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
 				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
-				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"CompID", type text}, {"Événement", type text}, {"Map", type text}, {"Équipe", type text}, {"Adversaire", type text}, {"Match", type text}, {"Agents", type text}, {"Archétype", type text}}, "en-US")
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"CompID", type text}, {"Événement", type text}, {"Map", type text}, {"Équipe", type text}, {"Adversaire", type text}, {"Match", type text}, {"Résultat", type text}, {"Victoire", Int64.Type}, {"Agents", type text}, {"Archétype", type text}}, "en-US")
 				in
 				    #"Changed Type"
 

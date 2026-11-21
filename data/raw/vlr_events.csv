@@ -1,0 +1,16 @@
+event_id,slug,event,event_name,region,phase,start_date,event_order
+2682,vct-2026-americas-kickoff,americas_kickoff,VCT 2026: Americas Kickoff,Americas,Kickoff,2026-01-15,1
+2684,vct-2026-emea-kickoff,emea_kickoff,VCT 2026: EMEA Kickoff,EMEA,Kickoff,2026-01-20,2
+2685,vct-2026-china-kickoff,china_kickoff,VCT 2026: China Kickoff,China,Kickoff,2026-01-21,3
+2683,vct-2026-pacific-kickoff,pacific_kickoff,VCT 2026: Pacific Kickoff,Pacific,Kickoff,2026-01-22,4
+2760,valorant-masters-santiago-2026,masters_santiago,Valorant Masters Santiago 2026,International,Masters,2026-02-28,5
+2864,vct-2026-china-stage-1,china_stage_1,VCT 2026: China Stage 1,China,Stage 1,2026-03-31,6
+2863,vct-2026-emea-stage-1,emea_stage_1,VCT 2026: EMEA Stage 1,EMEA,Stage 1,2026-04-01,7
+2775,vct-2026-pacific-stage-1,pacific_stage_1,VCT 2026: Pacific Stage 1,Pacific,Stage 1,2026-04-02,8
+2860,vct-2026-americas-stage-1,americas_stage_1,VCT 2026: Americas Stage 1,Americas,Stage 1,2026-04-10,9
+2765,valorant-masters-london-2026,masters_london,Valorant Masters London 2026,International,Masters,2026-06-05,10
+2978,vct-2026-china-stage-2,china_stage_2,VCT 2026: China Stage 2,China,Stage 2,2026-07-09,11
+2776,vct-2026-pacific-stage-2,pacific_stage_2,VCT 2026: Pacific Stage 2,Pacific,Stage 2,2026-07-15,12
+2976,vct-2026-emea-stage-2,emea_stage_2,VCT 2026: EMEA Stage 2,EMEA,Stage 2,2026-07-15,13
+2977,vct-2026-americas-stage-2,americas_stage_2,VCT 2026: Americas Stage 2,Americas,Stage 2,2026-07-16,14
+2766,valorant-champions-2026,champions,Valorant Champions 2026,International,Champions,2026-09-24,15

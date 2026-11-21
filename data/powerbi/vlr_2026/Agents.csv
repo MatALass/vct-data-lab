@@ -3,6 +3,7 @@ astra,Astra,Controller,3
 breach,Breach,Initiator,2
 brimstone,Brimstone,Controller,3
 chamber,Chamber,Sentinel,4
+clove,Clove,Controller,3
 cypher,Cypher,Sentinel,4
 deadlock,Deadlock,Sentinel,4
 fade,Fade,Initiator,2
@@ -17,6 +18,7 @@ neon,Neon,Duelist,1
 omen,Omen,Controller,3
 phoenix,Phoenix,Duelist,1
 raze,Raze,Duelist,1
+reyna,Reyna,Duelist,1
 sage,Sage,Sentinel,4
 skye,Skye,Initiator,2
 sova,Sova,Initiator,2

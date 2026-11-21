@@ -111,49 +111,95 @@ def _extract_agents(row) -> list[str]:
 def _extract_player_and_team(row) -> tuple[str, str | None]:
     """Extract player and team without breaking multi-word player names.
 
-    VLR's stats cell often renders the player as a link and the team as a separate
-    small label. The previous fallback split the whole cell by whitespace and turned
-    a nickname such as ``lovers rock`` into player=``lovers`` and team=``rock``.
+    VLR renders the player cell as ``div.st-pl-name`` (nickname) and
+    ``div.st-pl-country`` (team tag). Reading these two nodes keeps a nickname
+    such as ``lovers rock`` whole; the old whitespace split turned it into
+    player=``lovers`` and team=``rock``.
     """
     player_cell = row.select_one("td.mod-player") or row.select_one("td:nth-of-type(1)")
     if player_cell is None:
         return "Unknown", None
 
-    player_link = player_cell.select_one("a[href*='/player/']")
-    if player_link is not None:
-        player = clean_text(player_link.get_text(" ", strip=True))
-        full_text = clean_text(player_cell.get_text(" ", strip=True))
+    name_node = player_cell.select_one(".st-pl-name, .text-of")
+    if name_node is not None:
+        player = clean_text(name_node.get_text(" ", strip=True))
+        team_node = player_cell.select_one(".st-pl-country, .stats-player-country, .mod-team")
+        team = clean_text(team_node.get_text(" ", strip=True)) if team_node else ""
+        return player or "Unknown", team or None
 
-        team = None
-        for selector in [".mod-team", ".stats-player-country", ".team", ".ge-text-light"]:
-            node = player_cell.select_one(selector)
-            candidate = clean_text(node.get_text(" ", strip=True) if node else "")
-            if candidate and candidate != player and len(candidate) <= 12:
-                team = candidate
-                break
-
-        if team is None and full_text.startswith(player):
-            remainder = clean_text(full_text[len(player):])
-            if remainder and remainder != player:
-                # Team tags are normally short abbreviations. Keep the whole remainder
-                # rather than the second token so multi-word names remain intact.
-                team = remainder.split()[0] if len(remainder.split()) == 1 else remainder
-
-        return _strip_team_suffix_from_player(player or "Unknown", team)
-
+    # Older markup without dedicated nodes: never split a nickname on spaces,
+    # the team tag is the last token only if it looks like a tag (no lowercase).
     text = clean_text(player_cell.get_text(" ", strip=True))
     if not text:
         return "Unknown", None
+    head, _, last = text.rpartition(" ")
+    if head and last and not any(c.islower() for c in last):
+        return head, last
+    return text, None
 
-    # Last-resort fallback for unexpected markup. If the second token is lowercase,
-    # it is more likely part of a multi-word nickname than a VCT team abbreviation.
-    chunks = text.split()
-    if len(chunks) >= 2 and chunks[1].islower():
-        return _strip_team_suffix_from_player(" ".join(chunks[:2]), " ".join(chunks[2:]) or None)
 
-    player = chunks[0]
-    team = chunks[1] if len(chunks) > 1 else None
-    return _strip_team_suffix_from_player(player, team)
+# Header text of the VLR stats table -> output column.
+HEADER_COLUMNS = {
+    "MAPS": "maps",
+    "RND": "rounds",
+    "R": "rating",
+    "R2.0": "rating",
+    "ACS": "acs",
+    "K:D": "kd",
+    "KAST": "kast",
+    "ADR": "adr",
+    "KPR": "kpr",
+    "APR": "apr",
+    "FKPR": "fkpr",
+    "FDPR": "fdpr",
+    "HS%": "hs_pct",
+    "FK": "fk",
+    "FD": "fd",
+}
+INT_COLUMNS = {"maps", "rounds", "fk", "fd"}
+
+
+def parse_stats_table(html: str) -> list[dict]:
+    """Rows of a VLR player stats page, columns located by their header text.
+
+    VLR added columns over time (MAPS, FK:FD, FK%...), so positions are not stable.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    table = soup.select_one("table.st-table, table.wf-table") or soup.find("table")
+    if table is None:
+        return []
+    headers = [clean_text(th.get_text(" ", strip=True)).upper() for th in table.select("thead th")]
+    positions = {HEADER_COLUMNS[h]: i for i, h in enumerate(headers) if h in HEADER_COLUMNS}
+
+    records: list[dict] = []
+    for row in table.select("tbody tr"):
+        cells = row.find_all("td")
+        if len(cells) < 6:
+            continue
+        player, team = _extract_player_and_team(row)
+        texts = [clean_text(c.get_text(" ", strip=True)) for c in cells]
+        values: dict = {}
+        for column, i in positions.items():
+            raw = texts[i] if i < len(texts) else None
+            values[column] = parse_int(raw) if column in INT_COLUMNS else parse_float(raw)
+        rounds = values.get("rounds")
+        if rounds and "fkpr" not in positions and values.get("fk") is not None:
+            values["fkpr"] = round(values["fk"] / rounds, 3)
+        if rounds and "fdpr" not in positions and values.get("fd") is not None:
+            values["fdpr"] = round(values["fd"] / rounds, 3)
+        agents = _extract_agents(row)
+        role, confidence = infer_player_role(agents)
+        records.append(
+            {
+                "player": player,
+                "team": team,
+                "agents": ",".join(agents),
+                "inferred_role": role,
+                "role_confidence": confidence,
+                **{column: values.get(column) for column in ["maps", "rounds", *STAT_COLUMNS]},
+            }
+        )
+    return records
 
 
 def scrape_vlr_player_stats(query: VlrStatsQuery, *, polite_delay: float = 0.7) -> pd.DataFrame:
@@ -167,42 +213,10 @@ def scrape_vlr_player_stats(query: VlrStatsQuery, *, polite_delay: float = 0.7) 
     response = requests.get(url, headers=DEFAULT_HEADERS, timeout=30)
     response.raise_for_status()
 
-    soup = BeautifulSoup(response.text, "lxml")
-    rows = soup.select("table.wf-table tr")
-    records: list[dict] = []
-
-    for row in rows:
-        cells = row.find_all("td")
-        if len(cells) < 6:
-            continue
-
-        player, team = _extract_player_and_team(row)
-        agents = _extract_agents(row)
-        role, confidence = infer_player_role(agents)
-        cell_texts = [clean_text(cell.get_text(" ", strip=True)) for cell in cells]
-
-        # VLR stats table generally starts with player, agents, rounds, rating, ACS, K:D, ...
-        numeric = cell_texts[2:]
-        values = {column: None for column in STAT_COLUMNS}
-        rounds = parse_int(numeric[0]) if len(numeric) >= 1 else None
-
-        for column, raw_value in zip(STAT_COLUMNS, numeric[1:], strict=False):
-            values[column] = parse_float(raw_value)
-
-        records.append(
-            {
-                "player": player,
-                "team": team,
-                "agents": ",".join(agents),
-                "inferred_role": role,
-                "role_confidence": confidence,
-                "rounds": rounds,
-                "source_url": url,
-                "event_id": query.event_id,
-                **values,
-            }
-        )
-
+    records = [
+        {**r, "source_url": url, "event_id": query.event_id}
+        for r in parse_stats_table(response.text)
+    ]
     df = pd.DataFrame(records)
     if df.empty:
         return df
@@ -213,8 +227,9 @@ def scrape_vlr_player_stats(query: VlrStatsQuery, *, polite_delay: float = 0.7) 
     )
 
 
-
-def scrape_vct_events(events: list[VctEvent], *, min_rounds: int = 0, timespan: str = "all") -> pd.DataFrame:
+def scrape_vct_events(
+    events: list[VctEvent], *, min_rounds: int = 0, timespan: str = "all"
+) -> pd.DataFrame:
     """Scrape only configured VCT events and add region/event metadata.
 
     This is stricter than using VLR's global stats page: every returned player comes
@@ -223,7 +238,12 @@ def scrape_vct_events(events: list[VctEvent], *, min_rounds: int = 0, timespan: 
     frames: list[pd.DataFrame] = []
 
     for event in events:
-        query = VlrStatsQuery(event_id=event.event_id, direct_url=event.stats_url, min_rounds=min_rounds, timespan=timespan)
+        query = VlrStatsQuery(
+            event_id=event.event_id,
+            direct_url=event.stats_url,
+            min_rounds=min_rounds,
+            timespan=timespan,
+        )
         frame = scrape_vlr_player_stats(query)
         if frame.empty:
             continue
@@ -244,6 +264,7 @@ def scrape_vct_events(events: list[VctEvent], *, min_rounds: int = 0, timespan: 
         ["vct_region", "inferred_role", "rating", "acs", "player"],
         ascending=[True, True, False, False, True],
     )
+
 
 def scrape_multiple_events(event_ids: list[int], *, min_rounds: int = 100) -> pd.DataFrame:
     frames: list[pd.DataFrame] = []

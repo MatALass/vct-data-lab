@@ -6,10 +6,6 @@ relationship e6f1fe25-60f9-58a1-b7a4-feda69fb9583
 	fromColumn: Compositions.'Équipe'
 	toColumn: Equipes.'Équipe'
 
-relationship d184a0c9-564a-5b8d-8c3f-9b11912f1e7d
-	fromColumn: Joueurs.'Équipe'
-	toColumn: Equipes.'Équipe'
-
 relationship a03346c5-59a0-5fb6-bd4b-4acb1a83ee94
 	fromColumn: Compositions.'Événement'
 	toColumn: Evenements.'Événement'
@@ -41,6 +37,10 @@ relationship 5b2b6c3d-c37f-5ab7-abc8-29f27849cb45
 relationship 7c255ef7-970f-5fdf-96bc-94108ffa1b58
 	fromColumn: Paires.Map
 	toColumn: Maps.Map
+
+relationship d184a0c9-564a-5b8d-8c3f-9b11912f1e7d
+	fromColumn: Joueurs.'Équipe'
+	toColumn: Equipes.'Équipe'
 
 relationship 3a4a5e7c-8210-585a-991b-f0693de05a15
 	fromColumn: Joueurs.'Événement'

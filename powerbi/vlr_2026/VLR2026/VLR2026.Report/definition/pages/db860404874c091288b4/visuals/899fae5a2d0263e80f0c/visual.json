@@ -1,0 +1,96 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "899fae5a2d0263e80f0c",
+  "position": {
+    "x": 648.0,
+    "y": 208,
+    "z": 9000,
+    "width": 616.0,
+    "height": 240.0,
+    "tabOrder": 9000
+  },
+  "visual": {
+    "visualType": "clusteredBarChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Maps"
+                    }
+                  },
+                  "Property": "Map"
+                }
+              },
+              "queryRef": "Maps.Map",
+              "nativeQueryRef": "Map"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Compositions"
+                    }
+                  },
+                  "Property": "Diversité des compos"
+                }
+              },
+              "queryRef": "Compositions.Diversité des compos",
+              "nativeQueryRef": "Diversité des compos"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "Compositions"
+                  }
+                },
+                "Property": "Diversité des compos"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Diversité des compos par map'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

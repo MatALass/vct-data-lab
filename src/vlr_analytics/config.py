@@ -11,18 +11,18 @@ REPORTS_DIR = PROJECT_ROOT / "reports"
 DATA_REPORTS_DIR = DATA_DIR / "reports"
 EXPECTED_AGENTS_PER_COMP = 5
 
-EVENTS = {
-    "americas_stage_1": "https://www.vlr.gg/event/agents/2860/vct-2026-americas-stage-1",
-    "china_stage_1": "https://www.vlr.gg/event/agents/2864/vct-2026-china-stage-1",
-    "pacific_stage_1": "https://www.vlr.gg/event/agents/2775/vct-2026-pacific-stage-1",
-    "emea_stage_1": "https://www.vlr.gg/event/agents/2863/vct-2026-emea-stage-1",
-}
+VLR_BASE_URL = "https://www.vlr.gg"
+VCT_SEASON = 2026  # events are discovered on https://www.vlr.gg/vct-<season>
 
 RAW_SUMMARY = RAW_DIR / "vlr_agents_summary_raw.csv"
 RAW_MATRIX = RAW_DIR / "vlr_agents_matrix_raw.csv"
+RAW_EVENTS = RAW_DIR / "vlr_events.csv"
+RAW_TEAMS = RAW_DIR / "vlr_teams.csv"
+RAW_PLAYERS = RAW_DIR / "vlr_players_raw.csv"
 
 PROCESSED_SUMMARY = PROCESSED_DIR / "vlr_agents_summary_processed.csv"
 PROCESSED_MATRIX = PROCESSED_DIR / "vlr_agents_matrix_processed.csv"
+PROCESSED_SEASON_PLAYERS = PROCESSED_DIR / "vlr_season_players.csv"
 
 AGENT_MAP_STATS = MARTS_DIR / "agent_map_stats.csv"
 TEAM_COMPOSITIONS = MARTS_DIR / "team_compositions.csv"

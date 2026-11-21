@@ -26,6 +26,22 @@ table Evenements
 
 		annotation SummarizationSetBy = Automatic
 
+	column Phase
+		dataType: string
+		lineageTag: 7b3dde5e-7aea-58a6-90ed-7345903dbeb5
+		summarizeBy: none
+		sourceColumn: Phase
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Étape'
+		dataType: string
+		lineageTag: 0d09f6b9-d253-5e8c-888c-ba35fd940c54
+		summarizeBy: none
+		sourceColumn: Étape
+
+		annotation SummarizationSetBy = Automatic
+
 	column Ordre
 		dataType: int64
 		formatString: #,##0
@@ -42,7 +58,7 @@ table Evenements
 				let
 				    Source = Csv.Document(File.Contents(DataFolder & "Evenements.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
 				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
-				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"Événement", type text}, {"Nom événement", type text}, {"Région", type text}, {"Ordre", Int64.Type}}, "en-US")
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"Événement", type text}, {"Nom événement", type text}, {"Région", type text}, {"Phase", type text}, {"Étape", type text}, {"Ordre", Int64.Type}}, "en-US")
 				in
 				    #"Changed Type"
 

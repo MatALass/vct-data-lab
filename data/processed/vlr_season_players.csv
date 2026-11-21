@@ -1,0 +1,1023 @@
+player,team_tag,agents,inferred_role,role_confidence,maps,rounds,rating,acs,kd,kast,adr,kpr,apr,fkpr,fdpr,hs_pct,event,event_id,team,event_name,region,phase
+johnqt,SEN,"omen,astra,tejo",Controller,0.667,8,190,1.28,215.0,1.39,79.0,141.9,0.79,0.3,0.042,0.026,31.0,americas_kickoff,2682,Sentinels,VCT 2026: Americas Kickoff,Americas,Kickoff
+dgzin,EG,"yoru,waylay,neon",Duelist,1.0,11,256,1.22,241.0,1.36,73.0,155.5,0.89,0.16,0.207,0.133,28.0,americas_kickoff,2682,Evil Geniuses,VCT 2026: Americas Kickoff,Americas,Kickoff
+valyn,G2,"astra,brimstone,omen",Controller,1.0,13,255,1.18,227.0,1.27,79.0,145.3,0.81,0.35,0.086,0.035,27.0,americas_kickoff,2682,G2 Esports,VCT 2026: Americas Kickoff,Americas,Kickoff
+koalanoob,FUR,"yoru,omen,jett",Flex,0.667,13,261,1.16,238.0,1.24,73.0,148.7,0.86,0.2,0.195,0.153,24.0,americas_kickoff,2682,FURIA,VCT 2026: Americas Kickoff,Americas,Kickoff
+Neon,LEV,"yoru,chamber,jett",Duelist,1.0,6,127,1.14,208.0,1.26,75.0,135.3,0.76,0.14,0.22,0.094,25.0,americas_kickoff,2682,LEVIATÁN,VCT 2026: Americas Kickoff,Americas,Kickoff
+Demon1,ENVY,"chamber,jett,astra",Flex,1.0,7,168,1.13,237.0,1.23,73.0,156.1,0.85,0.15,0.131,0.125,37.0,americas_kickoff,2682,ENVY,VCT 2026: Americas Kickoff,Americas,Kickoff
+lukxo,LOUD,"killjoy,chamber,viper",Sentinel,1.0,7,146,1.13,230.0,1.21,71.0,151.2,0.83,0.14,0.13,0.178,31.0,americas_kickoff,2682,LOUD,VCT 2026: Americas Kickoff,Americas,Kickoff
+BABYBAY,G2,"chamber,viper,yoru",Sentinel,0.667,13,255,1.1,218.0,1.21,72.0,141.0,0.78,0.22,0.149,0.11,19.0,americas_kickoff,2682,G2 Esports,VCT 2026: Americas Kickoff,Americas,Kickoff
+bang,100T,"viper,omen,astra",Controller,0.667,20,440,1.1,189.0,1.1,75.0,122.3,0.68,0.32,0.055,0.061,36.0,americas_kickoff,2682,100 Thieves,VCT 2026: Americas Kickoff,Americas,Kickoff
+Cryocells,100T,"chamber,veto,viper",Sentinel,1.0,20,440,1.1,217.0,1.22,73.0,141.2,0.8,0.1,0.139,0.095,29.0,americas_kickoff,2682,100 Thieves,VCT 2026: Americas Kickoff,Americas,Kickoff
+Inspire,ENVY,"viper,astra,killjoy",Sentinel,0.667,11,256,1.09,203.0,1.11,69.0,136.3,0.71,0.22,0.082,0.086,33.0,americas_kickoff,2682,ENVY,VCT 2026: Americas Kickoff,Americas,Kickoff
+brawk,NRG,"sova,tejo",Initiator,1.0,16,319,1.09,193.0,1.08,71.0,131.0,0.67,0.27,0.069,0.056,21.0,americas_kickoff,2682,NRG,VCT 2026: Americas Kickoff,Americas,Kickoff
+trent,G2,"skye,fade,tejo",Initiator,1.0,13,255,1.09,193.0,1.11,76.0,129.0,0.69,0.33,0.047,0.047,28.0,americas_kickoff,2682,G2 Esports,VCT 2026: Americas Kickoff,Americas,Kickoff
+Verno,MIBR,"sova,fade",Initiator,1.0,18,364,1.09,205.0,1.13,79.0,134.5,0.71,0.29,0.071,0.052,29.0,americas_kickoff,2682,MIBR,VCT 2026: Americas Kickoff,Americas,Kickoff
+mada,NRG,"waylay,yoru,neon",Duelist,1.0,16,319,1.08,220.0,1.16,71.0,138.8,0.78,0.21,0.194,0.157,30.0,americas_kickoff,2682,NRG,VCT 2026: Americas Kickoff,Americas,Kickoff
+v1c,C9,"astra,omen,viper",Controller,0.667,16,350,1.08,198.0,1.1,77.0,127.3,0.7,0.34,0.083,0.08,27.0,americas_kickoff,2682,Cloud9,VCT 2026: Americas Kickoff,Americas,Kickoff
+skuba,NRG,"viper,astra,killjoy",Sentinel,0.667,16,319,1.07,187.0,1.09,76.0,127.2,0.66,0.23,0.078,0.066,30.0,americas_kickoff,2682,NRG,VCT 2026: Americas Kickoff,Americas,Kickoff
+keiko,NRG,"omen,killjoy,astra",Controller,0.667,16,319,1.07,198.0,1.09,73.0,127.8,0.73,0.25,0.085,0.075,36.0,americas_kickoff,2682,NRG,VCT 2026: Americas Kickoff,Americas,Kickoff
+artzin,FUR,"astra,omen,kayo",Controller,0.667,13,261,1.06,190.0,1.11,75.0,123.2,0.69,0.36,0.073,0.077,30.0,americas_kickoff,2682,FURIA,VCT 2026: Americas Kickoff,Americas,Kickoff
+OXY,C9,"chamber,neon,jett",Duelist,1.0,11,230,1.06,230.0,1.15,68.0,144.7,0.85,0.11,0.213,0.165,27.0,americas_kickoff,2682,Cloud9,VCT 2026: Americas Kickoff,Americas,Kickoff
+eeiu,FUR,"sova,fade",Initiator,1.0,13,261,1.05,175.0,1.1,74.0,117.6,0.65,0.28,0.046,0.054,26.0,americas_kickoff,2682,FURIA,VCT 2026: Americas Kickoff,Americas,Kickoff
+supamen,EG,"viper,astra",Flex,0.5,11,256,1.04,185.0,1.0,73.0,124.2,0.64,0.34,0.09,0.051,37.0,americas_kickoff,2682,Evil Geniuses,VCT 2026: Americas Kickoff,Americas,Kickoff
+Xeppaa,C9,"sova,skye,tejo",Initiator,1.0,16,350,1.04,195.0,1.04,76.0,127.6,0.68,0.33,0.04,0.043,25.0,americas_kickoff,2682,Cloud9,VCT 2026: Americas Kickoff,Americas,Kickoff
+leaf,G2,"viper,breach,fade",Initiator,0.667,13,255,1.04,202.0,1.09,73.0,134.7,0.73,0.25,0.075,0.09,25.0,americas_kickoff,2682,G2 Esports,VCT 2026: Americas Kickoff,Americas,Kickoff
+zekken,MIBR,"yoru,omen,astra",Flex,0.667,18,364,1.03,203.0,1.01,75.0,131.1,0.69,0.32,0.137,0.113,27.0,americas_kickoff,2682,MIBR,VCT 2026: Americas Kickoff,Americas,Kickoff
+Rossy,ENVY,"omen,viper,astra",Controller,0.667,13,304,1.02,188.0,1.02,70.0,120.8,0.67,0.32,0.053,0.056,25.0,americas_kickoff,2682,ENVY,VCT 2026: Americas Kickoff,Americas,Kickoff
+keznit,ENVY,"waylay,neon,jett",Duelist,1.0,13,304,1.01,213.0,1.04,72.0,138.5,0.75,0.2,0.145,0.141,27.0,americas_kickoff,2682,ENVY,VCT 2026: Americas Kickoff,Americas,Kickoff
+kiNgg,LEV,"brimstone,omen,astra",Controller,1.0,11,231,1.01,190.0,1.03,68.0,120.5,0.68,0.25,0.061,0.078,33.0,americas_kickoff,2682,LEVIATÁN,VCT 2026: Americas Kickoff,Americas,Kickoff
+PxS,LEV,"viper,chamber",Sentinel,1.0,5,104,1.01,174.0,0.98,67.0,116.8,0.62,0.19,0.087,0.058,23.0,americas_kickoff,2682,LEVIATÁN,VCT 2026: Americas Kickoff,Americas,Kickoff
+vora,100T,"fade,skye,tejo",Initiator,1.0,20,440,0.99,189.0,0.95,74.0,125.1,0.65,0.34,0.068,0.068,29.0,americas_kickoff,2682,100 Thieves,VCT 2026: Americas Kickoff,Americas,Kickoff
+aspas,MIBR,"jett,raze,waylay",Duelist,1.0,18,364,0.98,196.0,1.11,70.0,130.7,0.72,0.12,0.132,0.135,26.0,americas_kickoff,2682,MIBR,VCT 2026: Americas Kickoff,Americas,Kickoff
+Asuna,100T,"sage,kayo,brimstone",Flex,1.0,20,440,0.97,172.0,0.89,76.0,107.1,0.58,0.49,0.052,0.077,22.0,americas_kickoff,2682,100 Thieves,VCT 2026: Americas Kickoff,Americas,Kickoff
+Mazino,MIBR,"kayo,omen,astra",Controller,0.667,18,364,0.97,197.0,0.96,69.0,129.5,0.69,0.34,0.071,0.091,27.0,americas_kickoff,2682,MIBR,VCT 2026: Americas Kickoff,Americas,Kickoff
+bao,EG,"killjoy,veto,omen",Sentinel,0.667,11,256,0.96,193.0,0.93,71.0,132.5,0.66,0.28,0.066,0.102,28.0,americas_kickoff,2682,Evil Geniuses,VCT 2026: Americas Kickoff,Americas,Kickoff
+NagZ,KRÜ,"viper,killjoy,chamber",Sentinel,1.0,8,164,0.95,156.0,0.83,66.0,111.5,0.56,0.24,0.055,0.098,27.0,americas_kickoff,2682,KRÜ Esports,VCT 2026: Americas Kickoff,Americas,Kickoff
+penny,C9,"raze,neon,viper",Sentinel,0.667,16,350,0.95,196.0,0.99,70.0,128.0,0.69,0.23,0.111,0.16,21.0,americas_kickoff,2682,Cloud9,VCT 2026: Americas Kickoff,Americas,Kickoff
+Reduxx,SEN,"yoru,waylay,omen",Flex,0.667,8,190,0.95,193.0,0.96,67.0,127.4,0.68,0.22,0.179,0.168,33.0,americas_kickoff,2682,Sentinels,VCT 2026: Americas Kickoff,Americas,Kickoff
+mta,KRÜ,"yoru,kayo,waylay",Flex,0.667,8,164,0.94,188.0,0.91,70.0,114.7,0.66,0.2,0.11,0.104,29.0,americas_kickoff,2682,KRÜ Esports,VCT 2026: Americas Kickoff,Americas,Kickoff
+nerve,FUR,"viper,tejo,astra",Flex,1.0,13,261,0.93,169.0,0.92,73.0,114.8,0.59,0.32,0.042,0.042,21.0,americas_kickoff,2682,FURIA,VCT 2026: Americas Kickoff,Americas,Kickoff
+blowz,LEV,"fade,tejo,sova",Initiator,1.0,11,231,0.93,174.0,0.94,71.0,114.8,0.61,0.22,0.035,0.052,26.0,americas_kickoff,2682,LEVIATÁN,VCT 2026: Americas Kickoff,Americas,Kickoff
+Timotino,100T,"waylay,neon,jett",Duelist,1.0,20,440,0.93,220.0,0.95,67.0,145.3,0.75,0.22,0.193,0.191,28.0,americas_kickoff,2682,100 Thieves,VCT 2026: Americas Kickoff,Americas,Kickoff
+alym,FUR,"waylay,yoru,neon",Duelist,1.0,13,261,0.93,196.0,0.99,72.0,124.3,0.69,0.24,0.176,0.142,29.0,americas_kickoff,2682,FURIA,VCT 2026: Americas Kickoff,Americas,Kickoff
+Darker,LOUD,"viper,kayo,tejo",Initiator,0.667,7,146,0.92,191.0,0.88,69.0,120.4,0.67,0.29,0.096,0.089,24.0,americas_kickoff,2682,LOUD,VCT 2026: Americas Kickoff,Americas,Kickoff
+C0M,EG,"sova,fade",Initiator,1.0,11,256,0.9,161.0,0.84,70.0,110.0,0.55,0.29,0.062,0.078,21.0,americas_kickoff,2682,Evil Geniuses,VCT 2026: Americas Kickoff,Americas,Kickoff
+Sato,LEV,"waylay,yoru",Duelist,1.0,11,231,0.9,195.0,0.96,67.0,130.8,0.69,0.21,0.134,0.203,31.0,americas_kickoff,2682,LEVIATÁN,VCT 2026: Americas Kickoff,Americas,Kickoff
+Kyu,SEN,"skye,sova,fade",Initiator,1.0,8,190,0.9,176.0,0.86,68.0,114.0,0.6,0.28,0.053,0.089,21.0,americas_kickoff,2682,Sentinels,VCT 2026: Americas Kickoff,Americas,Kickoff
+Ethan,NRG,"tejo,skye,astra",Initiator,0.667,16,319,0.89,171.0,0.83,71.0,115.1,0.58,0.35,0.107,0.113,24.0,americas_kickoff,2682,NRG,VCT 2026: Americas Kickoff,Americas,Kickoff
+benG,KRÜ,"astra,viper,omen",Controller,0.667,8,164,0.89,167.0,0.78,66.0,103.5,0.57,0.27,0.073,0.061,32.0,americas_kickoff,2682,KRÜ Esports,VCT 2026: Americas Kickoff,Americas,Kickoff
+Okeanos,EG,"breach,yoru,waylay",Flex,0.667,11,256,0.88,174.0,0.92,67.0,111.5,0.64,0.27,0.09,0.113,34.0,americas_kickoff,2682,Evil Geniuses,VCT 2026: Americas Kickoff,Americas,Kickoff
+pANcada,LOUD,"astra,omen,harbor",Controller,1.0,7,146,0.87,157.0,0.78,76.0,110.8,0.53,0.32,0.055,0.034,30.0,americas_kickoff,2682,LOUD,VCT 2026: Americas Kickoff,Americas,Kickoff
+infiltrator,KRÜ,"neon,yoru,jett",Duelist,1.0,8,164,0.86,208.0,0.84,68.0,133.4,0.7,0.21,0.14,0.189,27.0,americas_kickoff,2682,KRÜ Esports,VCT 2026: Americas Kickoff,Americas,Kickoff
+jawgemo,G2,"waylay,phoenix,neon",Duelist,1.0,13,255,0.85,196.0,0.85,71.0,127.5,0.65,0.3,0.18,0.18,20.0,americas_kickoff,2682,G2 Esports,VCT 2026: Americas Kickoff,Americas,Kickoff
+cortezia,SEN,"viper,astra,killjoy",Sentinel,0.667,8,190,0.85,177.0,0.85,67.0,126.2,0.59,0.2,0.074,0.079,31.0,americas_kickoff,2682,Sentinels,VCT 2026: Americas Kickoff,Americas,Kickoff
+Eggsterr,ENVY,yoru,Duelist,1.0,13,304,0.85,181.0,0.88,69.0,115.5,0.64,0.23,0.109,0.138,27.0,americas_kickoff,2682,ENVY,VCT 2026: Americas Kickoff,Americas,Kickoff
+Zellsis,C9,"kayo,viper,breach",Initiator,0.667,16,350,0.83,149.0,0.71,72.0,93.3,0.49,0.49,0.054,0.077,18.0,americas_kickoff,2682,Cloud9,VCT 2026: Americas Kickoff,Americas,Kickoff
+P0PPIN,ENVY,"sova,fade,skye",Initiator,1.0,13,304,0.83,180.0,0.84,70.0,114.6,0.62,0.27,0.109,0.086,29.0,americas_kickoff,2682,ENVY,VCT 2026: Americas Kickoff,Americas,Kickoff
+tex,MIBR,"viper,killjoy,cypher",Sentinel,1.0,18,364,0.82,167.0,0.84,69.0,108.4,0.6,0.21,0.085,0.113,30.0,americas_kickoff,2682,MIBR,VCT 2026: Americas Kickoff,Americas,Kickoff
+spike,LEV,"viper,waylay,kayo",Flex,1.0,11,231,0.81,176.0,0.79,69.0,112.8,0.59,0.31,0.104,0.095,26.0,americas_kickoff,2682,LEVIATÁN,VCT 2026: Americas Kickoff,Americas,Kickoff
+N4RRATE,SEN,"waylay,neon,chamber",Duelist,1.0,8,190,0.8,187.0,0.79,69.0,124.3,0.62,0.23,0.137,0.142,22.0,americas_kickoff,2682,Sentinels,VCT 2026: Americas Kickoff,Americas,Kickoff
+cauanzin,LOUD,"sova,fade",Initiator,1.0,7,146,0.79,168.0,0.77,71.0,109.8,0.58,0.27,0.048,0.11,24.0,americas_kickoff,2682,LOUD,VCT 2026: Americas Kickoff,Americas,Kickoff
+Virtyy,LOUD,"yoru,jett,neon",Duelist,1.0,7,146,0.75,175.0,0.82,64.0,107.7,0.64,0.16,0.089,0.171,21.0,americas_kickoff,2682,LOUD,VCT 2026: Americas Kickoff,Americas,Kickoff
+Governor,KRÜ,"sova,fade,skye",Initiator,1.0,8,164,0.71,150.0,0.65,63.0,100.6,0.51,0.28,0.049,0.122,24.0,americas_kickoff,2682,KRÜ Esports,VCT 2026: Americas Kickoff,Americas,Kickoff
+hiro,NAVI,"tejo,viper,killjoy",Sentinel,0.667,12,261,1.3,238.0,1.44,74.0,158.8,0.87,0.23,0.092,0.077,31.0,emea_kickoff,2684,Natus Vincere,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+marteen,M8,yoru,Duelist,1.0,16,370,1.27,255.0,1.38,76.0,160.5,0.91,0.25,0.178,0.114,31.0,emea_kickoff,2684,Gentle Mates,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+lovers rock,BBL,yoru,Duelist,1.0,12,262,1.18,246.0,1.31,75.0,153.9,0.89,0.19,0.187,0.107,23.0,emea_kickoff,2684,BBL Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Alfajer,FNC,"vyse,raze,killjoy",Sentinel,0.667,20,474,1.17,240.0,1.22,75.0,160.7,0.84,0.17,0.158,0.091,34.0,emea_kickoff,2684,FNATIC,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Minny,M8,"viper,brimstone,cypher",Sentinel,0.667,16,370,1.15,214.0,1.22,75.0,140.8,0.79,0.22,0.1,0.084,40.0,emea_kickoff,2684,Gentle Mates,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+seven,PCF,"kayo,yoru,sage",Flex,1.0,8,169,1.13,219.0,1.04,67.0,141.7,0.75,0.36,0.136,0.107,30.0,emea_kickoff,2684,PCIFIC Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Chronicle,VIT,"viper,chamber,veto",Sentinel,1.0,14,280,1.12,210.0,1.22,71.0,141.8,0.76,0.19,0.107,0.086,27.0,emea_kickoff,2684,Team Vitality,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Derke,VIT,"jett,phoenix,waylay",Duelist,1.0,14,280,1.11,236.0,1.14,71.0,155.4,0.82,0.24,0.182,0.143,26.0,emea_kickoff,2684,Team Vitality,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Loita,BBL,"omen,viper,astra",Controller,0.667,12,262,1.11,191.0,1.13,73.0,129.1,0.68,0.37,0.065,0.092,39.0,emea_kickoff,2684,BBL Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Veqaj,FNC,"viper,kayo,jett",Flex,1.0,20,474,1.1,220.0,1.11,71.0,145.0,0.76,0.39,0.097,0.097,33.0,emea_kickoff,2684,FNATIC,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+dos9,KC,"omen,astra",Controller,1.0,11,230,1.1,200.0,1.13,80.0,127.9,0.72,0.4,0.052,0.096,33.0,emea_kickoff,2684,Karmine Corp,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+MiniBoo,TL,"neon,waylay,yoru",Duelist,1.0,22,477,1.09,233.0,1.13,74.0,150.2,0.81,0.22,0.182,0.155,32.0,emea_kickoff,2684,Team Liquid,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Ruxic,NAVI,"viper,chamber,omen",Sentinel,0.667,12,261,1.08,209.0,1.13,69.0,138.8,0.74,0.21,0.123,0.119,23.0,emea_kickoff,2684,Natus Vincere,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+al0rante,PCF,"brimstone,viper,astra",Controller,0.667,8,169,1.07,230.0,1.06,69.0,148.2,0.82,0.21,0.059,0.095,45.0,emea_kickoff,2684,PCIFIC Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Lar0k,BBL,"neon,waylay,jett",Duelist,1.0,12,262,1.07,227.0,1.12,71.0,146.4,0.81,0.23,0.164,0.134,32.0,emea_kickoff,2684,BBL Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+nAts,TL,"viper,cypher,killjoy",Sentinel,1.0,22,477,1.06,209.0,1.12,72.0,144.8,0.74,0.21,0.078,0.096,27.0,emea_kickoff,2684,Team Liquid,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+wayne,TL,"omen,brimstone,astra",Controller,1.0,19,405,1.06,190.0,1.06,79.0,124.7,0.69,0.39,0.054,0.059,34.0,emea_kickoff,2684,Team Liquid,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+benjyfishy,TH,"cypher,viper,veto",Sentinel,1.0,14,285,1.04,205.0,1.06,66.0,133.8,0.75,0.23,0.116,0.088,38.0,emea_kickoff,2684,Team Heretics,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+crashies,FNC,"sova,fade",Initiator,1.0,20,474,1.03,190.0,1.06,72.0,126.4,0.69,0.24,0.046,0.046,32.0,emea_kickoff,2684,FNATIC,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+SUYGETSU,KC,"astra,viper,cypher",Sentinel,0.667,11,230,1.02,197.0,1.07,70.0,133.2,0.7,0.24,0.091,0.078,36.0,emea_kickoff,2684,Karmine Corp,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Kicks,TL,"astra,brimstone,omen",Controller,1.0,3,72,1.02,165.0,0.98,69.0,114.5,0.57,0.4,0.069,0.028,26.0,emea_kickoff,2684,Team Liquid,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Flickless,GX,"kayo,viper,breach",Initiator,0.667,12,262,1.0,192.0,0.96,69.0,120.1,0.67,0.4,0.088,0.065,27.0,emea_kickoff,2684,GIANTX,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+LewN,KC,"yoru,waylay,jett",Duelist,1.0,11,230,1.0,213.0,1.05,71.0,134.8,0.77,0.16,0.187,0.17,34.0,emea_kickoff,2684,Karmine Corp,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+kamo,TL,"yoru,waylay,sova",Flex,0.667,22,477,0.99,202.0,1.01,73.0,132.1,0.71,0.26,0.103,0.124,36.0,emea_kickoff,2684,Team Liquid,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+ComeBack,TH,"neon,jett,raze",Duelist,1.0,14,285,0.99,216.0,0.98,68.0,138.4,0.75,0.19,0.175,0.137,32.0,emea_kickoff,2684,Team Heretics,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+xeus,FUT,"waylay,neon,raze",Duelist,1.0,8,187,0.98,211.0,1.01,68.0,133.2,0.76,0.13,0.182,0.16,41.0,emea_kickoff,2684,FUT Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+audaz,ULF,"omen,astra,viper",Controller,0.667,9,175,0.98,187.0,0.88,73.0,119.1,0.65,0.31,0.08,0.063,43.0,emea_kickoff,2684,ULF Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Boo,TH,"omen,brimstone,astra",Controller,1.0,14,285,0.97,166.0,0.9,77.0,105.9,0.59,0.42,0.06,0.053,32.0,emea_kickoff,2684,Team Heretics,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Cloud,GX,"sova,skye,tejo",Initiator,1.0,12,262,0.97,206.0,0.97,74.0,140.1,0.7,0.28,0.061,0.076,26.0,emea_kickoff,2684,GIANTX,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+MrFaliN,FUT,"sova,omen,fade",Initiator,0.667,8,187,0.97,178.0,0.9,65.0,116.6,0.63,0.33,0.07,0.102,33.0,emea_kickoff,2684,FUT Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+RieNs,TH,"sova,fade,gekko",Initiator,1.0,14,285,0.97,198.0,0.99,69.0,133.9,0.72,0.23,0.095,0.063,37.0,emea_kickoff,2684,Team Heretics,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+bipo,M8,"waylay,neon,raze",Duelist,1.0,16,370,0.97,202.0,1.05,69.0,132.6,0.73,0.19,0.111,0.151,26.0,emea_kickoff,2684,Gentle Mates,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+purp0,TL,"skye,sova,fade",Initiator,1.0,22,477,0.96,169.0,0.97,73.0,110.5,0.61,0.23,0.08,0.069,44.0,emea_kickoff,2684,Team Liquid,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+PROFEK,VIT,"astra,omen,brimstone",Controller,1.0,14,280,0.96,173.0,1.01,74.0,113.3,0.63,0.29,0.068,0.057,29.0,emea_kickoff,2684,Team Vitality,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Avez,KC,"tejo,phoenix,kayo",Flex,0.667,11,230,0.96,205.0,0.95,70.0,133.4,0.7,0.32,0.1,0.135,26.0,emea_kickoff,2684,Karmine Corp,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Jamppi,VIT,"yoru,tejo,sova",Flex,0.667,14,280,0.96,202.0,1.02,67.0,130.0,0.73,0.19,0.114,0.121,32.0,emea_kickoff,2684,Team Vitality,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Wo0t,TH,"yoru,fade,kayo",Flex,0.667,14,285,0.96,192.0,0.94,76.0,126.1,0.65,0.29,0.116,0.095,31.0,emea_kickoff,2684,Team Heretics,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+kaajak,FNC,"yoru,jett,waylay",Duelist,1.0,20,474,0.95,204.0,1.03,65.0,129.5,0.73,0.15,0.173,0.173,32.0,emea_kickoff,2684,FNATIC,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+starxo,M8,"fade,sova",Initiator,1.0,16,370,0.94,179.0,0.93,69.0,120.6,0.62,0.27,0.068,0.062,25.0,emea_kickoff,2684,Gentle Mates,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+westside,GX,"chamber,sage,viper",Sentinel,1.0,12,262,0.94,191.0,0.96,67.0,129.5,0.69,0.14,0.122,0.095,37.0,emea_kickoff,2684,GIANTX,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+grubinho,GX,"astra,omen,brimstone",Controller,1.0,12,262,0.92,175.0,0.88,69.0,112.6,0.61,0.35,0.076,0.08,29.0,emea_kickoff,2684,GIANTX,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+GLYPH,M8,astra,Controller,1.0,16,370,0.91,159.0,0.89,73.0,101.7,0.56,0.36,0.068,0.062,22.0,emea_kickoff,2684,Gentle Mates,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+ara,GX,"raze,neon,waylay",Duelist,1.0,12,262,0.9,182.0,0.93,68.0,118.4,0.66,0.16,0.164,0.172,30.0,emea_kickoff,2684,GIANTX,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+nekky,ULF,"sova,fade,skye",Initiator,1.0,9,175,0.9,195.0,0.88,67.0,130.8,0.66,0.23,0.057,0.057,27.0,emea_kickoff,2684,ULF Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+yetujey,FUT,"waylay,cypher,omen",Flex,1.0,8,187,0.89,176.0,0.83,68.0,119.2,0.58,0.21,0.07,0.118,28.0,emea_kickoff,2684,FUT Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+NINJA,PCF,"fade,tejo,sova",Initiator,1.0,8,169,0.89,181.0,0.87,68.0,121.6,0.64,0.26,0.059,0.089,26.0,emea_kickoff,2684,PCIFIC Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Rosé,BBL,"sova,fade",Initiator,1.0,12,262,0.88,170.0,0.89,71.0,120.1,0.6,0.23,0.042,0.046,25.0,emea_kickoff,2684,BBL Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+sheydos,KC,"sova,skye,fade",Initiator,1.0,11,230,0.86,157.0,0.83,73.0,101.7,0.55,0.27,0.043,0.048,30.0,emea_kickoff,2684,Karmine Corp,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+qpert,PCF,"omen,astra",Controller,1.0,8,169,0.86,144.0,0.73,70.0,95.3,0.49,0.3,0.047,0.095,31.0,emea_kickoff,2684,PCIFIC Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+sociablEE,NAVI,"skye,omen,yoru",Flex,1.0,12,261,0.85,172.0,0.85,69.0,112.0,0.61,0.29,0.05,0.107,25.0,emea_kickoff,2684,Natus Vincere,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+KROSTALY,FUT,"fade,tejo,kayo",Initiator,1.0,8,187,0.85,175.0,0.84,70.0,113.9,0.63,0.17,0.07,0.08,31.0,emea_kickoff,2684,FUT Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Favian,ULF,"breach,waylay,jett",Flex,0.667,9,175,0.85,192.0,0.83,67.0,125.1,0.69,0.26,0.103,0.114,32.0,emea_kickoff,2684,ULF Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Filu,NAVI,"raze,yoru,neon",Duelist,1.0,12,261,0.84,194.0,0.9,67.0,132.7,0.68,0.14,0.126,0.153,28.0,emea_kickoff,2684,Natus Vincere,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Crewen,BBL,"cypher,viper",Sentinel,1.0,12,262,0.84,170.0,0.88,67.0,108.6,0.62,0.2,0.061,0.103,34.0,emea_kickoff,2684,BBL Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+UNFAKE,VIT,"sova,skye,fade",Initiator,1.0,14,280,0.83,149.0,0.77,69.0,104.8,0.51,0.24,0.054,0.068,32.0,emea_kickoff,2684,Team Vitality,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+d3mur,ULF,"neon,waylay,yoru",Duelist,1.0,9,175,0.8,184.0,0.87,63.0,114.8,0.64,0.13,0.114,0.217,26.0,emea_kickoff,2684,ULF Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Shao,NAVI,"omen,sova,brimstone",Controller,0.667,12,261,0.78,150.0,0.71,67.0,101.5,0.51,0.28,0.077,0.077,36.0,emea_kickoff,2684,Natus Vincere,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+cNed,PCF,"waylay,yoru",Duelist,1.0,8,169,0.78,159.0,0.75,66.0,102.8,0.58,0.19,0.13,0.178,27.0,emea_kickoff,2684,PCIFIC Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+Boaster,FNC,"astra,brimstone,omen",Controller,1.0,20,474,0.77,135.0,0.7,68.0,88.7,0.47,0.34,0.038,0.08,28.0,emea_kickoff,2684,FNATIC,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+sturNN,ULF,"viper,astra,killjoy",Sentinel,0.667,9,175,0.72,163.0,0.75,64.0,99.0,0.59,0.17,0.069,0.12,25.0,emea_kickoff,2684,ULF Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+baha,FUT,"astra,viper,killjoy",Sentinel,0.667,8,187,0.68,158.0,0.69,58.0,103.6,0.55,0.18,0.053,0.091,30.0,emea_kickoff,2684,FUT Esports,VCT 2026: EMEA Kickoff,EMEA,Kickoff
+happywei,XLG,"viper,astra",Flex,0.5,14,293,1.33,237.0,1.49,77.0,156.1,0.86,0.37,0.082,0.051,34.0,china_kickoff,2685,Xi Lai Gaming,VCT 2026: China Kickoff,China,Kickoff
+Yuicaw,JDG,"viper,cypher,killjoy",Sentinel,1.0,18,357,1.21,210.0,1.05,73.0,146.2,0.71,0.29,0.073,0.048,29.0,china_kickoff,2685,JD Gaming,VCT 2026: China Kickoff,China,Kickoff
+AAAAY,FPX,"killjoy,viper",Sentinel,1.0,7,141,1.2,206.0,1.07,62.0,147.3,0.76,0.06,0.05,0.035,35.0,china_kickoff,2685,FunPlus Phoenix,VCT 2026: China Kickoff,China,Kickoff
+vo0kashu,DRG,"cypher,vyse,veto",Sentinel,1.0,14,291,1.19,217.0,1.25,71.0,143.9,0.78,0.18,0.055,0.027,27.0,china_kickoff,2685,Dragon Ranger Gaming,VCT 2026: China Kickoff,China,Kickoff
+Shr1mp,AG,"sova,fade,skye",Initiator,1.0,12,264,1.15,199.0,1.14,72.0,130.9,0.72,0.25,0.064,0.023,30.0,china_kickoff,2685,All Gamers,VCT 2026: China Kickoff,China,Kickoff
+CHICHOO,EDG,"viper,astra,killjoy",Sentinel,0.667,20,400,1.14,202.0,1.15,74.0,138.1,0.73,0.26,0.072,0.045,30.0,china_kickoff,2685,EDward Gaming,VCT 2026: China Kickoff,China,Kickoff
+BerLIN,FPX,"sova,kayo,fade",Initiator,1.0,7,141,1.12,172.0,0.79,72.0,119.7,0.58,0.35,0.057,0.099,36.0,china_kickoff,2685,FunPlus Phoenix,VCT 2026: China Kickoff,China,Kickoff
+whzy,BLG,"waylay,neon,yoru",Duelist,1.0,20,435,1.11,236.0,1.11,75.0,149.0,0.82,0.22,0.17,0.156,25.0,china_kickoff,2685,Bilibili Gaming,VCT 2026: China Kickoff,China,Kickoff
+f4ngeer,AG,"yoru,waylay",Duelist,1.0,12,264,1.11,230.0,1.28,72.0,142.2,0.84,0.17,0.174,0.125,33.0,china_kickoff,2685,All Gamers,VCT 2026: China Kickoff,China,Kickoff
+splash,TYL,"neon,waylay,raze",Duelist,1.0,17,348,1.09,253.0,1.16,69.0,157.5,0.88,0.23,0.161,0.149,29.0,china_kickoff,2685,TYLOO,VCT 2026: China Kickoff,China,Kickoff
+Erv,TYL,"omen,astra,brimstone",Controller,1.0,17,348,1.08,200.0,1.1,73.0,124.3,0.72,0.44,0.057,0.06,32.0,china_kickoff,2685,TYLOO,VCT 2026: China Kickoff,China,Kickoff
+deLb,TE,"viper,waylay,chamber",Sentinel,0.667,13,277,1.07,216.0,1.05,69.0,151.9,0.76,0.2,0.119,0.087,39.0,china_kickoff,2685,Trace Esports,VCT 2026: China Kickoff,China,Kickoff
+K1ra,AG,"raze,astra,kayo",Flex,1.0,12,264,1.07,215.0,1.13,71.0,137.1,0.75,0.31,0.083,0.11,27.0,china_kickoff,2685,All Gamers,VCT 2026: China Kickoff,China,Kickoff
+Rarga,XLG,"yoru,neon",Duelist,1.0,14,293,1.05,232.0,1.22,74.0,148.8,0.85,0.14,0.164,0.13,35.0,china_kickoff,2685,Xi Lai Gaming,VCT 2026: China Kickoff,China,Kickoff
+iamgrq,AG,"waylay,omen,brimstone",Flex,0.667,12,264,1.05,199.0,1.04,75.0,130.0,0.69,0.36,0.053,0.061,24.0,china_kickoff,2685,All Gamers,VCT 2026: China Kickoff,China,Kickoff
+Haodong,TEC,"omen,astra,kayo",Controller,0.667,12,255,1.04,177.0,0.99,72.0,118.4,0.64,0.35,0.051,0.055,28.0,china_kickoff,2685,Titan Esports Club,VCT 2026: China Kickoff,China,Kickoff
+Lysoar,XLG,"omen,killjoy,brimstone",Controller,0.667,14,293,1.04,187.0,1.09,78.0,121.2,0.67,0.3,0.055,0.038,21.0,china_kickoff,2685,Xi Lai Gaming,VCT 2026: China Kickoff,China,Kickoff
+rushia,BLG,"viper,astra,cypher",Sentinel,0.667,20,435,1.04,201.0,1.05,71.0,131.4,0.7,0.25,0.117,0.108,25.0,china_kickoff,2685,Bilibili Gaming,VCT 2026: China Kickoff,China,Kickoff
+yosemite,WOL,"viper,veto,astra",Sentinel,0.667,14,289,1.03,216.0,0.99,67.0,151.6,0.74,0.22,0.076,0.087,28.0,china_kickoff,2685,Wolves Esports,VCT 2026: China Kickoff,China,Kickoff
+Scales,TYL,"viper,killjoy,veto",Sentinel,1.0,17,348,1.03,194.0,1.07,70.0,129.9,0.69,0.21,0.08,0.057,35.0,china_kickoff,2685,TYLOO,VCT 2026: China Kickoff,China,Kickoff
+Smoggy,EDG,"omen,astra,harbor",Controller,1.0,20,400,1.02,190.0,1.03,72.0,119.5,0.68,0.37,0.05,0.055,35.0,china_kickoff,2685,EDward Gaming,VCT 2026: China Kickoff,China,Kickoff
+Knight,BLG,"fade,tejo,sova",Initiator,1.0,11,234,1.02,180.0,1.06,72.0,123.1,0.63,0.25,0.056,0.09,25.0,china_kickoff,2685,Bilibili Gaming,VCT 2026: China Kickoff,China,Kickoff
+OBONE,NOVA,"omen,astra",Controller,1.0,7,148,1.02,173.0,0.76,66.0,127.9,0.56,0.41,0.041,0.068,34.0,china_kickoff,2685,Nova Esports,VCT 2026: China Kickoff,China,Kickoff
+jkuro,JDG,"omen,astra,brimstone",Controller,1.0,18,357,1.01,193.0,0.99,74.0,120.0,0.69,0.45,0.048,0.045,31.0,china_kickoff,2685,JD Gaming,VCT 2026: China Kickoff,China,Kickoff
+nephh,BLG,"omen,tejo,astra",Controller,0.667,20,435,1.01,196.0,0.96,75.0,129.4,0.67,0.34,0.083,0.083,24.0,china_kickoff,2685,Bilibili Gaming,VCT 2026: China Kickoff,China,Kickoff
+stew,JDG,"neon,waylay,raze",Duelist,1.0,18,357,1.01,217.0,1.07,72.0,135.6,0.77,0.19,0.098,0.087,28.0,china_kickoff,2685,JD Gaming,VCT 2026: China Kickoff,China,Kickoff
+lucas,TEC,"sova,tejo,fade",Initiator,1.0,12,255,1.01,204.0,1.06,74.0,134.7,0.73,0.22,0.051,0.067,23.0,china_kickoff,2685,Titan Esports Club,VCT 2026: China Kickoff,China,Kickoff
+Kai,TE,"yoru,neon,waylay",Duelist,1.0,13,277,1.01,210.0,1.05,72.0,134.5,0.75,0.15,0.123,0.097,30.0,china_kickoff,2685,Trace Esports,VCT 2026: China Kickoff,China,Kickoff
+Dynamite,TEC,"waylay,yoru,neon",Duelist,1.0,12,255,1.01,196.0,1.0,67.0,129.1,0.71,0.18,0.082,0.11,27.0,china_kickoff,2685,Titan Esports Club,VCT 2026: China Kickoff,China,Kickoff
+Coco,TEC,"viper,sova,fade",Initiator,0.667,12,255,1.01,200.0,1.06,71.0,139.7,0.7,0.29,0.047,0.078,37.0,china_kickoff,2685,Titan Esports Club,VCT 2026: China Kickoff,China,Kickoff
+Setrod,FPX,"tejo,viper,yoru",Flex,1.0,7,141,1.01,192.0,0.85,75.0,138.0,0.66,0.28,0.071,0.078,37.0,china_kickoff,2685,FunPlus Phoenix,VCT 2026: China Kickoff,China,Kickoff
+slowly,TYL,"yoru,killjoy,skye",Flex,1.0,17,348,1.0,219.0,1.07,70.0,139.4,0.77,0.24,0.124,0.115,30.0,china_kickoff,2685,TYLOO,VCT 2026: China Kickoff,China,Kickoff
+ZmjjKK,EDG,"neon,jett,phoenix",Duelist,1.0,20,400,0.98,233.0,1.07,68.0,148.1,0.83,0.14,0.193,0.14,23.0,china_kickoff,2685,EDward Gaming,VCT 2026: China Kickoff,China,Kickoff
+Nicc,DRG,"gekko,tejo,sova",Initiator,1.0,14,291,0.98,179.0,0.97,72.0,120.1,0.65,0.26,0.058,0.052,32.0,china_kickoff,2685,Dragon Ranger Gaming,VCT 2026: China Kickoff,China,Kickoff
+jowa,WOL,"omen,astra,brimstone",Controller,1.0,14,289,0.98,209.0,0.99,72.0,127.0,0.7,0.41,0.08,0.08,30.0,china_kickoff,2685,Wolves Esports,VCT 2026: China Kickoff,China,Kickoff
+cb,EDG,"yoru,phoenix,neon",Duelist,1.0,20,400,0.97,198.0,0.96,65.0,130.2,0.7,0.22,0.083,0.122,25.0,china_kickoff,2685,EDward Gaming,VCT 2026: China Kickoff,China,Kickoff
+qiutiaN,WOL,"chamber,killjoy,yoru",Sentinel,0.667,14,289,0.97,191.0,0.92,70.0,134.0,0.65,0.23,0.121,0.1,26.0,china_kickoff,2685,Wolves Esports,VCT 2026: China Kickoff,China,Kickoff
+LuoK1ng,TE,"astra,omen,brimstone",Controller,1.0,13,277,0.96,168.0,0.89,72.0,115.4,0.6,0.33,0.058,0.065,30.0,china_kickoff,2685,Trace Esports,VCT 2026: China Kickoff,China,Kickoff
+sword9,TYL,"sova,fade,tejo",Initiator,1.0,17,348,0.96,168.0,0.98,70.0,110.8,0.6,0.26,0.043,0.063,26.0,china_kickoff,2685,TYLOO,VCT 2026: China Kickoff,China,Kickoff
+Viva,TE,"sova,fade,skye",Initiator,1.0,13,277,0.96,170.0,0.86,73.0,117.2,0.56,0.37,0.047,0.036,29.0,china_kickoff,2685,Trace Esports,VCT 2026: China Kickoff,China,Kickoff
+SiuFatBB,WOL,"sova,skye,fade",Initiator,1.0,14,289,0.95,154.0,0.87,71.0,107.0,0.54,0.29,0.038,0.021,30.0,china_kickoff,2685,Wolves Esports,VCT 2026: China Kickoff,China,Kickoff
+WsLeo,XLG,"fade,sova",Initiator,1.0,14,293,0.95,184.0,0.97,75.0,124.9,0.63,0.31,0.075,0.065,24.0,china_kickoff,2685,Xi Lai Gaming,VCT 2026: China Kickoff,China,Kickoff
+FengF,TE,"breach,killjoy,raze",Flex,1.0,13,277,0.93,198.0,0.99,71.0,131.6,0.69,0.25,0.061,0.083,33.0,china_kickoff,2685,Trace Esports,VCT 2026: China Kickoff,China,Kickoff
+GREEN,NOVA,"raze,killjoy,kayo",Flex,1.0,7,148,0.93,220.0,0.97,64.0,137.0,0.76,0.19,0.081,0.074,31.0,china_kickoff,2685,Nova Esports,VCT 2026: China Kickoff,China,Kickoff
+GuanG,NOVA,"neon,waylay",Duelist,1.0,7,148,0.93,210.0,0.97,60.0,126.6,0.76,0.17,0.068,0.135,35.0,china_kickoff,2685,Nova Esports,VCT 2026: China Kickoff,China,Kickoff
+coconut,JDG,"sova,fade",Initiator,1.0,18,357,0.92,156.0,0.83,68.0,107.8,0.55,0.25,0.034,0.045,31.0,china_kickoff,2685,JD Gaming,VCT 2026: China Kickoff,China,Kickoff
+SpiritZ1,DRG,"yoru,reyna,phoenix",Duelist,1.0,14,291,0.92,212.0,0.97,64.0,135.1,0.76,0.22,0.144,0.165,32.0,china_kickoff,2685,Dragon Ranger Gaming,VCT 2026: China Kickoff,China,Kickoff
+Abo,TEC,"neon,killjoy,omen",Flex,1.0,12,255,0.91,193.0,0.92,69.0,120.0,0.67,0.21,0.129,0.094,28.0,china_kickoff,2685,Titan Esports Club,VCT 2026: China Kickoff,China,Kickoff
+NoMan,XLG,"waylay,jett,killjoy",Sentinel,0.667,14,293,0.91,192.0,1.04,66.0,123.6,0.69,0.16,0.157,0.174,29.0,china_kickoff,2685,Xi Lai Gaming,VCT 2026: China Kickoff,China,Kickoff
+zhe,JDG,yoru,Duelist,1.0,18,357,0.91,188.0,1.01,70.0,110.9,0.67,0.24,0.084,0.112,21.0,china_kickoff,2685,JD Gaming,VCT 2026: China Kickoff,China,Kickoff
+sScary,FPX,"brimstone,omen,astra",Controller,1.0,7,141,0.9,170.0,0.72,70.0,112.9,0.55,0.41,0.064,0.035,24.0,china_kickoff,2685,FunPlus Phoenix,VCT 2026: China Kickoff,China,Kickoff
+Au1,AG,"viper,veto,killjoy",Sentinel,1.0,12,264,0.9,177.0,0.88,69.0,119.9,0.6,0.33,0.053,0.061,23.0,china_kickoff,2685,All Gamers,VCT 2026: China Kickoff,China,Kickoff
+nobody,EDG,"sova,fade",Initiator,1.0,20,400,0.89,181.0,0.89,66.0,121.1,0.63,0.22,0.048,0.052,31.0,china_kickoff,2685,EDward Gaming,VCT 2026: China Kickoff,China,Kickoff
+Ezeir,NOVA,"tejo,viper,fade",Initiator,0.667,7,148,0.89,160.0,0.73,59.0,116.7,0.54,0.26,0.047,0.041,29.0,china_kickoff,2685,Nova Esports,VCT 2026: China Kickoff,China,Kickoff
+bud,BLG,"breach,killjoy,gekko",Initiator,0.667,20,435,0.89,162.0,0.83,67.0,111.5,0.58,0.28,0.032,0.09,29.0,china_kickoff,2685,Bilibili Gaming,VCT 2026: China Kickoff,China,Kickoff
+Biank,BLG,"fade,tejo,sova",Initiator,1.0,9,201,0.88,165.0,0.79,71.0,108.6,0.56,0.16,0.085,0.085,22.0,china_kickoff,2685,Bilibili Gaming,VCT 2026: China Kickoff,China,Kickoff
+Flex1n,DRG,"omen,astra,brimstone",Controller,1.0,14,291,0.85,176.0,0.8,70.0,112.7,0.59,0.38,0.079,0.065,28.0,china_kickoff,2685,Dragon Ranger Gaming,VCT 2026: China Kickoff,China,Kickoff
+Spring,WOL,"waylay,neon,yoru",Duelist,1.0,14,289,0.83,180.0,0.84,66.0,111.3,0.63,0.27,0.073,0.1,24.0,china_kickoff,2685,Wolves Esports,VCT 2026: China Kickoff,China,Kickoff
+Akeman,DRG,"neon,waylay,jett",Duelist,1.0,14,291,0.82,187.0,0.82,66.0,123.7,0.64,0.21,0.172,0.182,29.0,china_kickoff,2685,Dragon Ranger Gaming,VCT 2026: China Kickoff,China,Kickoff
+heybay,NOVA,"skye,fade,veto",Initiator,0.667,7,148,0.74,156.0,0.69,65.0,99.2,0.5,0.28,0.014,0.095,25.0,china_kickoff,2685,Nova Esports,VCT 2026: China Kickoff,China,Kickoff
+Life,FPX,"neon,raze,yoru",Duelist,1.0,7,141,0.65,169.0,0.63,64.0,118.9,0.55,0.2,0.099,0.177,34.0,china_kickoff,2685,FunPlus Phoenix,VCT 2026: China Kickoff,China,Kickoff
+primmie,FS,yoru,Duelist,1.0,12,237,1.23,261.0,1.34,74.0,166.7,0.95,0.16,0.169,0.118,32.0,pacific_kickoff,2683,FULL SENSE,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Karon,GEN,"viper,cypher,veto",Sentinel,1.0,11,266,1.15,216.0,1.14,74.0,149.4,0.76,0.19,0.079,0.049,29.0,pacific_kickoff,2683,Gen.G,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+PatMen,GE,"omen,viper,waylay",Flex,1.0,16,353,1.14,226.0,1.24,77.0,148.1,0.83,0.27,0.127,0.099,31.0,pacific_kickoff,2683,Global Esports,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+iZu,T1,"yoru,omen,sova",Flex,1.0,16,346,1.14,225.0,1.34,74.0,143.2,0.82,0.18,0.153,0.098,29.0,pacific_kickoff,2683,T1,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Jemkin,RRQ,"chamber,yoru,neon",Duelist,1.0,16,348,1.13,227.0,1.21,73.0,141.8,0.82,0.14,0.187,0.109,29.0,pacific_kickoff,2683,Rex Regum Qeon,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Rb,NS,"omen,brimstone,viper",Controller,0.667,12,250,1.12,189.0,1.16,76.0,119.7,0.68,0.37,0.068,0.048,22.0,pacific_kickoff,2683,Nongshim RedForce,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Dambi,NS,"neon,waylay",Duelist,1.0,12,250,1.11,241.0,1.19,70.0,141.6,0.86,0.22,0.16,0.144,19.0,pacific_kickoff,2683,Nongshim RedForce,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Autumn,GE,"yoru,jett,waylay",Duelist,1.0,16,353,1.1,224.0,1.16,72.0,141.9,0.8,0.19,0.159,0.15,29.0,pacific_kickoff,2683,Global Esports,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Meiy,DFM,"raze,yoru,neon",Duelist,1.0,16,323,1.09,242.0,1.16,72.0,156.2,0.85,0.17,0.133,0.146,28.0,pacific_kickoff,2683,DetonatioN FocusMe,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+f0rsakeN,PRX,"omen,astra,brimstone",Controller,1.0,20,432,1.09,227.0,1.14,72.0,146.0,0.8,0.32,0.109,0.095,32.0,pacific_kickoff,2683,Paper Rex,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+xffero,RRQ,"viper,astra,killjoy",Sentinel,0.667,16,348,1.07,196.0,1.07,78.0,132.3,0.7,0.29,0.06,0.043,33.0,pacific_kickoff,2683,Rex Regum Qeon,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Xross,NS,"fade,sova",Initiator,1.0,12,250,1.06,185.0,1.07,75.0,125.0,0.64,0.26,0.06,0.044,27.0,pacific_kickoff,2683,Nongshim RedForce,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+MaKo,KRX,"omen,brimstone,viper",Controller,0.667,16,339,1.05,202.0,1.07,76.0,128.5,0.72,0.31,0.086,0.08,28.0,pacific_kickoff,2683,KIWOOM DRX,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+invy,PRX,"fade,sova,kayo",Initiator,1.0,20,432,1.05,196.0,1.02,73.0,131.2,0.68,0.28,0.069,0.074,35.0,pacific_kickoff,2683,Paper Rex,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Meteor,T1,"viper,killjoy,astra",Sentinel,0.667,16,346,1.05,223.0,1.14,75.0,146.7,0.82,0.2,0.124,0.107,35.0,pacific_kickoff,2683,T1,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Killua,FS,"fade,sova",Initiator,1.0,12,237,1.05,201.0,1.05,73.0,128.5,0.73,0.24,0.076,0.072,41.0,pacific_kickoff,2683,FULL SENSE,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+HYUNMIN,KRX,"waylay,raze,jett",Duelist,1.0,16,339,1.05,232.0,1.09,71.0,150.3,0.81,0.21,0.147,0.13,27.0,pacific_kickoff,2683,KIWOOM DRX,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Ivy,NS,"viper,killjoy,astra",Sentinel,0.667,12,250,1.05,189.0,1.15,72.0,125.9,0.68,0.26,0.068,0.08,29.0,pacific_kickoff,2683,Nongshim RedForce,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+XuNa,VL,"sova,skye,fade",Initiator,1.0,8,187,1.05,200.0,1.01,70.0,141.0,0.71,0.27,0.059,0.032,31.0,pacific_kickoff,2683,VARREL,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Jinggg,PRX,"raze,phoenix,jett",Duelist,1.0,20,432,1.04,211.0,1.08,73.0,137.7,0.74,0.18,0.141,0.095,22.0,pacific_kickoff,2683,Paper Rex,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+free1ng,KRX,"viper,tejo,astra",Flex,1.0,16,339,1.03,190.0,1.07,69.0,123.8,0.68,0.21,0.091,0.091,34.0,pacific_kickoff,2683,KIWOOM DRX,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+xavi8k,GE,"astra,omen,sage",Controller,0.667,16,353,1.03,192.0,1.03,75.0,122.9,0.7,0.31,0.065,0.057,24.0,pacific_kickoff,2683,Global Esports,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Munchkin,T1,"viper,astra,omen",Controller,0.667,16,346,1.01,179.0,1.0,79.0,115.5,0.61,0.45,0.061,0.081,21.0,pacific_kickoff,2683,T1,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+SugarZ3ro,ZETA,"omen,brimstone",Controller,1.0,10,198,1.01,208.0,0.95,75.0,129.3,0.69,0.4,0.071,0.086,30.0,pacific_kickoff,2683,ZETA DIVISION,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+BuZz,T1,"neon,raze,jett",Duelist,1.0,16,346,1.0,217.0,1.11,68.0,136.0,0.78,0.18,0.142,0.136,19.0,pacific_kickoff,2683,T1,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Zexy,VL,"raze,jett,yoru",Duelist,1.0,8,187,1.0,233.0,1.04,66.0,148.3,0.82,0.14,0.214,0.16,26.0,pacific_kickoff,2683,VARREL,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Klaus,VL,"yoru,cypher,veto",Sentinel,0.667,8,187,0.99,195.0,0.96,66.0,128.1,0.7,0.19,0.086,0.102,34.0,pacific_kickoff,2683,VARREL,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+UdoTan,GE,"veto,chamber,neon",Sentinel,0.667,16,353,0.99,208.0,1.02,72.0,136.1,0.74,0.13,0.127,0.085,31.0,pacific_kickoff,2683,Global Esports,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+BeYN,KRX,"fade,sova,breach",Initiator,1.0,16,339,0.98,182.0,0.97,72.0,118.7,0.64,0.29,0.062,0.05,27.0,pacific_kickoff,2683,KIWOOM DRX,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+t3xture,GEN,"jett,yoru,neon",Duelist,1.0,11,266,0.98,221.0,1.03,68.0,138.7,0.78,0.13,0.162,0.188,22.0,pacific_kickoff,2683,Gen.G,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Kushy,RRQ,"sova,fade,skye",Initiator,1.0,16,348,0.97,186.0,0.91,72.0,125.4,0.63,0.24,0.069,0.052,28.0,pacific_kickoff,2683,Rex Regum Qeon,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Kr1stal,GE,"sova,fade,viper",Initiator,0.667,16,353,0.97,169.0,0.94,72.0,118.8,0.6,0.26,0.054,0.074,28.0,pacific_kickoff,2683,Global Esports,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+kellyS,TS,"yoru,viper",Sentinel,0.5,7,133,0.97,217.0,1.0,73.0,135.8,0.77,0.24,0.09,0.173,25.0,pacific_kickoff,2683,Team Secret,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Akame,DFM,"fade,sova",Initiator,1.0,16,323,0.96,180.0,0.91,71.0,123.5,0.62,0.25,0.05,0.062,29.0,pacific_kickoff,2683,DetonatioN FocusMe,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Leviathan,FS,"omen,astra,brimstone",Controller,1.0,12,237,0.96,189.0,0.93,75.0,126.1,0.66,0.4,0.051,0.084,38.0,pacific_kickoff,2683,FULL SENSE,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+eKo,ZETA,"neon,waylay",Duelist,1.0,10,198,0.95,205.0,0.99,72.0,130.1,0.74,0.22,0.157,0.136,19.0,pacific_kickoff,2683,ZETA DIVISION,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Ash,GEN,"astra,omen",Controller,1.0,11,266,0.95,155.0,0.91,75.0,97.2,0.55,0.4,0.049,0.083,28.0,pacific_kickoff,2683,Gen.G,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+JessieVash,TS,"fade,sova",Initiator,1.0,7,133,0.94,201.0,0.93,74.0,131.6,0.71,0.26,0.053,0.053,29.0,pacific_kickoff,2683,Team Secret,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+BerserX,TS,"viper,killjoy,vyse",Sentinel,1.0,7,133,0.94,194.0,0.91,71.0,129.1,0.65,0.26,0.053,0.053,20.0,pacific_kickoff,2683,Team Secret,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+something,PRX,"yoru,waylay,jett",Duelist,1.0,20,432,0.94,187.0,1.0,68.0,124.4,0.69,0.17,0.102,0.132,27.0,pacific_kickoff,2683,Paper Rex,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Francis,NS,yoru,Duelist,1.0,12,250,0.94,204.0,0.98,70.0,129.1,0.71,0.24,0.172,0.156,26.0,pacific_kickoff,2683,Nongshim RedForce,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+ZynX,GEN,"yoru,waylay",Duelist,1.0,11,266,0.94,215.0,1.0,65.0,140.6,0.76,0.2,0.128,0.139,35.0,pacific_kickoff,2683,Gen.G,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+d4v41,PRX,"viper,chamber,killjoy",Sentinel,1.0,20,432,0.93,186.0,0.94,72.0,124.8,0.66,0.23,0.106,0.076,24.0,pacific_kickoff,2683,Paper Rex,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+yatsuka,DFM,"yoru,chamber",Duelist,1.0,16,323,0.93,186.0,0.94,67.0,116.9,0.67,0.17,0.146,0.142,28.0,pacific_kickoff,2683,DetonatioN FocusMe,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+SSeeS,DFM,"astra,omen,brimstone",Controller,1.0,16,323,0.91,161.0,0.85,71.0,103.5,0.57,0.4,0.031,0.056,24.0,pacific_kickoff,2683,DetonatioN FocusMe,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+stax,T1,"sova,fade,tejo",Initiator,1.0,16,346,0.9,158.0,0.85,73.0,106.4,0.54,0.28,0.055,0.043,23.0,pacific_kickoff,2683,T1,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Xdll,ZETA,"fade,sova,skye",Initiator,1.0,10,198,0.88,168.0,0.85,65.0,112.3,0.61,0.23,0.076,0.056,29.0,pacific_kickoff,2683,ZETA DIVISION,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Monyet,RRQ,"neon,viper,raze",Sentinel,0.667,16,348,0.87,198.0,0.82,68.0,132.5,0.65,0.3,0.109,0.207,27.0,pacific_kickoff,2683,Rex Regum Qeon,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+JitBoyS,FS,"cypher,viper,killjoy",Sentinel,1.0,12,237,0.87,167.0,0.84,73.0,110.1,0.58,0.27,0.105,0.127,30.0,pacific_kickoff,2683,FULL SENSE,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Caedye,DFM,"viper,phoenix,killjoy",Sentinel,0.667,16,323,0.87,199.0,0.87,65.0,132.0,0.69,0.2,0.108,0.127,32.0,pacific_kickoff,2683,DetonatioN FocusMe,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Lakia,GEN,"sova,tejo,skye",Initiator,1.0,11,266,0.86,170.0,0.76,71.0,118.4,0.54,0.35,0.056,0.068,23.0,pacific_kickoff,2683,Gen.G,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+crazyguy,RRQ,"omen,astra,tejo",Controller,0.667,16,348,0.85,156.0,0.83,66.0,103.7,0.57,0.3,0.046,0.118,29.0,pacific_kickoff,2683,Rex Regum Qeon,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Hermes,KRX,"yoru,viper,kayo",Flex,1.0,16,339,0.85,174.0,0.88,69.0,110.5,0.61,0.25,0.118,0.142,27.0,pacific_kickoff,2683,KIWOOM DRX,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Absol,ZETA,"yoru,raze",Duelist,1.0,10,198,0.85,196.0,0.91,70.0,122.4,0.68,0.2,0.131,0.146,18.0,pacific_kickoff,2683,ZETA DIVISION,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+oonzmlp,VL,"viper,yoru,harbor",Flex,1.0,8,187,0.81,165.0,0.78,66.0,109.2,0.56,0.23,0.07,0.118,29.0,pacific_kickoff,2683,VARREL,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+SyouTa,ZETA,"viper,cypher,astra",Sentinel,0.667,10,198,0.8,157.0,0.8,66.0,104.8,0.57,0.18,0.056,0.081,37.0,pacific_kickoff,2683,ZETA DIVISION,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+TenTen,TS,"waylay,raze,neon",Duelist,1.0,7,133,0.79,173.0,0.76,64.0,109.0,0.6,0.18,0.135,0.195,17.0,pacific_kickoff,2683,Team Secret,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+thyy,FS,"raze,waylay,jett",Duelist,1.0,12,237,0.78,168.0,0.77,70.0,114.8,0.57,0.21,0.08,0.114,25.0,pacific_kickoff,2683,FULL SENSE,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+Sylvan,TS,"omen,brimstone,astra",Controller,1.0,7,133,0.75,142.0,0.64,68.0,88.1,0.47,0.37,0.068,0.12,27.0,pacific_kickoff,2683,Team Secret,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+C1ndeR,VL,"astra,omen,brimstone",Controller,1.0,8,187,0.66,135.0,0.56,66.0,85.7,0.43,0.4,0.075,0.08,27.0,pacific_kickoff,2683,VARREL,VCT 2026: Pacific Kickoff,Pacific,Kickoff
+marteen,M8,"yoru,phoenix",Duelist,1.0,9,186,1.41,268.0,1.43,76.0,169.1,0.95,0.31,0.151,0.102,31.0,masters_santiago,2760,Gentle Mates,Valorant Masters Santiago 2026,International,Masters
+eeiu,FUR,"sova,fade",Initiator,1.0,6,126,1.24,244.0,1.34,69.0,166.5,0.88,0.23,0.095,0.048,35.0,masters_santiago,2760,FURIA,Valorant Masters Santiago 2026,International,Masters
+trent,G2,"fade,sova,skye",Initiator,1.0,16,330,1.15,194.0,1.11,73.0,131.1,0.69,0.34,0.052,0.036,29.0,masters_santiago,2760,G2 Esports,Valorant Masters Santiago 2026,International,Masters
+iZu,T1,"yoru,omen,cypher",Flex,1.0,6,135,1.14,234.0,1.24,65.0,155.2,0.87,0.21,0.111,0.126,40.0,masters_santiago,2760,T1,Valorant Masters Santiago 2026,International,Masters
+Xross,NS,"fade,sova",Initiator,1.0,10,215,1.14,206.0,1.19,78.0,139.9,0.73,0.29,0.074,0.019,29.0,masters_santiago,2760,Nongshim RedForce,Valorant Masters Santiago 2026,International,Masters
+stax,T1,"sova,fade",Initiator,1.0,6,135,1.11,190.0,1.15,73.0,127.7,0.72,0.21,0.03,0.044,26.0,masters_santiago,2760,T1,Valorant Masters Santiago 2026,International,Masters
+keiko,NRG,"omen,killjoy,viper",Sentinel,0.667,18,397,1.11,216.0,1.16,74.0,139.6,0.79,0.21,0.111,0.078,33.0,masters_santiago,2760,NRG,Valorant Masters Santiago 2026,International,Masters
+Dambi,NS,"neon,waylay",Duelist,1.0,10,215,1.11,238.0,1.19,73.0,142.4,0.85,0.21,0.2,0.149,18.0,masters_santiago,2760,Nongshim RedForce,Valorant Masters Santiago 2026,International,Masters
+skuba,NRG,"viper,astra,killjoy",Sentinel,0.667,18,397,1.1,208.0,1.14,74.0,134.9,0.76,0.25,0.108,0.088,25.0,masters_santiago,2760,NRG,Valorant Masters Santiago 2026,International,Masters
+Ivy,NS,"viper,cypher,killjoy",Sentinel,1.0,10,215,1.1,207.0,1.26,73.0,137.0,0.77,0.22,0.088,0.056,39.0,masters_santiago,2760,Nongshim RedForce,Valorant Masters Santiago 2026,International,Masters
+ZmjjKK,EDG,"chamber,neon",Duelist,1.0,4,81,1.08,216.0,1.12,63.0,140.0,0.8,0.11,0.16,0.136,30.0,masters_santiago,2760,EDward Gaming,Valorant Masters Santiago 2026,International,Masters
+d4v41,PRX,"viper,vyse,chamber",Sentinel,1.0,23,481,1.08,204.0,1.2,70.0,138.3,0.77,0.18,0.077,0.064,31.0,masters_santiago,2760,Paper Rex,Valorant Masters Santiago 2026,International,Masters
+Francis,NS,yoru,Duelist,1.0,10,215,1.08,223.0,1.09,77.0,146.9,0.78,0.25,0.153,0.121,25.0,masters_santiago,2760,Nongshim RedForce,Valorant Masters Santiago 2026,International,Masters
+invy,PRX,"fade,sova,brimstone",Initiator,0.667,23,481,1.07,199.0,1.11,74.0,136.2,0.7,0.27,0.062,0.079,30.0,masters_santiago,2760,Paper Rex,Valorant Masters Santiago 2026,International,Masters
+Lar0k,BBL,"neon,waylay,jett",Duelist,1.0,8,176,1.07,219.0,1.09,70.0,143.0,0.78,0.19,0.142,0.165,27.0,masters_santiago,2760,BBL Esports,Valorant Masters Santiago 2026,International,Masters
+starxo,M8,"fade,sova",Initiator,1.0,9,186,1.06,186.0,0.98,70.0,126.1,0.63,0.35,0.048,0.048,23.0,masters_santiago,2760,Gentle Mates,Valorant Masters Santiago 2026,International,Masters
+Loita,BBL,"omen,viper,astra",Controller,0.667,8,176,1.05,192.0,1.0,70.0,125.8,0.7,0.42,0.034,0.074,35.0,masters_santiago,2760,BBL Esports,Valorant Masters Santiago 2026,International,Masters
+valyn,G2,"astra,harbor",Controller,1.0,16,330,1.04,189.0,1.0,74.0,122.9,0.66,0.35,0.073,0.061,23.0,masters_santiago,2760,G2 Esports,Valorant Masters Santiago 2026,International,Masters
+jawgemo,G2,"neon,phoenix,iso",Duelist,1.0,16,330,1.04,232.0,1.09,70.0,150.7,0.84,0.16,0.148,0.17,25.0,masters_santiago,2760,G2 Esports,Valorant Masters Santiago 2026,International,Masters
+Munchkin,T1,"viper,omen,brimstone",Controller,0.667,6,135,1.03,198.0,0.95,74.0,130.9,0.61,0.48,0.096,0.059,18.0,masters_santiago,2760,T1,Valorant Masters Santiago 2026,International,Masters
+something,PRX,"yoru,waylay,jett",Duelist,1.0,23,481,1.03,195.0,1.09,71.0,127.1,0.71,0.2,0.127,0.125,26.0,masters_santiago,2760,Paper Rex,Valorant Masters Santiago 2026,International,Masters
+Jinggg,PRX,"omen,raze,phoenix",Flex,0.667,23,481,1.02,213.0,1.08,74.0,140.4,0.74,0.27,0.116,0.123,25.0,masters_santiago,2760,Paper Rex,Valorant Masters Santiago 2026,International,Masters
+happywei,XLG,"viper,astra",Flex,0.5,4,75,1.02,208.0,0.96,64.0,139.3,0.71,0.28,0.107,0.093,24.0,masters_santiago,2760,Xi Lai Gaming,Valorant Masters Santiago 2026,International,Masters
+mada,NRG,"waylay,neon,yoru",Duelist,1.0,18,397,1.0,213.0,1.01,70.0,134.3,0.74,0.21,0.214,0.164,27.0,masters_santiago,2760,NRG,Valorant Masters Santiago 2026,International,Masters
+leaf,G2,"viper,yoru,astra",Flex,1.0,16,330,0.99,208.0,1.01,69.0,134.8,0.72,0.29,0.112,0.112,23.0,masters_santiago,2760,G2 Esports,Valorant Masters Santiago 2026,International,Masters
+BuZz,T1,"jett,raze,waylay",Duelist,1.0,6,135,0.98,230.0,0.98,74.0,153.1,0.76,0.27,0.2,0.148,20.0,masters_santiago,2760,T1,Valorant Masters Santiago 2026,International,Masters
+f4ngeer,AG,"yoru,waylay,chamber",Duelist,1.0,8,152,0.98,210.0,1.02,66.0,137.1,0.75,0.12,0.171,0.145,31.0,masters_santiago,2760,All Gamers,Valorant Masters Santiago 2026,International,Masters
+f0rsakeN,PRX,"omen,viper,yoru",Flex,1.0,23,481,0.96,205.0,0.99,72.0,135.5,0.71,0.31,0.104,0.121,28.0,masters_santiago,2760,Paper Rex,Valorant Masters Santiago 2026,International,Masters
+Rb,NS,"omen,brimstone",Controller,1.0,10,215,0.95,165.0,0.95,74.0,105.6,0.59,0.47,0.074,0.065,22.0,masters_santiago,2760,Nongshim RedForce,Valorant Masters Santiago 2026,International,Masters
+brawk,NRG,"sova,vyse,brimstone",Flex,1.0,18,397,0.95,177.0,0.86,70.0,126.1,0.58,0.3,0.04,0.055,23.0,masters_santiago,2760,NRG,Valorant Masters Santiago 2026,International,Masters
+K1ra,AG,"raze,astra,omen",Flex,0.667,8,152,0.95,192.0,0.98,65.0,125.5,0.69,0.16,0.072,0.151,24.0,masters_santiago,2760,All Gamers,Valorant Masters Santiago 2026,International,Masters
+nAts,TL,"viper,astra",Flex,0.5,6,130,0.94,194.0,0.95,68.0,127.7,0.68,0.2,0.062,0.085,30.0,masters_santiago,2760,Team Liquid,Valorant Masters Santiago 2026,International,Masters
+Minny,M8,"cypher,viper,kayo",Sentinel,0.667,9,186,0.94,182.0,0.92,74.0,117.6,0.63,0.25,0.102,0.151,32.0,masters_santiago,2760,Gentle Mates,Valorant Masters Santiago 2026,International,Masters
+GLYPH,M8,astra,Controller,1.0,9,186,0.93,168.0,0.83,72.0,110.6,0.57,0.41,0.038,0.043,25.0,masters_santiago,2760,Gentle Mates,Valorant Masters Santiago 2026,International,Masters
+lovers rock,BBL,yoru,Duelist,1.0,8,176,0.93,197.0,0.91,68.0,126.9,0.68,0.18,0.114,0.108,17.0,masters_santiago,2760,BBL Esports,Valorant Masters Santiago 2026,International,Masters
+purp0,TL,"skye,sova",Initiator,1.0,6,130,0.92,178.0,0.97,75.0,118.6,0.66,0.22,0.054,0.038,41.0,masters_santiago,2760,Team Liquid,Valorant Masters Santiago 2026,International,Masters
+Crewen,BBL,"cypher,viper",Sentinel,1.0,8,176,0.92,189.0,0.96,63.0,129.5,0.68,0.18,0.091,0.091,36.0,masters_santiago,2760,BBL Esports,Valorant Masters Santiago 2026,International,Masters
+wayne,TL,"omen,harbor,brimstone",Controller,1.0,6,130,0.92,187.0,0.9,65.0,117.0,0.66,0.3,0.092,0.085,30.0,masters_santiago,2760,Team Liquid,Valorant Masters Santiago 2026,International,Masters
+koalanoob,FUR,"omen,yoru",Flex,0.5,6,126,0.9,190.0,0.91,70.0,119.2,0.68,0.26,0.095,0.095,19.0,masters_santiago,2760,FURIA,Valorant Masters Santiago 2026,International,Masters
+kamo,TL,"yoru,waylay",Duelist,1.0,6,130,0.9,198.0,0.96,70.0,127.6,0.7,0.23,0.092,0.1,41.0,masters_santiago,2760,Team Liquid,Valorant Masters Santiago 2026,International,Masters
+Shr1mp,AG,"fade,skye,sova",Initiator,1.0,8,152,0.9,160.0,0.83,72.0,108.0,0.57,0.27,0.066,0.066,32.0,masters_santiago,2760,All Gamers,Valorant Masters Santiago 2026,International,Masters
+artzin,FUR,"omen,killjoy,astra",Controller,0.667,6,126,0.89,186.0,0.85,69.0,124.4,0.65,0.29,0.071,0.087,22.0,masters_santiago,2760,FURIA,Valorant Masters Santiago 2026,International,Masters
+Ethan,NRG,"tejo,omen,skye",Initiator,0.667,18,397,0.88,164.0,0.86,71.0,109.5,0.58,0.29,0.053,0.081,23.0,masters_santiago,2760,NRG,Valorant Masters Santiago 2026,International,Masters
+CHICHOO,EDG,"viper,killjoy",Sentinel,1.0,4,81,0.88,175.0,0.81,63.0,112.9,0.59,0.23,0.086,0.111,29.0,masters_santiago,2760,EDward Gaming,Valorant Masters Santiago 2026,International,Masters
+Lysoar,XLG,omen,Controller,1.0,4,75,0.88,186.0,0.9,75.0,116.8,0.69,0.24,0.027,0.04,35.0,masters_santiago,2760,Xi Lai Gaming,Valorant Masters Santiago 2026,International,Masters
+Au1,AG,"viper,killjoy,harbor",Sentinel,0.667,8,152,0.88,193.0,0.84,66.0,131.8,0.64,0.22,0.066,0.079,16.0,masters_santiago,2760,All Gamers,Valorant Masters Santiago 2026,International,Masters
+nerve,FUR,"viper,tejo",Flex,0.5,6,126,0.87,172.0,0.75,67.0,116.7,0.56,0.25,0.071,0.063,26.0,masters_santiago,2760,FURIA,Valorant Masters Santiago 2026,International,Masters
+BABYBAY,G2,"waylay,chamber,yoru",Duelist,1.0,16,330,0.87,172.0,0.89,65.0,111.0,0.61,0.18,0.106,0.13,22.0,masters_santiago,2760,G2 Esports,Valorant Masters Santiago 2026,International,Masters
+iamgrq,AG,"omen,waylay,neon",Flex,0.667,8,152,0.83,176.0,0.83,71.0,112.4,0.59,0.32,0.066,0.118,25.0,masters_santiago,2760,All Gamers,Valorant Masters Santiago 2026,International,Masters
+MiniBoo,TL,neon,Duelist,1.0,6,130,0.81,194.0,0.83,70.0,126.5,0.65,0.2,0.208,0.177,33.0,masters_santiago,2760,Team Liquid,Valorant Masters Santiago 2026,International,Masters
+Smoggy,EDG,"omen,astra,brimstone",Controller,1.0,4,81,0.78,150.0,0.67,68.0,102.9,0.49,0.3,0.074,0.086,30.0,masters_santiago,2760,EDward Gaming,Valorant Masters Santiago 2026,International,Masters
+bipo,M8,"neon,waylay,raze",Duelist,1.0,9,186,0.78,167.0,0.81,67.0,106.5,0.6,0.22,0.124,0.194,24.0,masters_santiago,2760,Gentle Mates,Valorant Masters Santiago 2026,International,Masters
+Meteor,T1,"astra,viper,killjoy",Sentinel,0.667,6,135,0.77,174.0,0.79,64.0,115.9,0.6,0.16,0.081,0.104,33.0,masters_santiago,2760,T1,Valorant Masters Santiago 2026,International,Masters
+alym,FUR,"neon,waylay",Duelist,1.0,6,126,0.76,181.0,0.8,61.0,116.1,0.62,0.21,0.167,0.206,26.0,masters_santiago,2760,FURIA,Valorant Masters Santiago 2026,International,Masters
+Rarga,XLG,"neon,yoru",Duelist,1.0,4,75,0.75,214.0,0.8,65.0,138.8,0.71,0.2,0.147,0.173,32.0,masters_santiago,2760,Xi Lai Gaming,Valorant Masters Santiago 2026,International,Masters
+Rosé,BBL,"sova,fade",Initiator,1.0,8,176,0.74,157.0,0.71,61.0,107.4,0.52,0.27,0.068,0.114,32.0,masters_santiago,2760,BBL Esports,Valorant Masters Santiago 2026,International,Masters
+cb,EDG,"neon,yoru",Duelist,1.0,4,81,0.74,168.0,0.78,69.0,106.7,0.62,0.12,0.111,0.123,25.0,masters_santiago,2760,EDward Gaming,Valorant Masters Santiago 2026,International,Masters
+NoMan,XLG,"killjoy,waylay",Sentinel,0.5,4,75,0.73,154.0,0.74,63.0,95.9,0.57,0.11,0.147,0.12,31.0,masters_santiago,2760,Xi Lai Gaming,Valorant Masters Santiago 2026,International,Masters
+nobody,EDG,"sova,skye",Initiator,1.0,4,81,0.69,147.0,0.62,54.0,93.3,0.47,0.15,0.049,0.062,15.0,masters_santiago,2760,EDward Gaming,Valorant Masters Santiago 2026,International,Masters
+WsLeo,XLG,sova,Initiator,1.0,4,75,0.67,134.0,0.54,68.0,97.1,0.41,0.36,0.067,0.067,24.0,masters_santiago,2760,Xi Lai Gaming,Valorant Masters Santiago 2026,International,Masters
+vo0kashu,DRG,"cypher,omen,viper",Sentinel,0.667,29,581,1.25,223.0,1.26,74.0,148.0,0.81,0.23,0.079,0.06,30.0,china_stage_1,2864,Dragon Ranger Gaming,VCT 2026: China Stage 1,China,Stage 1
+Smoggy,EDG,"phoenix,brimstone,harbor",Flex,0.667,27,554,1.2,230.0,1.23,79.0,150.0,0.81,0.39,0.112,0.085,28.0,china_stage_1,2864,EDward Gaming,VCT 2026: China Stage 1,China,Stage 1
+slowly,TYL,"brimstone,astra,omen",Controller,1.0,24,517,1.2,219.0,1.21,76.0,143.2,0.78,0.34,0.058,0.06,30.0,china_stage_1,2864,TYLOO,VCT 2026: China Stage 1,China,Stage 1
+CHICHOO,EDG,"cypher,viper,omen",Sentinel,0.667,27,554,1.19,211.0,1.27,77.0,138.3,0.77,0.3,0.074,0.074,30.0,china_stage_1,2864,EDward Gaming,VCT 2026: China Stage 1,China,Stage 1
+nephh,BLG,"astra,omen,brimstone",Controller,1.0,13,259,1.17,211.0,1.18,76.0,128.6,0.76,0.38,0.069,0.073,24.0,china_stage_1,2864,Bilibili Gaming,VCT 2026: China Stage 1,China,Stage 1
+f4ngeer,AG,"waylay,chamber,jett",Duelist,1.0,26,523,1.17,237.0,1.25,70.0,148.5,0.85,0.19,0.136,0.117,32.0,china_stage_1,2864,All Gamers,VCT 2026: China Stage 1,China,Stage 1
+ZmjjKK,EDG,"jett,waylay,raze",Duelist,1.0,27,554,1.16,253.0,1.27,73.0,164.9,0.89,0.17,0.209,0.148,23.0,china_stage_1,2864,EDward Gaming,VCT 2026: China Stage 1,China,Stage 1
+AAAAY,FPX,"viper,killjoy,sage",Sentinel,1.0,13,262,1.16,231.0,1.26,76.0,147.6,0.84,0.2,0.084,0.042,36.0,china_stage_1,2864,FunPlus Phoenix,VCT 2026: China Stage 1,China,Stage 1
+happywei,XLG,"viper,cypher,chamber",Sentinel,1.0,31,639,1.14,230.0,1.19,75.0,156.7,0.81,0.27,0.117,0.088,37.0,china_stage_1,2864,Xi Lai Gaming,VCT 2026: China Stage 1,China,Stage 1
+deLb,TE,"omen,brimstone,veto",Controller,0.667,19,406,1.12,210.0,1.1,73.0,138.9,0.76,0.31,0.084,0.079,40.0,china_stage_1,2864,Trace Esports,VCT 2026: China Stage 1,China,Stage 1
+Spring,WOL,"viper,astra,brimstone",Controller,0.667,12,253,1.12,220.0,1.01,71.0,145.8,0.74,0.33,0.091,0.099,27.0,china_stage_1,2864,Wolves Esports,VCT 2026: China Stage 1,China,Stage 1
+lucas,TEC,"skye,sova,fade",Initiator,1.0,19,425,1.12,206.0,1.12,70.0,136.2,0.73,0.3,0.056,0.059,30.0,china_stage_1,2864,Titan Esports Club,VCT 2026: China Stage 1,China,Stage 1
+Lysoar,XLG,"omen,brimstone,astra",Controller,1.0,31,639,1.1,204.0,1.08,77.0,132.7,0.71,0.42,0.055,0.045,24.0,china_stage_1,2864,Xi Lai Gaming,VCT 2026: China Stage 1,China,Stage 1
+zhe,JDG,"neon,viper,vyse",Sentinel,0.667,21,438,1.1,238.0,1.1,75.0,152.1,0.82,0.24,0.153,0.146,24.0,china_stage_1,2864,JD Gaming,VCT 2026: China Stage 1,China,Stage 1
+WsLeo,XLG,"skye,sova,fade",Initiator,1.0,31,639,1.09,201.0,1.1,77.0,132.8,0.7,0.4,0.066,0.05,27.0,china_stage_1,2864,Xi Lai Gaming,VCT 2026: China Stage 1,China,Stage 1
+Shr1mp,AG,"skye,fade,sova",Initiator,1.0,26,523,1.09,192.0,1.09,72.0,117.4,0.7,0.35,0.055,0.04,25.0,china_stage_1,2864,All Gamers,VCT 2026: China Stage 1,China,Stage 1
+Erv,TYL,"waylay,phoenix,kayo",Flex,0.667,24,517,1.09,216.0,1.03,74.0,148.2,0.73,0.39,0.103,0.095,29.0,china_stage_1,2864,TYLOO,VCT 2026: China Stage 1,China,Stage 1
+Coco,TEC,"viper,brimstone,cypher",Sentinel,0.667,19,425,1.07,208.0,1.0,73.0,135.8,0.71,0.4,0.08,0.082,30.0,china_stage_1,2864,Titan Esports Club,VCT 2026: China Stage 1,China,Stage 1
+Knight,BLG,"tejo,fade,skye",Initiator,1.0,13,259,1.05,183.0,1.0,73.0,126.4,0.66,0.29,0.046,0.054,27.0,china_stage_1,2864,Bilibili Gaming,VCT 2026: China Stage 1,China,Stage 1
+Nicc,DRG,"skye,sova,fade",Initiator,1.0,29,581,1.04,187.0,0.97,76.0,121.9,0.65,0.43,0.043,0.05,31.0,china_stage_1,2864,Dragon Ranger Gaming,VCT 2026: China Stage 1,China,Stage 1
+Kai,TE,"neon,raze,jett",Duelist,1.0,19,406,1.04,220.0,1.06,71.0,148.0,0.78,0.16,0.133,0.138,30.0,china_stage_1,2864,Trace Esports,VCT 2026: China Stage 1,China,Stage 1
+SpiritZ1,DRG,"waylay,jett",Duelist,1.0,29,581,1.03,231.0,1.05,70.0,147.3,0.8,0.2,0.179,0.141,31.0,china_stage_1,2864,Dragon Ranger Gaming,VCT 2026: China Stage 1,China,Stage 1
+splash,TYL,"neon,jett",Duelist,1.0,24,517,1.03,244.0,1.07,72.0,154.4,0.84,0.21,0.182,0.161,27.0,china_stage_1,2864,TYLOO,VCT 2026: China Stage 1,China,Stage 1
+whzy,BLG,"waylay,phoenix,raze",Duelist,1.0,13,259,1.02,222.0,1.05,73.0,143.7,0.78,0.25,0.158,0.143,22.0,china_stage_1,2864,Bilibili Gaming,VCT 2026: China Stage 1,China,Stage 1
+yosemite,WOL,"killjoy,cypher,brimstone",Sentinel,0.667,12,253,1.01,200.0,1.01,69.0,130.9,0.73,0.17,0.071,0.079,31.0,china_stage_1,2864,Wolves Esports,VCT 2026: China Stage 1,China,Stage 1
+Flex1n,DRG,"omen,astra,miks",Controller,1.0,29,581,1.0,179.0,0.93,75.0,115.3,0.63,0.45,0.05,0.072,25.0,china_stage_1,2864,Dragon Ranger Gaming,VCT 2026: China Stage 1,China,Stage 1
+coconut,JDG,"sova,skye,fade",Initiator,1.0,21,438,1.0,185.0,0.91,70.0,123.1,0.63,0.38,0.053,0.064,30.0,china_stage_1,2864,JD Gaming,VCT 2026: China Stage 1,China,Stage 1
+stew,JDG,"omen,raze,brimstone",Flex,0.667,21,438,1.0,207.0,0.97,74.0,132.1,0.73,0.37,0.089,0.08,29.0,china_stage_1,2864,JD Gaming,VCT 2026: China Stage 1,China,Stage 1
+Dynamite,TEC,"neon,raze,phoenix",Duelist,1.0,19,425,0.99,210.0,0.98,71.0,139.2,0.71,0.24,0.127,0.167,22.0,china_stage_1,2864,Titan Esports Club,VCT 2026: China Stage 1,China,Stage 1
+iamgrq,AG,"omen,brimstone,neon",Flex,0.667,26,523,0.99,195.0,0.91,76.0,125.2,0.66,0.47,0.065,0.08,22.0,china_stage_1,2864,All Gamers,VCT 2026: China Stage 1,China,Stage 1
+Xlele,TE,"waylay,omen,phoenix",Flex,0.667,19,406,0.98,210.0,1.02,73.0,130.3,0.75,0.24,0.096,0.101,33.0,china_stage_1,2864,Trace Esports,VCT 2026: China Stage 1,China,Stage 1
+yilai,BLG,"neon,killjoy,waylay",Sentinel,0.667,13,259,0.98,215.0,1.01,70.0,137.3,0.76,0.27,0.127,0.158,24.0,china_stage_1,2864,Bilibili Gaming,VCT 2026: China Stage 1,China,Stage 1
+Scales,TYL,"viper,cypher,chamber",Sentinel,1.0,24,517,0.97,198.0,0.97,73.0,131.7,0.68,0.22,0.114,0.077,29.0,china_stage_1,2864,TYLOO,VCT 2026: China Stage 1,China,Stage 1
+K1ra,AG,"cypher,viper,raze",Sentinel,0.667,26,523,0.97,204.0,0.97,70.0,132.1,0.69,0.21,0.115,0.092,23.0,china_stage_1,2864,All Gamers,VCT 2026: China Stage 1,China,Stage 1
+qiutiaN,NOVA,"sova,fade,tejo",Initiator,1.0,10,207,0.96,193.0,0.91,69.0,126.9,0.67,0.28,0.082,0.053,25.0,china_stage_1,2864,Nova Esports,VCT 2026: China Stage 1,China,Stage 1
+rushia,BLG,"viper,cypher,killjoy",Sentinel,1.0,13,259,0.96,204.0,0.94,74.0,139.5,0.68,0.3,0.093,0.073,21.0,china_stage_1,2864,Bilibili Gaming,VCT 2026: China Stage 1,China,Stage 1
+Abo,TE,"viper,vyse,killjoy",Sentinel,1.0,19,406,0.95,181.0,0.91,69.0,125.0,0.62,0.2,0.057,0.074,28.0,china_stage_1,2864,Trace Esports,VCT 2026: China Stage 1,China,Stage 1
+Rarga,XLG,"neon,sage,chamber",Sentinel,0.667,31,639,0.95,219.0,1.04,71.0,136.8,0.77,0.21,0.194,0.15,25.0,china_stage_1,2864,Xi Lai Gaming,VCT 2026: China Stage 1,China,Stage 1
+Ezeir,NOVA,"omen,brimstone",Controller,1.0,10,207,0.95,187.0,0.85,73.0,123.4,0.63,0.38,0.063,0.048,26.0,china_stage_1,2864,Nova Esports,VCT 2026: China Stage 1,China,Stage 1
+nobody,EDG,"skye,fade,sova",Initiator,1.0,27,554,0.94,172.0,0.91,73.0,113.0,0.58,0.37,0.054,0.087,26.0,china_stage_1,2864,EDward Gaming,VCT 2026: China Stage 1,China,Stage 1
+Jieni7,EDG,"neon,omen,kayo",Flex,1.0,27,554,0.94,184.0,0.95,74.0,120.8,0.66,0.35,0.076,0.081,25.0,china_stage_1,2864,EDward Gaming,VCT 2026: China Stage 1,China,Stage 1
+Spitfires,TEC,"waylay,neon",Duelist,1.0,19,425,0.93,203.0,0.96,68.0,130.1,0.71,0.2,0.148,0.122,28.0,china_stage_1,2864,Titan Esports Club,VCT 2026: China Stage 1,China,Stage 1
+KovaQ,FPX,"fade,skye,tejo",Initiator,1.0,13,262,0.92,186.0,0.97,73.0,125.0,0.66,0.23,0.057,0.069,27.0,china_stage_1,2864,FunPlus Phoenix,VCT 2026: China Stage 1,China,Stage 1
+Setrod,FPX,neon,Duelist,1.0,13,262,0.91,195.0,0.94,69.0,120.7,0.68,0.16,0.118,0.141,23.0,china_stage_1,2864,FunPlus Phoenix,VCT 2026: China Stage 1,China,Stage 1
+jkuro,JDG,"cypher,omen,astra",Controller,0.667,21,438,0.9,177.0,0.88,71.0,112.1,0.62,0.36,0.055,0.094,33.0,china_stage_1,2864,JD Gaming,VCT 2026: China Stage 1,China,Stage 1
+NoMan,XLG,"waylay,kayo,killjoy",Flex,1.0,31,639,0.9,179.0,0.93,72.0,115.6,0.63,0.27,0.103,0.131,29.0,china_stage_1,2864,Xi Lai Gaming,VCT 2026: China Stage 1,China,Stage 1
+Yuicaw,JDG,"waylay,killjoy,raze",Sentinel,0.667,21,438,0.89,187.0,0.86,67.0,123.0,0.65,0.24,0.13,0.137,30.0,china_stage_1,2864,JD Gaming,VCT 2026: China Stage 1,China,Stage 1
+jowa,WOL,"omen,tejo,breach",Initiator,0.667,12,253,0.89,161.0,0.74,73.0,107.3,0.53,0.4,0.067,0.095,31.0,china_stage_1,2864,Wolves Esports,VCT 2026: China Stage 1,China,Stage 1
+swagzor,NOVA,"neon,chamber,raze",Duelist,1.0,10,207,0.89,219.0,0.92,68.0,141.3,0.74,0.22,0.208,0.227,30.0,china_stage_1,2864,Nova Esports,VCT 2026: China Stage 1,China,Stage 1
+Life,DRG,neon,Duelist,1.0,29,581,0.87,201.0,0.89,69.0,131.3,0.69,0.19,0.157,0.169,37.0,china_stage_1,2864,Dragon Ranger Gaming,VCT 2026: China Stage 1,China,Stage 1
+Haodong,TEC,"omen,cypher,astra",Controller,0.667,19,425,0.87,167.0,0.86,70.0,111.1,0.6,0.3,0.066,0.092,31.0,china_stage_1,2864,Titan Esports Club,VCT 2026: China Stage 1,China,Stage 1
+glacier,WOL,"waylay,neon,jett",Duelist,1.0,12,253,0.87,208.0,0.85,69.0,130.9,0.7,0.21,0.19,0.209,29.0,china_stage_1,2864,Wolves Esports,VCT 2026: China Stage 1,China,Stage 1
+SiuFatBB,WOL,"fade,skye,sova",Initiator,1.0,12,253,0.86,153.0,0.78,69.0,103.5,0.53,0.3,0.032,0.067,32.0,china_stage_1,2864,Wolves Esports,VCT 2026: China Stage 1,China,Stage 1
+GuanG,NOVA,"cypher,jett,killjoy",Sentinel,0.667,10,207,0.86,167.0,0.84,65.0,110.2,0.61,0.1,0.097,0.087,29.0,china_stage_1,2864,Nova Esports,VCT 2026: China Stage 1,China,Stage 1
+Ben1Ley,FPX,waylay,Duelist,1.0,13,262,0.85,190.0,0.89,67.0,126.6,0.65,0.18,0.099,0.137,26.0,china_stage_1,2864,FunPlus Phoenix,VCT 2026: China Stage 1,China,Stage 1
+sword9,TYL,"skye,sova,fade",Initiator,1.0,24,517,0.84,153.0,0.8,70.0,105.2,0.53,0.28,0.039,0.06,23.0,china_stage_1,2864,TYLOO,VCT 2026: China Stage 1,China,Stage 1
+Viva,TE,"fade,skye,sova",Initiator,1.0,19,406,0.83,164.0,0.76,71.0,113.5,0.53,0.3,0.059,0.086,26.0,china_stage_1,2864,Trace Esports,VCT 2026: China Stage 1,China,Stage 1
+Bai,AG,"neon,viper",Sentinel,0.5,6,124,0.8,179.0,0.78,71.0,117.3,0.61,0.23,0.073,0.137,16.0,china_stage_1,2864,All Gamers,VCT 2026: China Stage 1,China,Stage 1
+GREEN,NOVA,"viper,breach,skye",Initiator,0.667,10,207,0.77,158.0,0.68,67.0,105.4,0.51,0.29,0.063,0.072,31.0,china_stage_1,2864,Nova Esports,VCT 2026: China Stage 1,China,Stage 1
+BerLIN,FPX,"omen,astra,viper",Controller,0.667,13,262,0.76,167.0,0.78,72.0,133.7,0.55,0.39,0.05,0.103,25.0,china_stage_1,2864,FunPlus Phoenix,VCT 2026: China Stage 1,China,Stage 1
+Youze,AG,"neon,viper",Sentinel,0.5,15,293,0.76,175.0,0.76,62.0,109.7,0.59,0.22,0.102,0.154,21.0,china_stage_1,2864,All Gamers,VCT 2026: China Stage 1,China,Stage 1
+Septem7,AG,"omen,astra,gekko",Controller,0.667,5,106,0.7,139.0,0.61,75.0,90.8,0.46,0.3,0.075,0.094,26.0,china_stage_1,2864,All Gamers,VCT 2026: China Stage 1,China,Stage 1
+Ruxic,NAVI,"omen,viper,astra",Controller,0.667,13,281,1.2,230.0,1.23,75.0,148.0,0.81,0.38,0.089,0.06,25.0,emea_stage_1,2863,Natus Vincere,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Sayonara,VIT,"sova,viper,phoenix",Flex,1.0,24,534,1.13,221.0,1.17,73.0,149.6,0.78,0.26,0.086,0.075,29.0,emea_stage_1,2863,Team Vitality,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+kaajak,FNC,"neon,jett,waylay",Duelist,1.0,17,364,1.1,238.0,1.21,69.0,152.1,0.86,0.16,0.179,0.154,31.0,emea_stage_1,2863,FNATIC,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Alfajer,FNC,"cypher,viper,killjoy",Sentinel,1.0,17,364,1.1,230.0,1.16,69.0,148.3,0.82,0.18,0.14,0.121,37.0,emea_stage_1,2863,FNATIC,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+marteen,M8,"phoenix,raze,veto",Sentinel,0.667,17,351,1.1,227.0,1.1,73.0,151.6,0.78,0.29,0.131,0.137,26.0,emea_stage_1,2863,Gentle Mates,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+RieNs,TH,"fade,sova,skye",Initiator,1.0,32,682,1.08,205.0,1.1,76.0,138.3,0.73,0.3,0.063,0.059,35.0,emea_stage_1,2863,Team Heretics,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+hiro,NAVI,"viper,vyse,tejo",Sentinel,0.667,13,281,1.08,218.0,1.11,69.0,146.4,0.76,0.22,0.057,0.089,31.0,emea_stage_1,2863,Natus Vincere,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Favian,EF,"raze,phoenix,skye",Flex,0.667,23,503,1.07,219.0,1.07,70.0,146.9,0.77,0.26,0.097,0.097,27.0,emea_stage_1,2863,Eternal Fire,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Flickless,GX,"viper,cypher,fade",Sentinel,0.667,13,278,1.06,195.0,1.02,71.0,134.5,0.67,0.33,0.076,0.079,27.0,emea_stage_1,2863,GIANTX,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+yetujey,FUT,"viper,cypher,killjoy",Sentinel,1.0,23,497,1.06,182.0,1.06,72.0,125.0,0.67,0.21,0.062,0.056,28.0,emea_stage_1,2863,FUT Esports,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Veqaj,FNC,"viper,kayo",Flex,0.5,7,161,1.06,205.0,1.08,75.0,138.4,0.7,0.32,0.124,0.056,34.0,emea_stage_1,2863,FNATIC,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Wo0t,TH,"raze,jett,neon",Duelist,1.0,32,682,1.06,223.0,1.11,74.0,146.0,0.79,0.2,0.166,0.125,26.0,emea_stage_1,2863,Team Heretics,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Minny,M8,"cypher,viper,breach",Sentinel,0.667,17,351,1.06,189.0,1.03,71.0,129.0,0.68,0.28,0.074,0.08,31.0,emea_stage_1,2863,Gentle Mates,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+crashies,FNC,"sova,fade,skye",Initiator,1.0,17,364,1.05,173.0,1.09,72.0,114.1,0.63,0.32,0.055,0.047,28.0,emea_stage_1,2863,FNATIC,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Boo,TH,"omen,astra,brimstone",Controller,1.0,32,682,1.05,173.0,0.99,75.0,111.1,0.6,0.45,0.065,0.063,33.0,emea_stage_1,2863,Team Heretics,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+purp0,TL,"fade,skye,sova",Initiator,1.0,17,362,1.05,184.0,1.11,76.0,120.3,0.67,0.23,0.061,0.052,39.0,emea_stage_1,2863,Team Liquid,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+ara,GX,"neon,waylay",Duelist,1.0,13,278,1.05,214.0,1.12,71.0,132.4,0.77,0.17,0.165,0.151,28.0,emea_stage_1,2863,GIANTX,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Jamppi,VIT,"fade,kayo,sova",Initiator,1.0,24,534,1.04,195.0,1.04,75.0,125.4,0.69,0.4,0.084,0.079,27.0,emea_stage_1,2863,Team Vitality,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+kamo,TL,"phoenix,raze,kayo",Flex,0.667,17,362,1.04,223.0,1.09,72.0,147.5,0.78,0.25,0.133,0.088,31.0,emea_stage_1,2863,Team Liquid,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+benjyfishy,TH,"cypher,vyse,viper",Sentinel,1.0,32,682,1.04,190.0,1.08,75.0,124.9,0.69,0.27,0.065,0.075,31.0,emea_stage_1,2863,Team Heretics,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Chronicle,VIT,"viper,vyse,chamber",Sentinel,1.0,24,534,1.03,202.0,1.11,72.0,138.0,0.71,0.23,0.096,0.107,23.0,emea_stage_1,2863,Team Vitality,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+MiniBoo,TL,neon,Duelist,1.0,17,362,1.03,214.0,1.1,67.0,135.0,0.77,0.14,0.166,0.174,28.0,emea_stage_1,2863,Team Liquid,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Derke,VIT,"neon,jett,raze",Duelist,1.0,24,534,1.02,216.0,1.09,72.0,137.0,0.77,0.22,0.176,0.154,21.0,emea_stage_1,2863,Team Vitality,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+s0pp,FUT,neon,Duelist,1.0,23,497,1.02,233.0,1.04,73.0,147.4,0.8,0.24,0.227,0.161,24.0,emea_stage_1,2863,FUT Esports,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+audaz,EF,"astra,omen,brimstone",Controller,1.0,23,503,1.02,178.0,0.97,76.0,117.6,0.64,0.39,0.056,0.048,35.0,emea_stage_1,2863,Eternal Fire,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+PROFEK,VIT,"omen,astra,harbor",Controller,1.0,24,534,1.01,183.0,0.98,73.0,122.9,0.63,0.36,0.092,0.052,23.0,emea_stage_1,2863,Team Vitality,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+sociablEE,FUT,"omen,brimstone,astra",Controller,1.0,23,497,1.01,191.0,0.94,71.0,124.0,0.65,0.46,0.07,0.093,26.0,emea_stage_1,2863,FUT Esports,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+dos9,KC,"omen,astra,neon",Flex,0.667,13,273,1.01,193.0,1.02,69.0,117.0,0.68,0.3,0.07,0.077,25.0,emea_stage_1,2863,Karmine Corp,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+koshmaras,TH,"neon,chamber",Duelist,1.0,29,616,1.01,222.0,1.04,73.0,138.5,0.76,0.26,0.175,0.156,18.0,emea_stage_1,2863,Team Heretics,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+echo,EF,"cypher,viper,veto",Sentinel,1.0,23,503,1.01,215.0,1.06,70.0,138.3,0.77,0.2,0.127,0.123,33.0,emea_stage_1,2863,Eternal Fire,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Filu,NAVI,"chamber,raze,neon",Duelist,1.0,13,281,1.0,191.0,1.01,69.0,128.2,0.67,0.21,0.117,0.117,30.0,emea_stage_1,2863,Natus Vincere,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+GLYPH,M8,"omen,astra,brimstone",Controller,1.0,17,351,1.0,187.0,0.92,76.0,117.0,0.64,0.44,0.057,0.046,24.0,emea_stage_1,2863,Gentle Mates,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+CyvOph,FNC,"phoenix,kayo,viper",Flex,1.0,7,145,1.0,196.0,1.02,72.0,134.2,0.68,0.36,0.069,0.09,30.0,emea_stage_1,2863,FNATIC,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Boaster,FNC,"omen,harbor,brimstone",Controller,1.0,17,364,0.98,162.0,0.9,73.0,106.8,0.55,0.43,0.06,0.066,28.0,emea_stage_1,2863,FNATIC,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+nAts,TL,"killjoy,viper,cypher",Sentinel,1.0,17,362,0.98,204.0,1.02,69.0,138.2,0.71,0.2,0.099,0.102,22.0,emea_stage_1,2863,Team Liquid,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+nekky,EF,"fade,sova,tejo",Initiator,1.0,23,503,0.98,190.0,0.99,71.0,127.6,0.68,0.27,0.056,0.06,27.0,emea_stage_1,2863,Eternal Fire,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Crewen,BBL,"cypher,viper,vyse",Sentinel,1.0,14,292,0.98,195.0,0.93,62.0,132.0,0.68,0.21,0.079,0.086,35.0,emea_stage_1,2863,BBL Esports,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+LewN,KC,"waylay,jett,neon",Duelist,1.0,13,273,0.97,216.0,0.99,70.0,140.8,0.75,0.19,0.154,0.139,36.0,emea_stage_1,2863,Karmine Corp,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+NINJA,PCF,"fade,sova,tejo",Initiator,1.0,12,261,0.97,178.0,0.98,71.0,117.2,0.65,0.16,0.046,0.065,32.0,emea_stage_1,2863,PCIFIC Esports,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Izzy,EF,"neon,jett,waylay",Duelist,1.0,23,503,0.96,197.0,1.0,68.0,125.4,0.7,0.16,0.155,0.181,24.0,emea_stage_1,2863,Eternal Fire,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+SUYGETSU,KC,"vyse,cypher,astra",Sentinel,0.667,13,273,0.95,180.0,0.95,69.0,118.6,0.63,0.21,0.081,0.095,29.0,emea_stage_1,2863,Karmine Corp,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+grubinho,GX,"omen,astra,brimstone",Controller,1.0,13,278,0.95,171.0,0.89,74.0,112.9,0.61,0.37,0.054,0.054,27.0,emea_stage_1,2863,GIANTX,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+westside,GX,"phoenix,waylay,cypher",Sentinel,0.667,13,278,0.95,194.0,0.99,72.0,129.8,0.71,0.21,0.126,0.144,40.0,emea_stage_1,2863,GIANTX,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+al0rante,PCF,"viper,veto,vyse",Sentinel,1.0,12,261,0.94,187.0,0.97,66.0,127.0,0.69,0.18,0.1,0.1,43.0,emea_stage_1,2863,PCIFIC Esports,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+xeus,FUT,"raze,phoenix,waylay",Duelist,1.0,23,497,0.94,209.0,1.0,70.0,135.7,0.74,0.18,0.103,0.109,35.0,emea_stage_1,2863,FUT Esports,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+chloric,NAVI,"fade,sova,skye",Initiator,1.0,13,281,0.94,169.0,0.92,72.0,112.5,0.58,0.28,0.05,0.082,20.0,emea_stage_1,2863,Natus Vincere,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+wayne,TL,"omen,astra,brimstone",Controller,1.0,17,362,0.93,169.0,0.86,74.0,110.9,0.58,0.38,0.058,0.066,32.0,emea_stage_1,2863,Team Liquid,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Lar0k,BBL,"neon,raze,breach",Flex,0.667,14,292,0.93,194.0,0.94,68.0,125.3,0.66,0.24,0.089,0.123,25.0,emea_stage_1,2863,BBL Esports,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+lovers rock,BBL,"jett,neon,waylay",Duelist,1.0,14,292,0.91,195.0,0.9,62.0,125.5,0.66,0.12,0.137,0.147,19.0,emea_stage_1,2863,BBL Esports,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+KROSTALY,FUT,"sova,skye,fade",Initiator,1.0,23,497,0.9,169.0,0.86,71.0,110.9,0.58,0.36,0.056,0.062,28.0,emea_stage_1,2863,FUT Esports,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+ComeBack,NAVI,"chamber,neon",Duelist,1.0,10,218,0.9,195.0,0.97,66.0,127.8,0.7,0.11,0.179,0.133,24.0,emea_stage_1,2863,Natus Vincere,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+seven,PCF,"raze,kayo,neon",Flex,0.667,12,261,0.89,200.0,0.87,68.0,132.6,0.65,0.21,0.146,0.184,21.0,emea_stage_1,2863,PCIFIC Esports,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+N4RRATE,KC,"fade,veto,gekko",Initiator,0.667,13,273,0.89,184.0,0.85,74.0,123.4,0.6,0.32,0.073,0.081,28.0,emea_stage_1,2863,Karmine Corp,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Cloud,GX,"sova,tejo,skye",Initiator,1.0,13,278,0.88,172.0,0.84,75.0,117.8,0.59,0.31,0.079,0.072,26.0,emea_stage_1,2863,GIANTX,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Loita,BBL,"omen,astra,brimstone",Controller,1.0,14,292,0.88,161.0,0.76,68.0,106.0,0.54,0.43,0.062,0.11,33.0,emea_stage_1,2863,BBL Esports,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+starxo,M8,"fade,sova,skye",Initiator,1.0,17,351,0.87,182.0,0.83,70.0,118.9,0.62,0.35,0.083,0.094,25.0,emea_stage_1,2863,Gentle Mates,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+cNed,PCF,"neon,waylay,jett",Duelist,1.0,12,261,0.87,186.0,0.89,63.0,121.8,0.66,0.14,0.115,0.149,29.0,emea_stage_1,2863,PCIFIC Esports,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+qpert,PCF,"astra,omen",Controller,1.0,12,261,0.87,158.0,0.82,75.0,105.9,0.56,0.36,0.046,0.05,28.0,emea_stage_1,2863,PCIFIC Esports,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Rosé,BBL,"sova,fade,skye",Initiator,1.0,14,292,0.84,164.0,0.81,63.0,112.9,0.57,0.24,0.065,0.103,28.0,emea_stage_1,2863,BBL Esports,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Desmo,FNC,"phoenix,viper,kayo",Flex,1.0,3,58,0.83,161.0,0.83,72.0,98.2,0.59,0.38,0.069,0.155,42.0,emea_stage_1,2863,FNATIC,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Avez,KC,"omen,phoenix,tejo",Flex,1.0,13,273,0.76,157.0,0.73,66.0,102.7,0.55,0.32,0.088,0.143,31.0,emea_stage_1,2863,Karmine Corp,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+bipo,M8,"neon,jett,raze",Duelist,1.0,17,351,0.76,174.0,0.79,66.0,110.2,0.6,0.19,0.128,0.171,20.0,emea_stage_1,2863,Gentle Mates,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+Kolosha,NAVI,"neon,waylay",Duelist,1.0,6,129,0.65,157.0,0.63,62.0,108.0,0.5,0.27,0.116,0.209,23.0,emea_stage_1,2863,Natus Vincere,VCT 2026: EMEA Stage 1,EMEA,Stage 1
+primmie,FS,"jett,phoenix,waylay",Duelist,1.0,21,442,1.24,265.0,1.31,74.0,166.7,0.92,0.23,0.201,0.143,30.0,pacific_stage_1,2775,FULL SENSE,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+something,PRX,"jett,neon,yoru",Duelist,1.0,27,564,1.22,234.0,1.4,74.0,152.5,0.86,0.16,0.177,0.105,24.0,pacific_stage_1,2775,Paper Rex,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Jemkin,RRQ,"chamber,waylay,raze",Duelist,1.0,21,469,1.19,228.0,1.3,71.0,146.4,0.83,0.16,0.158,0.139,29.0,pacific_stage_1,2775,Rex Regum Qeon,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Jinggg,PRX,"raze,phoenix,omen",Flex,0.667,27,564,1.18,234.0,1.25,77.0,155.9,0.84,0.31,0.129,0.092,26.0,pacific_stage_1,2775,Paper Rex,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Meiy,DFM,"waylay,neon,raze",Duelist,1.0,16,357,1.17,252.0,1.21,75.0,156.0,0.89,0.17,0.202,0.112,27.0,pacific_stage_1,2775,DetonatioN FocusMe,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+iZu,T1,"chamber,killjoy,sova",Sentinel,0.667,19,400,1.17,214.0,1.33,72.0,141.9,0.8,0.14,0.117,0.085,24.0,pacific_stage_1,2775,T1,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+oonzmlp,VL,"viper,cypher,chamber",Sentinel,1.0,12,275,1.16,233.0,1.19,71.0,151.0,0.81,0.25,0.127,0.102,32.0,pacific_stage_1,2775,VARREL,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+MaKo,KRX,"omen,astra,brimstone",Controller,1.0,20,435,1.14,208.0,1.12,77.0,137.7,0.72,0.4,0.09,0.069,29.0,pacific_stage_1,2775,KIWOOM DRX,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+xffero,RRQ,"viper,veto,cypher",Sentinel,1.0,21,469,1.1,212.0,1.13,72.0,141.9,0.74,0.25,0.09,0.064,25.0,pacific_stage_1,2775,Rex Regum Qeon,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+t3xture,GEN,"neon,raze,chamber",Duelist,1.0,13,282,1.1,233.0,1.1,73.0,149.9,0.81,0.2,0.177,0.163,23.0,pacific_stage_1,2775,Gen.G,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+BuZz,T1,"neon,jett",Duelist,1.0,19,400,1.09,242.0,1.21,72.0,147.5,0.87,0.22,0.182,0.15,22.0,pacific_stage_1,2775,T1,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Sylvan,TS,"astra,omen,brimstone",Controller,1.0,12,269,1.09,210.0,1.07,76.0,135.9,0.76,0.38,0.063,0.059,31.0,pacific_stage_1,2775,Team Secret,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+PatMen,GE,"viper,omen,fade",Flex,1.0,21,441,1.08,227.0,1.08,71.0,147.8,0.8,0.24,0.113,0.084,35.0,pacific_stage_1,2775,Global Esports,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+HYUNMIN,KRX,"jett,raze,phoenix",Duelist,1.0,20,435,1.08,227.0,1.08,70.0,153.0,0.8,0.18,0.101,0.117,28.0,pacific_stage_1,2775,KIWOOM DRX,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+invy,PRX,"skye,sova,fade",Initiator,1.0,27,564,1.07,195.0,1.05,77.0,132.9,0.68,0.41,0.078,0.05,27.0,pacific_stage_1,2775,Paper Rex,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Killua,FS,"skye,fade,sova",Initiator,1.0,21,442,1.06,199.0,1.07,77.0,129.5,0.71,0.38,0.063,0.068,32.0,pacific_stage_1,2775,FULL SENSE,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+kellyS,TS,"viper,kayo,chamber",Sentinel,0.667,12,269,1.05,214.0,1.03,76.0,143.2,0.73,0.33,0.1,0.074,24.0,pacific_stage_1,2775,Team Secret,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Autumn,GE,"chamber,brimstone,cypher",Sentinel,0.667,21,441,1.04,205.0,1.05,72.0,132.9,0.73,0.21,0.125,0.118,31.0,pacific_stage_1,2775,Global Esports,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+f0rsakeN,PRX,"omen,neon,astra",Flex,0.667,27,564,1.04,211.0,1.07,76.0,137.1,0.75,0.39,0.098,0.085,24.0,pacific_stage_1,2775,Paper Rex,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Xross,NS,"fade,sova,tejo",Initiator,1.0,17,375,1.04,200.0,1.02,72.0,133.7,0.69,0.29,0.037,0.048,24.0,pacific_stage_1,2775,Nongshim RedForce,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Absol,ZETA,neon,Duelist,1.0,13,269,1.03,228.0,1.06,66.0,147.4,0.8,0.21,0.123,0.167,21.0,pacific_stage_1,2775,ZETA DIVISION,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+stax,T1,"skye,fade,sova",Initiator,1.0,19,400,1.02,183.0,1.04,75.0,121.4,0.66,0.34,0.072,0.037,28.0,pacific_stage_1,2775,T1,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+d4v41,PRX,"vyse,viper,killjoy",Sentinel,1.0,27,564,1.02,199.0,1.06,72.0,136.0,0.71,0.23,0.103,0.083,26.0,pacific_stage_1,2775,Paper Rex,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Karon,GEN,"viper,phoenix,vyse",Sentinel,0.667,13,282,1.02,199.0,1.03,72.0,131.7,0.72,0.27,0.067,0.074,28.0,pacific_stage_1,2775,Gen.G,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+JitBoyS,FS,"neon,raze,cypher",Sentinel,0.667,21,442,1.01,213.0,1.07,71.0,136.8,0.75,0.2,0.12,0.131,24.0,pacific_stage_1,2775,FULL SENSE,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Ash,GEN,"neon,omen,brimstone",Flex,0.667,11,244,1.0,203.0,0.94,69.0,131.9,0.68,0.3,0.127,0.131,27.0,pacific_stage_1,2775,Gen.G,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+XuNa,VL,"skye,sova,fade",Initiator,1.0,12,275,1.0,189.0,0.96,69.0,130.7,0.67,0.24,0.065,0.033,34.0,pacific_stage_1,2775,VARREL,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Leviathan,FS,"omen,cypher,viper",Sentinel,0.667,21,442,0.99,178.0,1.03,70.0,120.5,0.67,0.27,0.05,0.075,39.0,pacific_stage_1,2775,FULL SENSE,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Meteor,T1,"viper,killjoy,phoenix",Sentinel,0.667,19,400,0.98,200.0,1.0,72.0,135.8,0.68,0.26,0.105,0.11,29.0,pacific_stage_1,2775,T1,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+UdoTan,GE,"neon,raze,sage",Sentinel,0.667,21,441,0.97,205.0,1.01,73.0,133.6,0.73,0.22,0.132,0.152,24.0,pacific_stage_1,2775,Global Esports,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+BeYN,KRX,"fade,skye,breach",Initiator,1.0,20,435,0.97,174.0,0.91,72.0,112.7,0.6,0.34,0.064,0.074,27.0,pacific_stage_1,2775,KIWOOM DRX,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Dambi,NS,"neon,phoenix,raze",Duelist,1.0,17,375,0.97,214.0,0.94,69.0,138.1,0.73,0.27,0.147,0.131,24.0,pacific_stage_1,2775,Nongshim RedForce,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Lakia,GEN,"fade,sova,breach",Initiator,1.0,13,282,0.96,186.0,0.88,76.0,122.6,0.65,0.37,0.046,0.046,24.0,pacific_stage_1,2775,Gen.G,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+crazyguy,RRQ,"omen,brimstone,kayo",Controller,0.667,21,469,0.96,180.0,0.91,70.0,116.3,0.6,0.45,0.064,0.104,23.0,pacific_stage_1,2775,Rex Regum Qeon,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Munchkin,T1,"omen,astra,harbor",Controller,1.0,19,400,0.96,171.0,0.92,73.0,109.9,0.59,0.45,0.037,0.102,19.0,pacific_stage_1,2775,T1,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Caedye,DFM,"cypher,vyse,killjoy",Sentinel,1.0,16,357,0.96,209.0,1.0,68.0,132.4,0.72,0.2,0.112,0.092,27.0,pacific_stage_1,2775,DetonatioN FocusMe,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Zeus,TS,neon,Duelist,1.0,6,128,0.96,232.0,0.95,77.0,152.6,0.77,0.29,0.211,0.227,22.0,pacific_stage_1,2775,Team Secret,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Kr1stal,GE,"deadlock,fade,sova",Initiator,0.667,21,441,0.94,185.0,0.91,69.0,123.9,0.63,0.22,0.073,0.063,26.0,pacific_stage_1,2775,Global Esports,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Francis,NS,"neon,breach,waylay",Flex,0.667,17,375,0.94,216.0,0.96,69.0,135.5,0.75,0.25,0.123,0.16,17.0,pacific_stage_1,2775,Nongshim RedForce,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Kushy,RRQ,"sova,skye,fade",Initiator,1.0,21,469,0.93,169.0,0.86,75.0,113.4,0.58,0.35,0.045,0.06,33.0,pacific_stage_1,2775,Rex Regum Qeon,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+SyouTa,ZETA,"viper,raze,veto",Sentinel,0.667,13,269,0.93,194.0,0.97,72.0,125.4,0.69,0.17,0.115,0.112,35.0,pacific_stage_1,2775,ZETA DIVISION,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Rb,NS,"omen,brimstone,astra",Controller,1.0,17,375,0.92,159.0,0.86,70.0,102.5,0.55,0.41,0.043,0.08,24.0,pacific_stage_1,2775,Nongshim RedForce,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+BerserX,TS,"cypher,viper,killjoy",Sentinel,1.0,12,269,0.92,172.0,0.87,74.0,119.0,0.59,0.24,0.071,0.078,22.0,pacific_stage_1,2775,Team Secret,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+xavi8k,GE,"omen,sage,astra",Controller,0.667,21,441,0.91,168.0,0.84,68.0,111.9,0.58,0.35,0.05,0.088,22.0,pacific_stage_1,2775,Global Esports,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Akame,DFM,"neon,sova,tejo",Flex,0.667,16,357,0.91,202.0,0.94,68.0,129.7,0.71,0.22,0.109,0.174,23.0,pacific_stage_1,2775,DetonatioN FocusMe,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Ivy,NS,"viper,chamber,cypher",Sentinel,1.0,17,375,0.91,181.0,0.92,65.0,121.9,0.65,0.17,0.104,0.128,33.0,pacific_stage_1,2775,Nongshim RedForce,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+SSeeS,DFM,"omen,brimstone,tejo",Controller,0.667,16,357,0.9,165.0,0.8,73.0,107.3,0.54,0.45,0.045,0.073,26.0,pacific_stage_1,2775,DetonatioN FocusMe,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Crws,FS,"brimstone,vyse,astra",Controller,0.667,21,442,0.89,165.0,0.85,73.0,111.3,0.56,0.36,0.066,0.084,23.0,pacific_stage_1,2775,FULL SENSE,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Monyet,RRQ,"neon,harbor,omen",Flex,0.667,21,469,0.89,195.0,0.9,70.0,124.3,0.68,0.28,0.128,0.149,25.0,pacific_stage_1,2775,Rex Regum Qeon,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+yatsuka,DFM,"skye,fade,sova",Initiator,1.0,16,357,0.89,154.0,0.82,69.0,100.9,0.54,0.31,0.045,0.036,38.0,pacific_stage_1,2775,DetonatioN FocusMe,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+yong,KRX,"chamber,cypher,vyse",Sentinel,1.0,18,393,0.89,189.0,0.93,69.0,127.8,0.66,0.2,0.109,0.117,29.0,pacific_stage_1,2775,KIWOOM DRX,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+free1ng,KRX,"neon,tejo,raze",Flex,0.667,20,435,0.88,189.0,0.96,69.0,121.0,0.68,0.15,0.117,0.154,22.0,pacific_stage_1,2775,KIWOOM DRX,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+eKo,ZETA,"waylay,skye,phoenix",Flex,0.667,13,269,0.87,177.0,0.8,67.0,121.5,0.61,0.28,0.097,0.119,27.0,pacific_stage_1,2775,ZETA DIVISION,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+SugarZ3ro,ZETA,"omen,brimstone,harbor",Controller,1.0,13,269,0.87,172.0,0.8,69.0,110.1,0.59,0.37,0.074,0.086,30.0,pacific_stage_1,2775,ZETA DIVISION,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+JessieVash,TS,"skye,sova,tejo",Initiator,1.0,12,269,0.86,152.0,0.77,74.0,105.6,0.53,0.36,0.041,0.033,25.0,pacific_stage_1,2775,Team Secret,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Klaus,VL,"neon,waylay,killjoy",Sentinel,0.667,12,275,0.85,177.0,0.88,64.0,114.2,0.63,0.15,0.12,0.142,31.0,pacific_stage_1,2775,VARREL,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Xdll,ZETA,"skye,breach,sova",Initiator,1.0,13,269,0.84,163.0,0.77,65.0,111.3,0.57,0.19,0.048,0.059,32.0,pacific_stage_1,2775,ZETA DIVISION,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Zexy,VL,"jett,raze,neon",Duelist,1.0,12,275,0.82,192.0,0.85,62.0,126.9,0.67,0.18,0.135,0.149,28.0,pacific_stage_1,2775,VARREL,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+C1ndeR,VL,"omen,astra,brimstone",Controller,1.0,12,275,0.78,157.0,0.73,68.0,97.7,0.54,0.36,0.058,0.069,31.0,pacific_stage_1,2775,VARREL,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Foxy9,GEN,"brimstone,omen",Controller,1.0,2,38,0.72,141.0,0.7,71.0,82.2,0.5,0.34,0.053,0.053,27.0,pacific_stage_1,2775,Gen.G,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+KiTae,GEN,"omen,astra",Controller,1.0,6,143,0.72,151.0,0.65,70.0,101.3,0.48,0.38,0.077,0.112,28.0,pacific_stage_1,2775,Gen.G,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+ZynX,GEN,"neon,yoru,cypher",Sentinel,0.667,7,139,0.71,171.0,0.7,68.0,105.9,0.58,0.25,0.079,0.108,24.0,pacific_stage_1,2775,Gen.G,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Hermes,KRX,"vyse,cypher",Sentinel,1.0,2,42,0.69,142.0,0.63,62.0,101.3,0.45,0.24,0.048,0.048,25.0,pacific_stage_1,2775,KIWOOM DRX,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Rimuru,TS,"neon,jett",Duelist,1.0,6,141,0.67,170.0,0.7,59.0,111.2,0.58,0.19,0.191,0.319,30.0,pacific_stage_1,2775,Team Secret,VCT 2026: Pacific Stage 1,Pacific,Stage 1
+Neon,LEV,"chamber,brimstone,omen",Controller,0.667,26,543,1.25,224.0,1.45,77.0,147.1,0.83,0.27,0.127,0.09,25.0,americas_stage_1,2860,LEVIATÁN,VCT 2026: Americas Stage 1,Americas,Stage 1
+brawk,NRG,"sova,vyse,brimstone",Flex,1.0,23,489,1.24,223.0,1.28,79.0,146.6,0.77,0.41,0.072,0.039,18.0,americas_stage_1,2860,NRG,VCT 2026: Americas Stage 1,Americas,Stage 1
+Less,KRÜ,"viper,cypher",Sentinel,1.0,16,335,1.21,240.0,1.35,72.0,155.6,0.86,0.24,0.122,0.093,28.0,americas_stage_1,2860,KRÜ Esports,VCT 2026: Americas Stage 1,Americas,Stage 1
+cortezia,SEN,"viper,killjoy,veto",Sentinel,1.0,12,274,1.15,215.0,1.21,72.0,139.0,0.76,0.2,0.117,0.091,29.0,americas_stage_1,2860,Sentinels,VCT 2026: Americas Stage 1,Americas,Stage 1
+trent,G2,"fade,sova",Initiator,1.0,28,608,1.14,201.0,1.12,77.0,138.5,0.7,0.34,0.056,0.053,31.0,americas_stage_1,2860,G2 Esports,VCT 2026: Americas Stage 1,Americas,Stage 1
+erde,LOUD,"omen,astra,kayo",Controller,0.667,8,159,1.13,216.0,1.1,73.0,139.1,0.76,0.31,0.088,0.101,26.0,americas_stage_1,2860,LOUD,VCT 2026: Americas Stage 1,Americas,Stage 1
+saadhak,KRÜ,"omen,brimstone,harbor",Controller,1.0,16,335,1.11,211.0,1.11,71.0,135.2,0.74,0.38,0.113,0.11,24.0,americas_stage_1,2860,KRÜ Esports,VCT 2026: Americas Stage 1,Americas,Stage 1
+mwzera,KRÜ,"fade,sova",Initiator,1.0,16,335,1.09,199.0,1.07,76.0,133.9,0.69,0.31,0.057,0.03,21.0,americas_stage_1,2860,KRÜ Esports,VCT 2026: Americas Stage 1,Americas,Stage 1
+aspas,MIBR,"jett,raze",Duelist,1.0,15,323,1.09,211.0,1.11,72.0,141.7,0.76,0.16,0.139,0.077,25.0,americas_stage_1,2860,MIBR,VCT 2026: Americas Stage 1,Americas,Stage 1
+bang,100T,"omen,harbor,astra",Controller,1.0,21,440,1.08,187.0,1.07,75.0,117.6,0.69,0.41,0.057,0.05,33.0,americas_stage_1,2860,100 Thieves,VCT 2026: Americas Stage 1,Americas,Stage 1
+valyn,G2,"astra,harbor,omen",Controller,1.0,28,608,1.08,198.0,1.11,74.0,126.9,0.72,0.37,0.081,0.082,26.0,americas_stage_1,2860,G2 Esports,VCT 2026: Americas Stage 1,Americas,Stage 1
+keiko,NRG,"omen,jett,phoenix",Flex,0.667,23,489,1.08,215.0,1.12,72.0,141.9,0.76,0.26,0.119,0.106,30.0,americas_stage_1,2860,NRG,VCT 2026: Americas Stage 1,Americas,Stage 1
+Rossy,ENVY,"viper,astra,tejo",Flex,1.0,12,231,1.07,202.0,1.01,72.0,135.5,0.72,0.32,0.039,0.065,28.0,americas_stage_1,2860,ENVY,VCT 2026: Americas Stage 1,Americas,Stage 1
+BABYBAY,G2,"vyse,chamber",Sentinel,1.0,28,608,1.07,211.0,1.08,76.0,139.1,0.74,0.28,0.104,0.074,22.0,americas_stage_1,2860,G2 Esports,VCT 2026: Americas Stage 1,Americas,Stage 1
+Cryocells,100T,"cypher,viper,chamber",Sentinel,1.0,21,440,1.07,205.0,1.16,71.0,132.5,0.75,0.23,0.089,0.082,22.0,americas_stage_1,2860,100 Thieves,VCT 2026: Americas Stage 1,Americas,Stage 1
+artzin,FUR,"vyse,killjoy,cypher",Sentinel,1.0,18,360,1.07,213.0,1.1,71.0,142.5,0.76,0.23,0.072,0.075,24.0,americas_stage_1,2860,FURIA,VCT 2026: Americas Stage 1,Americas,Stage 1
+lukxo,LOUD,"viper,chamber,harbor",Sentinel,0.667,15,311,1.07,217.0,1.07,67.0,141.7,0.77,0.27,0.135,0.119,25.0,americas_stage_1,2860,LOUD,VCT 2026: Americas Stage 1,Americas,Stage 1
+Reduxx,SEN,"omen,iso,raze",Flex,0.667,12,274,1.06,220.0,1.06,71.0,139.6,0.78,0.24,0.095,0.073,27.0,americas_stage_1,2860,Sentinels,VCT 2026: Americas Stage 1,Americas,Stage 1
+blowz,LEV,"sova,fade,skye",Initiator,1.0,26,543,1.06,180.0,1.09,78.0,125.1,0.62,0.36,0.05,0.031,31.0,americas_stage_1,2860,LEVIATÁN,VCT 2026: Americas Stage 1,Americas,Stage 1
+Sato,LEV,"phoenix,waylay,omen",Flex,0.667,26,543,1.06,222.0,1.09,74.0,144.9,0.78,0.34,0.138,0.094,34.0,americas_stage_1,2860,LEVIATÁN,VCT 2026: Americas Stage 1,Americas,Stage 1
+OXY,C9,"neon,raze",Duelist,1.0,12,253,1.05,240.0,1.04,70.0,149.4,0.83,0.19,0.158,0.209,24.0,americas_stage_1,2860,Cloud9,VCT 2026: Americas Stage 1,Americas,Stage 1
+Asuna,100T,"neon,phoenix,sage",Sentinel,0.667,21,440,1.03,207.0,1.01,74.0,135.1,0.71,0.34,0.114,0.13,20.0,americas_stage_1,2860,100 Thieves,VCT 2026: Americas Stage 1,Americas,Stage 1
+dgzin,EG,"neon,chamber",Duelist,1.0,12,259,1.03,227.0,1.08,68.0,143.6,0.83,0.11,0.178,0.201,36.0,americas_stage_1,2860,Evil Geniuses,VCT 2026: Americas Stage 1,Americas,Stage 1
+zekken,MIBR,"neon,phoenix,sova",Flex,0.667,15,323,1.02,226.0,1.05,68.0,139.0,0.79,0.2,0.167,0.155,20.0,americas_stage_1,2860,MIBR,VCT 2026: Americas Stage 1,Americas,Stage 1
+Verno,MIBR,"fade,skye,sage",Initiator,0.667,15,323,1.02,180.0,0.98,72.0,120.0,0.63,0.33,0.062,0.068,28.0,americas_stage_1,2860,MIBR,VCT 2026: Americas Stage 1,Americas,Stage 1
+Notexxd,C9,omen,Controller,1.0,2,41,1.02,197.0,1.0,80.0,122.7,0.71,0.39,0.049,0.049,23.0,americas_stage_1,2860,Cloud9,VCT 2026: Americas Stage 1,Americas,Stage 1
+leaf,G2,"phoenix,viper,astra",Flex,1.0,28,608,1.01,200.0,1.01,71.0,132.6,0.71,0.33,0.097,0.13,24.0,americas_stage_1,2860,G2 Esports,VCT 2026: Americas Stage 1,Americas,Stage 1
+kiNgg,LEV,"viper,astra,breach",Flex,1.0,26,543,1.01,172.0,1.1,78.0,112.1,0.62,0.32,0.063,0.039,27.0,americas_stage_1,2860,LEVIATÁN,VCT 2026: Americas Stage 1,Americas,Stage 1
+Timotino,100T,"neon,phoenix,raze",Duelist,1.0,21,440,1.01,223.0,1.02,68.0,145.3,0.77,0.25,0.191,0.18,23.0,americas_stage_1,2860,100 Thieves,VCT 2026: Americas Stage 1,Americas,Stage 1
+Ethan,NRG,"fade,kayo,tejo",Initiator,1.0,23,489,1.0,186.0,0.93,74.0,123.8,0.63,0.39,0.08,0.067,24.0,americas_stage_1,2860,NRG,VCT 2026: Americas Stage 1,Americas,Stage 1
+v1c,C9,"omen,astra,viper",Controller,0.667,10,212,0.99,179.0,0.91,74.0,120.4,0.61,0.41,0.071,0.09,31.0,americas_stage_1,2860,Cloud9,VCT 2026: Americas Stage 1,Americas,Stage 1
+Demon1,ENVY,"chamber,veto,jett",Sentinel,0.667,12,231,0.99,198.0,1.04,67.0,129.6,0.75,0.18,0.104,0.126,46.0,americas_stage_1,2860,ENVY,VCT 2026: Americas Stage 1,Americas,Stage 1
+Paincakes,EG,"sova,fade,skye",Initiator,1.0,3,67,0.98,185.0,0.86,69.0,120.7,0.63,0.39,0.0,0.075,30.0,americas_stage_1,2860,Evil Geniuses,VCT 2026: Americas Stage 1,Americas,Stage 1
+mada,NRG,"neon,harbor,waylay",Flex,0.667,23,489,0.98,201.0,1.03,70.0,126.4,0.73,0.24,0.166,0.184,22.0,americas_stage_1,2860,NRG,VCT 2026: Americas Stage 1,Americas,Stage 1
+Darker,LOUD,"astra,vyse,viper",Sentinel,0.667,15,311,0.98,205.0,0.92,71.0,134.5,0.7,0.32,0.074,0.071,25.0,americas_stage_1,2860,LOUD,VCT 2026: Americas Stage 1,Americas,Stage 1
+keznit,ENVY,"neon,raze,waylay",Duelist,1.0,12,231,0.97,222.0,1.03,69.0,143.3,0.78,0.19,0.156,0.121,21.0,americas_stage_1,2860,ENVY,VCT 2026: Americas Stage 1,Americas,Stage 1
+cauanzin,LOUD,"sova,fade,skye",Initiator,1.0,15,311,0.96,174.0,0.88,69.0,117.0,0.59,0.3,0.064,0.058,20.0,americas_stage_1,2860,LOUD,VCT 2026: Americas Stage 1,Americas,Stage 1
+zerona,EG,"viper,phoenix",Sentinel,0.5,3,67,0.96,216.0,0.94,72.0,143.0,0.73,0.22,0.119,0.06,27.0,americas_stage_1,2860,Evil Geniuses,VCT 2026: Americas Stage 1,Americas,Stage 1
+eeiu,FUR,"fade,sova",Initiator,1.0,18,360,0.95,182.0,0.93,65.0,120.1,0.65,0.24,0.081,0.044,27.0,americas_stage_1,2860,FURIA,VCT 2026: Americas Stage 1,Americas,Stage 1
+johnqt,SEN,"viper,harbor,sage",Sentinel,0.667,12,274,0.95,166.0,0.91,66.0,110.1,0.58,0.3,0.022,0.062,24.0,americas_stage_1,2860,Sentinels,VCT 2026: Americas Stage 1,Americas,Stage 1
+jawgemo,G2,"neon,raze,yoru",Duelist,1.0,28,608,0.95,209.0,0.98,69.0,135.3,0.73,0.24,0.15,0.174,19.0,americas_stage_1,2860,G2 Esports,VCT 2026: Americas Stage 1,Americas,Stage 1
+Mazino,MIBR,"omen,astra,harbor",Controller,1.0,15,323,0.94,183.0,0.9,70.0,121.7,0.63,0.46,0.068,0.099,22.0,americas_stage_1,2860,MIBR,VCT 2026: Americas Stage 1,Americas,Stage 1
+penny,C9,"viper,chamber,vyse",Sentinel,1.0,7,153,0.94,198.0,1.0,68.0,124.8,0.67,0.24,0.092,0.092,19.0,americas_stage_1,2860,Cloud9,VCT 2026: Americas Stage 1,Americas,Stage 1
+spike,LEV,"neon,omen",Flex,0.5,26,543,0.93,229.0,1.03,72.0,143.4,0.8,0.24,0.199,0.169,23.0,americas_stage_1,2860,LEVIATÁN,VCT 2026: Americas Stage 1,Americas,Stage 1
+nerve,FUR,"viper,astra,omen",Controller,0.667,18,360,0.92,169.0,0.89,71.0,115.3,0.59,0.3,0.036,0.072,28.0,americas_stage_1,2860,FURIA,VCT 2026: Americas Stage 1,Americas,Stage 1
+skuba,NRG,"viper,cypher,astra",Sentinel,0.667,23,489,0.92,173.0,0.92,72.0,113.9,0.61,0.24,0.082,0.086,23.0,americas_stage_1,2860,NRG,VCT 2026: Americas Stage 1,Americas,Stage 1
+vora,100T,"sova,fade,skye",Initiator,1.0,21,440,0.92,168.0,0.91,73.0,116.4,0.58,0.32,0.045,0.064,25.0,americas_stage_1,2860,100 Thieves,VCT 2026: Americas Stage 1,Americas,Stage 1
+alym,FUR,"neon,harbor,phoenix",Flex,0.667,18,360,0.91,216.0,0.97,67.0,133.4,0.75,0.22,0.167,0.208,20.0,americas_stage_1,2860,FURIA,VCT 2026: Americas Stage 1,Americas,Stage 1
+Jackk,C9,"fade,sova",Initiator,1.0,5,100,0.9,170.0,0.83,73.0,117.4,0.58,0.34,0.03,0.07,29.0,americas_stage_1,2860,Cloud9,VCT 2026: Americas Stage 1,Americas,Stage 1
+P0PPIN,ENVY,"sova,skye,fade",Initiator,1.0,12,231,0.89,178.0,0.81,67.0,117.2,0.61,0.33,0.039,0.108,18.0,americas_stage_1,2860,ENVY,VCT 2026: Americas Stage 1,Americas,Stage 1
+supamen,EG,"viper,astra,omen",Controller,0.667,12,259,0.88,175.0,0.85,68.0,116.8,0.62,0.25,0.077,0.093,34.0,americas_stage_1,2860,Evil Geniuses,VCT 2026: Americas Stage 1,Americas,Stage 1
+JonahP,SEN,"sova,fade,skye",Initiator,1.0,12,274,0.88,180.0,0.85,70.0,125.7,0.59,0.27,0.058,0.102,23.0,americas_stage_1,2860,Sentinels,VCT 2026: Americas Stage 1,Americas,Stage 1
+Xeppaa,C9,"skye,sova,raze",Flex,0.667,12,253,0.88,187.0,0.81,69.0,126.1,0.62,0.32,0.055,0.087,24.0,americas_stage_1,2860,Cloud9,VCT 2026: Americas Stage 1,Americas,Stage 1
+silentzz,KRÜ,"vyse,phoenix,kayo",Flex,1.0,16,335,0.88,170.0,0.87,70.0,113.6,0.6,0.25,0.087,0.054,27.0,americas_stage_1,2860,KRÜ Esports,VCT 2026: Americas Stage 1,Americas,Stage 1
+tex,MIBR,"vyse,astra,chamber",Sentinel,0.667,15,323,0.86,169.0,0.85,66.0,116.1,0.59,0.22,0.077,0.087,34.0,americas_stage_1,2860,MIBR,VCT 2026: Americas Stage 1,Americas,Stage 1
+bao,EG,"killjoy,vyse,brimstone",Sentinel,0.667,12,259,0.86,180.0,0.79,68.0,121.3,0.6,0.28,0.085,0.1,31.0,americas_stage_1,2860,Evil Geniuses,VCT 2026: Americas Stage 1,Americas,Stage 1
+Okeanos,EG,"omen,waylay,kayo",Flex,1.0,9,192,0.85,176.0,0.77,64.0,120.7,0.6,0.25,0.057,0.099,36.0,americas_stage_1,2860,Evil Geniuses,VCT 2026: Americas Stage 1,Americas,Stage 1
+koalanoob,FUR,"phoenix,omen,jett",Flex,0.667,18,360,0.84,184.0,0.82,68.0,120.4,0.63,0.28,0.125,0.119,23.0,americas_stage_1,2860,FURIA,VCT 2026: Americas Stage 1,Americas,Stage 1
+Zellsis,C9,"viper,tejo,killjoy",Sentinel,0.667,12,253,0.83,172.0,0.79,69.0,115.3,0.57,0.31,0.087,0.099,19.0,americas_stage_1,2860,Cloud9,VCT 2026: Americas Stage 1,Americas,Stage 1
+Jerrwin,SEN,neon,Duelist,1.0,10,231,0.82,195.0,0.88,65.0,124.0,0.68,0.17,0.182,0.186,17.0,americas_stage_1,2860,Sentinels,VCT 2026: Americas Stage 1,Americas,Stage 1
+Virtyy,LOUD,"neon,raze,jett",Duelist,1.0,15,311,0.81,181.0,0.79,67.0,118.0,0.61,0.16,0.145,0.167,20.0,americas_stage_1,2860,LOUD,VCT 2026: Americas Stage 1,Americas,Stage 1
+Dantedeu5,KRÜ,neon,Duelist,1.0,16,335,0.81,186.0,0.84,68.0,117.8,0.64,0.25,0.158,0.176,23.0,americas_stage_1,2860,KRÜ Esports,VCT 2026: Americas Stage 1,Americas,Stage 1
+C0M,EG,"sova,fade,skye",Initiator,1.0,9,192,0.76,150.0,0.67,65.0,106.0,0.47,0.29,0.042,0.073,21.0,americas_stage_1,2860,Evil Geniuses,VCT 2026: Americas Stage 1,Americas,Stage 1
+Eggsterr,ENVY,"omen,phoenix,brimstone",Flex,0.667,12,231,0.72,172.0,0.71,66.0,107.5,0.57,0.27,0.126,0.113,30.0,americas_stage_1,2860,ENVY,VCT 2026: Americas Stage 1,Americas,Stage 1
+Victor,SEN,"raze,neon",Duelist,1.0,2,43,0.7,192.0,0.76,56.0,121.0,0.65,0.12,0.233,0.209,11.0,americas_stage_1,2860,Sentinels,VCT 2026: Americas Stage 1,Americas,Stage 1
+Bati,LOUD,"omen,kayo",Flex,0.5,7,152,0.7,140.0,0.61,66.0,89.9,0.46,0.45,0.033,0.112,20.0,americas_stage_1,2860,LOUD,VCT 2026: Americas Stage 1,Americas,Stage 1
+primmie,FS,"jett,phoenix",Duelist,1.0,5,100,1.4,281.0,1.51,74.0,169.0,1.03,0.14,0.15,0.09,30.0,masters_london,2765,FULL SENSE,Valorant Masters London 2026,International,Masters
+invy,PRX,"sova,skye,breach",Initiator,1.0,13,263,1.25,218.0,1.29,79.0,148.6,0.78,0.43,0.046,0.046,29.0,masters_london,2765,Paper Rex,Valorant Masters London 2026,International,Masters
+keiko,NRG,"phoenix,omen,vyse",Flex,1.0,8,176,1.23,236.0,1.27,69.0,155.5,0.88,0.31,0.091,0.062,35.0,masters_london,2765,NRG,Valorant Masters London 2026,International,Masters
+vo0kashu,DRG,"cypher,viper,vyse",Sentinel,1.0,5,97,1.21,245.0,1.13,78.0,166.8,0.81,0.32,0.103,0.052,25.0,masters_london,2765,Dragon Ranger Gaming,Valorant Masters London 2026,International,Masters
+Derke,VIT,"jett,raze,neon",Duelist,1.0,14,260,1.21,253.0,1.27,71.0,168.5,0.89,0.21,0.169,0.123,25.0,masters_london,2765,Team Vitality,Valorant Masters London 2026,International,Masters
+Neon,LEV,"chamber,jett,omen",Flex,1.0,23,451,1.21,226.0,1.37,75.0,147.5,0.81,0.25,0.177,0.113,29.0,masters_london,2765,LEVIATÁN,Valorant Masters London 2026,International,Masters
+Jinggg,PRX,"raze,omen,sage",Flex,1.0,13,263,1.15,226.0,1.19,76.0,153.8,0.81,0.32,0.11,0.099,23.0,masters_london,2765,Paper Rex,Valorant Masters London 2026,International,Masters
+something,PRX,"jett,brimstone,yoru",Flex,0.667,13,263,1.15,225.0,1.23,77.0,145.4,0.8,0.25,0.148,0.099,24.0,masters_london,2765,Paper Rex,Valorant Masters London 2026,International,Masters
+spike,LEV,"neon,omen",Flex,0.5,23,451,1.15,238.0,1.21,75.0,151.8,0.85,0.31,0.164,0.12,25.0,masters_london,2765,LEVIATÁN,Valorant Masters London 2026,International,Masters
+Kr1stal,GE,"fade,killjoy,sova",Initiator,0.667,9,195,1.13,207.0,1.19,72.0,135.6,0.72,0.23,0.097,0.051,29.0,masters_london,2765,Global Esports,Valorant Masters London 2026,International,Masters
+leaf,G2,"viper,phoenix",Sentinel,0.5,5,106,1.11,219.0,0.97,74.0,144.5,0.73,0.29,0.104,0.142,33.0,masters_london,2765,G2 Esports,Valorant Masters London 2026,International,Masters
+blowz,LEV,"sova,skye,fade",Initiator,1.0,23,451,1.1,182.0,1.09,77.0,123.3,0.64,0.37,0.058,0.044,33.0,masters_london,2765,LEVIATÁN,Valorant Masters London 2026,International,Masters
+Sato,LEV,"phoenix,raze,waylay",Duelist,1.0,23,451,1.1,229.0,1.16,75.0,151.0,0.8,0.3,0.106,0.104,30.0,masters_london,2765,LEVIATÁN,Valorant Masters London 2026,International,Masters
+happywei,XLG,"cypher,viper,vyse",Sentinel,1.0,16,331,1.09,218.0,1.07,70.0,146.8,0.76,0.23,0.139,0.082,34.0,masters_london,2765,Xi Lai Gaming,Valorant Masters London 2026,International,Masters
+Nicc,DRG,"skye,fade,sova",Initiator,1.0,5,97,1.08,191.0,1.06,70.0,127.1,0.71,0.26,0.041,0.062,31.0,masters_london,2765,Dragon Ranger Gaming,Valorant Masters London 2026,International,Masters
+Chronicle,VIT,"vyse,viper,cypher",Sentinel,1.0,14,260,1.07,212.0,1.17,73.0,141.7,0.75,0.24,0.085,0.112,24.0,masters_london,2765,Team Vitality,Valorant Masters London 2026,International,Masters
+skuba,NRG,"viper,astra,cypher",Sentinel,0.667,8,176,1.07,183.0,1.06,71.0,118.1,0.65,0.31,0.074,0.028,24.0,masters_london,2765,NRG,Valorant Masters London 2026,International,Masters
+PROFEK,VIT,"omen,harbor,brimstone",Controller,1.0,14,260,1.06,185.0,1.09,72.0,118.1,0.68,0.43,0.085,0.046,23.0,masters_london,2765,Team Vitality,Valorant Masters London 2026,International,Masters
+UdoTan,GE,"neon,raze,chamber",Duelist,1.0,9,195,1.05,233.0,1.11,73.0,147.7,0.8,0.19,0.138,0.149,29.0,masters_london,2765,Global Esports,Valorant Masters London 2026,International,Masters
+trent,G2,"fade,sova",Initiator,1.0,5,106,1.05,201.0,0.91,77.0,141.3,0.66,0.41,0.057,0.047,30.0,masters_london,2765,G2 Esports,Valorant Masters London 2026,International,Masters
+xeus,FUT,"raze,waylay,jett",Duelist,1.0,15,317,1.04,223.0,1.08,68.0,145.9,0.8,0.19,0.139,0.12,39.0,masters_london,2765,FUT Esports,Valorant Masters London 2026,International,Masters
+s0pp,FUT,"jett,neon,chamber",Duelist,1.0,15,317,1.04,222.0,1.03,70.0,142.5,0.78,0.2,0.189,0.158,26.0,masters_london,2765,FUT Esports,Valorant Masters London 2026,International,Masters
+d4v41,PRX,"viper,vyse,killjoy",Sentinel,1.0,13,263,1.03,185.0,1.09,73.0,129.9,0.69,0.19,0.095,0.046,33.0,masters_london,2765,Paper Rex,Valorant Masters London 2026,International,Masters
+CHICHOO,EDG,"viper,omen,astra",Controller,0.667,12,260,1.02,184.0,0.97,67.0,127.5,0.64,0.28,0.065,0.073,26.0,masters_london,2765,EDward Gaming,Valorant Masters London 2026,International,Masters
+yetujey,FUT,"cypher,vyse,astra",Sentinel,0.667,15,317,1.01,194.0,0.98,72.0,134.7,0.68,0.23,0.073,0.06,27.0,masters_london,2765,FUT Esports,Valorant Masters London 2026,International,Masters
+kiNgg,LEV,"vyse,astra,viper",Sentinel,0.667,23,451,1.0,168.0,1.04,75.0,110.5,0.6,0.33,0.055,0.058,27.0,masters_london,2765,LEVIATÁN,Valorant Masters London 2026,International,Masters
+sociablEE,FUT,"omen,brimstone,fade",Controller,0.667,15,317,0.99,184.0,0.97,73.0,117.3,0.64,0.41,0.076,0.101,24.0,masters_london,2765,FUT Esports,Valorant Masters London 2026,International,Masters
+Sayonara,VIT,"viper,sova,phoenix",Flex,1.0,14,260,0.98,204.0,1.03,70.0,134.7,0.72,0.24,0.108,0.123,27.0,masters_london,2765,Team Vitality,Valorant Masters London 2026,International,Masters
+ZmjjKK,EDG,"jett,neon,waylay",Duelist,1.0,12,260,0.97,215.0,1.01,68.0,137.9,0.74,0.2,0.162,0.181,23.0,masters_london,2765,EDward Gaming,Valorant Masters London 2026,International,Masters
+KROSTALY,FUT,"fade,sova,kayo",Initiator,1.0,15,317,0.97,175.0,0.92,74.0,119.1,0.6,0.34,0.044,0.041,29.0,masters_london,2765,FUT Esports,Valorant Masters London 2026,International,Masters
+brawk,NRG,"sova,vyse,brimstone",Flex,1.0,8,176,0.96,188.0,0.88,70.0,130.6,0.61,0.39,0.074,0.074,18.0,masters_london,2765,NRG,Valorant Masters London 2026,International,Masters
+BABYBAY,G2,vyse,Sentinel,1.0,5,106,0.95,212.0,0.95,75.0,137.8,0.7,0.25,0.113,0.123,23.0,masters_london,2765,G2 Esports,Valorant Masters London 2026,International,Masters
+jawgemo,G2,"raze,neon,waylay",Duelist,1.0,5,106,0.94,185.0,0.88,68.0,124.5,0.64,0.23,0.104,0.113,23.0,masters_london,2765,G2 Esports,Valorant Masters London 2026,International,Masters
+koshmaras,TH,neon,Duelist,1.0,5,98,0.94,206.0,0.86,63.0,138.1,0.66,0.17,0.184,0.194,24.0,masters_london,2765,Team Heretics,Valorant Masters London 2026,International,Masters
+Rarga,XLG,"phoenix,sage,waylay",Sentinel,0.667,16,331,0.93,192.0,0.94,69.0,125.3,0.68,0.19,0.136,0.157,32.0,masters_london,2765,Xi Lai Gaming,Valorant Masters London 2026,International,Masters
+Lysoar,XLG,"omen,astra,brimstone",Controller,1.0,16,331,0.93,184.0,0.9,73.0,118.8,0.65,0.37,0.039,0.051,26.0,masters_london,2765,Xi Lai Gaming,Valorant Masters London 2026,International,Masters
+Autumn,GE,"phoenix,viper,chamber",Sentinel,0.667,9,195,0.92,183.0,1.02,68.0,117.6,0.68,0.15,0.113,0.123,34.0,masters_london,2765,Global Esports,Valorant Masters London 2026,International,Masters
+Ethan,NRG,"fade,tejo,astra",Initiator,0.667,8,176,0.92,186.0,0.83,70.0,127.8,0.6,0.39,0.108,0.136,22.0,masters_london,2765,NRG,Valorant Masters London 2026,International,Masters
+nobody,EDG,"skye,fade,sova",Initiator,1.0,12,260,0.91,183.0,0.88,70.0,117.2,0.63,0.31,0.085,0.096,32.0,masters_london,2765,EDward Gaming,Valorant Masters London 2026,International,Masters
+valyn,G2,"omen,astra",Controller,1.0,5,106,0.91,182.0,0.92,71.0,124.9,0.68,0.25,0.075,0.123,29.0,masters_london,2765,G2 Esports,Valorant Masters London 2026,International,Masters
+Smoggy,EDG,"raze,phoenix,harbor",Flex,0.667,12,260,0.91,197.0,0.88,73.0,135.1,0.66,0.28,0.112,0.092,28.0,masters_london,2765,EDward Gaming,Valorant Masters London 2026,International,Masters
+Jieni7,EDG,"vyse,omen,cypher",Sentinel,0.667,12,260,0.91,180.0,0.93,63.0,119.1,0.65,0.29,0.046,0.088,30.0,masters_london,2765,EDward Gaming,Valorant Masters London 2026,International,Masters
+f0rsakeN,PRX,"omen,neon,skye",Flex,1.0,13,263,0.9,195.0,0.85,74.0,130.0,0.65,0.45,0.144,0.167,24.0,masters_london,2765,Paper Rex,Valorant Masters London 2026,International,Masters
+benjyfishy,TH,"vyse,viper,cypher",Sentinel,1.0,5,98,0.89,181.0,0.81,67.0,119.7,0.6,0.19,0.051,0.061,37.0,masters_london,2765,Team Heretics,Valorant Masters London 2026,International,Masters
+Jamppi,VIT,"fade,kayo,sova",Initiator,1.0,14,260,0.87,171.0,0.87,73.0,109.0,0.61,0.3,0.058,0.092,24.0,masters_london,2765,Team Vitality,Valorant Masters London 2026,International,Masters
+NoMan,XLG,"jett,deadlock,raze",Sentinel,0.667,16,331,0.86,174.0,0.84,66.0,114.7,0.6,0.19,0.1,0.124,29.0,masters_london,2765,Xi Lai Gaming,Valorant Masters London 2026,International,Masters
+RieNs,TH,"fade,sova",Initiator,1.0,5,98,0.84,178.0,0.79,61.0,111.6,0.6,0.23,0.061,0.082,35.0,masters_london,2765,Team Heretics,Valorant Masters London 2026,International,Masters
+WsLeo,XLG,"fade,sova,skye",Initiator,1.0,16,331,0.84,169.0,0.77,69.0,112.5,0.55,0.31,0.063,0.106,25.0,masters_london,2765,Xi Lai Gaming,Valorant Masters London 2026,International,Masters
+SpiritZ1,DRG,"waylay,jett",Duelist,1.0,5,97,0.84,197.0,0.85,62.0,130.3,0.66,0.15,0.113,0.113,35.0,masters_london,2765,Dragon Ranger Gaming,Valorant Masters London 2026,International,Masters
+xavi8k,GE,"sage,astra,sova",Flex,1.0,9,195,0.83,157.0,0.82,70.0,103.4,0.55,0.33,0.046,0.087,24.0,masters_london,2765,Global Esports,Valorant Masters London 2026,International,Masters
+Crws,FS,"viper,brimstone,omen",Controller,0.667,5,100,0.82,161.0,0.69,64.0,113.7,0.52,0.32,0.08,0.08,23.0,masters_london,2765,FULL SENSE,Valorant Masters London 2026,International,Masters
+Flex1n,DRG,"omen,astra,brimstone",Controller,1.0,5,97,0.8,151.0,0.65,65.0,97.3,0.48,0.43,0.093,0.103,25.0,masters_london,2765,Dragon Ranger Gaming,Valorant Masters London 2026,International,Masters
+mada,NRG,"waylay,raze,jett",Duelist,1.0,8,176,0.8,187.0,0.9,70.0,118.4,0.68,0.18,0.159,0.188,26.0,masters_london,2765,NRG,Valorant Masters London 2026,International,Masters
+Life,DRG,"chamber,phoenix,neon",Duelist,1.0,5,97,0.75,172.0,0.77,63.0,110.3,0.61,0.16,0.113,0.206,45.0,masters_london,2765,Dragon Ranger Gaming,Valorant Masters London 2026,International,Masters
+PatMen,GE,"omen,fade,viper",Flex,1.0,9,195,0.75,180.0,0.8,66.0,119.5,0.6,0.25,0.072,0.123,30.0,masters_london,2765,Global Esports,Valorant Masters London 2026,International,Masters
+Killua,FS,"fade,sova",Initiator,1.0,5,100,0.75,152.0,0.72,65.0,99.0,0.53,0.15,0.08,0.1,37.0,masters_london,2765,FULL SENSE,Valorant Masters London 2026,International,Masters
+Boo,TH,"omen,sage,astra",Controller,0.667,5,98,0.71,136.0,0.62,61.0,85.8,0.47,0.3,0.01,0.092,32.0,masters_london,2765,Team Heretics,Valorant Masters London 2026,International,Masters
+JitBoyS,FS,"neon,sage,phoenix",Sentinel,0.667,5,100,0.71,160.0,0.7,65.0,110.1,0.53,0.34,0.08,0.19,33.0,masters_london,2765,FULL SENSE,Valorant Masters London 2026,International,Masters
+Wo0t,TH,"raze,chamber,jett",Duelist,1.0,5,98,0.67,163.0,0.67,57.0,112.1,0.54,0.12,0.082,0.184,22.0,masters_london,2765,Team Heretics,Valorant Masters London 2026,International,Masters
+Leviathan,FS,"omen,cypher,chamber",Sentinel,0.667,5,100,0.65,146.0,0.6,58.0,97.8,0.48,0.26,0.04,0.11,33.0,masters_london,2765,FULL SENSE,Valorant Masters London 2026,International,Masters
+vo0kashu,DRG,"cypher,viper",Sentinel,1.0,25,561,1.27,234.0,1.28,75.0,160.2,0.84,0.23,0.071,0.048,31.0,china_stage_2,2978,Dragon Ranger Gaming,VCT 2026: China Stage 2,China,Stage 2
+slowly,TYL,"waylay,jett,chamber",Duelist,1.0,30,643,1.22,250.0,1.3,73.0,161.7,0.88,0.21,0.198,0.124,32.0,china_stage_2,2978,TYLOO,VCT 2026: China Stage 2,China,Stage 2
+splash,TYL,"raze,neon,phoenix",Duelist,1.0,30,643,1.19,247.0,1.2,74.0,161.2,0.84,0.27,0.134,0.121,30.0,china_stage_2,2978,TYLOO,VCT 2026: China Stage 2,China,Stage 2
+Knight,BLG,"omen,fade,sova",Initiator,0.667,26,572,1.17,220.0,1.12,73.0,141.5,0.74,0.33,0.066,0.054,25.0,china_stage_2,2978,Bilibili Gaming,VCT 2026: China Stage 2,China,Stage 2
+Ezeir,NOVA,"omen,astra,harbor",Controller,1.0,22,466,1.16,209.0,1.13,76.0,137.8,0.74,0.38,0.06,0.052,26.0,china_stage_2,2978,Nova Esports,VCT 2026: China Stage 2,China,Stage 2
+CHICHOO,EDG,"cypher,viper,phoenix",Sentinel,0.667,22,468,1.15,215.0,1.16,70.0,153.2,0.76,0.26,0.071,0.073,31.0,china_stage_2,2978,EDward Gaming,VCT 2026: China Stage 2,China,Stage 2
+deLb,TE,"cypher,viper,vyse",Sentinel,1.0,30,647,1.1,214.0,1.15,71.0,145.2,0.78,0.19,0.07,0.042,40.0,china_stage_2,2978,Trace Esports,VCT 2026: China Stage 2,China,Stage 2
+coconut,FPX,"sova,fade,tejo",Initiator,1.0,21,438,1.1,185.0,0.99,69.0,126.4,0.64,0.24,0.034,0.055,31.0,china_stage_2,2978,FunPlus Phoenix,VCT 2026: China Stage 2,China,Stage 2
+Spring,WOL,"viper,omen",Flex,0.5,24,519,1.1,216.0,1.04,72.0,145.6,0.74,0.35,0.067,0.069,30.0,china_stage_2,2978,Wolves Esports,VCT 2026: China Stage 2,China,Stage 2
+GuanG,NOVA,"viper,cypher,chamber",Sentinel,1.0,22,466,1.1,208.0,1.26,72.0,140.9,0.77,0.2,0.075,0.045,32.0,china_stage_2,2978,Nova Esports,VCT 2026: China Stage 2,China,Stage 2
+Erv,TYL,"omen,kayo,waylay",Flex,1.0,30,643,1.1,184.0,1.03,77.0,121.9,0.64,0.41,0.044,0.044,29.0,china_stage_2,2978,TYLOO,VCT 2026: China Stage 2,China,Stage 2
+swagzor,NOVA,"neon,raze,waylay",Duelist,1.0,22,466,1.09,253.0,1.16,73.0,161.2,0.88,0.17,0.185,0.146,29.0,china_stage_2,2978,Nova Esports,VCT 2026: China Stage 2,China,Stage 2
+f4ngeer,AG,"neon,jett,chamber",Duelist,1.0,28,616,1.08,230.0,1.12,69.0,147.6,0.8,0.16,0.192,0.148,29.0,china_stage_2,2978,All Gamers,VCT 2026: China Stage 2,China,Stage 2
+whzy,BLG,"raze,yoru,chamber",Duelist,1.0,26,572,1.07,229.0,1.12,67.0,151.1,0.81,0.19,0.133,0.108,22.0,china_stage_2,2978,Bilibili Gaming,VCT 2026: China Stage 2,China,Stage 2
+yosemite,WOL,"vyse,cypher,killjoy",Sentinel,1.0,24,519,1.07,202.0,1.02,69.0,132.9,0.72,0.23,0.096,0.081,29.0,china_stage_2,2978,Wolves Esports,VCT 2026: China Stage 2,China,Stage 2
+Shr1mp,AG,"sova,fade,skye",Initiator,1.0,28,616,1.06,183.0,1.0,73.0,123.0,0.64,0.27,0.057,0.049,21.0,china_stage_2,2978,All Gamers,VCT 2026: China Stage 2,China,Stage 2
+Lysoar,XLG,"omen,harbor,vyse",Controller,0.667,23,475,1.06,205.0,1.1,73.0,130.1,0.75,0.32,0.038,0.04,30.0,china_stage_2,2978,Xi Lai Gaming,VCT 2026: China Stage 2,China,Stage 2
+Scales,TYL,"cypher,viper,sage",Sentinel,1.0,30,643,1.06,196.0,1.06,71.0,133.5,0.69,0.28,0.089,0.067,31.0,china_stage_2,2978,TYLOO,VCT 2026: China Stage 2,China,Stage 2
+cb,NOVA,"phoenix,skye,killjoy",Flex,1.0,22,466,1.06,200.0,1.04,73.0,132.7,0.68,0.32,0.094,0.092,23.0,china_stage_2,2978,Nova Esports,VCT 2026: China Stage 2,China,Stage 2
+K1ra,AG,"omen,raze,phoenix",Flex,0.667,28,616,1.06,222.0,1.04,74.0,141.3,0.76,0.35,0.101,0.11,24.0,china_stage_2,2978,All Gamers,VCT 2026: China Stage 2,China,Stage 2
+Ying,KBG,"viper,breach,phoenix",Flex,1.0,5,112,1.06,209.0,0.94,67.0,136.9,0.71,0.27,0.08,0.08,30.0,china_stage_2,2978,KeepBest Gaming,VCT 2026: China Stage 2,China,Stage 2
+Layla,AT,"sage,vyse,cypher",Sentinel,1.0,5,118,1.05,215.0,1.11,64.0,137.2,0.79,0.2,0.127,0.136,29.0,china_stage_2,2978,A Team,VCT 2026: China Stage 2,China,Stage 2
+Coco,TEC,"omen,viper,astra",Controller,0.667,29,641,1.05,189.0,0.94,73.0,124.7,0.65,0.44,0.039,0.047,33.0,china_stage_2,2978,Titan Esports Club,VCT 2026: China Stage 2,China,Stage 2
+zhe,JDG,"neon,chamber,phoenix",Duelist,1.0,34,726,1.05,221.0,1.14,72.0,140.7,0.8,0.19,0.139,0.128,25.0,china_stage_2,2978,JD Gaming,VCT 2026: China Stage 2,China,Stage 2
+Tonk,KBG,"cypher,viper",Sentinel,1.0,5,112,1.04,211.0,1.0,68.0,142.1,0.75,0.21,0.116,0.08,31.0,china_stage_2,2978,KeepBest Gaming,VCT 2026: China Stage 2,China,Stage 2
+FengF,TE,"sova,raze,neon",Flex,0.667,30,647,1.03,204.0,0.96,71.0,140.3,0.7,0.29,0.074,0.108,29.0,china_stage_2,2978,Trace Esports,VCT 2026: China Stage 2,China,Stage 2
+SiuFatBB,TYL,"fade,sova,skye",Initiator,1.0,30,643,1.03,165.0,1.01,75.0,111.8,0.6,0.33,0.039,0.037,30.0,china_stage_2,2978,TYLOO,VCT 2026: China Stage 2,China,Stage 2
+iamgrq,AG,"omen,phoenix,kayo",Flex,1.0,28,616,1.03,196.0,0.99,74.0,127.8,0.68,0.38,0.068,0.073,27.0,china_stage_2,2978,All Gamers,VCT 2026: China Stage 2,China,Stage 2
+KovaQ,FPX,"omen,harbor,astra",Controller,1.0,21,438,1.02,192.0,0.99,72.0,128.1,0.67,0.34,0.078,0.094,33.0,china_stage_2,2978,FunPlus Phoenix,VCT 2026: China Stage 2,China,Stage 2
+Yuicaw,JDG,"cypher,viper,vyse",Sentinel,1.0,34,726,1.02,200.0,0.98,72.0,134.6,0.69,0.25,0.077,0.073,30.0,china_stage_2,2978,JD Gaming,VCT 2026: China Stage 2,China,Stage 2
+monk,AT,omen,Controller,1.0,5,118,1.02,190.0,0.97,77.0,121.7,0.65,0.46,0.076,0.068,29.0,china_stage_2,2978,A Team,VCT 2026: China Stage 2,China,Stage 2
+sibeastw0w,KBG,"sova,kayo",Initiator,1.0,5,112,1.01,181.0,0.85,71.0,131.2,0.6,0.37,0.045,0.036,30.0,china_stage_2,2978,KeepBest Gaming,VCT 2026: China Stage 2,China,Stage 2
+Nicc,DRG,"skye,fade,sova",Initiator,1.0,25,561,1.01,184.0,0.98,75.0,111.9,0.64,0.45,0.046,0.062,25.0,china_stage_2,2978,Dragon Ranger Gaming,VCT 2026: China Stage 2,China,Stage 2
+happywei,XLG,"viper,omen,cypher",Sentinel,0.667,23,475,1.01,200.0,0.96,72.0,135.8,0.67,0.26,0.08,0.057,33.0,china_stage_2,2978,Xi Lai Gaming,VCT 2026: China Stage 2,China,Stage 2
+ra1ny,TEC,"neon,raze",Duelist,1.0,19,415,1.01,225.0,0.94,66.0,149.7,0.77,0.18,0.159,0.205,22.0,china_stage_2,2978,Titan Esports Club,VCT 2026: China Stage 2,China,Stage 2
+LuoK1ng,TE,"omen,harbor",Controller,1.0,30,647,1.0,177.0,0.9,73.0,111.7,0.62,0.4,0.051,0.074,29.0,china_stage_2,2978,Trace Esports,VCT 2026: China Stage 2,China,Stage 2
+AAAAY,FPX,"cypher,viper,clove",Sentinel,0.667,21,438,1.0,200.0,1.1,70.0,136.0,0.73,0.21,0.05,0.037,38.0,china_stage_2,2978,FunPlus Phoenix,VCT 2026: China Stage 2,China,Stage 2
+WsLeo,XLG,"fade,sova,skye",Initiator,1.0,23,475,1.0,195.0,1.02,74.0,131.2,0.69,0.38,0.082,0.044,24.0,china_stage_2,2978,Xi Lai Gaming,VCT 2026: China Stage 2,China,Stage 2
+nobody,EDG,"sova,skye,fade",Initiator,1.0,22,468,0.99,202.0,1.06,71.0,122.7,0.7,0.28,0.051,0.066,32.0,china_stage_2,2978,EDward Gaming,VCT 2026: China Stage 2,China,Stage 2
+Rarga,XLG,"neon,phoenix,jett",Duelist,1.0,23,475,0.99,218.0,1.07,71.0,141.0,0.77,0.17,0.126,0.114,35.0,china_stage_2,2978,Xi Lai Gaming,VCT 2026: China Stage 2,China,Stage 2
+Deryeon,WOL,"omen,kayo,raze",Flex,1.0,24,519,0.98,191.0,0.96,73.0,124.1,0.67,0.37,0.052,0.067,24.0,china_stage_2,2978,Wolves Esports,VCT 2026: China Stage 2,China,Stage 2
+Eren,AT,"cypher,viper,waylay",Sentinel,0.667,5,118,0.97,210.0,0.94,75.0,143.9,0.72,0.23,0.119,0.102,31.0,china_stage_2,2978,A Team,VCT 2026: China Stage 2,China,Stage 2
+Life,DRG,"neon,jett,waylay",Duelist,1.0,25,561,0.96,213.0,1.06,68.0,140.1,0.77,0.15,0.16,0.137,36.0,china_stage_2,2978,Dragon Ranger Gaming,VCT 2026: China Stage 2,China,Stage 2
+ZmjjKK,EDG,"jett,neon,chamber",Duelist,1.0,22,468,0.96,246.0,1.12,70.0,151.0,0.85,0.19,0.143,0.154,22.0,china_stage_2,2978,EDward Gaming,VCT 2026: China Stage 2,China,Stage 2
+lucas,TEC,"sova,fade,tejo",Initiator,1.0,29,641,0.96,192.0,0.95,71.0,130.6,0.66,0.29,0.047,0.056,24.0,china_stage_2,2978,Titan Esports Club,VCT 2026: China Stage 2,China,Stage 2
+Xlele,FPX,"neon,jett,raze",Duelist,1.0,21,438,0.96,191.0,0.92,69.0,132.8,0.68,0.13,0.119,0.103,30.0,china_stage_2,2978,FunPlus Phoenix,VCT 2026: China Stage 2,China,Stage 2
+jkuro,JDG,"raze,jett,waylay",Duelist,1.0,34,726,0.95,190.0,0.92,65.0,127.3,0.67,0.21,0.09,0.124,30.0,china_stage_2,2978,JD Gaming,VCT 2026: China Stage 2,China,Stage 2
+BerLIN,JDG,"sova,fade,skye",Initiator,1.0,34,726,0.95,181.0,0.89,72.0,119.0,0.6,0.33,0.065,0.088,33.0,china_stage_2,2978,JD Gaming,VCT 2026: China Stage 2,China,Stage 2
+glacier,WOL,"neon,raze,jett",Duelist,1.0,24,519,0.95,225.0,0.97,67.0,140.1,0.76,0.19,0.166,0.195,25.0,china_stage_2,2978,Wolves Esports,VCT 2026: China Stage 2,China,Stage 2
+Setrod,FPX,"neon,chamber,vyse",Sentinel,0.667,21,438,0.95,216.0,1.1,70.0,136.1,0.76,0.2,0.158,0.119,26.0,china_stage_2,2978,FunPlus Phoenix,VCT 2026: China Stage 2,China,Stage 2
+Bai,AG,"cypher,viper,neon",Sentinel,0.667,28,616,0.95,186.0,0.93,70.0,124.1,0.65,0.23,0.067,0.06,23.0,china_stage_2,2978,All Gamers,VCT 2026: China Stage 2,China,Stage 2
+Krst1Ng,KBG,"omen,harbor",Controller,1.0,5,112,0.95,163.0,0.76,70.0,108.9,0.57,0.28,0.089,0.08,39.0,china_stage_2,2978,KeepBest Gaming,VCT 2026: China Stage 2,China,Stage 2
+aluba,WOL,"sova,fade,skye",Initiator,1.0,24,519,0.93,169.0,0.84,72.0,113.0,0.6,0.29,0.035,0.046,28.0,china_stage_2,2978,Wolves Esports,VCT 2026: China Stage 2,China,Stage 2
+Dynamite,TEC,"phoenix,neon,waylay",Duelist,1.0,29,641,0.93,206.0,0.91,69.0,134.7,0.7,0.3,0.125,0.136,24.0,china_stage_2,2978,Titan Esports Club,VCT 2026: China Stage 2,China,Stage 2
+Verse,DRG,"omen,harbor",Controller,1.0,25,561,0.93,182.0,0.89,74.0,115.5,0.62,0.45,0.041,0.061,35.0,china_stage_2,2978,Dragon Ranger Gaming,VCT 2026: China Stage 2,China,Stage 2
+crownfisher,JDG,"omen,harbor,jett",Flex,0.667,34,726,0.93,185.0,0.94,70.0,119.8,0.67,0.35,0.051,0.074,29.0,china_stage_2,2978,JD Gaming,VCT 2026: China Stage 2,China,Stage 2
+Haodong,TEC,"cypher,omen",Flex,0.5,29,641,0.92,177.0,0.95,68.0,113.8,0.66,0.22,0.055,0.066,30.0,china_stage_2,2978,Titan Esports Club,VCT 2026: China Stage 2,China,Stage 2
+rushia,BLG,"cypher,neon,viper",Sentinel,0.667,26,572,0.92,193.0,0.89,65.0,128.2,0.64,0.23,0.082,0.103,21.0,china_stage_2,2978,Bilibili Gaming,VCT 2026: China Stage 2,China,Stage 2
+SpiritZ1,DRG,"waylay,yoru,jett",Duelist,1.0,25,561,0.91,214.0,0.95,69.0,139.3,0.74,0.18,0.132,0.125,32.0,china_stage_2,2978,Dragon Ranger Gaming,VCT 2026: China Stage 2,China,Stage 2
+Smoggy,EDG,"omen,harbor,raze",Flex,0.667,22,468,0.9,184.0,0.82,70.0,124.7,0.62,0.38,0.066,0.075,29.0,china_stage_2,2978,EDward Gaming,VCT 2026: China Stage 2,China,Stage 2
+NoMan,XLG,"waylay,raze,jett",Duelist,1.0,21,428,0.9,185.0,0.89,65.0,122.0,0.64,0.17,0.107,0.114,31.0,china_stage_2,2978,Xi Lai Gaming,VCT 2026: China Stage 2,China,Stage 2
+Kai,TE,"jett,waylay,neon",Duelist,1.0,30,647,0.9,216.0,0.97,67.0,134.3,0.75,0.18,0.151,0.128,26.0,china_stage_2,2978,Trace Esports,VCT 2026: China Stage 2,China,Stage 2
+nephh,BLG,"omen,fade,skye",Initiator,0.667,26,572,0.88,182.0,0.88,72.0,108.6,0.63,0.44,0.047,0.07,25.0,china_stage_2,2978,Bilibili Gaming,VCT 2026: China Stage 2,China,Stage 2
+Folykiki,AT,"neon,waylay",Duelist,1.0,5,118,0.88,202.0,0.88,64.0,128.7,0.67,0.21,0.161,0.136,20.0,china_stage_2,2978,A Team,VCT 2026: China Stage 2,China,Stage 2
+qiutiaN,NOVA,"fade,sova,deadlock",Initiator,0.667,22,466,0.86,164.0,0.86,72.0,107.9,0.59,0.35,0.041,0.077,26.0,china_stage_2,2978,Nova Esports,VCT 2026: China Stage 2,China,Stage 2
+Jieni7,EDG,"kayo,omen,vyse",Flex,1.0,22,468,0.86,181.0,0.95,68.0,112.8,0.64,0.48,0.056,0.068,27.0,china_stage_2,2978,EDward Gaming,VCT 2026: China Stage 2,China,Stage 2
+FT,BLG,"waylay,omen,phoenix",Flex,0.667,26,572,0.86,176.0,0.86,65.0,113.9,0.62,0.23,0.068,0.084,29.0,china_stage_2,2978,Bilibili Gaming,VCT 2026: China Stage 2,China,Stage 2
+Dingwei,AT,"fade,sova",Initiator,1.0,5,118,0.8,156.0,0.78,65.0,102.5,0.56,0.21,0.034,0.042,32.0,china_stage_2,2978,A Team,VCT 2026: China Stage 2,China,Stage 2
+Akeman,KBG,"neon,jett",Duelist,1.0,5,112,0.8,201.0,0.87,68.0,128.5,0.71,0.16,0.17,0.223,24.0,china_stage_2,2978,KeepBest Gaming,VCT 2026: China Stage 2,China,Stage 2
+Spitfires,TEC,"phoenix,sage,waylay",Sentinel,0.667,10,226,0.79,184.0,0.76,66.0,125.4,0.6,0.22,0.071,0.181,30.0,china_stage_2,2978,Titan Esports Club,VCT 2026: China Stage 2,China,Stage 2
+FKEY,TE,"fade,kayo,sage",Initiator,0.667,30,647,0.79,175.0,0.79,65.0,113.2,0.61,0.31,0.09,0.087,31.0,china_stage_2,2978,Trace Esports,VCT 2026: China Stage 2,China,Stage 2
+Sharks,XLG,"jett,raze",Duelist,1.0,2,47,,,0.89,70.0,,0.72,0.21,0.213,0.213,25.0,china_stage_2,2978,Xi Lai Gaming,VCT 2026: China Stage 2,China,Stage 2
+Akame,DFM,"sova,skye,fade",Initiator,1.0,22,484,1.17,223.0,1.2,73.0,149.5,0.78,0.3,0.083,0.056,30.0,pacific_stage_2,2776,DetonatioN FocusMe,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+primmie,FS,"jett,waylay,deadlock",Sentinel,0.667,24,494,1.15,235.0,1.23,72.0,152.6,0.83,0.19,0.134,0.121,30.0,pacific_stage_2,2776,FULL SENSE,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Ray,ONG,"omen,neon,waylay",Flex,0.667,11,234,1.15,231.0,1.17,73.0,147.8,0.81,0.29,0.115,0.081,28.0,pacific_stage_2,2776,ONSIDE GAMING,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Monyet,RRQ,"omen,astra,harbor",Controller,1.0,19,404,1.14,216.0,1.1,75.0,138.2,0.76,0.42,0.059,0.057,33.0,pacific_stage_2,2776,Rex Regum Qeon,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Meiy,DFM,"jett,neon,waylay",Duelist,1.0,22,484,1.13,244.0,1.17,72.0,154.2,0.88,0.13,0.186,0.14,25.0,pacific_stage_2,2776,DetonatioN FocusMe,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+xavi8k,GE,"astra,omen,sova",Controller,0.667,29,624,1.13,208.0,1.11,74.0,138.7,0.72,0.37,0.079,0.071,25.0,pacific_stage_2,2776,Global Esports,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Xiesta,ONG,"neon,phoenix,jett",Duelist,1.0,11,234,1.13,237.0,1.13,72.0,152.1,0.81,0.29,0.154,0.145,24.0,pacific_stage_2,2776,ONSIDE GAMING,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Foxy9,VL,"viper,cypher,chamber",Sentinel,1.0,20,446,1.12,236.0,1.19,69.0,151.0,0.84,0.17,0.15,0.108,37.0,pacific_stage_2,2776,VARREL,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+something,PRX,"yoru,sage,viper",Sentinel,0.667,18,415,1.11,212.0,1.2,68.0,138.4,0.76,0.18,0.137,0.13,28.0,pacific_stage_2,2776,Paper Rex,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+endoist,XIP,"phoenix,raze,neon",Duelist,1.0,5,113,1.11,251.0,1.16,73.0,167.3,0.83,0.19,0.159,0.106,27.0,pacific_stage_2,2776,Xipto Esports,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+iZu,T1,"sova,fade,neon",Flex,0.667,27,577,1.1,204.0,1.14,76.0,134.7,0.72,0.27,0.076,0.085,26.0,pacific_stage_2,2776,T1,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+t3xture,GEN,"chamber,raze,phoenix",Duelist,1.0,19,421,1.09,235.0,1.19,71.0,150.1,0.83,0.15,0.2,0.121,23.0,pacific_stage_2,2776,Gen.G,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+margaret,QTD,"cypher,viper,chamber",Sentinel,1.0,6,126,1.09,214.0,1.11,69.0,139.8,0.78,0.14,0.111,0.087,30.0,pacific_stage_2,2776,QT DIG∞,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+XuNa,VL,"fade,sova,tejo",Initiator,1.0,20,446,1.09,203.0,1.09,76.0,140.9,0.71,0.26,0.065,0.056,35.0,pacific_stage_2,2776,VARREL,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Xross,NS,"sova,phoenix,fade",Flex,0.667,32,677,1.09,194.0,1.09,75.0,131.6,0.68,0.3,0.069,0.055,27.0,pacific_stage_2,2776,Nongshim RedForce,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+stax,T1,"omen,harbor",Controller,1.0,18,368,1.08,185.0,1.11,75.0,118.0,0.68,0.43,0.057,0.052,26.0,pacific_stage_2,2776,T1,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+NIZ,SP,"sova,omen",Flex,0.5,12,253,1.08,197.0,1.09,75.0,128.9,0.72,0.3,0.043,0.04,30.0,pacific_stage_2,2776,Sharper Esports,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+BuZz,T1,"neon,phoenix,raze",Duelist,1.0,27,577,1.07,229.0,1.14,74.0,150.1,0.81,0.28,0.13,0.111,24.0,pacific_stage_2,2776,T1,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+PatMen,GE,"omen,viper,skye",Flex,1.0,29,624,1.07,221.0,1.1,72.0,143.3,0.79,0.29,0.112,0.085,32.0,pacific_stage_2,2776,Global Esports,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+d4v41,PRX,"viper,chamber,sage",Sentinel,1.0,18,415,1.06,198.0,1.15,73.0,131.7,0.72,0.21,0.111,0.089,33.0,pacific_stage_2,2776,Paper Rex,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Meteor,T1,"yoru,chamber,jett",Duelist,1.0,27,577,1.06,222.0,1.14,68.0,143.2,0.8,0.14,0.18,0.121,29.0,pacific_stage_2,2776,T1,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+HYUNMIN,KRX,"phoenix,raze,yoru",Duelist,1.0,25,524,1.06,225.0,1.07,74.0,148.6,0.77,0.23,0.109,0.115,31.0,pacific_stage_2,2776,KIWOOM DRX,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Karon,GEN,"omen,astra,harbor",Controller,1.0,19,421,1.06,195.0,1.05,75.0,121.1,0.7,0.4,0.069,0.062,38.0,pacific_stage_2,2776,Gen.G,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Rb,NS,"omen,yoru,harbor",Flex,0.667,32,677,1.05,193.0,1.07,74.0,119.9,0.69,0.4,0.058,0.086,27.0,pacific_stage_2,2776,Nongshim RedForce,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Klaus,VL,"omen,raze",Flex,0.5,9,199,1.05,181.0,1.01,74.0,115.1,0.63,0.48,0.07,0.06,36.0,pacific_stage_2,2776,VARREL,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Dambi,NS,"neon,waylay,jett",Duelist,1.0,32,677,1.05,221.0,1.09,70.0,140.9,0.77,0.27,0.117,0.161,25.0,pacific_stage_2,2776,Nongshim RedForce,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Francis,NS,"yoru,sova,omen",Flex,1.0,32,677,1.05,220.0,1.05,71.0,144.3,0.76,0.28,0.129,0.123,24.0,pacific_stage_2,2776,Nongshim RedForce,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+yong,KRX,"cypher,vyse,chamber",Sentinel,1.0,15,328,1.05,213.0,1.1,70.0,140.8,0.75,0.21,0.107,0.085,34.0,pacific_stage_2,2776,KIWOOM DRX,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+eKo,ZETA,"yoru,fade,sova",Flex,0.667,20,443,1.03,206.0,0.96,71.0,137.2,0.69,0.3,0.093,0.111,30.0,pacific_stage_2,2776,ZETA DIVISION,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+UdoTan,GE,"raze,neon,waylay",Duelist,1.0,29,624,1.03,222.0,1.07,70.0,146.8,0.77,0.19,0.159,0.141,28.0,pacific_stage_2,2776,Global Esports,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+invy,PRX,"sova,fade,harbor",Initiator,0.667,18,415,1.03,187.0,1.02,74.0,128.7,0.64,0.3,0.055,0.065,29.0,pacific_stage_2,2776,Paper Rex,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Killua,FS,"skye,sova,fade",Initiator,1.0,24,494,1.03,195.0,0.98,76.0,131.5,0.68,0.36,0.049,0.036,34.0,pacific_stage_2,2776,FULL SENSE,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Apinya,SP,"sage,phoenix,sova",Flex,1.0,12,253,1.03,203.0,1.02,70.0,134.2,0.7,0.28,0.142,0.119,24.0,pacific_stage_2,2776,Sharper Esports,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Zeus,TS,"neon,jett,raze",Duelist,1.0,17,357,1.03,224.0,1.05,73.0,145.8,0.79,0.19,0.179,0.196,29.0,pacific_stage_2,2776,Team Secret,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Raxcal,GEN,"sage,vyse,phoenix",Sentinel,0.667,19,421,1.03,192.0,1.04,74.0,126.0,0.67,0.28,0.071,0.074,26.0,pacific_stage_2,2776,Gen.G,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+crazyguy,RRQ,"sova,fade,sage",Initiator,0.667,19,404,1.02,207.0,0.94,71.0,138.4,0.67,0.36,0.087,0.101,23.0,pacific_stage_2,2776,Rex Regum Qeon,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+PTC,SP,"omen,harbor,yoru",Flex,0.667,12,253,1.02,196.0,0.99,72.0,126.6,0.68,0.36,0.083,0.079,30.0,pacific_stage_2,2776,Sharper Esports,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Sylvan,TS,"omen,astra,brimstone",Controller,1.0,17,357,1.01,195.0,1.0,70.0,130.2,0.71,0.31,0.053,0.081,33.0,pacific_stage_2,2776,Team Secret,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+BeYN,KRX,"sova,fade,skye",Initiator,1.0,25,524,1.01,187.0,0.98,72.0,125.9,0.66,0.26,0.061,0.059,31.0,pacific_stage_2,2776,KIWOOM DRX,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Kr1stal,GE,"sova,tejo,killjoy",Initiator,0.667,29,624,1.01,175.0,0.97,75.0,119.9,0.61,0.26,0.053,0.066,22.0,pacific_stage_2,2776,Global Esports,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Jemkin,RRQ,"yoru,waylay,chamber",Duelist,1.0,16,342,1.01,198.0,1.03,70.0,124.8,0.71,0.15,0.155,0.146,26.0,pacific_stage_2,2776,Rex Regum Qeon,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Autumn,GE,"yoru,veto,chamber",Sentinel,0.667,29,624,0.99,192.0,1.06,69.0,126.1,0.7,0.18,0.099,0.136,30.0,pacific_stage_2,2776,Global Esports,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+aLerT,XIP,omen,Controller,1.0,5,113,0.99,184.0,0.99,77.0,121.7,0.65,0.39,0.062,0.053,30.0,pacific_stage_2,2776,Xipto Esports,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+xffero,RRQ,"cypher,sage,veto",Sentinel,1.0,19,404,0.99,187.0,1.01,70.0,127.1,0.67,0.25,0.054,0.079,26.0,pacific_stage_2,2776,Rex Regum Qeon,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Wolverine,ONG,"phoenix,cypher,viper",Sentinel,0.667,11,234,0.99,197.0,1.01,69.0,126.8,0.69,0.22,0.124,0.09,23.0,pacific_stage_2,2776,ONSIDE GAMING,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+oonzmlp,VL,"sage,phoenix,vyse",Sentinel,0.667,20,446,0.99,185.0,0.96,72.0,122.2,0.63,0.33,0.072,0.074,31.0,pacific_stage_2,2776,VARREL,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Munchkin,T1,"viper,cypher,sova",Sentinel,0.667,27,577,0.98,184.0,0.97,70.0,123.7,0.64,0.35,0.076,0.088,19.0,pacific_stage_2,2776,T1,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+f0rsakeN,PRX,"omen,harbor,miks",Controller,1.0,18,415,0.98,204.0,0.97,70.0,132.4,0.71,0.36,0.082,0.108,32.0,pacific_stage_2,2776,Paper Rex,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Hermes,ONG,"cypher,omen,yoru",Flex,1.0,11,234,0.98,177.0,0.94,70.0,113.9,0.66,0.33,0.077,0.094,26.0,pacific_stage_2,2776,ONSIDE GAMING,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Ivy,NS,"cypher,viper,killjoy",Sentinel,1.0,32,677,0.98,198.0,1.03,70.0,130.5,0.7,0.21,0.114,0.09,31.0,pacific_stage_2,2776,Nongshim RedForce,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+SyouTa,ZETA,"cypher,viper,vyse",Sentinel,1.0,20,443,0.97,204.0,0.95,69.0,137.0,0.71,0.21,0.095,0.081,35.0,pacific_stage_2,2776,ZETA DIVISION,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+doffy,XIP,"neon,yoru,jett",Duelist,1.0,5,113,0.97,214.0,1.05,66.0,137.0,0.75,0.13,0.142,0.133,35.0,pacific_stage_2,2776,Xipto Esports,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Laz,SP,"cypher,killjoy,viper",Sentinel,1.0,12,253,0.95,178.0,0.95,68.0,122.2,0.63,0.19,0.055,0.071,29.0,pacific_stage_2,2776,Sharper Esports,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Absol,ZETA,"neon,waylay,yoru",Duelist,1.0,20,443,0.95,213.0,0.94,65.0,135.9,0.73,0.2,0.158,0.172,20.0,pacific_stage_2,2776,ZETA DIVISION,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+free1ng,KRX,"neon,chamber,cypher",Sentinel,0.667,25,524,0.94,197.0,1.02,70.0,123.9,0.72,0.16,0.134,0.166,30.0,pacific_stage_2,2776,KIWOOM DRX,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+SSeeS,DFM,"omen,viper,vyse",Sentinel,0.667,22,484,0.94,167.0,0.88,73.0,106.6,0.57,0.39,0.058,0.076,25.0,pacific_stage_2,2776,DetonatioN FocusMe,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+canady,XIP,"fade,sova,skye",Initiator,1.0,5,113,0.94,184.0,1.0,73.0,118.2,0.65,0.18,0.142,0.035,26.0,pacific_stage_2,2776,Xipto Esports,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+STYRON,TS,"sova,fade,skye",Initiator,1.0,17,357,0.93,183.0,0.86,72.0,123.0,0.62,0.29,0.078,0.048,23.0,pacific_stage_2,2776,Team Secret,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+JitBoyS,FS,"neon,raze,phoenix",Duelist,1.0,24,494,0.93,213.0,0.98,67.0,137.6,0.73,0.19,0.184,0.16,27.0,pacific_stage_2,2776,FULL SENSE,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+yatsuka,DFM,"neon,raze,phoenix",Duelist,1.0,22,484,0.93,199.0,0.89,70.0,131.8,0.67,0.27,0.107,0.149,28.0,pacific_stage_2,2776,DetonatioN FocusMe,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+MaKo,KRX,"omen,viper",Flex,0.5,25,524,0.92,181.0,0.87,73.0,117.8,0.63,0.4,0.069,0.073,28.0,pacific_stage_2,2776,KIWOOM DRX,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Jinggg,PRX,"raze,harbor,waylay",Flex,0.667,18,415,0.92,198.0,0.91,70.0,133.2,0.7,0.24,0.111,0.111,25.0,pacific_stage_2,2776,Paper Rex,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Ash,GEN,neon,Duelist,1.0,19,421,0.92,219.0,0.98,69.0,138.0,0.76,0.17,0.157,0.164,29.0,pacific_stage_2,2776,Gen.G,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+kellyS,TS,"viper,phoenix,kayo",Flex,1.0,17,357,0.91,192.0,0.86,71.0,130.8,0.64,0.31,0.09,0.081,22.0,pacific_stage_2,2776,Team Secret,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Xdll,ZETA,"sage,sova,skye",Initiator,0.667,20,443,0.91,173.0,0.9,68.0,112.8,0.63,0.25,0.054,0.088,28.0,pacific_stage_2,2776,ZETA DIVISION,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+skye,TS,cypher,Sentinel,1.0,2,44,0.9,192.0,0.94,61.0,120.7,0.75,0.14,0.114,0.068,42.0,pacific_stage_2,2776,Team Secret,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Crws,FS,"omen,astra,harbor",Controller,1.0,24,494,0.89,156.0,0.78,68.0,104.2,0.52,0.36,0.057,0.087,24.0,pacific_stage_2,2776,FULL SENSE,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Caedye,DFM,"cypher,omen,viper",Sentinel,0.667,22,484,0.89,178.0,0.87,70.0,118.1,0.61,0.29,0.07,0.074,34.0,pacific_stage_2,2776,DetonatioN FocusMe,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Kippei,QTD,"omen,astra,harbor",Controller,1.0,6,126,0.89,171.0,0.8,70.0,113.5,0.59,0.29,0.103,0.056,28.0,pacific_stage_2,2776,QT DIG∞,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Zexy,VL,"raze,neon,jett",Duelist,1.0,20,446,0.88,190.0,0.9,68.0,120.4,0.66,0.16,0.155,0.177,24.0,pacific_stage_2,2776,VARREL,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+DH,T1,"omen,cypher,viper",Sentinel,0.667,9,209,0.88,171.0,0.84,72.0,115.2,0.59,0.36,0.091,0.081,27.0,pacific_stage_2,2776,T1,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Pkm,QTD,"neon,jett",Duelist,1.0,6,126,0.87,195.0,0.87,60.0,129.5,0.69,0.14,0.151,0.135,29.0,pacific_stage_2,2776,QT DIG∞,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Xan,RRQ,"neon,raze",Duelist,1.0,17,352,0.86,201.0,0.9,68.0,129.1,0.71,0.17,0.136,0.145,25.0,pacific_stage_2,2776,Rex Regum Qeon,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Kadoom,SP,neon,Duelist,1.0,12,253,0.85,208.0,0.89,67.0,137.4,0.71,0.23,0.166,0.202,23.0,pacific_stage_2,2776,Sharper Esports,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+seph1roth,FS,"cypher,omen,killjoy",Sentinel,0.667,24,494,0.85,173.0,0.88,69.0,110.8,0.62,0.17,0.087,0.085,37.0,pacific_stage_2,2776,FULL SENSE,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+SugarZ3ro,ZETA,"omen,harbor",Controller,1.0,20,443,0.84,167.0,0.75,72.0,110.8,0.57,0.4,0.054,0.095,28.0,pacific_stage_2,2776,ZETA DIVISION,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Surf,XIP,"cypher,killjoy,viper",Sentinel,1.0,5,113,0.84,177.0,0.91,67.0,113.1,0.65,0.15,0.08,0.088,32.0,pacific_stage_2,2776,Xipto Esports,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+C1ndeR,VL,"omen,astra",Controller,1.0,11,247,0.83,151.0,0.75,67.0,99.4,0.52,0.38,0.045,0.101,28.0,pacific_stage_2,2776,VARREL,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+natz,TS,"cypher,vyse,waylay",Sentinel,0.667,15,313,0.82,174.0,0.81,65.0,119.8,0.61,0.2,0.099,0.093,29.0,pacific_stage_2,2776,Team Secret,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Efina,GEN,"fade,sova",Initiator,1.0,19,421,0.77,150.0,0.73,69.0,101.6,0.51,0.28,0.038,0.045,19.0,pacific_stage_2,2776,Gen.G,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Cloudy,ONG,"sova,fade,skye",Initiator,1.0,11,234,0.76,142.0,0.7,66.0,97.3,0.49,0.24,0.047,0.073,30.0,pacific_stage_2,2776,ONSIDE GAMING,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+yuran,QTD,"raze,phoenix",Duelist,1.0,6,126,0.76,170.0,0.75,58.0,117.7,0.57,0.21,0.087,0.167,29.0,pacific_stage_2,2776,QT DIG∞,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Misaya,QTD,"skye,fade,sova",Initiator,1.0,6,126,0.71,155.0,0.64,61.0,102.7,0.5,0.25,0.071,0.032,19.0,pacific_stage_2,2776,QT DIG∞,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Flicker,KRX,"waylay,neon",Duelist,1.0,10,196,0.67,151.0,0.63,65.0,104.1,0.5,0.24,0.102,0.148,22.0,pacific_stage_2,2776,KIWOOM DRX,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+Kushy,RRQ,"phoenix,fade,sage",Flex,1.0,5,114,0.66,167.0,0.67,64.0,113.0,0.54,0.29,0.061,0.158,31.0,pacific_stage_2,2776,Rex Regum Qeon,VCT 2026: Pacific Stage 2,Pacific,Stage 2
+marteen,M8,"phoenix,raze,yoru",Duelist,1.0,16,344,1.23,254.0,1.23,74.0,169.0,0.88,0.27,0.119,0.102,34.0,emea_stage_2,2976,Gentle Mates,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+N4RRATE,KC,"chamber,phoenix,sage",Sentinel,0.667,21,456,1.21,235.0,1.34,76.0,153.1,0.85,0.2,0.171,0.09,27.0,emea_stage_2,2976,Karmine Corp,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Sayonara,VIT,"sova,fade,viper",Initiator,0.667,19,414,1.19,201.0,1.31,76.0,135.2,0.76,0.27,0.07,0.034,26.0,emea_stage_2,2976,Team Vitality,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Chronicle,VIT,"chamber,vyse,viper",Sentinel,1.0,19,414,1.17,226.0,1.25,74.0,150.6,0.79,0.26,0.121,0.077,20.0,emea_stage_2,2976,Team Vitality,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+kamo,TL,"phoenix,raze,yoru",Duelist,1.0,27,559,1.17,248.0,1.23,75.0,166.3,0.87,0.25,0.14,0.118,34.0,emea_stage_2,2976,Team Liquid,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Kachoww,FF,"neon,omen,yoru",Flex,0.667,16,352,1.17,260.0,1.27,76.0,167.0,0.93,0.21,0.182,0.116,37.0,emea_stage_2,2976,Fire Flux Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+nAts,TL,"cypher,viper,vyse",Sentinel,1.0,25,525,1.16,217.0,1.28,74.0,143.1,0.76,0.25,0.08,0.088,25.0,emea_stage_2,2976,Team Liquid,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+lovers rock,BBL,"yoru,neon",Duelist,1.0,18,383,1.16,232.0,1.27,76.0,148.2,0.83,0.18,0.217,0.104,20.0,emea_stage_2,2976,BBL Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Avez,KC,"fade,sova",Initiator,1.0,21,456,1.14,200.0,1.19,75.0,132.6,0.72,0.31,0.061,0.064,28.0,emea_stage_2,2976,Karmine Corp,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Wo0t,TH,"chamber,jett,yoru",Duelist,1.0,18,371,1.14,231.0,1.18,72.0,147.5,0.82,0.19,0.164,0.14,27.0,emea_stage_2,2976,Team Heretics,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+kozzy,EP,"neon,raze,jett",Duelist,1.0,15,322,1.13,245.0,1.16,70.0,162.0,0.86,0.16,0.155,0.143,31.0,emea_stage_2,2976,Enterprise Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+RieNs,TH,"sova,fade,viper",Initiator,0.667,18,371,1.12,217.0,1.07,76.0,146.8,0.72,0.34,0.084,0.049,37.0,emea_stage_2,2976,Team Heretics,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Loita,BBL,"omen,astra",Controller,1.0,18,383,1.12,198.0,1.1,73.0,128.9,0.69,0.47,0.057,0.081,39.0,emea_stage_2,2976,BBL Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+hiro,NAVI,"cypher,viper,chamber",Sentinel,1.0,18,400,1.12,221.0,1.19,69.0,147.4,0.82,0.18,0.115,0.095,38.0,emea_stage_2,2976,Natus Vincere,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+azury,SGE,"viper,fade,omen",Flex,1.0,12,243,1.11,208.0,1.09,78.0,136.1,0.71,0.38,0.07,0.045,26.0,emea_stage_2,2976,Eintracht Frankfurt,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+trexx,TL,"sova,fade,skye",Initiator,1.0,27,559,1.1,199.0,1.1,77.0,136.9,0.68,0.4,0.045,0.043,22.0,emea_stage_2,2976,Team Liquid,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+MONSTEERR,SGE,"vyse,phoenix,waylay",Sentinel,0.667,12,243,1.1,217.0,1.11,69.0,152.7,0.78,0.26,0.062,0.095,31.0,emea_stage_2,2976,Eintracht Frankfurt,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+LewN,KC,"neon,raze",Duelist,1.0,21,456,1.1,239.0,1.25,71.0,151.9,0.86,0.17,0.16,0.134,30.0,emea_stage_2,2976,Karmine Corp,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+kamyk,JL,"omen,viper,astra",Controller,0.667,13,289,1.09,200.0,1.07,72.0,130.4,0.71,0.31,0.062,0.087,30.0,emea_stage_2,2976,Joblife,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+runneR,JL,"raze,kayo,jett",Flex,0.667,13,289,1.09,216.0,1.05,70.0,148.5,0.75,0.28,0.107,0.104,27.0,emea_stage_2,2976,Joblife,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Ruxic,NAVI,"omen,astra,harbor",Controller,1.0,18,400,1.08,211.0,1.05,74.0,137.9,0.74,0.37,0.065,0.077,28.0,emea_stage_2,2976,Natus Vincere,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+MAGNUM,EP,"vyse,cypher,astra",Sentinel,0.667,15,322,1.07,205.0,1.12,70.0,133.9,0.72,0.26,0.075,0.096,29.0,emea_stage_2,2976,Enterprise Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Alfajer,FNC,"neon,chamber,cypher",Sentinel,0.667,18,398,1.06,238.0,1.1,66.0,154.5,0.84,0.16,0.151,0.153,35.0,emea_stage_2,2976,FNATIC,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+dos9,KC,"omen,harbor",Controller,1.0,21,456,1.06,186.0,1.09,76.0,121.2,0.66,0.38,0.101,0.07,27.0,emea_stage_2,2976,Karmine Corp,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Favian,EF,"neon,veto,waylay",Sentinel,0.667,17,365,1.06,228.0,1.1,67.0,146.8,0.83,0.17,0.151,0.153,29.0,emea_stage_2,2976,Eternal Fire,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Boo,TH,"omen,astra,fade",Controller,0.667,18,371,1.05,184.0,1.0,76.0,120.4,0.66,0.36,0.046,0.089,36.0,emea_stage_2,2976,Team Heretics,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+hezacoil,FF,"astra,omen,vyse",Controller,0.667,16,352,1.05,183.0,1.03,75.0,123.6,0.63,0.35,0.091,0.08,34.0,emea_stage_2,2976,Fire Flux Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Cloud,FNC,"viper,fade,sova",Initiator,0.667,18,398,1.04,187.0,1.0,70.0,127.2,0.66,0.28,0.065,0.068,25.0,emea_stage_2,2976,FNATIC,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+yetujey,FUT,"cypher,viper,astra",Sentinel,0.667,27,580,1.04,197.0,1.09,69.0,132.5,0.71,0.24,0.081,0.078,28.0,emea_stage_2,2976,FUT Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+s0pp,FUT,"neon,jett",Duelist,1.0,27,580,1.04,224.0,1.08,71.0,145.2,0.79,0.2,0.183,0.136,26.0,emea_stage_2,2976,FUT Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Fizzy,SGE,"astra,omen,cypher",Controller,0.667,12,243,1.02,184.0,0.98,72.0,115.9,0.67,0.37,0.074,0.07,25.0,emea_stage_2,2976,Eintracht Frankfurt,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Pa1ze,JL,"neon,jett",Duelist,1.0,13,289,1.02,232.0,1.04,70.0,151.0,0.78,0.2,0.246,0.183,30.0,emea_stage_2,2976,Joblife,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Jamelinho213,SGE,"neon,raze,jett",Duelist,1.0,12,243,1.01,230.0,1.04,70.0,149.0,0.8,0.2,0.214,0.189,28.0,emea_stage_2,2976,Eintracht Frankfurt,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+KROSTALY,FUT,"sova,skye,fade",Initiator,1.0,27,580,1.0,180.0,0.98,73.0,120.6,0.64,0.27,0.06,0.053,32.0,emea_stage_2,2976,FUT Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+batujnax,FF,"fade,sova,skye",Initiator,1.0,16,352,1.0,193.0,0.97,72.0,129.0,0.64,0.36,0.082,0.082,21.0,emea_stage_2,2976,Fire Flux Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Lar0k,BBL,"waylay,deadlock,raze",Sentinel,0.667,18,383,1.0,204.0,0.99,70.0,131.5,0.71,0.27,0.123,0.091,29.0,emea_stage_2,2976,BBL Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+crashies,FNC,"fade,viper,cypher",Sentinel,0.667,18,398,0.99,186.0,0.98,70.0,125.0,0.64,0.24,0.04,0.053,26.0,emea_stage_2,2976,FNATIC,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+DeadInk,FF,"waylay,chamber,raze",Duelist,1.0,16,352,0.99,185.0,1.07,71.0,117.5,0.68,0.13,0.151,0.074,20.0,emea_stage_2,2976,Fire Flux Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Crewen,BBL,"cypher,vyse,viper",Sentinel,1.0,18,383,0.99,188.0,1.0,70.0,126.4,0.68,0.2,0.081,0.081,35.0,emea_stage_2,2976,BBL Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+doma,JL,"cypher,omen,viper",Sentinel,0.667,13,289,0.98,172.0,0.95,72.0,111.6,0.6,0.24,0.062,0.062,21.0,emea_stage_2,2976,Joblife,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Derke,VIT,"jett,neon,raze",Duelist,1.0,19,414,0.98,213.0,1.02,73.0,142.0,0.74,0.23,0.155,0.147,25.0,emea_stage_2,2976,Team Vitality,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+waddle,PCF,"fade,sova,phoenix",Flex,0.667,18,367,0.98,194.0,0.93,68.0,133.0,0.67,0.29,0.035,0.068,31.0,emea_stage_2,2976,PCIFIC Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+westside,GX,"cypher,phoenix",Sentinel,0.5,17,349,0.98,198.0,1.0,68.0,128.3,0.72,0.21,0.112,0.112,42.0,emea_stage_2,2976,GIANTX,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+al0rante,PCF,"viper,cypher",Sentinel,1.0,18,367,0.97,198.0,1.0,67.0,131.3,0.72,0.15,0.079,0.076,43.0,emea_stage_2,2976,PCIFIC Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Jamppi,VIT,"phoenix,yoru,fade",Flex,0.667,19,414,0.97,211.0,0.99,71.0,137.4,0.73,0.31,0.118,0.147,27.0,emea_stage_2,2976,Team Vitality,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Kicks,TL,"omen,harbor,tejo",Controller,0.667,27,559,0.97,169.0,0.93,73.0,110.1,0.61,0.35,0.066,0.066,30.0,emea_stage_2,2976,Team Liquid,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+ara,GX,"neon,jett,raze",Duelist,1.0,17,349,0.96,221.0,1.0,65.0,141.0,0.76,0.14,0.152,0.152,28.0,emea_stage_2,2976,GIANTX,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+reazy,FF,"viper,omen,sova",Flex,1.0,16,352,0.95,175.0,0.98,73.0,117.5,0.63,0.3,0.068,0.071,30.0,emea_stage_2,2976,Fire Flux Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Izzy,EF,neon,Duelist,1.0,4,81,0.95,203.0,1.09,75.0,120.5,0.75,0.19,0.198,0.136,18.0,emea_stage_2,2976,Eternal Fire,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+NINJA,PCF,"chamber,deadlock,sage",Sentinel,1.0,18,367,0.95,190.0,0.95,64.0,127.0,0.68,0.2,0.12,0.147,25.0,emea_stage_2,2976,PCIFIC Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+benjyfishy,TH,"cypher,vyse,sage",Sentinel,1.0,18,371,0.95,183.0,0.96,74.0,121.6,0.65,0.23,0.092,0.081,35.0,emea_stage_2,2976,Team Heretics,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+neT,GX,"sova,fade",Initiator,1.0,17,349,0.94,191.0,0.9,70.0,130.9,0.64,0.29,0.077,0.069,32.0,emea_stage_2,2976,GIANTX,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Proxh,M8,omen,Controller,1.0,16,344,0.93,176.0,0.88,72.0,116.5,0.63,0.37,0.049,0.073,30.0,emea_stage_2,2976,Gentle Mates,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+echo,EF,"viper,cypher,vyse",Sentinel,1.0,17,365,0.93,195.0,0.91,66.0,132.4,0.68,0.19,0.107,0.096,35.0,emea_stage_2,2976,Eternal Fire,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+purp0,TL,"jett,neon,chamber",Duelist,1.0,27,559,0.92,186.0,0.99,70.0,118.7,0.69,0.09,0.174,0.175,33.0,emea_stage_2,2976,Team Liquid,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+sociablEE,FUT,"omen,breach,phoenix",Flex,1.0,27,580,0.92,179.0,0.86,71.0,118.4,0.61,0.41,0.081,0.095,24.0,emea_stage_2,2976,FUT Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+kaajak,FNC,"neon,yoru,raze",Duelist,1.0,18,398,0.92,205.0,0.96,67.0,134.4,0.74,0.16,0.136,0.168,35.0,emea_stage_2,2976,FNATIC,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Spear,EF,"neon,phoenix,jett",Duelist,1.0,13,284,0.92,203.0,0.87,65.0,135.1,0.67,0.25,0.127,0.134,29.0,emea_stage_2,2976,Eternal Fire,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+paTiTek,EP,"omen,harbor,brimstone",Controller,1.0,15,322,0.91,167.0,0.86,71.0,108.9,0.57,0.33,0.075,0.065,21.0,emea_stage_2,2976,Enterprise Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+musashi,SGE,"sova,fade,raze",Flex,0.667,12,243,0.91,174.0,0.83,69.0,115.5,0.58,0.29,0.115,0.066,21.0,emea_stage_2,2976,Eintracht Frankfurt,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+PROFEK,VIT,"omen,astra,harbor",Controller,1.0,19,414,0.91,169.0,0.94,75.0,111.7,0.61,0.37,0.058,0.07,27.0,emea_stage_2,2976,Team Vitality,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+chloric,NAVI,"sova,skye,fade",Initiator,1.0,18,400,0.91,177.0,0.86,69.0,123.0,0.61,0.3,0.06,0.072,27.0,emea_stage_2,2976,Natus Vincere,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+starxo,M8,"sova,fade",Initiator,1.0,16,344,0.9,172.0,0.88,67.0,112.8,0.61,0.2,0.067,0.087,28.0,emea_stage_2,2976,Gentle Mates,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+iluri,EP,"sova,skye,fade",Initiator,1.0,15,322,0.9,160.0,0.86,65.0,108.8,0.58,0.22,0.053,0.075,39.0,emea_stage_2,2976,Enterprise Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+UNFAKE,JL,"sova,fade,skye",Initiator,1.0,13,289,0.89,162.0,0.86,71.0,107.3,0.59,0.25,0.038,0.048,28.0,emea_stage_2,2976,Joblife,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Lime,EP,"phoenix,neon,yoru",Duelist,1.0,15,322,0.89,188.0,0.89,71.0,123.3,0.66,0.26,0.14,0.121,33.0,emea_stage_2,2976,Enterprise Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+audaz,EF,"omen,astra",Controller,1.0,17,365,0.89,153.0,0.81,69.0,99.6,0.55,0.35,0.055,0.055,35.0,emea_stage_2,2976,Eternal Fire,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+SUYGETSU,KC,"viper,cypher,astra",Sentinel,0.667,21,456,0.88,164.0,0.93,72.0,110.7,0.59,0.22,0.077,0.068,36.0,emea_stage_2,2976,Karmine Corp,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+CyvOph,NAVI,"sage,phoenix,kayo",Flex,1.0,15,328,0.88,163.0,0.76,69.0,111.2,0.53,0.41,0.058,0.091,24.0,emea_stage_2,2976,Natus Vincere,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+ExiT,NAVI,"neon,waylay,phoenix",Duelist,1.0,18,400,0.87,209.0,0.9,68.0,134.9,0.73,0.22,0.142,0.2,25.0,emea_stage_2,2976,Natus Vincere,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+xeus,FUT,"waylay,raze,phoenix",Duelist,1.0,27,580,0.87,192.0,0.91,66.0,129.3,0.69,0.16,0.109,0.121,38.0,emea_stage_2,2976,FUT Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+koshmaras,TH,"neon,phoenix,omen",Flex,0.667,18,371,0.87,191.0,0.85,72.0,128.5,0.64,0.31,0.113,0.143,23.0,emea_stage_2,2976,Team Heretics,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+H1ber,M8,"cypher,viper",Sentinel,1.0,4,87,0.86,165.0,0.77,59.0,111.5,0.56,0.21,0.023,0.149,31.0,emea_stage_2,2976,Gentle Mates,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+nekky,EF,"fade,sova",Initiator,1.0,17,365,0.86,176.0,0.85,66.0,120.3,0.6,0.26,0.027,0.079,32.0,emea_stage_2,2976,Eternal Fire,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+qpert,PCF,"omen,harbor",Controller,1.0,18,367,0.84,162.0,0.74,68.0,106.0,0.55,0.38,0.063,0.104,30.0,emea_stage_2,2976,PCIFIC Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Jesse,GX,"omen,phoenix,brimstone",Flex,0.667,17,349,0.83,152.0,0.74,68.0,101.4,0.53,0.38,0.046,0.077,27.0,emea_stage_2,2976,GIANTX,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Rosé,BBL,"sova,fade",Initiator,1.0,18,383,0.83,161.0,0.76,69.0,111.3,0.53,0.31,0.068,0.097,29.0,emea_stage_2,2976,BBL Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+bipo,M8,"cypher,viper",Sentinel,1.0,12,257,0.83,160.0,0.83,67.0,107.7,0.58,0.16,0.078,0.047,32.0,emea_stage_2,2976,Gentle Mates,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Flickless,GX,"viper,phoenix,omen",Flex,1.0,17,349,0.82,171.0,0.8,68.0,111.5,0.6,0.29,0.069,0.135,28.0,emea_stage_2,2976,GIANTX,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+seven,PCF,"neon,phoenix,raze",Duelist,1.0,18,367,0.82,191.0,0.79,70.0,130.3,0.62,0.24,0.098,0.207,25.0,emea_stage_2,2976,PCIFIC Esports,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Minny,M8,"neon,jett,waylay",Duelist,1.0,16,344,0.82,196.0,0.88,65.0,126.1,0.69,0.15,0.169,0.198,27.0,emea_stage_2,2976,Gentle Mates,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Boaster,FNC,"omen,astra,harbor",Controller,1.0,18,398,0.77,143.0,0.7,67.0,92.2,0.5,0.36,0.058,0.108,27.0,emea_stage_2,2976,FNATIC,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Kolosha,NAVI,neon,Duelist,1.0,3,72,0.71,182.0,0.78,64.0,122.1,0.63,0.18,0.125,0.153,26.0,emea_stage_2,2976,Natus Vincere,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+LohaN,TL,viper,Sentinel,1.0,2,34,0.52,118.0,0.45,56.0,84.0,0.38,0.09,0.059,0.147,22.0,emea_stage_2,2976,Team Liquid,VCT 2026: EMEA Stage 2,EMEA,Stage 2
+Asuna,100T,"phoenix,omen",Flex,0.5,21,449,1.19,243.0,1.22,77.0,160.5,0.83,0.4,0.107,0.096,22.0,americas_stage_2,2977,100 Thieves,VCT 2026: Americas Stage 2,Americas,Stage 2
+basic,FUR,"phoenix,harbor,kayo",Flex,1.0,26,563,1.18,215.0,1.17,77.0,142.1,0.77,0.34,0.085,0.085,28.0,americas_stage_2,2977,FURIA,VCT 2026: Americas Stage 2,Americas,Stage 2
+eeiu,FUR,"sova,skye",Initiator,1.0,3,56,1.17,222.0,1.25,84.0,145.6,0.8,0.45,0.071,0.036,20.0,americas_stage_2,2977,FURIA,VCT 2026: Americas Stage 2,Americas,Stage 2
+OXY,C9,"neon,raze,yoru",Duelist,1.0,20,417,1.17,261.0,1.23,71.0,161.3,0.92,0.17,0.223,0.185,28.0,americas_stage_2,2977,Cloud9,VCT 2026: Americas Stage 2,Americas,Stage 2
+brawk,NRG,"sova,vyse",Flex,0.5,22,454,1.16,216.0,1.14,76.0,148.0,0.73,0.39,0.077,0.064,22.0,americas_stage_2,2977,NRG,VCT 2026: Americas Stage 2,Americas,Stage 2
+trent,G2,"sova,skye,fade",Initiator,1.0,30,642,1.16,195.0,1.12,76.0,133.4,0.7,0.37,0.056,0.04,29.0,americas_stage_2,2977,G2 Esports,VCT 2026: Americas Stage 2,Americas,Stage 2
+xenom,2G,"viper,omen",Flex,0.5,5,111,1.16,214.0,1.17,73.0,144.3,0.75,0.32,0.126,0.036,33.0,americas_stage_2,2977,2Game Esports,VCT 2026: Americas Stage 2,Americas,Stage 2
+Verno,MIBR,"sova,fade,omen",Initiator,0.667,23,486,1.16,208.0,1.19,76.0,140.1,0.73,0.3,0.053,0.058,26.0,americas_stage_2,2977,MIBR,VCT 2026: Americas Stage 2,Americas,Stage 2
+lukxo,LOUD,"chamber,yoru,viper",Sentinel,0.667,31,651,1.16,238.0,1.31,70.0,153.9,0.88,0.12,0.171,0.129,27.0,americas_stage_2,2977,LOUD,VCT 2026: Americas Stage 2,Americas,Stage 2
+johnqt,SEN,"harbor,omen,phoenix",Flex,0.667,17,356,1.13,200.0,1.14,75.0,133.1,0.72,0.33,0.039,0.025,24.0,americas_stage_2,2977,Sentinels,VCT 2026: Americas Stage 2,Americas,Stage 2
+Sato,LEV,"phoenix,omen,yoru",Flex,0.667,19,383,1.13,224.0,1.17,73.0,150.3,0.78,0.36,0.123,0.115,39.0,americas_stage_2,2977,LEVIATÁN,VCT 2026: Americas Stage 2,Americas,Stage 2
+kiNgg,LEV,"viper,astra,omen",Controller,0.667,19,383,1.12,192.0,1.19,77.0,123.0,0.68,0.3,0.099,0.078,29.0,americas_stage_2,2977,LEVIATÁN,VCT 2026: Americas Stage 2,Americas,Stage 2
+aspas,MIBR,"neon,jett,raze",Duelist,1.0,23,486,1.09,230.0,1.19,75.0,151.7,0.83,0.19,0.158,0.14,27.0,americas_stage_2,2977,MIBR,VCT 2026: Americas Stage 2,Americas,Stage 2
+Neon,LEV,"chamber,omen,jett",Flex,1.0,19,383,1.09,193.0,1.22,73.0,126.1,0.72,0.18,0.107,0.07,28.0,americas_stage_2,2977,LEVIATÁN,VCT 2026: Americas Stage 2,Americas,Stage 2
+skuba,NRG,"viper,cypher,omen",Sentinel,0.667,22,454,1.08,186.0,1.08,78.0,123.0,0.67,0.36,0.053,0.048,29.0,americas_stage_2,2977,NRG,VCT 2026: Americas Stage 2,Americas,Stage 2
+keiko,NRG,"jett,chamber,omen",Flex,1.0,22,454,1.08,201.0,1.1,73.0,135.8,0.75,0.24,0.141,0.108,30.0,americas_stage_2,2977,NRG,VCT 2026: Americas Stage 2,Americas,Stage 2
+heat,KRÜ,"chamber,phoenix,raze",Duelist,1.0,24,479,1.07,199.0,1.17,71.0,130.6,0.76,0.11,0.14,0.096,30.0,americas_stage_2,2977,KRÜ Esports,VCT 2026: Americas Stage 2,Americas,Stage 2
+Shyy,FUR,"cypher,viper,chamber",Sentinel,1.0,26,563,1.07,200.0,1.1,73.0,132.7,0.71,0.23,0.069,0.062,23.0,americas_stage_2,2977,FURIA,VCT 2026: Americas Stage 2,Americas,Stage 2
+Boni,M80,"neon,waylay",Duelist,1.0,4,88,1.07,247.0,1.0,66.0,165.2,0.84,0.19,0.17,0.159,27.0,americas_stage_2,2977,M80,VCT 2026: Americas Stage 2,Americas,Stage 2
+erde,LOUD,"omen,sage,astra",Controller,0.667,31,651,1.07,198.0,1.07,72.0,131.0,0.7,0.36,0.086,0.081,26.0,americas_stage_2,2977,LOUD,VCT 2026: Americas Stage 2,Americas,Stage 2
+BABYBAY,G2,"chamber,vyse,waylay",Sentinel,0.667,30,642,1.06,197.0,1.08,71.0,130.9,0.72,0.18,0.14,0.106,22.0,americas_stage_2,2977,G2 Esports,VCT 2026: Americas Stage 2,Americas,Stage 2
+leaf,G2,"viper,sage,yoru",Sentinel,0.667,30,642,1.06,206.0,1.08,71.0,134.6,0.72,0.31,0.092,0.123,24.0,americas_stage_2,2977,G2 Esports,VCT 2026: Americas Stage 2,Americas,Stage 2
+Palla,FX,"waylay,jett,neon",Duelist,1.0,5,99,1.06,234.0,1.09,68.0,154.9,0.84,0.18,0.152,0.212,33.0,americas_stage_2,2977,Fluxo W7M,VCT 2026: Americas Stage 2,Americas,Stage 2
+bang,100T,"omen,harbor,viper",Controller,0.667,21,449,1.05,178.0,1.04,73.0,114.5,0.66,0.39,0.053,0.04,32.0,americas_stage_2,2977,100 Thieves,VCT 2026: Americas Stage 2,Americas,Stage 2
+Cryocells,100T,"cypher,viper,chamber",Sentinel,1.0,21,449,1.05,191.0,1.17,73.0,126.1,0.71,0.2,0.096,0.082,26.0,americas_stage_2,2977,100 Thieves,VCT 2026: Americas Stage 2,Americas,Stage 2
+vora,100T,"sova,fade,skye",Initiator,1.0,21,449,1.05,187.0,1.09,74.0,122.9,0.66,0.31,0.071,0.076,22.0,americas_stage_2,2977,100 Thieves,VCT 2026: Americas Stage 2,Americas,Stage 2
+Tacolilla,BST,"neon,waylay,raze",Duelist,1.0,7,132,1.04,217.0,1.12,70.0,135.9,0.8,0.19,0.152,0.205,25.0,americas_stage_2,2977,BESTIA,VCT 2026: Americas Stage 2,Americas,Stage 2
+zekken,MIBR,"phoenix,omen,neon",Flex,0.667,23,486,1.04,213.0,1.03,73.0,139.1,0.73,0.32,0.109,0.123,25.0,americas_stage_2,2977,MIBR,VCT 2026: Americas Stage 2,Americas,Stage 2
+cortezia,SEN,"viper,vyse,cypher",Sentinel,1.0,20,427,1.04,200.0,1.08,68.0,135.2,0.69,0.22,0.089,0.103,34.0,americas_stage_2,2977,Sentinels,VCT 2026: Americas Stage 2,Americas,Stage 2
+Less,KRÜ,"viper,omen,cypher",Sentinel,0.667,24,479,1.04,203.0,1.06,68.0,134.7,0.72,0.32,0.075,0.098,32.0,americas_stage_2,2977,KRÜ Esports,VCT 2026: Americas Stage 2,Americas,Stage 2
+david,BST,"cypher,viper",Sentinel,1.0,7,132,1.04,194.0,1.06,73.0,135.9,0.7,0.15,0.061,0.061,36.0,americas_stage_2,2977,BESTIA,VCT 2026: Americas Stage 2,Americas,Stage 2
+Jackk,C9,"sova,fade,skye",Initiator,1.0,20,417,1.03,170.0,0.95,74.0,115.3,0.6,0.36,0.046,0.036,31.0,americas_stage_2,2977,Cloud9,VCT 2026: Americas Stage 2,Americas,Stage 2
+mwzera,KRÜ,"fade,sova",Initiator,1.0,24,479,1.02,200.0,0.99,72.0,131.6,0.69,0.29,0.075,0.048,21.0,americas_stage_2,2977,KRÜ Esports,VCT 2026: Americas Stage 2,Americas,Stage 2
+dgzin,EG,"neon,jett,raze",Duelist,1.0,22,452,1.02,233.0,1.06,66.0,145.3,0.82,0.17,0.195,0.155,28.0,americas_stage_2,2977,Evil Geniuses,VCT 2026: Americas Stage 2,Americas,Stage 2
+Timotino,100T,"neon,jett",Duelist,1.0,21,449,1.02,221.0,1.12,71.0,141.6,0.77,0.23,0.203,0.174,26.0,americas_stage_2,2977,100 Thieves,VCT 2026: Americas Stage 2,Americas,Stage 2
+Marved,SEN,"harbor,omen,viper",Controller,0.667,3,71,1.0,174.0,0.91,77.0,113.8,0.58,0.45,0.042,0.099,33.0,americas_stage_2,2977,Sentinels,VCT 2026: Americas Stage 2,Americas,Stage 2
+Ethan,NRG,"kayo,phoenix,omen",Flex,1.0,22,454,1.0,185.0,0.94,77.0,122.6,0.64,0.46,0.081,0.093,24.0,americas_stage_2,2977,NRG,VCT 2026: Americas Stage 2,Americas,Stage 2
+Rossy,ENVY,"omen,viper,astra",Controller,0.667,21,429,0.99,174.0,0.91,72.0,114.6,0.62,0.32,0.056,0.068,27.0,americas_stage_2,2977,ENVY,VCT 2026: Americas Stage 2,Americas,Stage 2
+NiSMO,M80,"deadlock,raze,phoenix",Sentinel,0.667,4,88,0.99,212.0,0.88,73.0,143.0,0.69,0.31,0.136,0.102,27.0,americas_stage_2,2977,M80,VCT 2026: Americas Stage 2,Americas,Stage 2
+mada,NRG,"neon,phoenix,harbor",Flex,0.667,22,454,0.99,212.0,1.05,72.0,135.7,0.75,0.23,0.165,0.163,26.0,americas_stage_2,2977,NRG,VCT 2026: Americas Stage 2,Americas,Stage 2
+DaviH,LOUD,"sova,fade",Initiator,1.0,31,651,0.99,163.0,0.91,73.0,113.0,0.56,0.32,0.04,0.035,24.0,americas_stage_2,2977,LOUD,VCT 2026: Americas Stage 2,Americas,Stage 2
+blowz,LEV,"fade,sova,skye",Initiator,1.0,19,383,0.99,171.0,1.02,77.0,114.1,0.6,0.3,0.044,0.042,31.0,americas_stage_2,2977,LEVIATÁN,VCT 2026: Americas Stage 2,Americas,Stage 2
+Loss,BST,"jett,chamber,sage",Sentinel,0.667,7,132,0.99,196.0,1.05,64.0,126.2,0.68,0.21,0.144,0.114,29.0,americas_stage_2,2977,BESTIA,VCT 2026: Americas Stage 2,Americas,Stage 2
+valyn,G2,"omen,harbor,astra",Controller,1.0,30,642,0.98,190.0,0.97,72.0,123.2,0.67,0.35,0.069,0.072,26.0,americas_stage_2,2977,G2 Esports,VCT 2026: Americas Stage 2,Americas,Stage 2
+Reduxx,SEN,"omen,phoenix,jett",Flex,0.667,20,427,0.98,203.0,0.98,74.0,131.5,0.7,0.31,0.126,0.112,33.0,americas_stage_2,2977,Sentinels,VCT 2026: Americas Stage 2,Americas,Stage 2
+nightz,ENVY,"phoenix,omen,yoru",Flex,0.667,21,429,0.98,206.0,0.92,70.0,139.7,0.7,0.38,0.105,0.089,33.0,americas_stage_2,2977,ENVY,VCT 2026: Americas Stage 2,Americas,Stage 2
+FireBallOps,C9,"cypher,vyse,viper",Sentinel,1.0,20,417,0.96,193.0,1.0,71.0,128.4,0.69,0.19,0.098,0.101,40.0,americas_stage_2,2977,Cloud9,VCT 2026: Americas Stage 2,Americas,Stage 2
+zerona,EG,"phoenix,viper,yoru",Sentinel,0.667,22,452,0.96,206.0,0.95,69.0,141.1,0.7,0.27,0.106,0.097,28.0,americas_stage_2,2977,Evil Geniuses,VCT 2026: Americas Stage 2,Americas,Stage 2
+Demon1,ENVY,"chamber,omen,killjoy",Sentinel,0.667,21,429,0.96,187.0,1.01,69.0,123.4,0.7,0.15,0.124,0.119,36.0,americas_stage_2,2977,ENVY,VCT 2026: Americas Stage 2,Americas,Stage 2
+supamen,EG,"omen,viper",Flex,0.5,22,452,0.95,182.0,0.93,71.0,121.2,0.65,0.3,0.084,0.104,37.0,americas_stage_2,2977,Evil Geniuses,VCT 2026: Americas Stage 2,Americas,Stage 2
+Mazino,MIBR,"omen,harbor,vyse",Controller,0.667,23,486,0.95,183.0,0.88,73.0,122.4,0.63,0.41,0.08,0.078,25.0,americas_stage_2,2977,MIBR,VCT 2026: Americas Stage 2,Americas,Stage 2
+bao,EG,"cypher,omen,vyse",Sentinel,0.667,22,452,0.95,171.0,0.92,70.0,115.2,0.6,0.23,0.073,0.075,28.0,americas_stage_2,2977,Evil Geniuses,VCT 2026: Americas Stage 2,Americas,Stage 2
+tuyz,FX,"omen,harbor,astra",Controller,1.0,5,99,0.94,171.0,0.89,70.0,119.6,0.6,0.3,0.02,0.071,31.0,americas_stage_2,2977,Fluxo W7M,VCT 2026: Americas Stage 2,Americas,Stage 2
+Darker,LOUD,"omen,phoenix,viper",Flex,1.0,31,651,0.94,185.0,0.91,74.0,121.9,0.64,0.4,0.066,0.065,25.0,americas_stage_2,2977,LOUD,VCT 2026: Americas Stage 2,Americas,Stage 2
+spike,LEV,"neon,omen",Flex,0.5,19,383,0.94,217.0,1.02,72.0,140.8,0.75,0.23,0.157,0.162,25.0,americas_stage_2,2977,LEVIATÁN,VCT 2026: Americas Stage 2,Americas,Stage 2
+Zanatsu,FX,"neon,sova,raze",Flex,0.667,5,99,0.92,209.0,0.87,64.0,141.4,0.69,0.24,0.131,0.182,32.0,americas_stage_2,2977,Fluxo W7M,VCT 2026: Americas Stage 2,Americas,Stage 2
+JonahP,SEN,"sova,fade,skye",Initiator,1.0,20,427,0.92,172.0,0.86,68.0,117.1,0.59,0.27,0.044,0.075,22.0,americas_stage_2,2977,Sentinels,VCT 2026: Americas Stage 2,Americas,Stage 2
+GLYPH,ENVY,"sova,fade,kayo",Initiator,1.0,21,429,0.92,172.0,0.9,72.0,112.5,0.61,0.28,0.047,0.044,24.0,americas_stage_2,2977,ENVY,VCT 2026: Americas Stage 2,Americas,Stage 2
+v1c,C9,"omen,harbor,viper",Controller,0.667,20,417,0.92,176.0,0.86,76.0,117.5,0.6,0.45,0.082,0.082,26.0,americas_stage_2,2977,Cloud9,VCT 2026: Americas Stage 2,Americas,Stage 2
+alvinboy,M80,"cypher,omen",Flex,0.5,4,88,0.92,181.0,0.78,64.0,127.4,0.59,0.25,0.068,0.114,27.0,americas_stage_2,2977,M80,VCT 2026: Americas Stage 2,Americas,Stage 2
+artzin,FUR,"omen,astra,harbor",Controller,1.0,26,563,0.91,184.0,0.9,69.0,123.5,0.62,0.43,0.075,0.13,25.0,americas_stage_2,2977,FURIA,VCT 2026: Americas Stage 2,Americas,Stage 2
+tkzin,LOUD,"neon,waylay,raze",Duelist,1.0,31,651,0.91,210.0,0.96,69.0,139.2,0.74,0.19,0.143,0.18,35.0,americas_stage_2,2977,LOUD,VCT 2026: Americas Stage 2,Americas,Stage 2
+Spaz,M80,"omen,viper,harbor",Controller,0.667,4,88,0.9,175.0,0.8,68.0,110.9,0.59,0.36,0.068,0.08,23.0,americas_stage_2,2977,M80,VCT 2026: Americas Stage 2,Americas,Stage 2
+tex,MIBR,"cypher,viper,vyse",Sentinel,1.0,23,486,0.89,168.0,0.9,67.0,115.2,0.6,0.2,0.095,0.105,36.0,americas_stage_2,2977,MIBR,VCT 2026: Americas Stage 2,Americas,Stage 2
+jawgemo,G2,"neon,raze,phoenix",Duelist,1.0,30,642,0.88,202.0,0.9,70.0,130.8,0.68,0.25,0.14,0.162,22.0,americas_stage_2,2977,G2 Esports,VCT 2026: Americas Stage 2,Americas,Stage 2
+gobera,2G,"neon,jett,raze",Duelist,1.0,5,111,0.87,196.0,0.84,67.0,127.4,0.64,0.25,0.18,0.126,23.0,americas_stage_2,2977,2Game Esports,VCT 2026: Americas Stage 2,Americas,Stage 2
+Paincakes,EG,"sova,fade,skye",Initiator,1.0,22,452,0.86,160.0,0.79,70.0,110.1,0.54,0.3,0.053,0.051,27.0,americas_stage_2,2977,Evil Geniuses,VCT 2026: Americas Stage 2,Americas,Stage 2
+Jerrwin,SEN,"waylay,neon,raze",Duelist,1.0,20,427,0.86,195.0,0.88,67.0,128.7,0.67,0.22,0.197,0.176,22.0,americas_stage_2,2977,Sentinels,VCT 2026: Americas Stage 2,Americas,Stage 2
+frz,2G,"sova,skye,fade",Initiator,1.0,5,111,0.85,158.0,0.82,68.0,104.4,0.54,0.25,0.045,0.054,29.0,americas_stage_2,2977,2Game Esports,VCT 2026: Americas Stage 2,Americas,Stage 2
+qck,2G,"phoenix,jett,killjoy",Sentinel,0.667,5,111,0.85,185.0,0.79,69.0,123.1,0.59,0.23,0.126,0.144,30.0,americas_stage_2,2977,2Game Esports,VCT 2026: Americas Stage 2,Americas,Stage 2
+chubizin,BST,"harbor,fade,sova",Initiator,0.667,7,132,0.84,160.0,0.8,70.0,101.4,0.58,0.32,0.061,0.061,30.0,americas_stage_2,2977,BESTIA,VCT 2026: Americas Stage 2,Americas,Stage 2
+saadhak,KRÜ,"kayo,omen,harbor",Controller,0.667,24,479,0.83,161.0,0.74,69.0,107.9,0.52,0.45,0.065,0.098,22.0,americas_stage_2,2977,KRÜ Esports,VCT 2026: Americas Stage 2,Americas,Stage 2
+koalanoob,FUR,"neon,jett,yoru",Duelist,1.0,26,563,0.83,198.0,0.88,64.0,126.3,0.69,0.15,0.162,0.218,24.0,americas_stage_2,2977,FURIA,VCT 2026: Americas Stage 2,Americas,Stage 2
+C0M,FUR,"sova,fade",Initiator,1.0,23,507,0.82,156.0,0.76,67.0,109.2,0.51,0.29,0.037,0.073,26.0,americas_stage_2,2977,FURIA,VCT 2026: Americas Stage 2,Americas,Stage 2
+Zellsis,C9,"viper,kayo,sage",Sentinel,0.667,20,417,0.82,164.0,0.79,69.0,106.3,0.57,0.29,0.079,0.07,22.0,americas_stage_2,2977,Cloud9,VCT 2026: Americas Stage 2,Americas,Stage 2
+Melser,BST,"omen,sova",Flex,0.5,7,132,0.82,171.0,0.83,74.0,116.3,0.59,0.25,0.076,0.068,32.0,americas_stage_2,2977,BESTIA,VCT 2026: Americas Stage 2,Americas,Stage 2
+Brinks,2G,"omen,cypher",Flex,0.5,5,111,0.82,167.0,0.87,68.0,114.6,0.61,0.14,0.081,0.081,28.0,americas_stage_2,2977,2Game Esports,VCT 2026: Americas Stage 2,Americas,Stage 2
+keznit,ENVY,"neon,jett,raze",Duelist,1.0,21,429,0.8,193.0,0.82,67.0,125.2,0.65,0.21,0.172,0.175,23.0,americas_stage_2,2977,ENVY,VCT 2026: Americas Stage 2,Americas,Stage 2
+Dantedeu5,KRÜ,"neon,waylay,phoenix",Duelist,1.0,24,479,0.78,178.0,0.79,69.0,116.8,0.61,0.22,0.121,0.184,32.0,americas_stage_2,2977,KRÜ Esports,VCT 2026: Americas Stage 2,Americas,Stage 2
+jzz,FX,"vyse,viper,cypher",Sentinel,1.0,5,99,0.77,141.0,0.67,68.0,96.9,0.46,0.21,0.04,0.061,22.0,americas_stage_2,2977,Fluxo W7M,VCT 2026: Americas Stage 2,Americas,Stage 2
+Kyu,M80,"sova,fade",Initiator,1.0,4,88,0.75,150.0,0.66,68.0,108.2,0.5,0.19,0.045,0.057,27.0,americas_stage_2,2977,M80,VCT 2026: Americas Stage 2,Americas,Stage 2
+mazin,FX,"fade,omen,skye",Initiator,0.667,5,99,0.71,140.0,0.69,63.0,87.7,0.48,0.19,0.051,0.081,21.0,americas_stage_2,2977,Fluxo W7M,VCT 2026: Americas Stage 2,Americas,Stage 2
+lukxo,LOUD,"chamber,yoru,viper",Sentinel,0.667,18,398,1.22,244.0,1.41,72.0,153.8,0.89,0.13,0.183,0.133,24.0,champions,2766,LOUD,Valorant Champions 2026,International,Champions
+erde,LOUD,"omen,sage",Flex,0.5,18,398,1.21,224.0,1.28,77.0,149.7,0.78,0.4,0.093,0.113,32.0,champions,2766,LOUD,Valorant Champions 2026,International,Champions
+Cryocells,100T,"chamber,cypher",Sentinel,1.0,18,376,1.17,221.0,1.39,73.0,142.3,0.84,0.15,0.122,0.096,24.0,champions,2766,100 Thieves,Valorant Champions 2026,International,Champions
+PatMen,GE,"omen,chamber,skye",Flex,1.0,7,149,1.17,234.0,1.17,79.0,153.8,0.86,0.32,0.087,0.04,36.0,champions,2766,Global Esports,Valorant Champions 2026,International,Champions
+kamo,TL,"raze,phoenix,waylay",Duelist,1.0,8,159,1.13,245.0,1.17,71.0,159.5,0.86,0.19,0.195,0.145,24.0,champions,2766,Team Liquid,Valorant Champions 2026,International,Champions
+keiko,NRG,"chamber,brimstone,omen",Controller,0.667,12,255,1.12,205.0,1.18,72.0,133.2,0.73,0.25,0.129,0.133,24.0,champions,2766,NRG,Valorant Champions 2026,International,Champions
+trent,G2,"skye,sova,fade",Initiator,1.0,17,361,1.12,202.0,1.18,76.0,131.6,0.73,0.33,0.039,0.036,33.0,champions,2766,G2 Esports,Valorant Champions 2026,International,Champions
+N4RRATE,KC,"chamber,phoenix,yoru",Duelist,1.0,8,160,1.12,227.0,1.17,73.0,147.0,0.8,0.2,0.194,0.119,29.0,champions,2766,Karmine Corp,Valorant Champions 2026,International,Champions
+Sayonara,VIT,"sova,fade,viper",Initiator,0.667,21,466,1.1,203.0,1.15,71.0,133.8,0.74,0.26,0.088,0.075,33.0,champions,2766,Team Vitality,Valorant Champions 2026,International,Champions
+brawk,NRG,"sova,fade,vyse",Initiator,0.667,12,255,1.09,207.0,1.09,75.0,134.8,0.69,0.29,0.082,0.039,19.0,champions,2766,NRG,Valorant Champions 2026,International,Champions
+yetujey,FUT,"cypher,viper",Sentinel,1.0,6,124,1.09,200.0,1.16,73.0,133.0,0.74,0.15,0.081,0.04,31.0,champions,2766,FUT Esports,Valorant Champions 2026,International,Champions
+Timotino,100T,"neon,jett",Duelist,1.0,18,376,1.09,238.0,1.17,72.0,153.5,0.82,0.26,0.173,0.154,25.0,champions,2766,100 Thieves,Valorant Champions 2026,International,Champions
+xavi8k,GE,"omen,astra,sage",Controller,0.667,7,149,1.08,197.0,1.04,62.0,125.9,0.7,0.33,0.074,0.074,27.0,champions,2766,Global Esports,Valorant Champions 2026,International,Champions
+KROSTALY,FUT,"sova,fade,skye",Initiator,1.0,6,124,1.08,200.0,1.15,75.0,123.4,0.73,0.22,0.065,0.089,18.0,champions,2766,FUT Esports,Valorant Champions 2026,International,Champions
+Asuna,100T,"phoenix,omen,sage",Flex,1.0,18,376,1.07,203.0,1.08,71.0,128.7,0.71,0.35,0.109,0.066,22.0,champions,2766,100 Thieves,Valorant Champions 2026,International,Champions
+BABYBAY,G2,"chamber,waylay,vyse",Sentinel,0.667,17,361,1.07,207.0,1.08,71.0,139.4,0.73,0.2,0.125,0.127,27.0,champions,2766,G2 Esports,Valorant Champions 2026,International,Champions
+bang,100T,"omen,harbor,viper",Controller,0.667,18,376,1.07,198.0,1.09,76.0,129.4,0.7,0.43,0.085,0.077,34.0,champions,2766,100 Thieves,Valorant Champions 2026,International,Champions
+something,PRX,"yoru,chamber,neon",Duelist,1.0,11,241,1.06,217.0,1.15,69.0,140.9,0.78,0.15,0.112,0.158,32.0,champions,2766,Paper Rex,Valorant Champions 2026,International,Champions
+iZu,T1,"fade,sova",Initiator,1.0,15,320,1.06,194.0,1.1,73.0,126.7,0.7,0.22,0.059,0.053,32.0,champions,2766,T1,Valorant Champions 2026,International,Champions
+Jinggg,PRX,"raze,sage,phoenix",Sentinel,0.667,11,241,1.05,221.0,1.05,70.0,147.2,0.76,0.22,0.133,0.095,23.0,champions,2766,Paper Rex,Valorant Champions 2026,International,Champions
+valyn,G2,"omen,harbor",Controller,1.0,17,361,1.04,196.0,1.02,75.0,125.1,0.69,0.37,0.094,0.08,29.0,champions,2766,G2 Esports,Valorant Champions 2026,International,Champions
+Kr1stal,GE,"fade,sova,tejo",Initiator,1.0,7,149,1.03,190.0,0.97,66.0,126.4,0.66,0.33,0.04,0.067,23.0,champions,2766,Global Esports,Valorant Champions 2026,International,Champions
+Kicks,TL,"omen,harbor,astra",Controller,1.0,8,159,1.03,186.0,0.99,68.0,120.5,0.66,0.41,0.082,0.031,29.0,champions,2766,Team Liquid,Valorant Champions 2026,International,Champions
+GSR,TL,"yoru,jett",Duelist,1.0,8,159,1.03,210.0,1.05,74.0,137.4,0.75,0.2,0.145,0.138,31.0,champions,2766,Team Liquid,Valorant Champions 2026,International,Champions
+ZmjjKK,EDG,"neon,chamber,waylay",Duelist,1.0,4,76,1.02,222.0,1.02,66.0,140.6,0.76,0.11,0.184,0.171,29.0,champions,2766,EDward Gaming,Valorant Champions 2026,International,Champions
+tkzin,LOUD,"neon,waylay",Duelist,1.0,18,398,1.02,229.0,1.09,68.0,152.9,0.82,0.18,0.141,0.141,36.0,champions,2766,LOUD,Valorant Champions 2026,International,Champions
+Xross,NS,"fade,sova",Initiator,1.0,13,266,1.01,183.0,0.96,73.0,126.6,0.63,0.23,0.038,0.041,27.0,champions,2766,Nongshim RedForce,Valorant Champions 2026,International,Champions
+trexx,TL,"fade,sova",Initiator,1.0,8,159,1.0,186.0,0.91,74.0,130.3,0.61,0.36,0.038,0.038,26.0,champions,2766,Team Liquid,Valorant Champions 2026,International,Champions
+SUYGETSU,KC,"viper,cypher",Sentinel,1.0,8,160,1.0,183.0,1.08,70.0,120.7,0.68,0.21,0.087,0.069,35.0,champions,2766,Karmine Corp,Valorant Champions 2026,International,Champions
+Avez,KC,"fade,sova",Initiator,1.0,8,160,1.0,199.0,1.05,70.0,132.4,0.71,0.28,0.062,0.069,30.0,champions,2766,Karmine Corp,Valorant Champions 2026,International,Champions
+Jamppi,VIT,"fade,yoru,phoenix",Flex,0.667,21,466,0.99,205.0,1.05,70.0,130.8,0.74,0.25,0.075,0.109,29.0,champions,2766,Team Vitality,Valorant Champions 2026,International,Champions
+sociablEE,FUT,"omen,harbor",Controller,1.0,6,124,0.98,176.0,0.96,70.0,118.2,0.61,0.4,0.04,0.081,23.0,champions,2766,FUT Esports,Valorant Champions 2026,International,Champions
+d4v41,PRX,"chamber,viper,vyse",Sentinel,1.0,11,241,0.98,191.0,1.04,71.0,125.9,0.71,0.16,0.116,0.091,27.0,champions,2766,Paper Rex,Valorant Champions 2026,International,Champions
+DaviH,LOUD,"fade,sova",Initiator,1.0,18,398,0.98,161.0,0.94,73.0,109.5,0.56,0.34,0.048,0.035,23.0,champions,2766,LOUD,Valorant Champions 2026,International,Champions
+vora,100T,"sova,fade,skye",Initiator,1.0,18,376,0.98,175.0,0.96,75.0,119.4,0.61,0.33,0.064,0.053,26.0,champions,2766,100 Thieves,Valorant Champions 2026,International,Champions
+mada,NRG,"neon,raze,phoenix",Duelist,1.0,12,255,0.97,203.0,0.98,71.0,130.3,0.71,0.23,0.176,0.188,23.0,champions,2766,NRG,Valorant Champions 2026,International,Champions
+PROFEK,VIT,"omen,astra,harbor",Controller,1.0,21,466,0.97,175.0,0.97,74.0,116.9,0.64,0.32,0.049,0.056,35.0,champions,2766,Team Vitality,Valorant Champions 2026,International,Champions
+Ethan,NRG,"kayo,phoenix,fade",Flex,0.667,12,255,0.97,174.0,0.87,78.0,117.8,0.58,0.45,0.055,0.082,24.0,champions,2766,NRG,Valorant Champions 2026,International,Champions
+Francis,NS,"yoru,chamber",Duelist,1.0,13,266,0.97,214.0,1.01,67.0,135.8,0.74,0.18,0.147,0.18,25.0,champions,2766,Nongshim RedForce,Valorant Champions 2026,International,Champions
+Ivy,NS,"sage,viper,cypher",Sentinel,1.0,13,266,0.97,184.0,0.96,67.0,122.8,0.66,0.22,0.086,0.064,30.0,champions,2766,Nongshim RedForce,Valorant Champions 2026,International,Champions
+Derke,VIT,"chamber,yoru,jett",Duelist,1.0,21,466,0.96,214.0,1.03,67.0,139.6,0.76,0.16,0.161,0.146,24.0,champions,2766,Team Vitality,Valorant Champions 2026,International,Champions
+invy,PRX,"fade,sova",Initiator,1.0,11,241,0.96,186.0,0.92,73.0,125.1,0.63,0.35,0.079,0.046,29.0,champions,2766,Paper Rex,Valorant Champions 2026,International,Champions
+Meteor,T1,"chamber,yoru,killjoy",Sentinel,0.667,15,320,0.96,205.0,1.04,69.0,133.8,0.74,0.13,0.153,0.125,25.0,champions,2766,T1,Valorant Champions 2026,International,Champions
+xeus,FUT,"phoenix,raze,jett",Duelist,1.0,6,124,0.95,198.0,1.0,73.0,130.7,0.69,0.19,0.121,0.153,42.0,champions,2766,FUT Esports,Valorant Champions 2026,International,Champions
+crownfisher,JDG,omen,Controller,1.0,5,95,0.95,177.0,0.84,74.0,111.1,0.59,0.37,0.095,0.074,23.0,champions,2766,JD Gaming,Valorant Champions 2026,International,Champions
+Chronicle,VIT,"neon,harbor,viper",Flex,1.0,21,466,0.94,204.0,0.92,68.0,134.1,0.68,0.27,0.122,0.114,23.0,champions,2766,Team Vitality,Valorant Champions 2026,International,Champions
+jkuro,JDG,"waylay,deadlock,raze",Sentinel,0.667,5,95,0.94,188.0,0.84,66.0,122.7,0.62,0.2,0.137,0.105,30.0,champions,2766,JD Gaming,Valorant Champions 2026,International,Champions
+jawgemo,G2,"neon,raze",Duelist,1.0,17,361,0.94,211.0,0.94,69.0,139.5,0.73,0.22,0.15,0.139,24.0,champions,2766,G2 Esports,Valorant Champions 2026,International,Champions
+leaf,G2,"viper,astra,vyse",Sentinel,0.667,17,361,0.94,194.0,0.93,70.0,126.5,0.67,0.27,0.105,0.1,22.0,champions,2766,G2 Esports,Valorant Champions 2026,International,Champions
+f0rsakeN,PRX,"omen,astra",Controller,1.0,11,241,0.94,181.0,0.91,71.0,118.7,0.65,0.35,0.087,0.083,28.0,champions,2766,Paper Rex,Valorant Champions 2026,International,Champions
+Munchkin,T1,"sage,viper,omen",Sentinel,0.667,15,320,0.93,189.0,0.9,68.0,122.8,0.62,0.35,0.084,0.109,27.0,champions,2766,T1,Valorant Champions 2026,International,Champions
+skuba,NRG,"omen,cypher,viper",Sentinel,0.667,12,255,0.93,161.0,0.89,71.0,105.8,0.58,0.31,0.039,0.071,27.0,champions,2766,NRG,Valorant Champions 2026,International,Champions
+slowly,TYL,"chamber,jett,waylay",Duelist,1.0,5,91,0.93,212.0,0.93,58.0,139.1,0.75,0.07,0.088,0.154,36.0,champions,2766,TYLOO,Valorant Champions 2026,International,Champions
+Rb,NS,"omen,harbor",Controller,1.0,13,266,0.92,165.0,0.91,70.0,102.7,0.61,0.34,0.026,0.071,30.0,champions,2766,Nongshim RedForce,Valorant Champions 2026,International,Champions
+Darker,LOUD,"omen,viper,vyse",Sentinel,0.667,18,398,0.92,175.0,0.88,74.0,115.9,0.61,0.37,0.055,0.058,28.0,champions,2766,LOUD,Valorant Champions 2026,International,Champions
+dos9,KC,omen,Controller,1.0,8,160,0.92,146.0,0.83,78.0,93.6,0.51,0.44,0.025,0.025,26.0,champions,2766,Karmine Corp,Valorant Champions 2026,International,Champions
+s0pp,FUT,"neon,jett",Duelist,1.0,6,124,0.92,224.0,1.01,69.0,138.8,0.76,0.19,0.169,0.161,27.0,champions,2766,FUT Esports,Valorant Champions 2026,International,Champions
+LewN,KC,"neon,waylay",Duelist,1.0,8,160,0.91,204.0,1.01,71.0,131.2,0.73,0.16,0.181,0.15,30.0,champions,2766,Karmine Corp,Valorant Champions 2026,International,Champions
+UdoTan,GE,"neon,waylay,raze",Duelist,1.0,7,149,0.9,225.0,0.92,67.0,136.2,0.76,0.24,0.208,0.161,29.0,champions,2766,Global Esports,Valorant Champions 2026,International,Champions
+BerLIN,JDG,"sova,fade,harbor",Initiator,0.667,5,95,0.9,171.0,0.79,67.0,115.5,0.58,0.26,0.042,0.042,32.0,champions,2766,JD Gaming,Valorant Champions 2026,International,Champions
+happywei,XLG,"cypher,harbor,sage",Sentinel,0.667,4,83,0.9,171.0,0.87,71.0,118.1,0.63,0.19,0.048,0.06,28.0,champions,2766,Xi Lai Gaming,Valorant Champions 2026,International,Champions
+nAts,TL,"cypher,viper,killjoy",Sentinel,1.0,8,159,0.89,177.0,0.9,67.0,124.0,0.62,0.17,0.05,0.138,23.0,champions,2766,Team Liquid,Valorant Champions 2026,International,Champions
+Lysoar,XLG,"omen,astra",Controller,1.0,4,83,0.89,186.0,0.84,58.0,116.5,0.65,0.27,0.024,0.084,31.0,champions,2766,Xi Lai Gaming,Valorant Champions 2026,International,Champions
+Smoggy,EDG,omen,Controller,1.0,4,76,0.88,168.0,0.82,61.0,112.0,0.61,0.25,0.053,0.105,28.0,champions,2766,EDward Gaming,Valorant Champions 2026,International,Champions
+Rarga,XLG,"yoru,chamber",Duelist,1.0,4,83,0.87,177.0,0.81,58.0,108.2,0.65,0.1,0.096,0.169,29.0,champions,2766,Xi Lai Gaming,Valorant Champions 2026,International,Champions
+WsLeo,XLG,"fade,sova",Initiator,1.0,4,83,0.87,168.0,0.82,65.0,105.5,0.59,0.35,0.096,0.12,29.0,champions,2766,Xi Lai Gaming,Valorant Champions 2026,International,Champions
+zhe,JDG,"yoru,chamber,neon",Duelist,1.0,5,95,0.86,178.0,0.91,58.0,107.6,0.63,0.13,0.126,0.179,23.0,champions,2766,JD Gaming,Valorant Champions 2026,International,Champions
+Dambi,NS,"neon,waylay",Duelist,1.0,13,266,0.84,196.0,0.8,67.0,125.4,0.64,0.29,0.162,0.18,26.0,champions,2766,Nongshim RedForce,Valorant Champions 2026,International,Champions
+stax,T1,"omen,harbor",Controller,1.0,15,320,0.83,147.0,0.74,70.0,95.1,0.5,0.46,0.028,0.075,26.0,champions,2766,T1,Valorant Champions 2026,International,Champions
+BuZz,T1,"neon,waylay",Duelist,1.0,15,320,0.83,202.0,0.88,65.0,132.1,0.69,0.22,0.15,0.156,23.0,champions,2766,T1,Valorant Champions 2026,International,Champions
+Autumn,GE,"yoru,chamber,veto",Sentinel,0.667,7,149,0.82,178.0,0.83,69.0,112.3,0.62,0.19,0.107,0.141,26.0,champions,2766,Global Esports,Valorant Champions 2026,International,Champions
+nobody,EDG,"fade,tejo,sova",Initiator,1.0,4,76,0.82,183.0,0.74,64.0,117.7,0.59,0.26,0.066,0.053,23.0,champions,2766,EDward Gaming,Valorant Champions 2026,International,Champions
+Erv,TYL,omen,Controller,1.0,5,91,0.81,152.0,0.71,66.0,96.5,0.53,0.26,0.055,0.055,37.0,champions,2766,TYLOO,Valorant Champions 2026,International,Champions
+SiuFatBB,TYL,"fade,skye",Initiator,1.0,5,91,0.78,125.0,0.66,55.0,82.7,0.45,0.13,0.044,0.088,31.0,champions,2766,TYLOO,Valorant Champions 2026,International,Champions
+splash,TYL,"neon,raze,phoenix",Duelist,1.0,5,91,0.78,197.0,0.73,69.0,128.1,0.64,0.16,0.143,0.187,35.0,champions,2766,TYLOO,Valorant Champions 2026,International,Champions
+CHICHOO,EDG,"cypher,viper,sage",Sentinel,1.0,4,76,0.77,143.0,0.61,63.0,97.3,0.45,0.26,0.039,0.079,29.0,champions,2766,EDward Gaming,Valorant Champions 2026,International,Champions
+Yuicaw,JDG,"cypher,vyse,sova",Sentinel,0.667,5,95,0.74,138.0,0.65,60.0,99.8,0.48,0.16,0.053,0.137,41.0,champions,2766,JD Gaming,Valorant Champions 2026,International,Champions
+Scales,TYL,"viper,sage,cypher",Sentinel,1.0,5,91,0.71,161.0,0.69,53.0,112.5,0.53,0.16,0.077,0.11,39.0,champions,2766,TYLOO,Valorant Champions 2026,International,Champions
+stew,EDG,"neon,breach,yoru",Flex,0.667,4,76,0.58,145.0,0.55,55.0,96.6,0.47,0.29,0.079,0.171,37.0,champions,2766,EDward Gaming,Valorant Champions 2026,International,Champions
+NoMan,XLG,waylay,Duelist,1.0,4,83,0.52,150.0,0.54,57.0,99.6,0.47,0.18,0.108,0.169,34.0,champions,2766,Xi Lai Gaming,Valorant Champions 2026,International,Champions

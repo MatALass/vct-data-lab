@@ -1,49 +1,64 @@
 team,signature_agents,signature_strength,primary_agent
-KRÜ Esports,"neon,omen,fade,viper,vyse",0.8667,neon
-Dragon Ranger Gaming,"neon,skye,waylay,omen,cypher",0.8267,neon
-Xi Lai Gaming,"neon,viper,skye,waylay,omen",0.8125,neon
-T1,"neon,chamber,skye,astra,killjoy",0.8,neon
-MIBR,"fade,vyse,neon,raze,astra",0.8,fade
-Evil Geniuses,"neon,sova,viper,killjoy,omen",0.76,neon
-G2 Esports,"vyse,astra,fade,harbor,neon",0.7429,vyse
-FunPlus Phoenix,"neon,waylay,fade,viper,astra",0.7385,neon
-Titan Esports Club,"neon,waylay,skye,viper,brimstone",0.7286,neon
-Natus Vincere,"neon,viper,chamber,fade,omen",0.6909,neon
-FURIA,"neon,fade,omen,viper,killjoy",0.6857,neon
-All Gamers,"neon,waylay,omen,skye,viper",0.675,neon
-Sentinels,"viper,neon,omen,sova,fade",0.65,viper
-ZETA DIVISION,"neon,waylay,omen,viper,brimstone",0.65,neon
-Team Vitality,"viper,neon,omen,sova,fade",0.6445,viper
-FULL SENSE,"cypher,neon,skye,waylay,omen",0.6445,cypher
-PCIFIC Esports,"neon,fade,astra,viper,raze",0.64,neon
-Cloud9,"neon,omen,skye,viper,astra",0.64,neon
-Team Secret,"neon,skye,viper,astra,cypher",0.6333,neon
-LEVIATÁN,"neon,phoenix,viper,brimstone,chamber",0.6286,neon
-Nova Esports,"neon,viper,omen,sova,brimstone",0.62,neon
-Team Liquid,"neon,phoenix,fade,killjoy,omen",0.6,neon
-Gentle Mates,"neon,fade,cypher,omen,phoenix",0.6,neon
-LOUD,"neon,sova,omen,viper,astra",0.6,neon
-Trace Esports,"viper,omen,neon,waylay,fade",0.5867,viper
-Eternal Fire,"neon,viper,fade,raze,omen",0.58,neon
-Paper Rex,"omen,raze,neon,jett,viper",0.58,omen
-Rex Regum Qeon,"neon,skye,viper,brimstone,omen",0.58,neon
-Gen.G,"neon,fade,omen,phoenix,chamber",0.58,neon
-FNATIC,"neon,viper,skye,sova,harbor",0.58,neon
-Nongshim RedForce,"neon,breach,fade,omen,viper",0.575,neon
-JDG Esports,"neon,omen,cypher,waylay,brimstone",0.5714,neon
-Karmine Corp,"fade,omen,neon,vyse,astra",0.5636,fade
-GIANTX,"neon,cypher,omen,sova,viper",0.5636,neon
-FUT Esports,"neon,omen,viper,brimstone,raze",0.5636,neon
-Team Heretics,"neon,chamber,skye,astra,fade",0.56,neon
-TYLOO,"neon,viper,waylay,skye,sova",0.56,neon
-100 Thieves,"neon,omen,phoenix,sova,cypher",0.56,neon
-BBL Esports,"omen,neon,jett,sova,raze",0.54,omen
-Global Esports,"fade,omen,deadlock,raze,neon",0.525,fade
-NRG,"neon,omen,viper,astra,fade",0.52,neon
-Kiwoom DRX,"neon,chamber,omen,cypher,breach",0.52,neon
-Wolves Esports,"waylay,viper,brimstone,fade,killjoy",0.5167,waylay
-EDward Gaming,"omen,cypher,neon,waylay,fade",0.5067,omen
-ENVY,"neon,sova,viper,astra,chamber",0.5,neon
-Bilibili Gaming,"neon,tejo,viper,astra,killjoy",0.4923,neon
-DetonatioN FocusMe,"neon,waylay,omen,tejo,astra",0.46,neon
-VARREL,"neon,astra,omen,cypher,fade",0.4222,neon
+KeepBest Gaming,"cypher,neon,omen,sova,viper",0.76,cypher
+Sharper Esports,"neon,sova,omen,cypher,sage",0.7333,neon
+ONSIDE GAMING,"neon,omen,sova,cypher,phoenix",0.6909,neon
+A Team,"omen,neon,cypher,fade,sage",0.68,omen
+2Game Esports,"omen,neon,phoenix,sova,viper",0.68,omen
+Dragon Ranger Gaming,"waylay,cypher,neon,omen,skye",0.6739,waylay
+BBL Esports,"omen,sova,cypher,yoru,neon",0.6577,omen
+M80,"cypher,neon,omen,sova,deadlock",0.65,cypher
+QT DIG∞,"neon,cypher,omen,phoenix,raze",0.6333,neon
+BESTIA,"cypher,neon,omen,sova,fade",0.6286,cypher
+Nongshim RedForce,"neon,omen,yoru,sova,fade",0.6238,neon
+LOUD,"omen,neon,chamber,sova,fade",0.6197,omen
+Joblife,"omen,neon,raze,cypher,jett",0.6154,omen
+Evil Geniuses,"sova,omen,viper,neon,cypher",0.6133,sova
+KRÜ Esports,"neon,omen,fade,viper,chamber",0.6,neon
+Xipto Esports,"omen,cypher,neon,fade,phoenix",0.6,omen
+Eternal Fire,"neon,omen,fade,viper,cypher",0.595,neon
+Titan Esports Club,"neon,omen,sova,cypher,viper",0.5867,neon
+Eintracht Frankfurt,"vyse,fade,omen,raze,astra",0.5833,vyse
+Team Secret,"neon,viper,omen,sova,cypher",0.5611,neon
+Enterprise Esports,"neon,omen,phoenix,sova,raze",0.56,neon
+Fluxo W7M,"omen,neon,vyse,fade,jett",0.56,omen
+ZETA DIVISION,"neon,omen,viper,cypher,sova",0.5581,neon
+ULF Esports,"viper,astra,sova,waylay,breach",0.5556,viper
+Karmine Corp,"omen,neon,fade,viper,cypher",0.5547,omen
+LEVIATÁN,"neon,phoenix,omen,chamber,sova",0.5544,neon
+FunPlus Phoenix,"neon,omen,viper,waylay,fade",0.5512,neon
+T1,"omen,neon,sova,viper,yoru",0.5494,omen
+Rex Regum Qeon,"neon,sova,omen,viper,chamber",0.5464,neon
+Team Heretics,"neon,omen,fade,cypher,sova",0.5449,neon
+Natus Vincere,"omen,viper,neon,sova,chamber",0.5395,omen
+Trace Esports,"omen,viper,neon,sova,waylay",0.5387,omen
+Fire Flux Esports,"omen,waylay,neon,astra,sova",0.5375,omen
+FUT Esports,"omen,neon,cypher,sova,waylay",0.5367,omen
+Sentinels,"omen,viper,neon,sova,waylay",0.535,omen
+GIANTX,"omen,neon,sova,viper,cypher",0.5333,omen
+PCIFIC Esports,"omen,viper,fade,neon,sova",0.5316,omen
+Paper Rex,"omen,viper,yoru,raze,fade",0.5304,omen
+Gentle Mates,"fade,neon,astra,cypher,yoru",0.5276,fade
+Gen.G,"neon,fade,omen,chamber,astra",0.5209,neon
+Xi Lai Gaming,"omen,viper,waylay,neon,sova",0.5195,omen
+All Gamers,"omen,neon,waylay,viper,fade",0.5189,omen
+JD Gaming,"omen,neon,cypher,sova,fade",0.5179,omen
+FURIA,"sova,omen,neon,viper,fade",0.5175,sova
+ENVY,"neon,sova,omen,viper,chamber",0.5131,neon
+MIBR,"omen,sova,neon,cypher,jett",0.5107,omen
+Cloud9,"viper,neon,omen,sova,cypher",0.5083,viper
+Wolves Esports,"omen,viper,sova,neon,waylay",0.504,omen
+TYLOO,"omen,neon,viper,fade,waylay",0.5,omen
+NRG,"sova,omen,viper,neon,waylay",0.499,sova
+100 Thieves,"neon,omen,phoenix,cypher,fade",0.49,neon
+Bilibili Gaming,"omen,neon,waylay,fade,cypher",0.4881,omen
+FNATIC,"viper,neon,sova,fade,omen",0.4873,viper
+Team Vitality,"sova,omen,viper,neon,fade",0.4826,sova
+G2 Esports,"neon,astra,viper,vyse,fade",0.4826,neon
+Nova Esports,"neon,omen,viper,fade,phoenix",0.4769,neon
+EDward Gaming,"omen,sova,neon,jett,viper",0.4697,omen
+DetonatioN FocusMe,"omen,neon,fade,sova,cypher",0.4667,omen
+KIWOOM DRX,"omen,neon,sova,cypher,fade",0.4623,omen
+FULL SENSE,"cypher,omen,fade,neon,raze",0.4613,cypher
+VARREL,"omen,fade,raze,viper,neon",0.455,omen
+Global Esports,"omen,sova,astra,neon,fade",0.4512,omen
+Team Liquid,"omen,neon,viper,cypher,sova",0.44,omen
