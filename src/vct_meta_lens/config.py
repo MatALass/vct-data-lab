@@ -12,8 +12,8 @@ from pathlib import Path
 # ---------------------------------------------------------------------------
 # Chemins
 # ---------------------------------------------------------------------------
-PROJECT_ROOT = Path(__file__).resolve().parents[1]
-DATA_DIR = PROJECT_ROOT / "data"
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+DATA_DIR = PROJECT_ROOT / "data" / "meta_lens"
 RAW_DIR = DATA_DIR / "raw" / "vct_2025"
 PROCESSED_DIR = DATA_DIR / "processed"
 MODEL_DIR = DATA_DIR / "model"

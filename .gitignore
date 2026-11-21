@@ -24,3 +24,14 @@ build/
 
 # Runtime outputs that can be regenerated
 reports/
+
+# Meta Lens : données brutes Kaggle (52 Mo, re-téléchargeables) et sorties du pipeline
+data/meta_lens/raw/
+data/meta_lens/processed/
+data/meta_lens/model/
+*.pbix.tmp
+~$*.pbix
+
+# Roster : rapports quotidiens régénérables
+data/roster/output/*.xlsx
+!data/roster/output/.gitkeep

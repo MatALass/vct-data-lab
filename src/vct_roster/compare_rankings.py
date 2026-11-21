@@ -20,9 +20,9 @@ import pandas as pd
 from openpyxl.utils import get_column_letter
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-PROJECT_ROOT = SCRIPT_DIR.parent
-DEFAULT_XLSX = PROJECT_ROOT / "data" / "vct.xlsx"
-DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "output"
+PROJECT_ROOT = SCRIPT_DIR.parents[1]
+DEFAULT_XLSX = PROJECT_ROOT / "data" / "roster" / "vct.xlsx"
+DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "data" / "roster" / "output"
 
 DATE_IN_SHEETNAME = re.compile(r"(\d{2})-(\d{2})\s*$")
 

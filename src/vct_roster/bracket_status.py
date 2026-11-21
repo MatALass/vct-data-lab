@@ -58,8 +58,8 @@ import pandas as pd
 from openpyxl.styles import PatternFill
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-PROJECT_ROOT = SCRIPT_DIR.parent
-DATA_DIR = PROJECT_ROOT / "data"
+PROJECT_ROOT = SCRIPT_DIR.parents[1]
+DATA_DIR = PROJECT_ROOT / "data" / "roster"
 DEFAULT_XLSX = DATA_DIR / "vct.xlsx"
 DEFAULT_BRACKET_RESULTS = DATA_DIR / "bracket_results.csv"
 

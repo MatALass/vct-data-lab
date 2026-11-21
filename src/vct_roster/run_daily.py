@@ -4,23 +4,23 @@ run_daily.py
 Lance la routine quotidienne complète, dans le bon ordre :
 
   1. update_rankings.py   -> scrape les stats du jour et ajoute un onglet daté
-                              à data/vct.xlsx (colorie déjà les équipes éliminées
-                              sur ce nouvel onglet, d'après data/bracket_results.csv).
-  2. bracket_status.py    -> recolorie TOUS les onglets de data/vct.xlsx d'après
-                              data/bracket_results.csv — utile si tu as ajouté des
+                              à data/roster/vct.xlsx (colorie déjà les équipes éliminées
+                              sur ce nouvel onglet, d'après data/roster/bracket_results.csv).
+  2. bracket_status.py    -> recolorie TOUS les onglets de data/roster/vct.xlsx d'après
+                              data/roster/bracket_results.csv — utile si tu as ajouté des
                               résultats de matchs sans relancer le scraping entre-temps,
                               pour que les anciens onglets restent cohérents aussi.
                               (Rendu redondant sur le tout nouvel onglet, ce qui est
                               sans effet — mais indispensable pour les précédents.)
   3. compare_rankings.py  -> compare les deux onglets datés les plus récents de
-                              data/vct.xlsx et écrit un rapport dans output/.
+                              data/vct.xlsx et écrit un rapport dans data/roster/output/.
 
 S'arrête au premier script qui échoue (code de retour non nul) plutôt que de
 continuer sur un état incohérent.
 
 Usage :
-    python tracker/run_daily.py
-    python tracker/run_daily.py --skip-compare
+    python -m vct_roster.run_daily
+    python -m vct_roster.run_daily --skip-compare
         (ex: tout premier lancement du projet -> un seul onglet daté existe
         encore, compare_rankings.py n'aurait rien à comparer)
 """
@@ -30,12 +30,9 @@ import subprocess
 import sys
 from pathlib import Path
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-
-
 def run_step(script_name: str, label: str) -> None:
-    script_path = SCRIPT_DIR / script_name
-    cmd = [sys.executable, str(script_path)]
+    module = f"vct_roster.{Path(script_name).stem}"
+    cmd = [sys.executable, "-m", module]
     print(f"\n{'=' * 60}\n▶ {label} ({script_name})\n{'=' * 60}")
     result = subprocess.run(cmd)
     if result.returncode != 0:

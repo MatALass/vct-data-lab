@@ -25,7 +25,7 @@ import requests
 from bs4 import BeautifulSoup
 from openpyxl.utils import get_column_letter
 
-from bracket_status import (
+from vct_roster.bracket_status import (
     compute_eliminated_teams,
     highlight_eliminated_teams,
     load_bracket_results,
@@ -33,8 +33,8 @@ from bracket_status import (
 )
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-PROJECT_ROOT = SCRIPT_DIR.parent
-DATA_DIR = PROJECT_ROOT / "data"
+PROJECT_ROOT = SCRIPT_DIR.parents[1]
+DATA_DIR = PROJECT_ROOT / "data" / "roster"
 DEFAULT_XLSX = DATA_DIR / "vct.xlsx"
 DEFAULT_ROLES = DATA_DIR / "roles.csv"
 DEFAULT_BRACKET_RESULTS = DATA_DIR / "bracket_results.csv"

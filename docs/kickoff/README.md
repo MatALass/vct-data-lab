@@ -1,3 +1,5 @@
+> Ce module vient de l'ancien dépôt `vct-emea-kickoff-simulator`, fusionné dans VCT Data Lab (historique git conservé). L'app est dans `apps/kickoff_streamlit/`.
+
 # VCT EMEA Kickoff Simulator (Streamlit)
 
 A small personal Streamlit app to **simulate VCT EMEA Kickoff (2026)** in a **triple‑elimination** format and to build a **worst → best** ranking interactively.
@@ -25,7 +27,7 @@ pip install -e .
 ### 2) Run the app
 
 ```bash
-streamlit run streamlit_app/Home.py
+streamlit run apps/kickoff_streamlit/Home.py
 ```
 
 Streamlit will open in your browser with:

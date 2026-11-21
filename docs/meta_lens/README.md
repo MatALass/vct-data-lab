@@ -1,3 +1,5 @@
+> Ce module vient de l'ancien dépôt `vct-meta-lens`, fusionné dans VCT Data Lab (historique git conservé). Code dans `src/vct_meta_lens/`, rapport dans `powerbi/meta_lens/`, données dans `data/meta_lens/`.
+
 # VCT Meta Lens
 
 **How the Valorant pro meta evolved across the 2025 VCT season** : un pipeline de données et un dashboard Power BI couvrant 15 tournois, 59 équipes, 349 joueurs et plus de 100 000 kills (données VLR.gg, du Kickoff jusqu'à Valorant Champions 2025).
@@ -7,10 +9,10 @@
 Les sites de stats esport (VLR.gg en tête) montrent des photographies instantanées. Ce projet reconstruit la **dynamique d'une saison complète** : montée et chute des agents dans le méta (Tejo, Waylay, Vyse…), équilibre attaque/défense des maps, conversion économique des équipes, performances joueurs, le tout comparable entre les 4 régions (Americas, EMEA, Pacific, China) et les événements internationaux.
 
 ```
-Kaggle (CSV VLR.gg)  →  src/clean.py  →  data/processed/ (parquet typés)
-                                       →  src/build_model.py  →  data/model/ (étoile, CSV)
-                                                              →  powerbi/build_report.py
-                                                              →  powerbi/VCTMetaLens (PBIP)
+Kaggle (CSV VLR.gg)  →  src/vct_meta_lens/clean.py  →  data/meta_lens/processed/ (parquet typés)
+                                       →  src/vct_meta_lens/build_model.py  →  data/meta_lens/model/ (étoile, CSV)
+                                                              →  powerbi/meta_lens/build_report.py
+                                                              →  powerbi/meta_lens/VCTMetaLens (PBIP)
 ```
 
 ## Structure
@@ -18,7 +20,7 @@ Kaggle (CSV VLR.gg)  →  src/clean.py  →  data/processed/ (parquet typés)
 ```
 vct-meta-lens/
 ├── data/
-│   ├── raw/vct_2025/        # CSV bruts Kaggle (non versionnés, voir src/ingest.py)
+│   ├── raw/vct_2025/        # CSV bruts Kaggle (non versionnés, voir src/vct_meta_lens/ingest.py)
 │   ├── processed/           # parquet nettoyés, toutes granularités conservées
 │   └── model/               # modèle en étoile (CSV UTF-8 BOM) → import Power BI
 ├── src/
@@ -43,15 +45,15 @@ vct-meta-lens/
 ```powershell
 python -m venv .venv
 .venv\Scripts\Activate.ps1
-pip install -r requirements.txt
+pip install -e ".[dev,ingest,powerbi]"   # depuis la racine de vct-data-lab
 
-python -m src.ingest        # télécharge les données Kaggle dans data/raw/
-python -m src.clean         # → data/processed/*.parquet
-python -m src.build_model   # → data/model/*.csv
-pytest -q                   # tests du pipeline et du rapport
+python -m vct_meta_lens.ingest        # télécharge les données Kaggle dans data/meta_lens/raw/
+python -m vct_meta_lens.clean         # → data/meta_lens/processed/*.parquet
+python -m vct_meta_lens.build_model   # → data/meta_lens/model/*.csv
+pytest -q tests/meta_lens                   # tests du pipeline et du rapport
 ```
 
-Puis ouvrir `powerbi/VCTMetaLens/VCTMetaLens.pbip` dans Power BI Desktop et cliquer sur **Actualiser** (détails dans [`powerbi/README.md`](powerbi/README.md)).
+Puis ouvrir `powerbi/meta_lens/VCTMetaLens/VCTMetaLens.pbip` dans Power BI Desktop et cliquer sur **Actualiser** (détails dans [`powerbi/meta_lens/README.md`](../../powerbi/meta_lens/README.md)).
 
 ## Les pièges du dataset (et comment ils sont traités)
 
@@ -59,10 +61,10 @@ Le dataset VLR.gg est riche mais piégeux ; un `groupby` naïf produit des chiff
 
 1. **Agrégats mélangés au détail.** `agents_pick_rates`, `maps_stats`, `players_stats` et `teams_picked_agents` contiennent des lignes `All Maps` / `All Stages` / `All Match Types` au milieu des lignes détaillées (`overview` aussi, avec une ligne « All Maps » par joueur et par match) → double comptage garanti. `clean.py` pose des flags `is_*_agg` ; `build_model.py` n'exporte que le détail dans les tables de faits.
 2. **Types texte.** Les pourcentages sont des strings (`"95%"`), les crédits aussi (`"3.9k"`), les durées mélangent `MM:SS` et `H:MM:SS`. Tout est converti en numérique.
-3. **NaN structurels.** Dans `overview`, chaque joueur a jusqu'à 3 lignes par carte (`side` = both/attack/defend) et les stats par side sont partiellement absentes. `fact_player_map` ne garde que `side == "both"` ; le détail par side reste dans `data/processed/overview.parquet`.
+3. **NaN structurels.** Dans `overview`, chaque joueur a jusqu'à 3 lignes par carte (`side` = both/attack/defend) et les stats par side sont partiellement absentes. `fact_player_map` ne garde que `side == "both"` ; le détail par side reste dans `data/meta_lens/processed/overview.parquet`.
 4. **Pourcentages moyennés à tort.** `pick_rate` est un pourcentage par map et par stage : la moyenne simple donne autant de poids à une map jouée une fois qu'à une map jouée 40 fois. `fact_agent_picks` porte donc `maps_played` et la mesure Power BI pondère.
 5. **Clés texte et casse.** Power BI ignore la casse : `f0rsakeN` et `f0rsaken` sont deux joueurs dans la source mais une seule clé pour lui, et le chargement échoue. Les doublons de ce type sont renommés (`f0rsaken (12088)`) et `build_model.py` vérifie chaque dimension avant l'export.
-6. **Référentiels incomplets.** L'ordre chronologique des tournois et les rôles des agents n'existent pas dans la source : ils sont maintenus dans `src/config.py`. Les équipes hors circuit (showmatchs) absentes de `team_mapping` sont ajoutées à `dim_team` avec un warning.
+6. **Référentiels incomplets.** L'ordre chronologique des tournois et les rôles des agents n'existent pas dans la source : ils sont maintenus dans `src/vct_meta_lens/config.py`. Les équipes hors circuit (showmatchs) absentes de `team_mapping` sont ajoutées à `dim_team` avec un warning.
 
 ## Modèle de données (étoile)
 
@@ -78,7 +80,7 @@ Détail des colonnes : [`docs/data_model.md`](docs/data_model.md).
 
 ## Rapport Power BI
 
-Quatre pages, générées par `powerbi/build_report.py` :
+Quatre pages, générées par `powerbi/meta_lens/build_report.py` :
 
 1. **Méta agents** : pick rate pondéré par rôle au fil de la saison, agents les plus joués, winrate des compositions.
 2. **Maps** : winrate attaque et défense par map, méthodes de victoire des rounds, picks et bans.

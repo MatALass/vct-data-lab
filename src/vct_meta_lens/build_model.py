@@ -28,7 +28,7 @@ Faits (granularité détail uniquement : agrégats "All *" exclus partout)
 Power BI lit ces CSV via le projet powerbi/VCTMetaLens (voir powerbi/README.md).
 
 Usage:
-    python -m src.build_model
+    python -m vct_meta_lens.build_model
 """
 
 from __future__ import annotations
@@ -37,7 +37,7 @@ import logging
 
 import pandas as pd
 
-from src.config import (
+from vct_meta_lens.config import (
     AGENT_ROLES,
     AGG_MAP,
     ECO_TYPE_LABELS,

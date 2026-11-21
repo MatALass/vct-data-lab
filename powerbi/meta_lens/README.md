@@ -22,8 +22,8 @@ Pour un fichier unique à partager : Fichier > Enregistrer sous > `.pbix`.
 Modifier `build_report.py` (ou `theme.json` pour les couleurs), puis :
 
 ```powershell
-pip install -r powerbi/requirements.txt
-python powerbi/build_report.py --data-folder "D:\mon\chemin\vct-meta-lens\data\model\"
+pip install -e ".[powerbi]"
+python powerbi/meta_lens/build_report.py --data-folder "D:\mon\chemin\vct-data-lab\data\meta_lens\model\"
 ```
 
 La CI régénère le projet et échoue si le dossier `VCTMetaLens/` ne correspond plus au script : on ne modifie donc pas les fichiers générés à la main. La génération est stricte : elle échoue si un visuel en chevauche un autre, dépasse de la page ou est trop petit pour afficher ses données.

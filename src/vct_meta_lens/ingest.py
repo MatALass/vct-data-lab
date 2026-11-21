@@ -5,7 +5,7 @@ Ce script rend le repo reproductible : il télécharge le dataset via
 kagglehub et le copie dans data/raw/vct_2025/.
 
 Usage:
-    python -m src.ingest
+    python -m vct_meta_lens.ingest
 
 Prérequis:
     pip install kagglehub
@@ -20,7 +20,7 @@ import shutil
 import sys
 from pathlib import Path
 
-from src.config import RAW_DIR
+from vct_meta_lens.config import RAW_DIR
 
 # Slug du dataset Kaggle "Valorant Champions Tour 2025" (exports VLR.gg).
 # Si le dataset change de propriétaire/nom, mettre à jour ici.

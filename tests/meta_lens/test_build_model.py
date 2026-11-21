@@ -1,6 +1,6 @@
 import pandas as pd
 
-from src.build_model import (
+from vct_meta_lens.build_model import (
     build_dim_tournament,
     build_fact_agent_picks,
     build_fact_match_team,
@@ -69,7 +69,7 @@ def test_dim_tournament_is_complete_and_ordered():
 
 
 def test_case_insensitive_duplicates_are_renamed():
-    from src.build_model import case_insensitive_names, check_unique_for_powerbi
+    from vct_meta_lens.build_model import case_insensitive_names, check_unique_for_powerbi
 
     dim = pd.DataFrame({"player": ["f0rsakeN", "f0rsaken", "aspas"], "player_id": [9801.0, 12088.0, 8480.0]})
     fact = pd.DataFrame({"player": ["f0rsakeN"] * 5 + ["f0rsaken"]})
@@ -82,7 +82,7 @@ def test_case_insensitive_duplicates_are_renamed():
 def test_powerbi_key_check_catches_case_and_trailing_spaces():
     import pytest
 
-    from src.build_model import check_unique_for_powerbi
+    from vct_meta_lens.build_model import check_unique_for_powerbi
 
     with pytest.raises(ValueError, match="clé valide"):
         check_unique_for_powerbi(pd.DataFrame({"team": ["NRG", "nrg"]}), "team", "dim_team")
@@ -91,7 +91,7 @@ def test_powerbi_key_check_catches_case_and_trailing_spaces():
 
 
 def test_player_map_drops_all_maps_rows():
-    from src.build_model import build_fact_player_map
+    from vct_meta_lens.build_model import build_fact_player_map
 
     overview = pd.DataFrame(
         {
@@ -107,8 +107,8 @@ def test_player_map_drops_all_maps_rows():
 
 
 def test_eco_rounds_tournament_names_are_normalized():
-    from src.build_model import normalize_tournament
-    from src.config import TOURNAMENT_META
+    from vct_meta_lens.build_model import normalize_tournament
+    from vct_meta_lens.config import TOURNAMENT_META
 
     for raw in [
         "Champions Tour 2025: EMEA Stage 1",

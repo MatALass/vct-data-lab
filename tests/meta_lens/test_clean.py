@@ -1,6 +1,6 @@
 import pandas as pd
 
-from src.clean import add_agg_flags, credits_to_int, duration_to_seconds, pct_to_float, snake_case
+from vct_meta_lens.clean import add_agg_flags, credits_to_int, duration_to_seconds, pct_to_float, snake_case
 
 
 def test_snake_case_drops_trailing_punctuation():

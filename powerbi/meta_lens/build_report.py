@@ -7,8 +7,8 @@ projet charge les CSV de data/model/ au premier « Actualiser ».
 
 Usage :
     pip install -r powerbi/requirements.txt
-    python powerbi/build_report.py                       # -> powerbi/VCTMetaLens/
-    python powerbi/build_report.py --data-folder "D:\\vct-meta-lens\\data\\model\\"
+    python powerbi/meta_lens/build_report.py                       # -> powerbi/VCTMetaLens/
+    python powerbi/meta_lens/build_report.py --data-folder "D:\\vct-data-lab\\data\\meta_lens\\model\\"
 
 Le chemin --data-folder est celui où se trouvent les CSV sur la machine qui
 ouvre le projet. Il reste modifiable ensuite dans Power BI (Transformer les
@@ -38,7 +38,7 @@ from pbip_generator.model import (
 )
 
 NAME = "VCTMetaLens"
-DEFAULT_DATA_FOLDER = "C:\\pbip\\vct-meta-lens\\data\\model\\"
+DEFAULT_DATA_FOLDER = "C:\\pbip\\vct-data-lab\\data\\meta_lens\\model\\"
 OUT_DIR = Path(__file__).resolve().parent
 THEME = OUT_DIR / "theme.json"
 
@@ -47,7 +47,7 @@ MATCH = [("tournament", S), ("stage", S), ("match_type", S)]
 
 # --------------------------------------------------------------------------- #
 # Schéma : seules les colonnes utiles au rapport sont chargées.
-# Les noms suivent la sortie de src/build_model.py (voir docs/data_model.md).
+# Les noms suivent la sortie de src/vct_meta_lens/build_model.py (voir docs/meta_lens/data_model.md).
 # --------------------------------------------------------------------------- #
 SCHEMA: dict[str, tuple[TableRole, list[tuple[str, DataType]]]] = {
     "dim_tournament": (

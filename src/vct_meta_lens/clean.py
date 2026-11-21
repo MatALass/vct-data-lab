@@ -14,7 +14,7 @@ agrégats, tous les sides) : c'est build_model.py qui applique les filtres
 métier pour produire les tables du modèle en étoile.
 
 Usage:
-    python -m src.clean
+    python -m vct_meta_lens.clean
 """
 
 from __future__ import annotations
@@ -24,7 +24,7 @@ import re
 
 import pandas as pd
 
-from src.config import AGG_MAP, AGG_MATCH_TYPE, AGG_STAGE, PROCESSED_DIR, RAW_DIR
+from vct_meta_lens.config import AGG_MAP, AGG_MATCH_TYPE, AGG_STAGE, PROCESSED_DIR, RAW_DIR
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
 log = logging.getLogger(__name__)

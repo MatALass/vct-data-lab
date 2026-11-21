@@ -61,8 +61,8 @@ def load_workbook(file_bytes: bytes) -> dict:
 
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-PROJECT_ROOT = SCRIPT_DIR.parent
-DATA_DIR = PROJECT_ROOT / "data"
+PROJECT_ROOT = SCRIPT_DIR.parents[1]
+DATA_DIR = PROJECT_ROOT / "data" / "roster"
 
 
 def sidebar_loader():
