@@ -19,6 +19,7 @@ AGENT_TO_ROLE: dict[str, str] = {
     "brimstone": "Controller",
     "harbor": "Controller",
     "clove": "Controller",
+    "miks": "Controller",
     # Initiators
     "sova": "Initiator",
     "fade": "Initiator",
@@ -35,6 +36,7 @@ AGENT_TO_ROLE: dict[str, str] = {
     "chamber": "Sentinel",
     "deadlock": "Sentinel",
     "vyse": "Sentinel",
+    "veto": "Sentinel",
 }
 
 ROLE_ORDER = ["Duelist", "Controller", "Initiator", "Sentinel", "Flex"]

@@ -1,0 +1,365 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "09782b7173f8be84795b",
+  "position": {
+    "x": 16.0,
+    "y": 208,
+    "z": 7000,
+    "width": 616.0,
+    "height": 496,
+    "tabOrder": 7000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Joueurs"
+                    }
+                  },
+                  "Property": "Joueur"
+                }
+              },
+              "queryRef": "Joueurs.Joueur",
+              "nativeQueryRef": "Joueur"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Equipes"
+                    }
+                  },
+                  "Property": "Équipe"
+                }
+              },
+              "queryRef": "Equipes.Équipe",
+              "nativeQueryRef": "Équipe"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Joueurs"
+                    }
+                  },
+                  "Property": "Rôle joué"
+                }
+              },
+              "queryRef": "Joueurs.Rôle joué",
+              "nativeQueryRef": "Rôle joué"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Joueurs"
+                    }
+                  },
+                  "Property": "Rounds joués"
+                }
+              },
+              "queryRef": "Joueurs.Rounds joués",
+              "nativeQueryRef": "Rounds joués"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Joueurs"
+                    }
+                  },
+                  "Property": "Rating moyen"
+                }
+              },
+              "queryRef": "Joueurs.Rating moyen",
+              "nativeQueryRef": "Rating moyen"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Joueurs"
+                    }
+                  },
+                  "Property": "ACS moyen"
+                }
+              },
+              "queryRef": "Joueurs.ACS moyen",
+              "nativeQueryRef": "ACS moyen"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Joueurs"
+                    }
+                  },
+                  "Property": "ADR moyen"
+                }
+              },
+              "queryRef": "Joueurs.ADR moyen",
+              "nativeQueryRef": "ADR moyen"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Joueurs"
+                    }
+                  },
+                  "Property": "KAST moyen"
+                }
+              },
+              "queryRef": "Joueurs.KAST moyen",
+              "nativeQueryRef": "KAST moyen"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Joueurs"
+                    }
+                  },
+                  "Property": "First kills - first deaths"
+                }
+              },
+              "queryRef": "Joueurs.First kills - first deaths",
+              "nativeQueryRef": "First kills - first deaths"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "Joueurs"
+                  }
+                },
+                "Property": "Rating moyen"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "objects": {
+      "columnWidth": [
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "64.0D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Joueurs.Joueur"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "64.0D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Equipes.Équipe"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "64.0D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Joueurs.Rôle joué"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "64.0D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Joueurs.Rounds joués"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "64.0D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Joueurs.Rating moyen"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "64.0D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Joueurs.ACS moyen"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "64.0D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Joueurs.ADR moyen"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "64.0D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Joueurs.KAST moyen"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "64.0D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Joueurs.First kills - first deaths"
+          }
+        }
+      ],
+      "total": [
+        {
+          "properties": {
+            "totals": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "values": [
+        {
+          "properties": {
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Joueurs"
+                        }
+                      },
+                      "Property": "Couleur Rating moyen"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "selector": {
+            "data": [
+              {
+                "dataViewWildcard": {
+                  "matchingOption": 1
+                }
+              }
+            ],
+            "metadata": "Joueurs.Rating moyen"
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Joueurs EMEA Stage 1, du meilleur rating au moins bon'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

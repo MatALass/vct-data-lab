@@ -1,0 +1,221 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "92f83d60fafee19612d5",
+  "position": {
+    "x": 648.0,
+    "y": 208,
+    "z": 8000,
+    "width": 616.0,
+    "height": 496,
+    "tabOrder": 8000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Maps"
+                    }
+                  },
+                  "Property": "Map"
+                }
+              },
+              "queryRef": "Maps.Map",
+              "nativeQueryRef": "Map"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Compositions"
+                    }
+                  },
+                  "Property": "Adversaire"
+                }
+              },
+              "queryRef": "Compositions.Adversaire",
+              "nativeQueryRef": "Adversaire"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Compositions"
+                    }
+                  },
+                  "Property": "Agents"
+                }
+              },
+              "queryRef": "Compositions.Agents",
+              "nativeQueryRef": "Agents"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Compositions"
+                    }
+                  },
+                  "Property": "Archétype"
+                }
+              },
+              "queryRef": "Compositions.Archétype",
+              "nativeQueryRef": "Archétype"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Compositions"
+                    }
+                  },
+                  "Property": "Compositions"
+                }
+              },
+              "queryRef": "Compositions.Compositions",
+              "nativeQueryRef": "Compositions"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "Maps"
+                  }
+                },
+                "Property": "Map"
+              }
+            },
+            "direction": "Ascending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "objects": {
+      "columnWidth": [
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "115.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Maps.Map"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "115.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Compositions.Adversaire"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "115.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Compositions.Agents"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "115.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Compositions.Archétype"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "115.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Compositions.Compositions"
+          }
+        }
+      ],
+      "total": [
+        {
+          "properties": {
+            "totals": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Compositions jouées'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

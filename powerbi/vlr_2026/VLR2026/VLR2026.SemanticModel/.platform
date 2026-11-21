@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "VLR2026"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2369c8e4-7b69-55a5-ac48-53eb79c3db26"
+  }
+}

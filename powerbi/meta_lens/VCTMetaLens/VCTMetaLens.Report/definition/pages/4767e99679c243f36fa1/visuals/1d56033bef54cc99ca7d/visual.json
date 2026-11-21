@@ -136,6 +136,108 @@
       }
     },
     "drillFilterOtherVisuals": true,
+    "objects": {
+      "columnWidth": [
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "99.9D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "dim_player.player"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "99.9D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_multikills.Clutchs gagnés"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "99.9D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_multikills.Clutchs 1v3+"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "99.9D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_multikills.Clutchs par map"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "99.9D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_multikills.Multikills 3K"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "99.9D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_multikills.Multikills 4K"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "99.9D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "fact_multikills.Aces"
+          }
+        }
+      ]
+    },
     "visualContainerObjects": {
       "title": [
         {

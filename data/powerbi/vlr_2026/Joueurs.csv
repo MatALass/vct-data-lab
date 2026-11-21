@@ -1,0 +1,64 @@
+Joueur,Équipe,Événement,Rôle joué,Agents joués,Rounds,Rating,ACS,KD,KAST,ADR,FKPR,FDPR,HS
+Ruxic,Natus Vincere,emea_stage_1,Controller,"Astra, Omen, Brimstone",281,1.2,228.8,1.23,0.75,148.0,0.09,0.06,0.25
+Boaster,FNATIC,emea_stage_1,Controller,"Harbor, Brimstone, Omen",253,1.11,177.8,1.1,0.76,113.0,0.08,0.05,0.3
+Boo,Team Heretics,emea_stage_1,Controller,"Astra, Omen, Brimstone",243,1.04,164.5,0.98,0.71,103.4,0.07,0.08,0.33
+sociablEE,FUT Esports,emea_stage_1,Controller,"Astra, Brimstone, Omen",281,1.03,196.1,0.95,0.7,125.2,0.1,0.08,0.27
+GLYPH,Gentle Mates,emea_stage_1,Controller,"Astra, Brimstone, Omen",256,1.03,189.2,0.97,0.77,120.0,0.06,0.05,0.26
+dos9,Karmine Corp,emea_stage_1,Controller,"Omen, Astra, Neon",273,1.01,190.5,1.02,0.69,117.0,0.07,0.08,0.25
+PROFEK,Team Vitality,emea_stage_1,Controller,"Omen, Astra, Harbor",224,0.96,175.5,0.95,0.75,113.8,0.09,0.06,0.24
+benjyfishy,Team Heretics,emea_stage_1,Controller,"Harbor, Viper, Cypher",243,0.95,180.1,0.95,0.75,119.6,0.09,0.09,0.28
+grubinho,GIANTX,emea_stage_1,Controller,"Omen, Astra, Brimstone",278,0.95,170.3,0.89,0.74,112.9,0.05,0.05,0.27
+wayne,Team Liquid,emea_stage_1,Controller,"Omen, Astra, Brimstone",244,0.94,162.9,0.88,0.77,107.6,0.06,0.07,0.31
+audaz,Eternal Fire,emea_stage_1,Controller,"Astra, Brimstone, Omen",275,0.92,159.3,0.88,0.74,105.7,0.04,0.07,0.39
+Loita,BBL Esports,emea_stage_1,Controller,"Omen, Astra, Brimstone",249,0.87,163.6,0.78,0.67,108.2,0.07,0.11,0.32
+qpert,PCIFIC Esports,emea_stage_1,Controller,"Astra, Omen",261,0.87,159.0,0.82,0.75,105.9,0.05,0.05,0.28
+CyvOph,FNATIC,emea_stage_1,Duelist,Phoenix,34,1.47,255.5,2.13,0.88,176.5,0.12,0.06,0.31
+kaajak,FNATIC,emea_stage_1,Duelist,"Neon, Waylay",253,1.16,241.8,1.3,0.72,156.3,0.19,0.15,0.3
+Favian,Eternal Fire,emea_stage_1,Duelist,"KAY/O, Waylay, Raze",275,1.14,223.5,1.17,0.69,145.1,0.11,0.08,0.28
+Alfajer,FNATIC,emea_stage_1,Duelist,"Iso, Waylay, Killjoy",253,1.11,231.3,1.2,0.7,152.5,0.14,0.13,0.36
+MiniBoo,Team Liquid,emea_stage_1,Duelist,Neon,244,1.11,228.9,1.25,0.7,143.9,0.18,0.18,0.27
+marteen,Gentle Mates,emea_stage_1,Duelist,"Phoenix, Waylay, Veto",256,1.08,219.4,1.07,0.73,148.9,0.13,0.13,0.25
+Derke,Team Vitality,emea_stage_1,Duelist,"Neon, Jett",224,1.07,233.2,1.15,0.74,142.4,0.21,0.14,0.2
+kamo,Team Liquid,emea_stage_1,Duelist,"Phoenix, KAY/O, Raze",244,1.07,224.8,1.16,0.75,147.5,0.12,0.06,0.32
+ara,GIANTX,emea_stage_1,Duelist,"Neon, Waylay",278,1.05,212.0,1.12,0.71,132.4,0.17,0.15,0.28
+Wo0t,Team Heretics,emea_stage_1,Duelist,"Neon, Phoenix, Raze",243,1.04,212.5,1.05,0.72,142.6,0.17,0.13,0.29
+s0pp,FUT Esports,emea_stage_1,Duelist,Neon,281,1.0,212.1,1.04,0.73,136.3,0.2,0.15,0.23
+Filu,Natus Vincere,emea_stage_1,Duelist,"Chamber, Raze, Neon",281,1.0,190.8,1.01,0.69,128.2,0.12,0.12,0.3
+xeus,FUT Esports,emea_stage_1,Duelist,"Waylay, Raze, Jett",281,0.99,212.4,1.09,0.7,142.1,0.11,0.1,0.36
+Lar0k,BBL Esports,emea_stage_1,Duelist,"Neon, KAY/O, Raze",249,0.98,203.1,0.99,0.69,131.6,0.08,0.11,0.25
+LewN,Karmine Corp,emea_stage_1,Duelist,"Jett, Waylay, Phoenix",273,0.97,212.2,0.99,0.7,140.8,0.15,0.14,0.36
+Izzy,Eternal Fire,emea_stage_1,Duelist,"Jett, Neon",275,0.97,202.1,1.04,0.69,124.8,0.16,0.16,0.22
+westside,GIANTX,emea_stage_1,Duelist,"Phoenix, Cypher, Waylay",278,0.95,196.1,0.99,0.72,129.8,0.13,0.14,0.4
+lovers,(équipe non reconnue),emea_stage_1,Duelist,"Waylay, Jett, Neon",249,0.9,186.1,0.91,0.61,120.5,0.13,0.14,0.19
+seven,PCIFIC Esports,emea_stage_1,Duelist,"Raze, KAY/O, Neon",261,0.89,195.6,0.87,0.68,132.6,0.15,0.18,0.21
+cNed,PCIFIC Esports,emea_stage_1,Duelist,"Waylay, Jett, Chamber",261,0.87,183.3,0.89,0.63,121.8,0.11,0.15,0.29
+bipo,Gentle Mates,emea_stage_1,Duelist,Neon,256,0.74,168.0,0.75,0.7,104.3,0.13,0.17,0.19
+Kolosha,Natus Vincere,emea_stage_1,Duelist,"Waylay, Neon",129,0.65,156.7,0.63,0.62,108.0,0.12,0.21,0.23
+Sayonara,Team Vitality,emea_stage_1,Flex,"Viper, Sova, Raze",224,1.07,214.8,1.16,0.71,143.7,0.09,0.08,0.28
+koshmaras,Team Heretics,emea_stage_1,Flex,"Chamber, Neon",177,1.06,237.6,1.14,0.73,140.2,0.11,0.13,0.15
+Veqaj,FNATIC,emea_stage_1,Flex,"Viper, KAY/O",161,1.06,213.7,1.08,0.75,138.4,0.12,0.06,0.34
+Flickless,GIANTX,emea_stage_1,Flex,"Cypher, Fade, Viper",278,1.06,194.7,1.02,0.71,134.5,0.08,0.08,0.27
+Minny,Gentle Mates,emea_stage_1,Flex,"Cypher, Viper, Breach",256,1.04,182.3,1.01,0.7,123.6,0.07,0.08,0.33
+echo,Eternal Fire,emea_stage_1,Flex,"Cypher, Viper, Veto",275,1.01,217.8,1.1,0.67,142.6,0.12,0.14,0.32
+al0rante,PCIFIC Esports,emea_stage_1,Flex,"Viper, Veto, Vyse",261,0.94,186.2,0.97,0.66,127.0,0.1,0.1,0.43
+ComeBack,Natus Vincere,emea_stage_1,Flex,"Chamber, Neon",218,0.9,195.2,0.97,0.66,127.8,0.18,0.13,0.24
+Desmo,FNATIC,emea_stage_1,Flex,"Phoenix, Viper, KAY/O",58,0.83,166.0,0.83,0.72,98.2,0.07,0.16,0.42
+purp0,Team Liquid,emea_stage_1,Initiator,"Skye, Fade, Sova",244,1.13,189.2,1.26,0.8,122.9,0.07,0.05,0.4
+RieNs,Team Heretics,emea_stage_1,Initiator,"Skye, Sova, Fade",243,1.12,216.9,1.1,0.78,142.6,0.09,0.05,0.36
+crashies,FNATIC,emea_stage_1,Initiator,"Sova, Skye, Fade",253,1.1,173.1,1.23,0.74,111.9,0.04,0.04,0.28
+hiro,Natus Vincere,emea_stage_1,Initiator,"Tejo, Viper, Fade",281,1.08,217.3,1.11,0.69,146.4,0.06,0.09,0.31
+Jamppi,Team Vitality,emea_stage_1,Initiator,"Sova, KAY/O, Fade",224,1.02,195.5,1.05,0.75,120.2,0.08,0.08,0.32
+NINJA,PCIFIC Esports,emea_stage_1,Initiator,"Fade, Sova, Tejo",261,0.97,174.3,0.98,0.71,117.2,0.05,0.07,0.32
+KROSTALY,FUT Esports,emea_stage_1,Initiator,"Fade, Skye, Sova",281,0.95,169.8,0.91,0.73,113.5,0.05,0.06,0.27
+chloric,Natus Vincere,emea_stage_1,Initiator,"Sova, Fade, Skye",281,0.94,168.2,0.92,0.72,112.5,0.05,0.08,0.2
+nekky,Eternal Fire,emea_stage_1,Initiator,"Sova, Skye, Fade",275,0.91,176.4,0.92,0.68,119.9,0.07,0.05,0.29
+N4RRATE,Karmine Corp,emea_stage_1,Initiator,"Fade, Veto, Gekko",273,0.89,183.0,0.85,0.74,123.4,0.07,0.08,0.28
+Cloud,GIANTX,emea_stage_1,Initiator,"Sova, Tejo, Skye",278,0.88,172.2,0.84,0.75,117.8,0.08,0.07,0.26
+starxo,Gentle Mates,emea_stage_1,Initiator,"Fade, Skye, Sova",256,0.85,177.3,0.83,0.7,117.0,0.07,0.1,0.26
+Rosé,BBL Esports,emea_stage_1,Initiator,"Skye, Sova, Fade",249,0.81,153.5,0.78,0.61,107.4,0.07,0.11,0.29
+Avez,Karmine Corp,emea_stage_1,Initiator,"Tejo, KAY/O, Omen",273,0.76,157.3,0.73,0.66,102.7,0.09,0.14,0.31
+yetujey,FUT Esports,emea_stage_1,Sentinel,"Killjoy, Viper, Cypher",281,1.09,190.5,1.1,0.73,133.1,0.08,0.07,0.28
+nAts,Team Liquid,emea_stage_1,Sentinel,"Killjoy, Viper, Cypher",244,1.08,223.2,1.17,0.73,150.7,0.1,0.11,0.24
+Crewen,BBL Esports,emea_stage_1,Sentinel,"Viper, Cypher, Vyse",249,0.98,194.8,0.93,0.61,131.3,0.08,0.08,0.35
+Chronicle,Team Vitality,emea_stage_1,Sentinel,"Killjoy, Chamber, Viper",224,0.97,184.9,1.01,0.72,129.2,0.07,0.08,0.22
+SUYGETSU,Karmine Corp,emea_stage_1,Sentinel,"Vyse, Cypher, Astra",273,0.95,180.1,0.95,0.69,118.6,0.08,0.1,0.29

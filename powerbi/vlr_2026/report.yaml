@@ -1,0 +1,296 @@
+# Rapport Power BI VLR 2026, décrit pour pbip-generator.
+# Données : data/powerbi/vlr_2026/ (python -m vlr_analytics.powerbi_model).
+# Génération : voir powerbi/vlr_2026/README.md.
+name: VLR2026
+business_question: Quelles compositions jouent les équipes VCT 2026 en Stage 1, map par map, et qui sort du lot ?
+audience: operationnel
+date_table: false
+# Les mesures automatiques feraient la somme des ratings et des KAST : on définit les nôtres.
+auto_measures: false
+theme:
+  preset: light
+  accent: '#FF4655'
+  secondary: '#1BA39C'
+tables:
+  Compositions: {role: fact, hide: [CompID, Match, Événement, Map, Équipe]}
+  Picks: {role: fact, hide: [CompID, Événement, Map, Équipe, Agent]}
+  Paires: {role: fact, hide: [CompID, Événement, Map, Équipe]}
+  Joueurs: {role: fact, hide: [Événement, Rounds, Rating, ACS, KD, KAST, ADR, FKPR, FDPR, HS]}
+  Agents: {hide: [Agent, Ordre rôle]}
+  Evenements: {hide: [Événement, Ordre]}
+  Equipes: {hide: [Score profil, Taux de réutilisation]}
+relationships:
+  # Picks et Paires filtrent directement les dimensions : un lien vers Compositions
+  # créerait deux chemins entre les mêmes tables.
+  remove:
+    - {from: 'Picks[CompID]', to: 'Compositions[CompID]'}
+    - {from: 'Paires[CompID]', to: 'Compositions[CompID]'}
+    - {from: 'Equipes[Région]', to: 'Evenements[Région]'}
+    - {from: 'Picks[Équipe]', to: 'Equipes[Équipe]'}
+    - {from: 'Picks[Événement]', to: 'Evenements[Événement]'}
+    - {from: 'Picks[Map]', to: 'Maps[Map]'}
+    - {from: 'Paires[Équipe]', to: 'Equipes[Équipe]'}
+    - {from: 'Paires[Événement]', to: 'Evenements[Événement]'}
+    - {from: 'Paires[Map]', to: 'Maps[Map]'}
+    - {from: 'Joueurs[Événement]', to: 'Evenements[Événement]'}
+  add:
+    - {from: 'Picks[Équipe]', to: 'Equipes[Équipe]'}
+    - {from: 'Picks[Événement]', to: 'Evenements[Événement]'}
+    - {from: 'Picks[Map]', to: 'Maps[Map]'}
+    - {from: 'Paires[Équipe]', to: 'Equipes[Équipe]'}
+    - {from: 'Paires[Événement]', to: 'Evenements[Événement]'}
+    - {from: 'Paires[Map]', to: 'Maps[Map]'}
+    - {from: 'Joueurs[Événement]', to: 'Evenements[Événement]'}
+measures:
+  # ---- Compositions -------------------------------------------------------
+  - table: Compositions
+    name: Compositions
+    expression: COUNTROWS(Compositions)
+    format: '#,##0'
+    folder: Compositions
+    description: Nombre de compositions jouées (une équipe, une map, cinq agents)
+  - table: Compositions
+    name: Maps jouées
+    expression: DISTINCTCOUNT(Compositions[Match])
+    format: '#,##0'
+    folder: Compositions
+    description: Nombre de maps jouées ; une map compte deux compositions, une par équipe
+  - table: Compositions
+    name: Compos différentes
+    expression: DISTINCTCOUNT(Compositions[Agents])
+    format: '#,##0'
+    folder: Compositions
+    description: Nombre de combinaisons de cinq agents différentes
+  - table: Compositions
+    name: Diversité des compos
+    expression: DIVIDE([Compos différentes], [Compositions])
+    format: '0 %'
+    folder: Compositions
+    description: Part de compositions différentes ; 100 % = jamais deux fois la même, bas = compo fixe
+  # ---- Picks ----------------------------------------------------------------
+  - table: Picks
+    name: Pick rate
+    expression: DIVIDE(DISTINCTCOUNT(Picks[CompID]), [Compositions])
+    format: '0 %'
+    folder: Agents
+    description: >-
+      Part des compositions qui contiennent l'agent (ou au moins un agent du rôle), calculée sur
+      les compositions du filtre en cours : le filtre agent ou rôle ne touche pas au dénominateur
+  - table: Picks
+    name: Pick rate toutes maps
+    expression: CALCULATE([Pick rate], REMOVEFILTERS(Maps))
+    format: '0 %'
+    folder: Agents
+    description: Pick rate de l'agent sur toutes les maps, avec les autres filtres
+  - table: Picks
+    name: Écart à sa moyenne
+    expression: '[Pick rate] - [Pick rate toutes maps]'
+    format: '+0 %;-0 %;0 %'
+    folder: Agents
+    description: Différence entre le pick rate sur la map et le pick rate toutes maps ; positif = agent de cette map
+  - table: Picks
+    name: Agents par compo
+    expression: DIVIDE(COUNTROWS(Picks), [Compositions])
+    format: '0.00'
+    folder: Agents
+    description: Nombre moyen d'agents du rôle par composition (ex. 1,3 duelliste par compo)
+  - table: Picks
+    name: Agents joués
+    expression: DISTINCTCOUNT(Picks[Agent])
+    format: '#,##0'
+    folder: Agents
+    description: Nombre d'agents différents joués au moins une fois
+  - table: Picks
+    name: Équipes qui le jouent
+    expression: DISTINCTCOUNT(Picks[Équipe])
+    format: '#,##0'
+    folder: Agents
+    description: Nombre d'équipes qui ont joué l'agent au moins une fois
+  # ---- Paires ---------------------------------------------------------------
+  - table: Paires
+    name: Pick rate paire
+    expression: DIVIDE(DISTINCTCOUNT(Paires[CompID]), [Compositions])
+    format: '0 %'
+    folder: Paires
+    description: Part des compositions qui contiennent les deux agents de la paire
+  - table: Paires
+    name: Équipes (paire)
+    expression: DISTINCTCOUNT(Paires[Équipe])
+    format: '#,##0'
+    folder: Paires
+    description: Nombre d'équipes qui ont joué la paire ; une paire jouée par une seule équipe est une signature, pas une méta
+  # ---- Équipes --------------------------------------------------------------
+  - table: Equipes
+    name: Score profil tactique
+    expression: AVERAGE(Equipes[Score profil])
+    format: '0.0'
+    folder: Équipes
+    description: >-
+      Score de 0 à 100 du modèle de profils (stabilité des compos, pool d'agents, identité par map,
+      fiabilité de l'échantillon), voir data/models/team_profile_scores.csv
+  # ---- Joueurs (EMEA Stage 1) -----------------------------------------------
+  - table: Joueurs
+    name: Joueurs
+    expression: COUNTROWS(Joueurs)
+    format: '#,##0'
+    folder: Joueurs
+    description: Nombre de joueurs (EMEA Stage 1 uniquement)
+  - table: Joueurs
+    name: Rounds joués
+    expression: SUM(Joueurs[Rounds])
+    format: '#,##0'
+    folder: Joueurs
+    description: Rounds joués par les joueurs sélectionnés
+  - table: Joueurs
+    name: Rating moyen
+    expression: DIVIDE(SUMX(Joueurs, Joueurs[Rating] * Joueurs[Rounds]), [Rounds joués])
+    format: '0.00'
+    folder: Joueurs
+    description: Rating vlr.gg pondéré par les rounds joués, pour qu'un remplaçant ne pèse pas autant qu'un titulaire
+  - table: Joueurs
+    name: ACS moyen
+    expression: DIVIDE(SUMX(Joueurs, Joueurs[ACS] * Joueurs[Rounds]), [Rounds joués])
+    format: '0'
+    folder: Joueurs
+    description: Average combat score pondéré par les rounds
+  - table: Joueurs
+    name: ADR moyen
+    expression: DIVIDE(SUMX(Joueurs, Joueurs[ADR] * Joueurs[Rounds]), [Rounds joués])
+    format: '0'
+    folder: Joueurs
+    description: Dégâts moyens par round, pondérés par les rounds
+  - table: Joueurs
+    name: KAST moyen
+    expression: DIVIDE(SUMX(Joueurs, Joueurs[KAST] * Joueurs[Rounds]), [Rounds joués])
+    format: '0 %'
+    folder: Joueurs
+    description: Part des rounds avec un kill, une assist, une survie ou un trade, pondérée par les rounds
+  - table: Joueurs
+    name: First kills - first deaths
+    expression: DIVIDE(SUMX(Joueurs, (Joueurs[FKPR] - Joueurs[FDPR]) * Joueurs[Rounds]), [Rounds joués])
+    format: '+0.00;-0.00;0.00'
+    folder: Joueurs
+    description: Premiers kills moins premières morts, par round ; positif = gagne ses duels d'ouverture
+pages:
+  - name: Méta agents
+    purpose: Quels agents et quels rôles dominent le Stage 1, toutes régions ou région par région ?
+    template: kpis_1_2
+    slicers: ['Evenements[Région]', 'Maps[Map]', 'Agents[Rôle]']
+    kpis: ['[Maps jouées]', '[Compositions]', '[Agents joués]', '[Diversité des compos]']
+    visuals:
+      - type: tableEx
+        title: Pick rate par agent
+        values: ['Agents[Nom]', 'Agents[Rôle]', '[Pick rate]', '[Équipes qui le jouent]']
+        sort_by: '[Pick rate]'
+        totals: false
+        filters:
+          - {field: '[Pick rate]', operator: '>', value: 0}
+      - type: clusteredColumnChart
+        title: Agents par compo, selon le rôle
+        category: Agents[Rôle]
+        values: ['[Agents par compo]']
+      - type: clusteredBarChart
+        title: Compositions par archétype (clustering exploratoire)
+        category: Compositions[Archétype]
+        values: ['[Compositions]']
+  - name: Agents par map
+    purpose: Quel agent est joué sur quelle map, et lesquels sont des spécialistes d'une map ?
+    template: table
+    slicers: ['Evenements[Région]', 'Agents[Rôle]']
+    visuals:
+      - type: pivotTable
+        title: Pick rate par agent et par map
+        rows: ['Agents[Nom]']
+        columns: ['Maps[Map]']
+        values: ['[Pick rate]']
+        totals: false
+        highlights:
+          - field: '[Pick rate]'
+            rules:
+              - {below: 0.1, color: muted}
+              - {below: 0.5, color: neutral}
+            otherwise: accent
+  - name: Maps
+    purpose: Sur quelles maps les équipes varient-elles leurs compos, et quelles paires d'agents reviennent ?
+    template: kpis_2x2
+    slicers: ['Evenements[Région]', 'Maps[Map]']
+    kpis: ['[Maps jouées]', '[Compositions]', '[Compos différentes]', '[Diversité des compos]']
+    visuals:
+      - type: clusteredColumnChart
+        title: Maps jouées par map
+        category: Maps[Map]
+        values: ['[Maps jouées]']
+      - type: clusteredBarChart
+        title: Diversité des compos par map
+        category: Maps[Map]
+        values: ['[Diversité des compos]']
+      - type: pivotTable
+        title: Agents par compo, par map et par rôle
+        rows: ['Maps[Map]']
+        columns: ['Agents[Rôle]']
+        values: ['[Agents par compo]']
+        totals: false
+      - type: tableEx
+        title: Paires d'agents les plus jouées
+        values: ['Paires[Paire]', '[Pick rate paire]', '[Équipes (paire)]']
+        sort_by: '[Pick rate paire]'
+        totals: false
+        filters:
+          - {field: '[Équipes (paire)]', operator: '>=', value: 3}
+  - name: Équipes
+    purpose: Quelles équipes ont un noyau de compos stable et lesquelles changent tout le temps ?
+    template: kpis_table
+    slicers: ['Equipes[Région]', 'Equipes[Profil tactique]']
+    kpis: ['[Maps jouées]', '[Compositions]', '[Diversité des compos]', '[Score profil tactique]']
+    visuals:
+      - type: tableEx
+        title: Profil de chaque équipe
+        values: ['Equipes[Équipe]', 'Equipes[Région]', 'Equipes[Profil tactique]', '[Score profil tactique]',
+                 '[Maps jouées]', '[Compos différentes]', '[Diversité des compos]', '[Agents joués]']
+        sort_by: '[Score profil tactique]'
+        totals: false
+        filters:
+          - {field: '[Maps jouées]', operator: '>=', value: 1}
+  - name: Fiche équipe
+    purpose: Ce que joue une équipe, map par map
+    template: kpis_2
+    slicers: ['Equipes[Équipe]', 'Maps[Map]']
+    single_select: ['Equipes[Équipe]']
+    kpis: ['[Maps jouées]', '[Diversité des compos]', '[Agents joués]', '[Score profil tactique]']
+    visuals:
+      - type: tableEx
+        title: Agents joués et pick rate
+        values: ['Agents[Nom]', 'Agents[Rôle]', '[Pick rate]', '[Maps jouées]']
+        sort_by: '[Pick rate]'
+        totals: false
+        filters:
+          - {field: '[Pick rate]', operator: '>', value: 0}
+      - type: tableEx
+        title: Compositions jouées
+        values: ['Maps[Map]', 'Compositions[Adversaire]', 'Compositions[Agents]', 'Compositions[Archétype]', '[Compositions]']
+        sort_by: 'Maps[Map]'
+        sort_descending: false
+        totals: false
+  - name: Joueurs EMEA
+    purpose: Qui performe en EMEA Stage 1, et quel rôle a le meilleur rating ?
+    template: kpis_2
+    slicers: ['Joueurs[Rôle joué]', 'Equipes[Équipe]']
+    kpis: ['[Joueurs]', '[Rating moyen]', '[ACS moyen]', '[KAST moyen]']
+    visuals:
+      - type: tableEx
+        title: Joueurs EMEA Stage 1, du meilleur rating au moins bon
+        values: ['Joueurs[Joueur]', 'Equipes[Équipe]', 'Joueurs[Rôle joué]', '[Rounds joués]', '[Rating moyen]',
+                 '[ACS moyen]', '[ADR moyen]', '[KAST moyen]', '[First kills - first deaths]']
+        sort_by: '[Rating moyen]'
+        totals: false
+        highlights:
+          - field: '[Rating moyen]'
+            apply: font
+            rules:
+              - {below: 0.95, color: bad}
+              - {below: 1.1, color: neutral}
+            otherwise: good
+      - type: clusteredBarChart
+        title: Rating moyen par rôle joué
+        category: Joueurs[Rôle joué]
+        values: ['[Rating moyen]']

@@ -1,0 +1,49 @@
+table Agents
+	lineageTag: 5261587e-50ac-56b3-9253-791e8cdc6d1a
+
+	column Agent
+		dataType: string
+		isHidden
+		lineageTag: 7d7fd2b2-78d5-5b8c-a3a0-c055ffae3bb3
+		summarizeBy: none
+		sourceColumn: Agent
+
+		annotation SummarizationSetBy = Automatic
+
+	column Nom
+		dataType: string
+		lineageTag: 95161ecd-d8f3-53c5-95f4-efe625e3b82b
+		summarizeBy: none
+		sourceColumn: Nom
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Rôle'
+		dataType: string
+		lineageTag: e5006653-e41a-5e77-93d0-6ea3b0901665
+		summarizeBy: none
+		sourceColumn: Rôle
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Ordre rôle'
+		dataType: int64
+		formatString: #,##0
+		isHidden
+		lineageTag: 305b2616-9509-5437-b8fd-cecd24313614
+		summarizeBy: sum
+		sourceColumn: Ordre rôle
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Agents = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "Agents.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"Agent", type text}, {"Nom", type text}, {"Rôle", type text}, {"Ordre rôle", Int64.Type}}, "en-US")
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table

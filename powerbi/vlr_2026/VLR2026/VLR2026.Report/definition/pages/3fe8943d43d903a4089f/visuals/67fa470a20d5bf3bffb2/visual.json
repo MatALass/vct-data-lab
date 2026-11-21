@@ -1,0 +1,96 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "67fa470a20d5bf3bffb2",
+  "position": {
+    "x": 16.0,
+    "y": 464.0,
+    "z": 9000,
+    "width": 616.0,
+    "height": 240.0,
+    "tabOrder": 9000
+  },
+  "visual": {
+    "visualType": "clusteredColumnChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Agents"
+                    }
+                  },
+                  "Property": "Rôle"
+                }
+              },
+              "queryRef": "Agents.Rôle",
+              "nativeQueryRef": "Rôle"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Picks"
+                    }
+                  },
+                  "Property": "Agents par compo"
+                }
+              },
+              "queryRef": "Picks.Agents par compo",
+              "nativeQueryRef": "Agents par compo"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "Picks"
+                  }
+                },
+                "Property": "Agents par compo"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Agents par compo, selon le rôle'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
