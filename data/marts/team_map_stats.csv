@@ -1,257 +1,625 @@
 team,map,compositions,opponents,unique_comps,comp_diversity,map_volume_share,observed
-100 Thieves,HAVEN,2,2,1,0.5,0.4,True
-100 Thieves,BREEZE,1,1,1,1.0,0.2,True
-100 Thieves,PEARL,1,1,1,1.0,0.2,True
-100 Thieves,SPLIT,1,1,1,1.0,0.2,True
-All Gamers,BIND,4,4,2,0.5,0.25,True
-All Gamers,LOTUS,4,4,1,0.25,0.25,True
-All Gamers,BREEZE,2,2,1,0.5,0.125,True
-All Gamers,HAVEN,2,2,1,0.5,0.125,True
-All Gamers,PEARL,2,2,2,1.0,0.125,True
-All Gamers,SPLIT,2,2,1,0.5,0.125,True
-BBL Esports,SPLIT,3,3,3,1.0,0.3,True
-BBL Esports,BREEZE,2,2,2,1.0,0.2,True
-BBL Esports,HAVEN,2,2,1,0.5,0.2,True
-BBL Esports,LOTUS,2,2,1,0.5,0.2,True
-BBL Esports,PEARL,1,1,1,1.0,0.1,True
-Bilibili Gaming,FRACTURE,3,3,1,0.3333,0.2308,True
-Bilibili Gaming,PEARL,3,3,1,0.3333,0.2308,True
-Bilibili Gaming,BIND,2,2,2,1.0,0.1538,True
-Bilibili Gaming,BREEZE,2,2,2,1.0,0.1538,True
-Bilibili Gaming,LOTUS,2,2,1,0.5,0.1538,True
-Bilibili Gaming,HAVEN,1,1,1,1.0,0.0769,True
-Cloud9,HAVEN,2,2,1,0.5,0.4,True
-Cloud9,PEARL,2,2,2,1.0,0.4,True
-Cloud9,SPLIT,1,1,1,1.0,0.2,True
-DetonatioN FocusMe,LOTUS,3,3,2,0.6667,0.3,True
-DetonatioN FocusMe,PEARL,3,3,1,0.3333,0.3,True
-DetonatioN FocusMe,BIND,2,2,1,0.5,0.2,True
-DetonatioN FocusMe,FRACTURE,1,1,1,1.0,0.1,True
-DetonatioN FocusMe,HAVEN,1,1,1,1.0,0.1,True
-Dragon Ranger Gaming,BREEZE,5,5,2,0.4,0.3333,True
-Dragon Ranger Gaming,LOTUS,4,4,2,0.5,0.2667,True
-Dragon Ranger Gaming,BIND,2,2,2,1.0,0.1333,True
-Dragon Ranger Gaming,HAVEN,2,2,1,0.5,0.1333,True
-Dragon Ranger Gaming,PEARL,1,1,1,1.0,0.0667,True
-Dragon Ranger Gaming,SPLIT,1,1,1,1.0,0.0667,True
-EDward Gaming,LOTUS,4,4,1,0.25,0.2667,True
-EDward Gaming,FRACTURE,3,3,1,0.3333,0.2,True
-EDward Gaming,HAVEN,3,3,2,0.6667,0.2,True
-EDward Gaming,BREEZE,2,2,1,0.5,0.1333,True
-EDward Gaming,SPLIT,2,2,1,0.5,0.1333,True
-EDward Gaming,BIND,1,1,1,1.0,0.0667,True
-ENVY,PEARL,2,2,2,1.0,0.25,True
-ENVY,BIND,1,1,1,1.0,0.125,True
-ENVY,BREEZE,1,1,1,1.0,0.125,True
-ENVY,FRACTURE,1,1,1,1.0,0.125,True
-ENVY,HAVEN,1,1,1,1.0,0.125,True
-ENVY,LOTUS,1,1,1,1.0,0.125,True
-ENVY,SPLIT,1,1,1,1.0,0.125,True
-Eternal Fire,LOTUS,3,3,2,0.6667,0.3,True
-Eternal Fire,BIND,2,2,2,1.0,0.2,True
-Eternal Fire,SPLIT,2,2,2,1.0,0.2,True
-Eternal Fire,BREEZE,1,1,1,1.0,0.1,True
-Eternal Fire,FRACTURE,1,1,1,1.0,0.1,True
-Eternal Fire,PEARL,1,1,1,1.0,0.1,True
-Evil Geniuses,HAVEN,2,2,1,0.5,0.4,True
-Evil Geniuses,BREEZE,1,1,1,1.0,0.2,True
-Evil Geniuses,LOTUS,1,1,1,1.0,0.2,True
-Evil Geniuses,PEARL,1,1,1,1.0,0.2,True
-FNATIC,BREEZE,3,3,2,0.6667,0.3,True
-FNATIC,BIND,2,2,1,0.5,0.2,True
-FNATIC,LOTUS,2,2,2,1.0,0.2,True
-FNATIC,SPLIT,2,2,1,0.5,0.2,True
-FNATIC,HAVEN,1,1,1,1.0,0.1,True
-FULL SENSE,FRACTURE,2,2,1,0.5,0.2222,True
-FULL SENSE,HAVEN,2,2,1,0.5,0.2222,True
-FULL SENSE,PEARL,2,2,1,0.5,0.2222,True
-FULL SENSE,BIND,1,1,1,1.0,0.1111,True
-FULL SENSE,LOTUS,1,1,1,1.0,0.1111,True
-FULL SENSE,SPLIT,1,1,1,1.0,0.1111,True
-FURIA,HAVEN,2,2,2,1.0,0.2857,True
-FURIA,LOTUS,2,2,1,0.5,0.2857,True
-FURIA,PEARL,2,2,1,0.5,0.2857,True
-FURIA,SPLIT,1,1,1,1.0,0.1429,True
-FUT Esports,BIND,3,3,2,0.6667,0.2727,True
-FUT Esports,HAVEN,3,3,3,1.0,0.2727,True
-FUT Esports,BREEZE,1,1,1,1.0,0.0909,True
-FUT Esports,FRACTURE,1,1,1,1.0,0.0909,True
-FUT Esports,LOTUS,1,1,1,1.0,0.0909,True
-FUT Esports,PEARL,1,1,1,1.0,0.0909,True
-FUT Esports,SPLIT,1,1,1,1.0,0.0909,True
-FunPlus Phoenix,PEARL,4,4,1,0.25,0.3077,True
-FunPlus Phoenix,SPLIT,4,4,2,0.5,0.3077,True
-FunPlus Phoenix,FRACTURE,2,2,1,0.5,0.1538,True
-FunPlus Phoenix,LOTUS,2,2,1,0.5,0.1538,True
-FunPlus Phoenix,BIND,1,1,1,1.0,0.0769,True
-G2 Esports,SPLIT,2,2,2,1.0,0.2857,True
-G2 Esports,BIND,1,1,1,1.0,0.1429,True
-G2 Esports,BREEZE,1,1,1,1.0,0.1429,True
-G2 Esports,HAVEN,1,1,1,1.0,0.1429,True
-G2 Esports,LOTUS,1,1,1,1.0,0.1429,True
-G2 Esports,PEARL,1,1,1,1.0,0.1429,True
-GIANTX,HAVEN,4,4,1,0.25,0.3636,True
-GIANTX,PEARL,2,2,1,0.5,0.1818,True
-GIANTX,SPLIT,2,2,1,0.5,0.1818,True
-GIANTX,BIND,1,1,1,1.0,0.0909,True
-GIANTX,BREEZE,1,1,1,1.0,0.0909,True
-GIANTX,LOTUS,1,1,1,1.0,0.0909,True
-Gen.G,HAVEN,2,2,1,0.5,0.2,True
-Gen.G,LOTUS,2,2,1,0.5,0.2,True
-Gen.G,PEARL,2,2,2,1.0,0.2,True
-Gen.G,BIND,1,1,1,1.0,0.1,True
-Gen.G,BREEZE,1,1,1,1.0,0.1,True
-Gen.G,FRACTURE,1,1,1,1.0,0.1,True
-Gen.G,SPLIT,1,1,1,1.0,0.1,True
-Gentle Mates,PEARL,3,3,1,0.3333,0.3,True
-Gentle Mates,FRACTURE,2,2,1,0.5,0.2,True
-Gentle Mates,HAVEN,2,2,2,1.0,0.2,True
-Gentle Mates,LOTUS,2,2,1,0.5,0.2,True
-Gentle Mates,BIND,1,1,1,1.0,0.1,True
-Global Esports,SPLIT,3,3,2,0.6667,0.375,True
-Global Esports,BIND,1,1,1,1.0,0.125,True
-Global Esports,FRACTURE,1,1,1,1.0,0.125,True
-Global Esports,HAVEN,1,1,1,1.0,0.125,True
-Global Esports,LOTUS,1,1,1,1.0,0.125,True
-Global Esports,PEARL,1,1,1,1.0,0.125,True
-JDG Esports,HAVEN,5,5,3,0.6,0.3571,True
-JDG Esports,FRACTURE,3,3,2,0.6667,0.2143,True
-JDG Esports,BIND,2,2,1,0.5,0.1429,True
-JDG Esports,LOTUS,2,2,1,0.5,0.1429,True
-JDG Esports,PEARL,1,1,1,1.0,0.0714,True
-JDG Esports,SPLIT,1,1,1,1.0,0.0714,True
-KRÜ Esports,LOTUS,3,3,1,0.3333,0.5,True
-KRÜ Esports,BREEZE,1,1,1,1.0,0.1667,True
-KRÜ Esports,HAVEN,1,1,1,1.0,0.1667,True
-KRÜ Esports,SPLIT,1,1,1,1.0,0.1667,True
-Karmine Corp,HAVEN,4,4,2,0.5,0.3636,True
-Karmine Corp,FRACTURE,2,2,1,0.5,0.1818,True
-Karmine Corp,LOTUS,2,2,2,1.0,0.1818,True
-Karmine Corp,PEARL,2,2,2,1.0,0.1818,True
-Karmine Corp,BIND,1,1,1,1.0,0.0909,True
-Kiwoom DRX,FRACTURE,3,3,2,0.6667,0.3,True
-Kiwoom DRX,HAVEN,3,3,3,1.0,0.3,True
-Kiwoom DRX,LOTUS,2,2,1,0.5,0.2,True
-Kiwoom DRX,PEARL,2,2,2,1.0,0.2,True
-LEVIATÁN,BIND,2,2,1,0.5,0.2857,True
-LEVIATÁN,BREEZE,1,1,1,1.0,0.1429,True
-LEVIATÁN,FRACTURE,1,1,1,1.0,0.1429,True
-LEVIATÁN,HAVEN,1,1,1,1.0,0.1429,True
-LEVIATÁN,PEARL,1,1,1,1.0,0.1429,True
-LEVIATÁN,SPLIT,1,1,1,1.0,0.1429,True
-LOUD,HAVEN,2,2,1,0.5,0.2857,True
-LOUD,PEARL,2,2,1,0.5,0.2857,True
-LOUD,BREEZE,1,1,1,1.0,0.1429,True
-LOUD,LOTUS,1,1,1,1.0,0.1429,True
-LOUD,SPLIT,1,1,1,1.0,0.1429,True
-MIBR,SPLIT,2,2,1,0.5,0.5,True
-MIBR,HAVEN,1,1,1,1.0,0.25,True
-MIBR,LOTUS,1,1,1,1.0,0.25,True
-NRG,PEARL,2,2,2,1.0,0.4,True
-NRG,SPLIT,2,2,2,1.0,0.4,True
-NRG,LOTUS,1,1,1,1.0,0.2,True
-Natus Vincere,BIND,3,3,2,0.6667,0.2727,True
-Natus Vincere,LOTUS,3,3,2,0.6667,0.2727,True
-Natus Vincere,PEARL,2,2,2,1.0,0.1818,True
-Natus Vincere,SPLIT,2,2,2,1.0,0.1818,True
-Natus Vincere,FRACTURE,1,1,1,1.0,0.0909,True
-Nongshim RedForce,FRACTURE,2,2,1,0.5,0.25,True
-Nongshim RedForce,LOTUS,2,2,2,1.0,0.25,True
-Nongshim RedForce,BREEZE,1,1,1,1.0,0.125,True
-Nongshim RedForce,HAVEN,1,1,1,1.0,0.125,True
-Nongshim RedForce,PEARL,1,1,1,1.0,0.125,True
-Nongshim RedForce,SPLIT,1,1,1,1.0,0.125,True
-Nova Esports,BREEZE,2,2,1,0.5,0.2,True
-Nova Esports,FRACTURE,2,2,2,1.0,0.2,True
-Nova Esports,HAVEN,2,2,1,0.5,0.2,True
-Nova Esports,LOTUS,2,2,1,0.5,0.2,True
-Nova Esports,BIND,1,1,1,1.0,0.1,True
-Nova Esports,SPLIT,1,1,1,1.0,0.1,True
-PCIFIC Esports,SPLIT,4,4,2,0.5,0.4,True
-PCIFIC Esports,LOTUS,2,2,2,1.0,0.2,True
-PCIFIC Esports,BREEZE,1,1,1,1.0,0.1,True
-PCIFIC Esports,FRACTURE,1,1,1,1.0,0.1,True
-PCIFIC Esports,HAVEN,1,1,1,1.0,0.1,True
-PCIFIC Esports,PEARL,1,1,1,1.0,0.1,True
-Paper Rex,SPLIT,3,3,1,0.3333,0.3,True
-Paper Rex,FRACTURE,2,2,1,0.5,0.2,True
-Paper Rex,LOTUS,2,2,1,0.5,0.2,True
-Paper Rex,BREEZE,1,1,1,1.0,0.1,True
-Paper Rex,HAVEN,1,1,1,1.0,0.1,True
-Paper Rex,PEARL,1,1,1,1.0,0.1,True
-Rex Regum Qeon,BIND,2,2,1,0.5,0.2,True
-Rex Regum Qeon,FRACTURE,2,2,1,0.5,0.2,True
-Rex Regum Qeon,HAVEN,2,2,2,1.0,0.2,True
-Rex Regum Qeon,PEARL,2,2,1,0.5,0.2,True
-Rex Regum Qeon,SPLIT,2,2,1,0.5,0.2,True
-Sentinels,BREEZE,1,1,1,1.0,0.25,True
-Sentinels,HAVEN,1,1,1,1.0,0.25,True
-Sentinels,LOTUS,1,1,1,1.0,0.25,True
-Sentinels,SPLIT,1,1,1,1.0,0.25,True
-T1,PEARL,3,3,1,0.3333,0.5,True
-T1,BIND,1,1,1,1.0,0.1667,True
-T1,HAVEN,1,1,1,1.0,0.1667,True
-T1,LOTUS,1,1,1,1.0,0.1667,True
-TYLOO,BIND,4,4,1,0.25,0.2667,True
-TYLOO,BREEZE,3,3,1,0.3333,0.2,True
-TYLOO,HAVEN,3,3,3,1.0,0.2,True
-TYLOO,PEARL,2,2,2,1.0,0.1333,True
-TYLOO,SPLIT,2,2,1,0.5,0.1333,True
-TYLOO,FRACTURE,1,1,1,1.0,0.0667,True
-Team Heretics,LOTUS,3,3,2,0.6667,0.3,True
-Team Heretics,BIND,2,2,1,0.5,0.2,True
-Team Heretics,FRACTURE,2,2,1,0.5,0.2,True
-Team Heretics,PEARL,2,2,1,0.5,0.2,True
-Team Heretics,HAVEN,1,1,1,1.0,0.1,True
-Team Liquid,BIND,2,2,1,0.5,0.2222,True
-Team Liquid,HAVEN,2,2,1,0.5,0.2222,True
-Team Liquid,PEARL,2,2,1,0.5,0.2222,True
-Team Liquid,BREEZE,1,1,1,1.0,0.1111,True
-Team Liquid,LOTUS,1,1,1,1.0,0.1111,True
-Team Liquid,SPLIT,1,1,1,1.0,0.1111,True
-Team Secret,SPLIT,2,2,2,1.0,0.3333,True
-Team Secret,BREEZE,1,1,1,1.0,0.1667,True
-Team Secret,FRACTURE,1,1,1,1.0,0.1667,True
-Team Secret,LOTUS,1,1,1,1.0,0.1667,True
-Team Secret,PEARL,1,1,1,1.0,0.1667,True
-Team Vitality,BREEZE,2,2,1,0.5,0.2222,True
-Team Vitality,HAVEN,2,2,1,0.5,0.2222,True
-Team Vitality,LOTUS,2,2,2,1.0,0.2222,True
-Team Vitality,BIND,1,1,1,1.0,0.1111,True
-Team Vitality,PEARL,1,1,1,1.0,0.1111,True
-Team Vitality,SPLIT,1,1,1,1.0,0.1111,True
-Titan Esports Club,FRACTURE,5,5,1,0.2,0.3571,True
-Titan Esports Club,BREEZE,3,3,2,0.6667,0.2143,True
-Titan Esports Club,SPLIT,3,3,1,0.3333,0.2143,True
-Titan Esports Club,BIND,1,1,1,1.0,0.0714,True
-Titan Esports Club,HAVEN,1,1,1,1.0,0.0714,True
-Titan Esports Club,LOTUS,1,1,1,1.0,0.0714,True
-Trace Esports,LOTUS,5,5,3,0.6,0.3333,True
-Trace Esports,BIND,3,3,1,0.3333,0.2,True
-Trace Esports,BREEZE,3,3,1,0.3333,0.2,True
-Trace Esports,SPLIT,2,2,1,0.5,0.1333,True
-Trace Esports,FRACTURE,1,1,1,1.0,0.0667,True
-Trace Esports,HAVEN,1,1,1,1.0,0.0667,True
-VARREL,HAVEN,3,3,3,1.0,0.3333,True
-VARREL,LOTUS,2,2,1,0.5,0.2222,True
-VARREL,BIND,1,1,1,1.0,0.1111,True
-VARREL,FRACTURE,1,1,1,1.0,0.1111,True
-VARREL,PEARL,1,1,1,1.0,0.1111,True
-VARREL,SPLIT,1,1,1,1.0,0.1111,True
-Wolves Esports,LOTUS,5,5,2,0.4,0.4167,True
-Wolves Esports,FRACTURE,3,3,2,0.6667,0.25,True
-Wolves Esports,BIND,2,2,2,1.0,0.1667,True
-Wolves Esports,BREEZE,1,1,1,1.0,0.0833,True
-Wolves Esports,PEARL,1,1,1,1.0,0.0833,True
-Xi Lai Gaming,BIND,5,5,1,0.2,0.3125,True
-Xi Lai Gaming,LOTUS,5,5,1,0.2,0.3125,True
-Xi Lai Gaming,HAVEN,2,2,1,0.5,0.125,True
-Xi Lai Gaming,SPLIT,2,2,1,0.5,0.125,True
-Xi Lai Gaming,BREEZE,1,1,1,1.0,0.0625,True
-Xi Lai Gaming,FRACTURE,1,1,1,1.0,0.0625,True
-ZETA DIVISION,FRACTURE,2,2,1,0.5,0.25,True
-ZETA DIVISION,SPLIT,2,2,1,0.5,0.25,True
-ZETA DIVISION,BIND,1,1,1,1.0,0.125,True
-ZETA DIVISION,HAVEN,1,1,1,1.0,0.125,True
-ZETA DIVISION,LOTUS,1,1,1,1.0,0.125,True
-ZETA DIVISION,PEARL,1,1,1,1.0,0.125,True
+100 Thieves,Split,12,8,6,0.5,0.15,True
+100 Thieves,Breeze,10,8,3,0.3,0.125,True
+100 Thieves,Haven,10,7,2,0.2,0.125,True
+100 Thieves,Ascent,8,7,1,0.125,0.1,True
+100 Thieves,Pearl,7,6,3,0.4286,0.0875,True
+100 Thieves,Summit,7,6,2,0.2857,0.0875,True
+100 Thieves,Lotus,6,5,3,0.5,0.075,True
+100 Thieves,Sunset,6,5,3,0.5,0.075,True
+100 Thieves,Bind,5,5,1,0.2,0.0625,True
+100 Thieves,Abyss,4,3,2,0.5,0.05,True
+100 Thieves,Corrode,3,3,1,0.3333,0.0375,True
+100 Thieves,Fracture,2,2,1,0.5,0.025,True
+2Game Esports,Split,2,2,2,1.0,0.4,True
+2Game Esports,Ascent,1,1,1,1.0,0.2,True
+2Game Esports,Haven,1,1,1,1.0,0.2,True
+2Game Esports,Sunset,1,1,1,1.0,0.2,True
+A Team,Ascent,1,1,1,1.0,0.2,True
+A Team,Haven,1,1,1,1.0,0.2,True
+A Team,Lotus,1,1,1,1.0,0.2,True
+A Team,Summit,1,1,1,1.0,0.2,True
+A Team,Sunset,1,1,1,1.0,0.2,True
+All Gamers,Split,17,11,3,0.1765,0.2297,True
+All Gamers,Lotus,11,8,4,0.3636,0.1486,True
+All Gamers,Haven,8,6,6,0.75,0.1081,True
+All Gamers,Bind,7,6,3,0.4286,0.0946,True
+All Gamers,Sunset,7,7,3,0.4286,0.0946,True
+All Gamers,Pearl,6,6,4,0.6667,0.0811,True
+All Gamers,Summit,5,5,2,0.4,0.0676,True
+All Gamers,Abyss,4,4,2,0.5,0.0541,True
+All Gamers,Ascent,3,3,2,0.6667,0.0405,True
+All Gamers,Breeze,2,2,1,0.5,0.027,True
+All Gamers,Corrode,2,2,2,1.0,0.027,True
+All Gamers,Fracture,2,2,1,0.5,0.027,True
+BBL Esports,Haven,11,8,4,0.3636,0.2115,True
+BBL Esports,Breeze,7,6,3,0.4286,0.1346,True
+BBL Esports,Split,7,7,5,0.7143,0.1346,True
+BBL Esports,Abyss,6,6,1,0.1667,0.1154,True
+BBL Esports,Ascent,5,5,2,0.4,0.0962,True
+BBL Esports,Lotus,5,5,2,0.4,0.0962,True
+BBL Esports,Pearl,4,4,2,0.5,0.0769,True
+BBL Esports,Sunset,3,3,2,0.6667,0.0577,True
+BBL Esports,Summit,2,2,1,0.5,0.0385,True
+BBL Esports,Corrode,1,1,1,1.0,0.0192,True
+BBL Esports,Fracture,1,1,1,1.0,0.0192,True
+BESTIA,Breeze,3,3,1,0.3333,0.4286,True
+BESTIA,Ascent,1,1,1,1.0,0.1429,True
+BESTIA,Lotus,1,1,1,1.0,0.1429,True
+BESTIA,Summit,1,1,1,1.0,0.1429,True
+BESTIA,Sunset,1,1,1,1.0,0.1429,True
+Bilibili Gaming,Split,10,9,4,0.4,0.1695,True
+Bilibili Gaming,Lotus,8,7,2,0.25,0.1356,True
+Bilibili Gaming,Abyss,6,5,1,0.1667,0.1017,True
+Bilibili Gaming,Breeze,6,6,4,0.6667,0.1017,True
+Bilibili Gaming,Haven,6,5,3,0.5,0.1017,True
+Bilibili Gaming,Pearl,6,5,2,0.3333,0.1017,True
+Bilibili Gaming,Summit,5,5,1,0.2,0.0847,True
+Bilibili Gaming,Bind,4,4,2,0.5,0.0678,True
+Bilibili Gaming,Fracture,3,3,1,0.3333,0.0508,True
+Bilibili Gaming,Sunset,3,3,2,0.6667,0.0508,True
+Bilibili Gaming,Ascent,2,2,1,0.5,0.0339,True
+Cloud9,Breeze,11,11,6,0.5455,0.2292,True
+Cloud9,Split,10,8,5,0.5,0.2083,True
+Cloud9,Haven,6,5,3,0.5,0.125,True
+Cloud9,Pearl,6,4,3,0.5,0.125,True
+Cloud9,Lotus,5,5,4,0.8,0.1042,True
+Cloud9,Sunset,3,3,3,1.0,0.0625,True
+Cloud9,Abyss,2,2,2,1.0,0.0417,True
+Cloud9,Bind,2,2,1,0.5,0.0417,True
+Cloud9,Summit,2,2,2,1.0,0.0417,True
+Cloud9,Corrode,1,1,1,1.0,0.0208,True
+DetonatioN FocusMe,Haven,8,5,2,0.25,0.1481,True
+DetonatioN FocusMe,Split,8,7,3,0.375,0.1481,True
+DetonatioN FocusMe,Ascent,7,7,1,0.1429,0.1296,True
+DetonatioN FocusMe,Lotus,7,5,3,0.4286,0.1296,True
+DetonatioN FocusMe,Pearl,7,5,2,0.2857,0.1296,True
+DetonatioN FocusMe,Breeze,5,5,4,0.8,0.0926,True
+DetonatioN FocusMe,Bind,3,3,2,0.6667,0.0556,True
+DetonatioN FocusMe,Sunset,3,3,2,0.6667,0.0556,True
+DetonatioN FocusMe,Fracture,2,2,1,0.5,0.037,True
+DetonatioN FocusMe,Summit,2,2,2,1.0,0.037,True
+DetonatioN FocusMe,Abyss,1,1,1,1.0,0.0185,True
+DetonatioN FocusMe,Corrode,1,1,1,1.0,0.0185,True
+Dragon Ranger Gaming,Lotus,15,8,5,0.3333,0.2055,True
+Dragon Ranger Gaming,Haven,13,8,2,0.1538,0.1781,True
+Dragon Ranger Gaming,Breeze,11,9,6,0.5455,0.1507,True
+Dragon Ranger Gaming,Split,10,6,5,0.5,0.137,True
+Dragon Ranger Gaming,Ascent,4,3,1,0.25,0.0548,True
+Dragon Ranger Gaming,Corrode,4,4,1,0.25,0.0548,True
+Dragon Ranger Gaming,Abyss,3,3,3,1.0,0.0411,True
+Dragon Ranger Gaming,Bind,3,3,3,1.0,0.0411,True
+Dragon Ranger Gaming,Pearl,3,3,2,0.6667,0.0411,True
+Dragon Ranger Gaming,Summit,3,3,1,0.3333,0.0411,True
+Dragon Ranger Gaming,Sunset,3,3,1,0.3333,0.0411,True
+Dragon Ranger Gaming,Fracture,1,1,1,1.0,0.0137,True
+EDward Gaming,Haven,15,11,8,0.5333,0.1685,True
+EDward Gaming,Breeze,13,9,3,0.2308,0.1461,True
+EDward Gaming,Split,13,7,3,0.2308,0.1461,True
+EDward Gaming,Lotus,10,8,5,0.5,0.1124,True
+EDward Gaming,Fracture,7,7,3,0.4286,0.0787,True
+EDward Gaming,Pearl,7,6,2,0.2857,0.0787,True
+EDward Gaming,Sunset,6,6,1,0.1667,0.0674,True
+EDward Gaming,Abyss,4,3,1,0.25,0.0449,True
+EDward Gaming,Ascent,4,4,1,0.25,0.0449,True
+EDward Gaming,Bind,4,3,3,0.75,0.0449,True
+EDward Gaming,Corrode,3,3,1,0.3333,0.0337,True
+EDward Gaming,Summit,3,3,3,1.0,0.0337,True
+ENVY,Haven,7,5,2,0.2857,0.1522,True
+ENVY,Ascent,6,6,2,0.3333,0.1304,True
+ENVY,Breeze,5,5,4,0.8,0.1087,True
+ENVY,Pearl,5,4,3,0.6,0.1087,True
+ENVY,Split,5,4,4,0.8,0.1087,True
+ENVY,Abyss,3,3,2,0.6667,0.0652,True
+ENVY,Bind,3,3,3,1.0,0.0652,True
+ENVY,Corrode,3,2,1,0.3333,0.0652,True
+ENVY,Lotus,3,2,3,1.0,0.0652,True
+ENVY,Sunset,3,2,3,1.0,0.0652,True
+ENVY,Summit,2,2,1,0.5,0.0435,True
+ENVY,Fracture,1,1,1,1.0,0.0217,True
+Eintracht Frankfurt,Lotus,4,4,1,0.25,0.3333,True
+Eintracht Frankfurt,Split,3,3,1,0.3333,0.25,True
+Eintracht Frankfurt,Ascent,2,2,1,0.5,0.1667,True
+Eintracht Frankfurt,Haven,2,2,1,0.5,0.1667,True
+Eintracht Frankfurt,Summit,1,1,1,1.0,0.0833,True
+Enterprise Esports,Lotus,6,6,1,0.1667,0.4,True
+Enterprise Esports,Abyss,3,3,1,0.3333,0.2,True
+Enterprise Esports,Haven,2,2,1,0.5,0.1333,True
+Enterprise Esports,Split,2,2,1,0.5,0.1333,True
+Enterprise Esports,Summit,2,2,1,0.5,0.1333,True
+Eternal Fire,Lotus,12,10,5,0.4167,0.3,True
+Eternal Fire,Split,9,8,4,0.4444,0.225,True
+Eternal Fire,Ascent,6,5,4,0.6667,0.15,True
+Eternal Fire,Fracture,3,2,3,1.0,0.075,True
+Eternal Fire,Pearl,3,3,1,0.3333,0.075,True
+Eternal Fire,Bind,2,2,2,1.0,0.05,True
+Eternal Fire,Breeze,2,2,2,1.0,0.05,True
+Eternal Fire,Haven,1,1,1,1.0,0.025,True
+Eternal Fire,Summit,1,1,1,1.0,0.025,True
+Eternal Fire,Sunset,1,1,1,1.0,0.025,True
+Evil Geniuses,Haven,10,7,2,0.2,0.2222,True
+Evil Geniuses,Breeze,6,5,3,0.5,0.1333,True
+Evil Geniuses,Lotus,5,4,3,0.6,0.1111,True
+Evil Geniuses,Sunset,5,5,1,0.2,0.1111,True
+Evil Geniuses,Bind,4,4,3,0.75,0.0889,True
+Evil Geniuses,Pearl,4,4,3,0.75,0.0889,True
+Evil Geniuses,Abyss,3,3,1,0.3333,0.0667,True
+Evil Geniuses,Ascent,2,2,1,0.5,0.0444,True
+Evil Geniuses,Corrode,2,1,1,0.5,0.0444,True
+Evil Geniuses,Summit,2,2,1,0.5,0.0444,True
+Evil Geniuses,Fracture,1,1,1,1.0,0.0222,True
+Evil Geniuses,Split,1,1,1,1.0,0.0222,True
+FNATIC,Split,10,10,5,0.5,0.1818,True
+FNATIC,Breeze,7,6,5,0.7143,0.1273,True
+FNATIC,Bind,6,6,2,0.3333,0.1091,True
+FNATIC,Haven,6,5,2,0.3333,0.1091,True
+FNATIC,Lotus,6,6,4,0.6667,0.1091,True
+FNATIC,Abyss,4,4,1,0.25,0.0727,True
+FNATIC,Ascent,4,3,3,0.75,0.0727,True
+FNATIC,Corrode,4,3,1,0.25,0.0727,True
+FNATIC,Summit,4,4,2,0.5,0.0727,True
+FNATIC,Fracture,2,2,1,0.5,0.0364,True
+FNATIC,Sunset,2,1,2,1.0,0.0364,True
+FULL SENSE,Split,11,7,6,0.5455,0.1774,True
+FULL SENSE,Haven,8,8,6,0.75,0.129,True
+FULL SENSE,Pearl,8,6,3,0.375,0.129,True
+FULL SENSE,Lotus,7,6,4,0.5714,0.1129,True
+FULL SENSE,Breeze,5,3,5,1.0,0.0806,True
+FULL SENSE,Fracture,5,5,2,0.4,0.0806,True
+FULL SENSE,Sunset,5,4,4,0.8,0.0806,True
+FULL SENSE,Summit,4,3,3,0.75,0.0645,True
+FULL SENSE,Ascent,3,3,2,0.6667,0.0484,True
+FULL SENSE,Bind,3,3,3,1.0,0.0484,True
+FULL SENSE,Corrode,2,2,1,0.5,0.0323,True
+FULL SENSE,Abyss,1,1,1,1.0,0.0161,True
+FURIA,Haven,15,12,6,0.4,0.2381,True
+FURIA,Breeze,13,10,6,0.4615,0.2063,True
+FURIA,Split,10,7,4,0.4,0.1587,True
+FURIA,Abyss,5,4,2,0.4,0.0794,True
+FURIA,Pearl,5,5,2,0.4,0.0794,True
+FURIA,Sunset,5,5,3,0.6,0.0794,True
+FURIA,Lotus,3,3,2,0.6667,0.0476,True
+FURIA,Summit,3,3,3,1.0,0.0476,True
+FURIA,Ascent,2,2,2,1.0,0.0317,True
+FURIA,Bind,2,2,2,1.0,0.0317,True
+FUT Esports,Haven,14,9,6,0.4286,0.1772,True
+FUT Esports,Split,14,12,4,0.2857,0.1772,True
+FUT Esports,Lotus,13,10,6,0.4615,0.1646,True
+FUT Esports,Ascent,12,10,4,0.3333,0.1519,True
+FUT Esports,Pearl,6,5,4,0.6667,0.0759,True
+FUT Esports,Fracture,5,5,2,0.4,0.0633,True
+FUT Esports,Sunset,4,4,1,0.25,0.0506,True
+FUT Esports,Bind,3,3,2,0.6667,0.038,True
+FUT Esports,Summit,3,3,2,0.6667,0.038,True
+FUT Esports,Abyss,2,2,2,1.0,0.0253,True
+FUT Esports,Breeze,2,2,1,0.5,0.0253,True
+FUT Esports,Corrode,1,1,1,1.0,0.0127,True
+Fire Flux Esports,Split,4,4,1,0.25,0.25,True
+Fire Flux Esports,Lotus,3,3,1,0.3333,0.1875,True
+Fire Flux Esports,Summit,3,3,2,0.6667,0.1875,True
+Fire Flux Esports,Abyss,2,2,2,1.0,0.125,True
+Fire Flux Esports,Ascent,2,2,2,1.0,0.125,True
+Fire Flux Esports,Haven,1,1,1,1.0,0.0625,True
+Fire Flux Esports,Sunset,1,1,1,1.0,0.0625,True
+Fluxo W7M,Lotus,2,2,1,0.5,0.4,True
+Fluxo W7M,Ascent,1,1,1,1.0,0.2,True
+Fluxo W7M,Breeze,1,1,1,1.0,0.2,True
+Fluxo W7M,Split,1,1,1,1.0,0.2,True
+FunPlus Phoenix,Pearl,7,4,3,0.4286,0.1707,True
+FunPlus Phoenix,Split,7,5,3,0.4286,0.1707,True
+FunPlus Phoenix,Lotus,6,6,3,0.5,0.1463,True
+FunPlus Phoenix,Sunset,5,5,1,0.2,0.122,True
+FunPlus Phoenix,Ascent,4,4,1,0.25,0.0976,True
+FunPlus Phoenix,Bind,3,3,2,0.6667,0.0732,True
+FunPlus Phoenix,Breeze,3,3,2,0.6667,0.0732,True
+FunPlus Phoenix,Fracture,2,2,1,0.5,0.0488,True
+FunPlus Phoenix,Haven,2,2,1,0.5,0.0488,True
+FunPlus Phoenix,Summit,2,2,1,0.5,0.0488,True
+G2 Esports,Split,18,13,6,0.3333,0.1651,True
+G2 Esports,Lotus,16,13,3,0.1875,0.1468,True
+G2 Esports,Breeze,14,13,5,0.3571,0.1284,True
+G2 Esports,Haven,14,11,4,0.2857,0.1284,True
+G2 Esports,Abyss,11,10,2,0.1818,0.1009,True
+G2 Esports,Ascent,10,8,5,0.5,0.0917,True
+G2 Esports,Corrode,6,5,3,0.5,0.055,True
+G2 Esports,Pearl,6,4,3,0.5,0.055,True
+G2 Esports,Sunset,6,6,1,0.1667,0.055,True
+G2 Esports,Bind,4,4,2,0.5,0.0367,True
+G2 Esports,Summit,3,3,2,0.6667,0.0275,True
+G2 Esports,Fracture,1,1,1,1.0,0.0092,True
+GIANTX,Split,8,6,3,0.375,0.1905,True
+GIANTX,Haven,7,6,2,0.2857,0.1667,True
+GIANTX,Ascent,5,5,1,0.2,0.119,True
+GIANTX,Breeze,5,4,3,0.6,0.119,True
+GIANTX,Bind,4,4,2,0.5,0.0952,True
+GIANTX,Pearl,4,4,2,0.5,0.0952,True
+GIANTX,Abyss,3,3,1,0.3333,0.0714,True
+GIANTX,Sunset,3,2,2,0.6667,0.0714,True
+GIANTX,Lotus,2,2,2,1.0,0.0476,True
+GIANTX,Summit,1,1,1,1.0,0.0238,True
+Gen.G,Haven,7,7,2,0.2857,0.1628,True
+Gen.G,Breeze,6,5,4,0.6667,0.1395,True
+Gen.G,Lotus,5,5,1,0.2,0.1163,True
+Gen.G,Split,5,5,2,0.4,0.1163,True
+Gen.G,Sunset,5,5,1,0.2,0.1163,True
+Gen.G,Pearl,4,4,3,0.75,0.093,True
+Gen.G,Ascent,3,2,2,0.6667,0.0698,True
+Gen.G,Summit,3,3,1,0.3333,0.0698,True
+Gen.G,Abyss,2,2,1,0.5,0.0465,True
+Gen.G,Bind,2,2,2,1.0,0.0465,True
+Gen.G,Fracture,1,1,1,1.0,0.0233,True
+Gentle Mates,Haven,10,9,4,0.4,0.1724,True
+Gentle Mates,Split,9,8,6,0.6667,0.1552,True
+Gentle Mates,Pearl,8,8,2,0.25,0.1379,True
+Gentle Mates,Bind,6,6,2,0.3333,0.1034,True
+Gentle Mates,Lotus,6,6,4,0.6667,0.1034,True
+Gentle Mates,Ascent,5,5,2,0.4,0.0862,True
+Gentle Mates,Abyss,4,4,1,0.25,0.069,True
+Gentle Mates,Corrode,3,3,2,0.6667,0.0517,True
+Gentle Mates,Fracture,3,3,2,0.6667,0.0517,True
+Gentle Mates,Sunset,3,3,2,0.6667,0.0517,True
+Gentle Mates,Summit,1,1,1,1.0,0.0172,True
+Global Esports,Split,15,11,6,0.4,0.1829,True
+Global Esports,Breeze,13,8,4,0.3077,0.1585,True
+Global Esports,Haven,9,7,7,0.7778,0.1098,True
+Global Esports,Abyss,7,6,2,0.2857,0.0854,True
+Global Esports,Ascent,7,6,3,0.4286,0.0854,True
+Global Esports,Lotus,7,6,6,0.8571,0.0854,True
+Global Esports,Pearl,6,5,3,0.5,0.0732,True
+Global Esports,Summit,6,6,3,0.5,0.0732,True
+Global Esports,Sunset,6,5,3,0.5,0.0732,True
+Global Esports,Bind,3,3,2,0.6667,0.0366,True
+Global Esports,Fracture,2,2,2,1.0,0.0244,True
+Global Esports,Corrode,1,1,1,1.0,0.0122,True
+JD Gaming,Haven,13,8,5,0.3846,0.1667,True
+JD Gaming,Split,11,7,4,0.3636,0.141,True
+JD Gaming,Lotus,9,9,3,0.3333,0.1154,True
+JD Gaming,Breeze,8,5,3,0.375,0.1026,True
+JD Gaming,Summit,7,6,2,0.2857,0.0897,True
+JD Gaming,Ascent,5,5,2,0.4,0.0641,True
+JD Gaming,Pearl,5,4,3,0.6,0.0641,True
+JD Gaming,Abyss,4,4,2,0.5,0.0513,True
+JD Gaming,Bind,4,4,2,0.5,0.0513,True
+JD Gaming,Corrode,4,4,2,0.5,0.0513,True
+JD Gaming,Fracture,4,4,3,0.75,0.0513,True
+JD Gaming,Sunset,4,4,3,0.75,0.0513,True
+Joblife,Lotus,4,4,2,0.5,0.3077,True
+Joblife,Split,4,4,3,0.75,0.3077,True
+Joblife,Ascent,3,3,1,0.3333,0.2308,True
+Joblife,Breeze,2,2,1,0.5,0.1538,True
+KIWOOM DRX,Haven,10,8,7,0.7,0.1639,True
+KIWOOM DRX,Lotus,9,8,4,0.4444,0.1475,True
+KIWOOM DRX,Split,7,7,5,0.7143,0.1148,True
+KIWOOM DRX,Breeze,6,3,4,0.6667,0.0984,True
+KIWOOM DRX,Sunset,6,6,4,0.6667,0.0984,True
+KIWOOM DRX,Fracture,4,4,2,0.5,0.0656,True
+KIWOOM DRX,Pearl,4,4,4,1.0,0.0656,True
+KIWOOM DRX,Abyss,3,3,2,0.6667,0.0492,True
+KIWOOM DRX,Ascent,3,3,2,0.6667,0.0492,True
+KIWOOM DRX,Bind,3,3,2,0.6667,0.0492,True
+KIWOOM DRX,Corrode,3,3,2,0.6667,0.0492,True
+KIWOOM DRX,Summit,3,3,3,1.0,0.0492,True
+KRÜ Esports,Breeze,11,9,8,0.7273,0.2292,True
+KRÜ Esports,Lotus,9,7,3,0.3333,0.1875,True
+KRÜ Esports,Haven,5,5,2,0.4,0.1042,True
+KRÜ Esports,Split,5,4,4,0.8,0.1042,True
+KRÜ Esports,Sunset,5,5,2,0.4,0.1042,True
+KRÜ Esports,Ascent,3,3,2,0.6667,0.0625,True
+KRÜ Esports,Bind,3,3,2,0.6667,0.0625,True
+KRÜ Esports,Summit,3,3,1,0.3333,0.0625,True
+KRÜ Esports,Abyss,2,2,2,1.0,0.0417,True
+KRÜ Esports,Pearl,2,2,1,0.5,0.0417,True
+Karmine Corp,Haven,13,9,4,0.3077,0.2453,True
+Karmine Corp,Lotus,9,6,3,0.3333,0.1698,True
+Karmine Corp,Summit,5,4,2,0.4,0.0943,True
+Karmine Corp,Sunset,5,5,1,0.2,0.0943,True
+Karmine Corp,Abyss,4,4,3,0.75,0.0755,True
+Karmine Corp,Ascent,4,4,1,0.25,0.0755,True
+Karmine Corp,Split,4,4,2,0.5,0.0755,True
+Karmine Corp,Pearl,3,3,3,1.0,0.0566,True
+Karmine Corp,Breeze,2,2,2,1.0,0.0377,True
+Karmine Corp,Fracture,2,2,1,0.5,0.0377,True
+Karmine Corp,Bind,1,1,1,1.0,0.0189,True
+Karmine Corp,Corrode,1,1,1,1.0,0.0189,True
+KeepBest Gaming,Sunset,2,2,1,0.5,0.4,True
+KeepBest Gaming,Ascent,1,1,1,1.0,0.2,True
+KeepBest Gaming,Breeze,1,1,1,1.0,0.2,True
+KeepBest Gaming,Summit,1,1,1,1.0,0.2,True
+LEVIATÁN,Split,18,13,2,0.1111,0.2278,True
+LEVIATÁN,Haven,9,8,2,0.2222,0.1139,True
+LEVIATÁN,Pearl,9,7,2,0.2222,0.1139,True
+LEVIATÁN,Ascent,7,5,1,0.1429,0.0886,True
+LEVIATÁN,Bind,7,7,2,0.2857,0.0886,True
+LEVIATÁN,Lotus,7,6,1,0.1429,0.0886,True
+LEVIATÁN,Breeze,6,6,3,0.5,0.0759,True
+LEVIATÁN,Fracture,5,5,1,0.2,0.0633,True
+LEVIATÁN,Summit,4,4,3,0.75,0.0506,True
+LEVIATÁN,Sunset,4,4,1,0.25,0.0506,True
+LEVIATÁN,Abyss,2,2,1,0.5,0.0253,True
+LEVIATÁN,Corrode,1,1,1,1.0,0.0127,True
+LOUD,Haven,13,9,6,0.4615,0.1831,True
+LOUD,Lotus,11,9,3,0.2727,0.1549,True
+LOUD,Summit,11,7,1,0.0909,0.1549,True
+LOUD,Sunset,10,9,1,0.1,0.1408,True
+LOUD,Breeze,7,6,4,0.5714,0.0986,True
+LOUD,Split,6,5,5,0.8333,0.0845,True
+LOUD,Abyss,5,4,3,0.6,0.0704,True
+LOUD,Ascent,3,3,2,0.6667,0.0423,True
+LOUD,Pearl,3,3,2,0.6667,0.0423,True
+LOUD,Bind,2,2,2,1.0,0.0282,True
+M80,Ascent,1,1,1,1.0,0.25,True
+M80,Breeze,1,1,1,1.0,0.25,True
+M80,Split,1,1,1,1.0,0.25,True
+M80,Sunset,1,1,1,1.0,0.25,True
+MIBR,Haven,11,7,4,0.3636,0.1964,True
+MIBR,Breeze,9,7,3,0.3333,0.1607,True
+MIBR,Split,9,7,3,0.3333,0.1607,True
+MIBR,Sunset,7,6,1,0.1429,0.125,True
+MIBR,Abyss,5,4,3,0.6,0.0893,True
+MIBR,Ascent,3,3,2,0.6667,0.0536,True
+MIBR,Bind,3,3,2,0.6667,0.0536,True
+MIBR,Corrode,3,3,1,0.3333,0.0536,True
+MIBR,Lotus,3,3,2,0.6667,0.0536,True
+MIBR,Fracture,2,2,1,0.5,0.0357,True
+MIBR,Summit,1,1,1,1.0,0.0179,True
+NRG,Haven,14,12,4,0.2857,0.1414,True
+NRG,Breeze,13,11,3,0.2308,0.1313,True
+NRG,Lotus,13,12,2,0.1538,0.1313,True
+NRG,Pearl,13,9,3,0.2308,0.1313,True
+NRG,Abyss,10,7,3,0.3,0.101,True
+NRG,Split,9,7,5,0.5556,0.0909,True
+NRG,Summit,7,6,1,0.1429,0.0707,True
+NRG,Sunset,6,4,4,0.6667,0.0606,True
+NRG,Ascent,4,4,3,0.75,0.0404,True
+NRG,Fracture,4,4,1,0.25,0.0404,True
+NRG,Bind,3,3,2,0.6667,0.0303,True
+NRG,Corrode,3,3,2,0.6667,0.0303,True
+Natus Vincere,Split,8,7,5,0.625,0.186,True
+Natus Vincere,Bind,6,5,3,0.5,0.1395,True
+Natus Vincere,Haven,6,4,3,0.5,0.1395,True
+Natus Vincere,Breeze,5,5,4,0.8,0.1163,True
+Natus Vincere,Ascent,4,4,3,0.75,0.093,True
+Natus Vincere,Lotus,4,4,3,0.75,0.093,True
+Natus Vincere,Sunset,4,4,2,0.5,0.093,True
+Natus Vincere,Pearl,2,2,2,1.0,0.0465,True
+Natus Vincere,Summit,2,2,2,1.0,0.0465,True
+Natus Vincere,Abyss,1,1,1,1.0,0.0233,True
+Natus Vincere,Fracture,1,1,1,1.0,0.0233,True
+Nongshim RedForce,Haven,16,11,4,0.25,0.1905,True
+Nongshim RedForce,Split,13,10,3,0.2308,0.1548,True
+Nongshim RedForce,Abyss,8,6,3,0.375,0.0952,True
+Nongshim RedForce,Breeze,8,5,3,0.375,0.0952,True
+Nongshim RedForce,Sunset,8,7,3,0.375,0.0952,True
+Nongshim RedForce,Ascent,7,5,4,0.5714,0.0833,True
+Nongshim RedForce,Corrode,5,5,1,0.2,0.0595,True
+Nongshim RedForce,Summit,5,5,2,0.4,0.0595,True
+Nongshim RedForce,Bind,4,4,2,0.5,0.0476,True
+Nongshim RedForce,Lotus,4,4,4,1.0,0.0476,True
+Nongshim RedForce,Fracture,3,3,2,0.6667,0.0357,True
+Nongshim RedForce,Pearl,3,3,1,0.3333,0.0357,True
+Nova Esports,Split,7,5,3,0.4286,0.1795,True
+Nova Esports,Lotus,6,6,3,0.5,0.1538,True
+Nova Esports,Breeze,5,5,2,0.4,0.1282,True
+Nova Esports,Summit,4,3,2,0.5,0.1026,True
+Nova Esports,Sunset,4,4,2,0.5,0.1026,True
+Nova Esports,Ascent,3,3,1,0.3333,0.0769,True
+Nova Esports,Haven,3,3,2,0.6667,0.0769,True
+Nova Esports,Fracture,2,2,2,1.0,0.0513,True
+Nova Esports,Pearl,2,2,1,0.5,0.0513,True
+Nova Esports,Abyss,1,1,1,1.0,0.0256,True
+Nova Esports,Bind,1,1,1,1.0,0.0256,True
+Nova Esports,Corrode,1,1,1,1.0,0.0256,True
+ONSIDE GAMING,Ascent,3,3,1,0.3333,0.2727,True
+ONSIDE GAMING,Haven,2,2,1,0.5,0.1818,True
+ONSIDE GAMING,Sunset,2,2,1,0.5,0.1818,True
+ONSIDE GAMING,Abyss,1,1,1,1.0,0.0909,True
+ONSIDE GAMING,Breeze,1,1,1,1.0,0.0909,True
+ONSIDE GAMING,Lotus,1,1,1,1.0,0.0909,True
+ONSIDE GAMING,Split,1,1,1,1.0,0.0909,True
+PCIFIC Esports,Split,11,10,6,0.5455,0.2895,True
+PCIFIC Esports,Ascent,5,5,4,0.8,0.1316,True
+PCIFIC Esports,Lotus,5,5,4,0.8,0.1316,True
+PCIFIC Esports,Abyss,3,3,1,0.3333,0.0789,True
+PCIFIC Esports,Haven,3,2,3,1.0,0.0789,True
+PCIFIC Esports,Sunset,3,3,3,1.0,0.0789,True
+PCIFIC Esports,Breeze,2,1,2,1.0,0.0526,True
+PCIFIC Esports,Pearl,2,2,2,1.0,0.0526,True
+PCIFIC Esports,Summit,2,2,2,1.0,0.0526,True
+PCIFIC Esports,Bind,1,1,1,1.0,0.0263,True
+PCIFIC Esports,Fracture,1,1,1,1.0,0.0263,True
+Paper Rex,Split,22,15,4,0.1818,0.1964,True
+Paper Rex,Breeze,18,11,5,0.2778,0.1607,True
+Paper Rex,Lotus,12,10,4,0.3333,0.1071,True
+Paper Rex,Ascent,11,8,4,0.3636,0.0982,True
+Paper Rex,Haven,10,9,4,0.4,0.0893,True
+Paper Rex,Pearl,10,6,7,0.7,0.0893,True
+Paper Rex,Corrode,8,7,2,0.25,0.0714,True
+Paper Rex,Fracture,6,6,2,0.3333,0.0536,True
+Paper Rex,Bind,4,4,3,0.75,0.0357,True
+Paper Rex,Summit,4,4,3,0.75,0.0357,True
+Paper Rex,Sunset,4,3,3,0.75,0.0357,True
+Paper Rex,Abyss,3,2,3,1.0,0.0268,True
+QT DIG∞,Ascent,1,1,1,1.0,0.1667,True
+QT DIG∞,Breeze,1,1,1,1.0,0.1667,True
+QT DIG∞,Haven,1,1,1,1.0,0.1667,True
+QT DIG∞,Lotus,1,1,1,1.0,0.1667,True
+QT DIG∞,Split,1,1,1,1.0,0.1667,True
+QT DIG∞,Summit,1,1,1,1.0,0.1667,True
+Rex Regum Qeon,Haven,11,8,5,0.4545,0.1964,True
+Rex Regum Qeon,Breeze,9,7,5,0.5556,0.1607,True
+Rex Regum Qeon,Pearl,6,4,3,0.5,0.1071,True
+Rex Regum Qeon,Sunset,6,5,3,0.5,0.1071,True
+Rex Regum Qeon,Bind,4,4,2,0.5,0.0714,True
+Rex Regum Qeon,Lotus,4,3,2,0.5,0.0714,True
+Rex Regum Qeon,Summit,4,3,3,0.75,0.0714,True
+Rex Regum Qeon,Corrode,3,3,1,0.3333,0.0536,True
+Rex Regum Qeon,Fracture,3,3,1,0.3333,0.0536,True
+Rex Regum Qeon,Abyss,2,2,1,0.5,0.0357,True
+Rex Regum Qeon,Ascent,2,2,2,1.0,0.0357,True
+Rex Regum Qeon,Split,2,2,1,0.5,0.0357,True
+Sentinels,Breeze,8,6,4,0.5,0.2,True
+Sentinels,Haven,6,6,3,0.5,0.15,True
+Sentinels,Split,6,4,5,0.8333,0.15,True
+Sentinels,Lotus,5,5,3,0.6,0.125,True
+Sentinels,Ascent,3,3,1,0.3333,0.075,True
+Sentinels,Summit,3,3,1,0.3333,0.075,True
+Sentinels,Bind,2,2,2,1.0,0.05,True
+Sentinels,Corrode,2,2,2,1.0,0.05,True
+Sentinels,Sunset,2,2,1,0.5,0.05,True
+Sentinels,Abyss,1,1,1,1.0,0.025,True
+Sentinels,Fracture,1,1,1,1.0,0.025,True
+Sentinels,Pearl,1,1,1,1.0,0.025,True
+Sharper Esports,Ascent,3,3,1,0.3333,0.25,True
+Sharper Esports,Breeze,3,3,1,0.3333,0.25,True
+Sharper Esports,Haven,3,3,2,0.6667,0.25,True
+Sharper Esports,Sunset,3,3,2,0.6667,0.25,True
+T1,Haven,15,11,6,0.4,0.1807,True
+T1,Lotus,14,12,3,0.2143,0.1687,True
+T1,Breeze,11,7,4,0.3636,0.1325,True
+T1,Ascent,10,8,4,0.4,0.1205,True
+T1,Pearl,8,5,3,0.375,0.0964,True
+T1,Split,8,8,3,0.375,0.0964,True
+T1,Bind,6,6,2,0.3333,0.0723,True
+T1,Abyss,4,4,3,0.75,0.0482,True
+T1,Summit,3,3,2,0.6667,0.0361,True
+T1,Sunset,3,3,2,0.6667,0.0361,True
+T1,Corrode,1,1,1,1.0,0.012,True
+TYLOO,Split,14,8,4,0.2857,0.1842,True
+TYLOO,Breeze,9,8,3,0.3333,0.1184,True
+TYLOO,Haven,9,7,5,0.5556,0.1184,True
+TYLOO,Sunset,7,7,1,0.1429,0.0921,True
+TYLOO,Bind,6,5,3,0.5,0.0789,True
+TYLOO,Lotus,6,6,2,0.3333,0.0789,True
+TYLOO,Pearl,6,5,4,0.6667,0.0789,True
+TYLOO,Summit,6,4,2,0.3333,0.0789,True
+TYLOO,Corrode,4,4,1,0.25,0.0526,True
+TYLOO,Fracture,4,3,2,0.5,0.0526,True
+TYLOO,Ascent,3,3,2,0.6667,0.0395,True
+TYLOO,Abyss,2,2,1,0.5,0.0263,True
+Team Heretics,Lotus,14,9,3,0.2143,0.2029,True
+Team Heretics,Haven,12,8,4,0.3333,0.1739,True
+Team Heretics,Ascent,9,8,2,0.2222,0.1304,True
+Team Heretics,Breeze,6,5,2,0.3333,0.087,True
+Team Heretics,Bind,5,3,3,0.6,0.0725,True
+Team Heretics,Fracture,5,4,1,0.2,0.0725,True
+Team Heretics,Pearl,4,4,3,0.75,0.058,True
+Team Heretics,Split,4,4,2,0.5,0.058,True
+Team Heretics,Abyss,3,3,2,0.6667,0.0435,True
+Team Heretics,Summit,3,3,1,0.3333,0.0435,True
+Team Heretics,Sunset,3,3,3,1.0,0.0435,True
+Team Heretics,Corrode,1,1,1,1.0,0.0145,True
+Team Liquid,Lotus,13,12,4,0.3077,0.1625,True
+Team Liquid,Split,13,12,8,0.6154,0.1625,True
+Team Liquid,Breeze,10,8,4,0.4,0.125,True
+Team Liquid,Ascent,7,7,2,0.2857,0.0875,True
+Team Liquid,Bind,7,6,3,0.4286,0.0875,True
+Team Liquid,Pearl,7,6,3,0.4286,0.0875,True
+Team Liquid,Abyss,6,6,6,1.0,0.075,True
+Team Liquid,Haven,6,4,3,0.5,0.075,True
+Team Liquid,Summit,5,4,2,0.4,0.0625,True
+Team Liquid,Corrode,4,2,3,0.75,0.05,True
+Team Liquid,Fracture,1,1,1,1.0,0.0125,True
+Team Liquid,Sunset,1,1,1,1.0,0.0125,True
+Team Secret,Split,9,8,7,0.7778,0.25,True
+Team Secret,Breeze,5,4,4,0.8,0.1389,True
+Team Secret,Haven,4,4,2,0.5,0.1111,True
+Team Secret,Summit,4,4,3,0.75,0.1111,True
+Team Secret,Ascent,3,3,3,1.0,0.0833,True
+Team Secret,Bind,2,2,2,1.0,0.0556,True
+Team Secret,Fracture,2,2,1,0.5,0.0556,True
+Team Secret,Lotus,2,2,1,0.5,0.0556,True
+Team Secret,Pearl,2,2,1,0.5,0.0556,True
+Team Secret,Sunset,2,2,2,1.0,0.0556,True
+Team Secret,Abyss,1,1,1,1.0,0.0278,True
+Team Vitality,Haven,14,9,7,0.5,0.1522,True
+Team Vitality,Split,14,13,4,0.2857,0.1522,True
+Team Vitality,Lotus,13,10,4,0.3077,0.1413,True
+Team Vitality,Breeze,12,9,2,0.1667,0.1304,True
+Team Vitality,Abyss,8,8,4,0.5,0.087,True
+Team Vitality,Ascent,8,7,3,0.375,0.087,True
+Team Vitality,Pearl,6,4,2,0.3333,0.0652,True
+Team Vitality,Summit,6,4,3,0.5,0.0652,True
+Team Vitality,Bind,3,3,2,0.6667,0.0326,True
+Team Vitality,Corrode,3,2,1,0.3333,0.0326,True
+Team Vitality,Sunset,3,3,3,1.0,0.0326,True
+Team Vitality,Fracture,2,2,1,0.5,0.0217,True
+Titan Esports Club,Breeze,9,7,5,0.5556,0.15,True
+Titan Esports Club,Split,9,7,4,0.4444,0.15,True
+Titan Esports Club,Haven,8,4,4,0.5,0.1333,True
+Titan Esports Club,Sunset,8,8,3,0.375,0.1333,True
+Titan Esports Club,Fracture,6,5,2,0.3333,0.1,True
+Titan Esports Club,Summit,6,6,3,0.5,0.1,True
+Titan Esports Club,Ascent,5,5,1,0.2,0.0833,True
+Titan Esports Club,Bind,3,3,3,1.0,0.05,True
+Titan Esports Club,Corrode,2,2,1,0.5,0.0333,True
+Titan Esports Club,Lotus,2,2,2,1.0,0.0333,True
+Titan Esports Club,Abyss,1,1,1,1.0,0.0167,True
+Titan Esports Club,Pearl,1,1,1,1.0,0.0167,True
+Trace Esports,Lotus,12,10,5,0.4167,0.1935,True
+Trace Esports,Split,9,6,3,0.3333,0.1452,True
+Trace Esports,Sunset,9,9,2,0.2222,0.1452,True
+Trace Esports,Ascent,7,6,2,0.2857,0.1129,True
+Trace Esports,Breeze,7,6,3,0.4286,0.1129,True
+Trace Esports,Bind,5,3,2,0.4,0.0806,True
+Trace Esports,Abyss,4,3,1,0.25,0.0645,True
+Trace Esports,Haven,3,3,1,0.3333,0.0484,True
+Trace Esports,Summit,3,3,3,1.0,0.0484,True
+Trace Esports,Corrode,1,1,1,1.0,0.0161,True
+Trace Esports,Fracture,1,1,1,1.0,0.0161,True
+Trace Esports,Pearl,1,1,1,1.0,0.0161,True
+ULF Esports,Breeze,2,2,2,1.0,0.2222,True
+ULF Esports,Split,2,2,1,0.5,0.2222,True
+ULF Esports,Abyss,1,1,1,1.0,0.1111,True
+ULF Esports,Bind,1,1,1,1.0,0.1111,True
+ULF Esports,Corrode,1,1,1,1.0,0.1111,True
+ULF Esports,Haven,1,1,1,1.0,0.1111,True
+ULF Esports,Pearl,1,1,1,1.0,0.1111,True
+VARREL,Haven,9,6,6,0.6667,0.225,True
+VARREL,Split,8,6,4,0.5,0.2,True
+VARREL,Lotus,5,4,2,0.4,0.125,True
+VARREL,Bind,3,3,3,1.0,0.075,True
+VARREL,Summit,3,3,3,1.0,0.075,True
+VARREL,Sunset,3,2,1,0.3333,0.075,True
+VARREL,Breeze,2,2,2,1.0,0.05,True
+VARREL,Fracture,2,2,2,1.0,0.05,True
+VARREL,Pearl,2,2,2,1.0,0.05,True
+VARREL,Abyss,1,1,1,1.0,0.025,True
+VARREL,Ascent,1,1,1,1.0,0.025,True
+VARREL,Corrode,1,1,1,1.0,0.025,True
+Wolves Esports,Lotus,11,8,3,0.2727,0.22,True
+Wolves Esports,Haven,8,6,1,0.125,0.16,True
+Wolves Esports,Bind,5,3,3,0.6,0.1,True
+Wolves Esports,Abyss,4,3,3,0.75,0.08,True
+Wolves Esports,Summit,4,4,3,0.75,0.08,True
+Wolves Esports,Sunset,4,4,1,0.25,0.08,True
+Wolves Esports,Ascent,3,3,1,0.3333,0.06,True
+Wolves Esports,Breeze,3,3,3,1.0,0.06,True
+Wolves Esports,Fracture,3,3,2,0.6667,0.06,True
+Wolves Esports,Split,3,3,2,0.6667,0.06,True
+Wolves Esports,Pearl,2,2,2,1.0,0.04,True
+Xi Lai Gaming,Lotus,20,14,6,0.3,0.2174,True
+Xi Lai Gaming,Split,15,7,5,0.3333,0.163,True
+Xi Lai Gaming,Breeze,12,9,5,0.4167,0.1304,True
+Xi Lai Gaming,Haven,12,9,2,0.1667,0.1304,True
+Xi Lai Gaming,Bind,7,6,2,0.2857,0.0761,True
+Xi Lai Gaming,Abyss,6,6,2,0.3333,0.0652,True
+Xi Lai Gaming,Pearl,6,5,3,0.5,0.0652,True
+Xi Lai Gaming,Summit,5,5,2,0.4,0.0543,True
+Xi Lai Gaming,Ascent,3,3,1,0.3333,0.0326,True
+Xi Lai Gaming,Fracture,3,3,3,1.0,0.0326,True
+Xi Lai Gaming,Sunset,3,3,1,0.3333,0.0326,True
+Xipto Esports,Sunset,2,2,2,1.0,0.4,True
+Xipto Esports,Haven,1,1,1,1.0,0.2,True
+Xipto Esports,Split,1,1,1,1.0,0.2,True
+Xipto Esports,Summit,1,1,1,1.0,0.2,True
+ZETA DIVISION,Haven,9,7,4,0.4444,0.2093,True
+ZETA DIVISION,Split,9,7,4,0.4444,0.2093,True
+ZETA DIVISION,Sunset,5,5,2,0.4,0.1163,True
+ZETA DIVISION,Bind,4,4,3,0.75,0.093,True
+ZETA DIVISION,Breeze,4,4,1,0.25,0.093,True
+ZETA DIVISION,Fracture,3,3,2,0.6667,0.0698,True
+ZETA DIVISION,Lotus,3,3,3,1.0,0.0698,True
+ZETA DIVISION,Abyss,2,2,1,0.5,0.0465,True
+ZETA DIVISION,Ascent,2,2,2,1.0,0.0465,True
+ZETA DIVISION,Corrode,1,1,1,1.0,0.0233,True
+ZETA DIVISION,Pearl,1,1,1,1.0,0.0233,True

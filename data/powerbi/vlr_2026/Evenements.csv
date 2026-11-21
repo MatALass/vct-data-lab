@@ -1,5 +1,16 @@
-Événement,Nom événement,Région,Ordre
-americas_stage_1,Americas Stage 1,Americas,1
-emea_stage_1,EMEA Stage 1,EMEA,2
-pacific_stage_1,Pacific Stage 1,Pacific,3
-china_stage_1,China Stage 1,China,4
+Événement,Nom événement,Région,Phase,Étape,Ordre
+americas_kickoff,Americas Kickoff,Americas,Kickoff,1. Kickoff,1
+emea_kickoff,EMEA Kickoff,EMEA,Kickoff,1. Kickoff,2
+china_kickoff,China Kickoff,China,Kickoff,1. Kickoff,3
+pacific_kickoff,Pacific Kickoff,Pacific,Kickoff,1. Kickoff,4
+masters_santiago,Masters Santiago,International,Masters,2. Masters Santiago,5
+china_stage_1,China Stage 1,China,Stage 1,3. Stage 1,6
+emea_stage_1,EMEA Stage 1,EMEA,Stage 1,3. Stage 1,7
+pacific_stage_1,Pacific Stage 1,Pacific,Stage 1,3. Stage 1,8
+americas_stage_1,Americas Stage 1,Americas,Stage 1,3. Stage 1,9
+masters_london,Masters London,International,Masters,4. Masters London,10
+china_stage_2,China Stage 2,China,Stage 2,5. Stage 2,11
+pacific_stage_2,Pacific Stage 2,Pacific,Stage 2,5. Stage 2,12
+emea_stage_2,EMEA Stage 2,EMEA,Stage 2,5. Stage 2,13
+americas_stage_2,Americas Stage 2,Americas,Stage 2,5. Stage 2,14
+champions,Champions,International,Champions,6. Champions,15

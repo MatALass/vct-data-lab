@@ -20,14 +20,14 @@
                 "Column": {
                   "Expression": {
                     "SourceRef": {
-                      "Entity": "Maps"
+                      "Entity": "Evenements"
                     }
                   },
-                  "Property": "Map"
+                  "Property": "Région"
                 }
               },
-              "queryRef": "Maps.Map",
-              "nativeQueryRef": "Map"
+              "queryRef": "Evenements.Région",
+              "nativeQueryRef": "Région"
             }
           ]
         }
@@ -60,7 +60,7 @@
             "text": {
               "expr": {
                 "Literal": {
-                  "Value": "'Map'"
+                  "Value": "'Région'"
                 }
               }
             }

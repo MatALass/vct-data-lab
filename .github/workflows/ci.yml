@@ -6,8 +6,9 @@ on:
   pull_request:
 
 env:
-  # Même commit que l'extra [powerbi] de pyproject.toml
-  PBIP_GENERATOR_REF: e68d603c4e244b6ff81e463ca44280c7cd061cd9
+  # Même commit que l'extra [powerbi] de pyproject.toml (branche feat/scatter-chart tant que la PR #12
+  # de pbip-generator n'est pas fusionnée)
+  PBIP_GENERATOR_REF: 9bcdc8849ba06d53c648cc8ee06e210799d5fa73
 
 jobs:
   tests:

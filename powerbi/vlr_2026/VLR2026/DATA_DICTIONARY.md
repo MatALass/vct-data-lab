@@ -1,19 +1,19 @@
 # Dictionnaire de données : VLR2026
 
-Généré par pbip-generator : 8 tables, 22 mesures, 12 relations.
+Généré par pbip-generator : 8 tables, 26 mesures, 12 relations.
 
 ## Tables
 
 | Table | Rôle | Source | Lignes | Colonnes | Mesures |
 |---|---|---|---:|---:|---:|
-| Compositions | faits | `Compositions.csv` | 464 | 8 | 4 |
-| Joueurs | faits | `Joueurs.csv` | 63 | 14 | 8 |
-| Paires | faits | `Paires.csv` | 4 640 | 5 | 2 |
-| Picks | faits | `Picks.csv` | 2 320 | 5 | 7 |
-| Agents | dimension | `Agents.csv` | 27 | 4 | 0 |
-| Equipes | dimension | `Equipes.csv` | 49 | 5 | 1 |
-| Evenements | dimension | `Evenements.csv` | 4 | 4 | 0 |
-| Maps | dimension | `Maps.csv` | 7 | 1 | 0 |
+| Compositions | faits | `Compositions.csv` | 3 164 | 10 | 6 |
+| Joueurs | faits | `Joueurs.csv` | 1 022 | 15 | 8 |
+| Paires | faits | `Paires.csv` | 31 640 | 6 | 3 |
+| Picks | faits | `Picks.csv` | 15 820 | 6 | 8 |
+| Agents | dimension | `Agents.csv` | 29 | 4 | 0 |
+| Equipes | dimension | `Equipes.csv` | 63 | 4 | 1 |
+| Evenements | dimension | `Evenements.csv` | 15 | 6 | 0 |
+| Maps | dimension | `Maps.csv` | 12 | 1 | 0 |
 
 ## Schéma du modèle
 
@@ -54,7 +54,6 @@ erDiagram
     }
     T3 }o--|| T4 : "Agent"
     T0 }o--|| T5 : "Équipe"
-    T1 }o--|| T5 : "Équipe"
     T0 }o--|| T6 : "Événement"
     T0 }o--|| T7 : "Map"
     T3 }o--|| T5 : "Équipe"
@@ -63,6 +62,7 @@ erDiagram
     T2 }o--|| T5 : "Équipe"
     T2 }o--|| T6 : "Événement"
     T2 }o--|| T7 : "Map"
+    T1 }o--|| T5 : "Équipe"
     T1 }o--|| T6 : "Événement"
 ```
 
@@ -83,6 +83,8 @@ erDiagram
 | Équipe | string |  | oui |
 | Adversaire | string |  | non |
 | Match | string |  | oui |
+| Résultat | string |  | non |
+| Victoire | int64 | `#,##0` | oui |
 | Agents | string |  | non |
 | Archétype | string |  | non |
 
@@ -95,6 +97,7 @@ erDiagram
 | Événement | string |  | oui |
 | Rôle joué | string |  | non |
 | Agents joués | string |  | non |
+| Maps | int64 | `#,##0` | oui |
 | Rounds | int64 | `#,##0` | oui |
 | Rating | double | `#,##0.00` | oui |
 | ACS | double | `#,##0.00` | oui |
@@ -114,6 +117,7 @@ erDiagram
 | Map | string |  | oui |
 | Équipe | string |  | oui |
 | Paire | string |  | non |
+| Victoire | int64 | `#,##0` | oui |
 
 ### Picks
 
@@ -124,6 +128,7 @@ erDiagram
 | Map | string |  | oui |
 | Équipe | string |  | oui |
 | Agent | string |  | oui |
+| Victoire | int64 | `#,##0` | oui |
 
 ### Agents
 
@@ -142,7 +147,6 @@ erDiagram
 | Région | string |  | non |
 | Profil tactique | string |  | non |
 | Score profil | double | `#,##0.00` | oui |
-| Taux de réutilisation | double | `#,##0.00` | oui |
 
 ### Evenements
 
@@ -151,6 +155,8 @@ erDiagram
 | Événement | string |  | oui |
 | Nom événement | string |  | non |
 | Région | string |  | non |
+| Phase | string |  | non |
+| Étape | string |  | non |
 | Ordre | int64 | `#,##0` | oui |
 
 ### Maps
@@ -165,7 +171,6 @@ erDiagram
 |---|---|---|
 | Picks[Agent] | Agents[Agent] | oui |
 | Compositions[Équipe] | Equipes[Équipe] | oui |
-| Joueurs[Équipe] | Equipes[Équipe] | oui |
 | Compositions[Événement] | Evenements[Événement] | oui |
 | Compositions[Map] | Maps[Map] | oui |
 | Picks[Équipe] | Equipes[Équipe] | oui |
@@ -174,6 +179,7 @@ erDiagram
 | Paires[Équipe] | Equipes[Équipe] | oui |
 | Paires[Événement] | Evenements[Événement] | oui |
 | Paires[Map] | Maps[Map] | oui |
+| Joueurs[Équipe] | Equipes[Équipe] | oui |
 | Joueurs[Événement] | Evenements[Événement] | oui |
 
 ## Mesures
@@ -184,8 +190,10 @@ erDiagram
 | Maps jouées | Compositions | Compositions | `#,##0` | Nombre de maps jouées ; une map compte deux compositions, une par équipe |
 | Compos différentes | Compositions | Compositions | `#,##0` | Nombre de combinaisons de cinq agents différentes |
 | Diversité des compos | Compositions | Compositions | `0 %` | Part de compositions différentes ; 100 % = jamais deux fois la même, bas = compo fixe |
-| Score profil tactique | Equipes | Équipes | `0.0` | Score de 0 à 100 du modèle de profils (stabilité des compos, pool d'agents, identité par map, fiabilité de l'échantillon), voir data/models/team_profile_scores.csv |
-| Joueurs | Joueurs | Joueurs | `#,##0` | Nombre de joueurs (EMEA Stage 1 uniquement) |
+| Winrate | Compositions | Compositions | `0 %` | Part des maps gagnées par les compositions sélectionnées (50 % sur toutes les maps, par construction) |
+| Couleur Winrate (masquée) | Compositions | Couleurs |  | Couleur de mise en évidence de Winrate |
+| Score profil tactique | Equipes | Équipes | `0.0` | Score de 0 à 100 du modèle de profils sur la saison (stabilité des compos, pool d'agents, identité par map, fiabilité de l'échantillon), voir data/models/team_profile_scores.csv |
+| Joueurs | Joueurs | Joueurs | `#,##0` | Nombre de joueurs différents |
 | Rounds joués | Joueurs | Joueurs | `#,##0` | Rounds joués par les joueurs sélectionnés |
 | Rating moyen | Joueurs | Joueurs | `0.00` | Rating vlr.gg pondéré par les rounds joués, pour qu'un remplaçant ne pèse pas autant qu'un titulaire |
 | ACS moyen | Joueurs | Joueurs | `0` | Average combat score pondéré par les rounds |
@@ -194,13 +202,15 @@ erDiagram
 | First kills - first deaths | Joueurs | Joueurs | `+0.00;-0.00;0.00` | Premiers kills moins premières morts, par round ; positif = gagne ses duels d'ouverture |
 | Couleur Rating moyen (masquée) | Joueurs | Couleurs |  | Couleur de mise en évidence de Rating moyen |
 | Pick rate paire | Paires | Paires | `0 %` | Part des compositions qui contiennent les deux agents de la paire |
-| Équipes (paire) | Paires | Paires | `#,##0` | Nombre d'équipes qui ont joué la paire ; une paire jouée par une seule équipe est une signature, pas une méta |
+| Winrate paire | Paires | Paires | `0 %` | Part des maps gagnées par les compositions qui contiennent la paire |
+| Équipes (paire) | Paires | Paires | `#,##0` | Nombre d'équipes qui ont joué la paire ; une paire jouée par peu d'équipes est une signature, pas une méta |
 | Pick rate | Picks | Agents | `0 %` | Part des compositions qui contiennent l'agent (ou au moins un agent du rôle), calculée sur les compositions du filtre en cours : le filtre agent ou rôle ne touche pas au dénominateur |
-| Pick rate toutes maps | Picks | Agents | `0 %` | Pick rate de l'agent sur toutes les maps, avec les autres filtres |
-| Écart à sa moyenne | Picks | Agents | `+0 %;-0 %;0 %` | Différence entre le pick rate sur la map et le pick rate toutes maps ; positif = agent de cette map |
+| Winrate de l'agent | Picks | Agents | `0 %` | Part des maps gagnées par les compositions qui contiennent l'agent |
+| Maps avec l'agent | Picks | Agents | `#,##0` | Nombre de compositions qui contiennent l'agent ; sert à écarter les winrates sur trop peu de maps |
 | Agents par compo | Picks | Agents | `0.00` | Nombre moyen d'agents du rôle par composition (ex. 1,3 duelliste par compo) |
 | Agents joués | Picks | Agents | `#,##0` | Nombre d'agents différents joués au moins une fois |
 | Équipes qui le jouent | Picks | Agents | `#,##0` | Nombre d'équipes qui ont joué l'agent au moins une fois |
+| Couleur Winrate de l'agent (masquée) | Picks | Couleurs |  | Couleur de mise en évidence de Winrate de l'agent |
 | Couleur Pick rate (masquée) | Picks | Couleurs |  | Couleur de mise en évidence de Pick rate |
 
 ### Compositions
@@ -235,6 +245,29 @@ Expression DAX (Compositions):
 DIVIDE([Compos différentes], [Compositions])
 ```
 
+### Winrate
+
+Expression DAX (Compositions):
+
+```dax
+AVERAGE(Compositions[Victoire])
+```
+
+### Couleur Winrate
+
+Expression DAX (Compositions):
+
+```dax
+VAR _v = [Winrate]
+RETURN SWITCH(
+    TRUE(),
+    ISBLANK(_v), BLANK(),
+    _v < 0.45, "#E03131",
+    _v < 0.55, "#F59F00",
+    "#12B886"
+)
+```
+
 ### Score profil tactique
 
 Expression DAX (Equipes):
@@ -248,7 +281,7 @@ AVERAGE(Equipes[Score profil])
 Expression DAX (Joueurs):
 
 ```dax
-COUNTROWS(Joueurs)
+DISTINCTCOUNT(Joueurs[Joueur])
 ```
 
 ### Rounds joués
@@ -322,6 +355,14 @@ Expression DAX (Paires):
 DIVIDE(DISTINCTCOUNT(Paires[CompID]), [Compositions])
 ```
 
+### Winrate paire
+
+Expression DAX (Paires):
+
+```dax
+DIVIDE(CALCULATE(DISTINCTCOUNT(Paires[CompID]), Paires[Victoire] = 1), DISTINCTCOUNT(Paires[CompID]))
+```
+
 ### Équipes (paire)
 
 Expression DAX (Paires):
@@ -338,20 +379,20 @@ Expression DAX (Picks):
 DIVIDE(DISTINCTCOUNT(Picks[CompID]), [Compositions])
 ```
 
-### Pick rate toutes maps
+### Winrate de l'agent
 
 Expression DAX (Picks):
 
 ```dax
-CALCULATE([Pick rate], REMOVEFILTERS(Maps))
+DIVIDE(CALCULATE(DISTINCTCOUNT(Picks[CompID]), Picks[Victoire] = 1), DISTINCTCOUNT(Picks[CompID]))
 ```
 
-### Écart à sa moyenne
+### Maps avec l'agent
 
 Expression DAX (Picks):
 
 ```dax
-[Pick rate] - [Pick rate toutes maps]
+DISTINCTCOUNT(Picks[CompID])
 ```
 
 ### Agents par compo
@@ -376,6 +417,21 @@ Expression DAX (Picks):
 
 ```dax
 DISTINCTCOUNT(Picks[Équipe])
+```
+
+### Couleur Winrate de l'agent
+
+Expression DAX (Picks):
+
+```dax
+VAR _v = [Winrate de l'agent]
+RETURN SWITCH(
+    TRUE(),
+    ISBLANK(_v), BLANK(),
+    _v < 0.45, "#E03131",
+    _v < 0.55, "#F59F00",
+    "#12B886"
+)
 ```
 
 ### Couleur Pick rate

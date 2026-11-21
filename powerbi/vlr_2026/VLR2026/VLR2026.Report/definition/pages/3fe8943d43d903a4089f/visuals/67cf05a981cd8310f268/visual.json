@@ -20,14 +20,14 @@
                 "Column": {
                   "Expression": {
                     "SourceRef": {
-                      "Entity": "Agents"
+                      "Entity": "Maps"
                     }
                   },
-                  "Property": "Rôle"
+                  "Property": "Map"
                 }
               },
-              "queryRef": "Agents.Rôle",
-              "nativeQueryRef": "Rôle"
+              "queryRef": "Maps.Map",
+              "nativeQueryRef": "Map"
             }
           ]
         }
@@ -60,7 +60,7 @@
             "text": {
               "expr": {
                 "Literal": {
-                  "Value": "'Rôle'"
+                  "Value": "'Map'"
                 }
               }
             }

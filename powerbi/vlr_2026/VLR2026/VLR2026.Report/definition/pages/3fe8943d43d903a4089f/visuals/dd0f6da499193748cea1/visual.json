@@ -23,11 +23,11 @@
                       "Entity": "Evenements"
                     }
                   },
-                  "Property": "Région"
+                  "Property": "Étape"
                 }
               },
-              "queryRef": "Evenements.Région",
-              "nativeQueryRef": "Région"
+              "queryRef": "Evenements.Étape",
+              "nativeQueryRef": "Étape"
             }
           ]
         }
@@ -60,7 +60,7 @@
             "text": {
               "expr": {
                 "Literal": {
-                  "Value": "'Région'"
+                  "Value": "'Étape'"
                 }
               }
             }

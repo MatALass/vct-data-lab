@@ -1,0 +1,167 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "6f0e2554a984045a08a0",
+  "position": {
+    "x": 16.0,
+    "y": 208,
+    "z": 8000,
+    "width": 616.0,
+    "height": 496,
+    "tabOrder": 8000
+  },
+  "visual": {
+    "visualType": "scatterChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Joueurs"
+                    }
+                  },
+                  "Property": "Joueur"
+                }
+              },
+              "queryRef": "Joueurs.Joueur",
+              "nativeQueryRef": "Joueur"
+            }
+          ]
+        },
+        "X": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Joueurs"
+                    }
+                  },
+                  "Property": "ACS moyen"
+                }
+              },
+              "queryRef": "Joueurs.ACS moyen",
+              "nativeQueryRef": "ACS moyen"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Joueurs"
+                    }
+                  },
+                  "Property": "Rating moyen"
+                }
+              },
+              "queryRef": "Joueurs.Rating moyen",
+              "nativeQueryRef": "Rating moyen"
+            }
+          ]
+        },
+        "Size": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Joueurs"
+                    }
+                  },
+                  "Property": "Rounds joués"
+                }
+              },
+              "queryRef": "Joueurs.Rounds joués",
+              "nativeQueryRef": "Rounds joués"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Rating et ACS par joueur (200 rounds minimum)'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "b71f532b61f079fa4014",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Joueurs"
+              }
+            },
+            "Property": "Rounds joués"
+          }
+        },
+        "type": "Advanced",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "t",
+              "Entity": "Joueurs",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "Comparison": {
+                  "ComparisonKind": 2,
+                  "Left": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Source": "t"
+                        }
+                      },
+                      "Property": "Rounds joués"
+                    }
+                  },
+                  "Right": {
+                    "Literal": {
+                      "Value": "200L"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "howCreated": "User"
+      }
+    ]
+  }
+}

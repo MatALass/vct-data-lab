@@ -1,64 +1,1023 @@
-Joueur,Équipe,Événement,Rôle joué,Agents joués,Rounds,Rating,ACS,KD,KAST,ADR,FKPR,FDPR,HS
-Ruxic,Natus Vincere,emea_stage_1,Controller,"Astra, Omen, Brimstone",281,1.2,228.8,1.23,0.75,148.0,0.09,0.06,0.25
-Boaster,FNATIC,emea_stage_1,Controller,"Harbor, Brimstone, Omen",253,1.11,177.8,1.1,0.76,113.0,0.08,0.05,0.3
-Boo,Team Heretics,emea_stage_1,Controller,"Astra, Omen, Brimstone",243,1.04,164.5,0.98,0.71,103.4,0.07,0.08,0.33
-sociablEE,FUT Esports,emea_stage_1,Controller,"Astra, Brimstone, Omen",281,1.03,196.1,0.95,0.7,125.2,0.1,0.08,0.27
-GLYPH,Gentle Mates,emea_stage_1,Controller,"Astra, Brimstone, Omen",256,1.03,189.2,0.97,0.77,120.0,0.06,0.05,0.26
-dos9,Karmine Corp,emea_stage_1,Controller,"Omen, Astra, Neon",273,1.01,190.5,1.02,0.69,117.0,0.07,0.08,0.25
-PROFEK,Team Vitality,emea_stage_1,Controller,"Omen, Astra, Harbor",224,0.96,175.5,0.95,0.75,113.8,0.09,0.06,0.24
-benjyfishy,Team Heretics,emea_stage_1,Controller,"Harbor, Viper, Cypher",243,0.95,180.1,0.95,0.75,119.6,0.09,0.09,0.28
-grubinho,GIANTX,emea_stage_1,Controller,"Omen, Astra, Brimstone",278,0.95,170.3,0.89,0.74,112.9,0.05,0.05,0.27
-wayne,Team Liquid,emea_stage_1,Controller,"Omen, Astra, Brimstone",244,0.94,162.9,0.88,0.77,107.6,0.06,0.07,0.31
-audaz,Eternal Fire,emea_stage_1,Controller,"Astra, Brimstone, Omen",275,0.92,159.3,0.88,0.74,105.7,0.04,0.07,0.39
-Loita,BBL Esports,emea_stage_1,Controller,"Omen, Astra, Brimstone",249,0.87,163.6,0.78,0.67,108.2,0.07,0.11,0.32
-qpert,PCIFIC Esports,emea_stage_1,Controller,"Astra, Omen",261,0.87,159.0,0.82,0.75,105.9,0.05,0.05,0.28
-CyvOph,FNATIC,emea_stage_1,Duelist,Phoenix,34,1.47,255.5,2.13,0.88,176.5,0.12,0.06,0.31
-kaajak,FNATIC,emea_stage_1,Duelist,"Neon, Waylay",253,1.16,241.8,1.3,0.72,156.3,0.19,0.15,0.3
-Favian,Eternal Fire,emea_stage_1,Duelist,"KAY/O, Waylay, Raze",275,1.14,223.5,1.17,0.69,145.1,0.11,0.08,0.28
-Alfajer,FNATIC,emea_stage_1,Duelist,"Iso, Waylay, Killjoy",253,1.11,231.3,1.2,0.7,152.5,0.14,0.13,0.36
-MiniBoo,Team Liquid,emea_stage_1,Duelist,Neon,244,1.11,228.9,1.25,0.7,143.9,0.18,0.18,0.27
-marteen,Gentle Mates,emea_stage_1,Duelist,"Phoenix, Waylay, Veto",256,1.08,219.4,1.07,0.73,148.9,0.13,0.13,0.25
-Derke,Team Vitality,emea_stage_1,Duelist,"Neon, Jett",224,1.07,233.2,1.15,0.74,142.4,0.21,0.14,0.2
-kamo,Team Liquid,emea_stage_1,Duelist,"Phoenix, KAY/O, Raze",244,1.07,224.8,1.16,0.75,147.5,0.12,0.06,0.32
-ara,GIANTX,emea_stage_1,Duelist,"Neon, Waylay",278,1.05,212.0,1.12,0.71,132.4,0.17,0.15,0.28
-Wo0t,Team Heretics,emea_stage_1,Duelist,"Neon, Phoenix, Raze",243,1.04,212.5,1.05,0.72,142.6,0.17,0.13,0.29
-s0pp,FUT Esports,emea_stage_1,Duelist,Neon,281,1.0,212.1,1.04,0.73,136.3,0.2,0.15,0.23
-Filu,Natus Vincere,emea_stage_1,Duelist,"Chamber, Raze, Neon",281,1.0,190.8,1.01,0.69,128.2,0.12,0.12,0.3
-xeus,FUT Esports,emea_stage_1,Duelist,"Waylay, Raze, Jett",281,0.99,212.4,1.09,0.7,142.1,0.11,0.1,0.36
-Lar0k,BBL Esports,emea_stage_1,Duelist,"Neon, KAY/O, Raze",249,0.98,203.1,0.99,0.69,131.6,0.08,0.11,0.25
-LewN,Karmine Corp,emea_stage_1,Duelist,"Jett, Waylay, Phoenix",273,0.97,212.2,0.99,0.7,140.8,0.15,0.14,0.36
-Izzy,Eternal Fire,emea_stage_1,Duelist,"Jett, Neon",275,0.97,202.1,1.04,0.69,124.8,0.16,0.16,0.22
-westside,GIANTX,emea_stage_1,Duelist,"Phoenix, Cypher, Waylay",278,0.95,196.1,0.99,0.72,129.8,0.13,0.14,0.4
-lovers,(équipe non reconnue),emea_stage_1,Duelist,"Waylay, Jett, Neon",249,0.9,186.1,0.91,0.61,120.5,0.13,0.14,0.19
-seven,PCIFIC Esports,emea_stage_1,Duelist,"Raze, KAY/O, Neon",261,0.89,195.6,0.87,0.68,132.6,0.15,0.18,0.21
-cNed,PCIFIC Esports,emea_stage_1,Duelist,"Waylay, Jett, Chamber",261,0.87,183.3,0.89,0.63,121.8,0.11,0.15,0.29
-bipo,Gentle Mates,emea_stage_1,Duelist,Neon,256,0.74,168.0,0.75,0.7,104.3,0.13,0.17,0.19
-Kolosha,Natus Vincere,emea_stage_1,Duelist,"Waylay, Neon",129,0.65,156.7,0.63,0.62,108.0,0.12,0.21,0.23
-Sayonara,Team Vitality,emea_stage_1,Flex,"Viper, Sova, Raze",224,1.07,214.8,1.16,0.71,143.7,0.09,0.08,0.28
-koshmaras,Team Heretics,emea_stage_1,Flex,"Chamber, Neon",177,1.06,237.6,1.14,0.73,140.2,0.11,0.13,0.15
-Veqaj,FNATIC,emea_stage_1,Flex,"Viper, KAY/O",161,1.06,213.7,1.08,0.75,138.4,0.12,0.06,0.34
-Flickless,GIANTX,emea_stage_1,Flex,"Cypher, Fade, Viper",278,1.06,194.7,1.02,0.71,134.5,0.08,0.08,0.27
-Minny,Gentle Mates,emea_stage_1,Flex,"Cypher, Viper, Breach",256,1.04,182.3,1.01,0.7,123.6,0.07,0.08,0.33
-echo,Eternal Fire,emea_stage_1,Flex,"Cypher, Viper, Veto",275,1.01,217.8,1.1,0.67,142.6,0.12,0.14,0.32
-al0rante,PCIFIC Esports,emea_stage_1,Flex,"Viper, Veto, Vyse",261,0.94,186.2,0.97,0.66,127.0,0.1,0.1,0.43
-ComeBack,Natus Vincere,emea_stage_1,Flex,"Chamber, Neon",218,0.9,195.2,0.97,0.66,127.8,0.18,0.13,0.24
-Desmo,FNATIC,emea_stage_1,Flex,"Phoenix, Viper, KAY/O",58,0.83,166.0,0.83,0.72,98.2,0.07,0.16,0.42
-purp0,Team Liquid,emea_stage_1,Initiator,"Skye, Fade, Sova",244,1.13,189.2,1.26,0.8,122.9,0.07,0.05,0.4
-RieNs,Team Heretics,emea_stage_1,Initiator,"Skye, Sova, Fade",243,1.12,216.9,1.1,0.78,142.6,0.09,0.05,0.36
-crashies,FNATIC,emea_stage_1,Initiator,"Sova, Skye, Fade",253,1.1,173.1,1.23,0.74,111.9,0.04,0.04,0.28
-hiro,Natus Vincere,emea_stage_1,Initiator,"Tejo, Viper, Fade",281,1.08,217.3,1.11,0.69,146.4,0.06,0.09,0.31
-Jamppi,Team Vitality,emea_stage_1,Initiator,"Sova, KAY/O, Fade",224,1.02,195.5,1.05,0.75,120.2,0.08,0.08,0.32
-NINJA,PCIFIC Esports,emea_stage_1,Initiator,"Fade, Sova, Tejo",261,0.97,174.3,0.98,0.71,117.2,0.05,0.07,0.32
-KROSTALY,FUT Esports,emea_stage_1,Initiator,"Fade, Skye, Sova",281,0.95,169.8,0.91,0.73,113.5,0.05,0.06,0.27
-chloric,Natus Vincere,emea_stage_1,Initiator,"Sova, Fade, Skye",281,0.94,168.2,0.92,0.72,112.5,0.05,0.08,0.2
-nekky,Eternal Fire,emea_stage_1,Initiator,"Sova, Skye, Fade",275,0.91,176.4,0.92,0.68,119.9,0.07,0.05,0.29
-N4RRATE,Karmine Corp,emea_stage_1,Initiator,"Fade, Veto, Gekko",273,0.89,183.0,0.85,0.74,123.4,0.07,0.08,0.28
-Cloud,GIANTX,emea_stage_1,Initiator,"Sova, Tejo, Skye",278,0.88,172.2,0.84,0.75,117.8,0.08,0.07,0.26
-starxo,Gentle Mates,emea_stage_1,Initiator,"Fade, Skye, Sova",256,0.85,177.3,0.83,0.7,117.0,0.07,0.1,0.26
-Rosé,BBL Esports,emea_stage_1,Initiator,"Skye, Sova, Fade",249,0.81,153.5,0.78,0.61,107.4,0.07,0.11,0.29
-Avez,Karmine Corp,emea_stage_1,Initiator,"Tejo, KAY/O, Omen",273,0.76,157.3,0.73,0.66,102.7,0.09,0.14,0.31
-yetujey,FUT Esports,emea_stage_1,Sentinel,"Killjoy, Viper, Cypher",281,1.09,190.5,1.1,0.73,133.1,0.08,0.07,0.28
-nAts,Team Liquid,emea_stage_1,Sentinel,"Killjoy, Viper, Cypher",244,1.08,223.2,1.17,0.73,150.7,0.1,0.11,0.24
-Crewen,BBL Esports,emea_stage_1,Sentinel,"Viper, Cypher, Vyse",249,0.98,194.8,0.93,0.61,131.3,0.08,0.08,0.35
-Chronicle,Team Vitality,emea_stage_1,Sentinel,"Killjoy, Chamber, Viper",224,0.97,184.9,1.01,0.72,129.2,0.07,0.08,0.22
-SUYGETSU,Karmine Corp,emea_stage_1,Sentinel,"Vyse, Cypher, Astra",273,0.95,180.1,0.95,0.69,118.6,0.08,0.1,0.29
+Joueur,Équipe,Événement,Rôle joué,Agents joués,Maps,Rounds,Rating,ACS,KD,KAST,ADR,FKPR,FDPR,HS
+Asuna,100 Thieves,americas_kickoff,Flex,"Sage, KAY/O, Brimstone",20,440,0.97,172.0,0.89,0.76,107.1,0.052,0.077,0.22
+Cryocells,100 Thieves,americas_kickoff,Sentinel,"Chamber, Veto, Viper",20,440,1.1,217.0,1.22,0.73,141.2,0.139,0.095,0.29
+Timotino,100 Thieves,americas_kickoff,Duelist,"Waylay, Neon, Jett",20,440,0.93,220.0,0.95,0.67,145.3,0.193,0.191,0.28
+bang,100 Thieves,americas_kickoff,Controller,"Viper, Omen, Astra",20,440,1.1,189.0,1.1,0.75,122.3,0.055,0.061,0.36
+vora,100 Thieves,americas_kickoff,Initiator,"Fade, Skye, Tejo",20,440,0.99,189.0,0.95,0.74,125.1,0.068,0.068,0.29
+OXY,Cloud9,americas_kickoff,Duelist,"Chamber, Neon, Jett",11,230,1.06,230.0,1.15,0.68,144.7,0.213,0.165,0.27
+Xeppaa,Cloud9,americas_kickoff,Initiator,"Sova, Skye, Tejo",16,350,1.04,195.0,1.04,0.76,127.6,0.04,0.043,0.25
+Zellsis,Cloud9,americas_kickoff,Initiator,"KAY/O, Viper, Breach",16,350,0.83,149.0,0.71,0.72,93.3,0.054,0.077,0.18
+penny,Cloud9,americas_kickoff,Sentinel,"Raze, Neon, Viper",16,350,0.95,196.0,0.99,0.7,128.0,0.111,0.16,0.21
+v1c,Cloud9,americas_kickoff,Controller,"Astra, Omen, Viper",16,350,1.08,198.0,1.1,0.77,127.3,0.083,0.08,0.27
+Demon1,ENVY,americas_kickoff,Flex,"Chamber, Jett, Astra",7,168,1.13,237.0,1.23,0.73,156.1,0.131,0.125,0.37
+Eggsterr,ENVY,americas_kickoff,Duelist,Yoru,13,304,0.85,181.0,0.88,0.69,115.5,0.109,0.138,0.27
+Inspire,ENVY,americas_kickoff,Sentinel,"Viper, Astra, Killjoy",11,256,1.09,203.0,1.11,0.69,136.3,0.082,0.086,0.33
+P0PPIN,ENVY,americas_kickoff,Initiator,"Sova, Fade, Skye",13,304,0.83,180.0,0.84,0.7,114.6,0.109,0.086,0.29
+Rossy,ENVY,americas_kickoff,Controller,"Omen, Viper, Astra",13,304,1.02,188.0,1.02,0.7,120.8,0.053,0.056,0.25
+keznit,ENVY,americas_kickoff,Duelist,"Waylay, Neon, Jett",13,304,1.01,213.0,1.04,0.72,138.5,0.145,0.141,0.27
+C0M,Evil Geniuses,americas_kickoff,Initiator,"Sova, Fade",11,256,0.9,161.0,0.84,0.7,110.0,0.062,0.078,0.21
+Okeanos,Evil Geniuses,americas_kickoff,Flex,"Breach, Yoru, Waylay",11,256,0.88,174.0,0.92,0.67,111.5,0.09,0.113,0.34
+bao,Evil Geniuses,americas_kickoff,Sentinel,"Killjoy, Veto, Omen",11,256,0.96,193.0,0.93,0.71,132.5,0.066,0.102,0.28
+dgzin,Evil Geniuses,americas_kickoff,Duelist,"Yoru, Waylay, Neon",11,256,1.22,241.0,1.36,0.73,155.5,0.207,0.133,0.28
+supamen,Evil Geniuses,americas_kickoff,Flex,"Viper, Astra",11,256,1.04,185.0,1.0,0.73,124.2,0.09,0.051,0.37
+alym,FURIA,americas_kickoff,Duelist,"Waylay, Yoru, Neon",13,261,0.93,196.0,0.99,0.72,124.3,0.176,0.142,0.29
+artzin,FURIA,americas_kickoff,Controller,"Astra, Omen, KAY/O",13,261,1.06,190.0,1.11,0.75,123.2,0.073,0.077,0.3
+eeiu,FURIA,americas_kickoff,Initiator,"Sova, Fade",13,261,1.05,175.0,1.1,0.74,117.6,0.046,0.054,0.26
+koalanoob,FURIA,americas_kickoff,Flex,"Yoru, Omen, Jett",13,261,1.16,238.0,1.24,0.73,148.7,0.195,0.153,0.24
+nerve,FURIA,americas_kickoff,Flex,"Viper, Tejo, Astra",13,261,0.93,169.0,0.92,0.73,114.8,0.042,0.042,0.21
+BABYBAY,G2 Esports,americas_kickoff,Sentinel,"Chamber, Viper, Yoru",13,255,1.1,218.0,1.21,0.72,141.0,0.149,0.11,0.19
+jawgemo,G2 Esports,americas_kickoff,Duelist,"Waylay, Phoenix, Neon",13,255,0.85,196.0,0.85,0.71,127.5,0.18,0.18,0.2
+leaf,G2 Esports,americas_kickoff,Initiator,"Viper, Breach, Fade",13,255,1.04,202.0,1.09,0.73,134.7,0.075,0.09,0.25
+trent,G2 Esports,americas_kickoff,Initiator,"Skye, Fade, Tejo",13,255,1.09,193.0,1.11,0.76,129.0,0.047,0.047,0.28
+valyn,G2 Esports,americas_kickoff,Controller,"Astra, Brimstone, Omen",13,255,1.18,227.0,1.27,0.79,145.3,0.086,0.035,0.27
+Governor,KRÜ Esports,americas_kickoff,Initiator,"Sova, Fade, Skye",8,164,0.71,150.0,0.65,0.63,100.6,0.049,0.122,0.24
+NagZ,KRÜ Esports,americas_kickoff,Sentinel,"Viper, Killjoy, Chamber",8,164,0.95,156.0,0.83,0.66,111.5,0.055,0.098,0.27
+benG,KRÜ Esports,americas_kickoff,Controller,"Astra, Viper, Omen",8,164,0.89,167.0,0.78,0.66,103.5,0.073,0.061,0.32
+infiltrator,KRÜ Esports,americas_kickoff,Duelist,"Neon, Yoru, Jett",8,164,0.86,208.0,0.84,0.68,133.4,0.14,0.189,0.27
+mta,KRÜ Esports,americas_kickoff,Flex,"Yoru, KAY/O, Waylay",8,164,0.94,188.0,0.91,0.7,114.7,0.11,0.104,0.29
+Neon,LEVIATÁN,americas_kickoff,Duelist,"Yoru, Chamber, Jett",6,127,1.14,208.0,1.26,0.75,135.3,0.22,0.094,0.25
+PxS,LEVIATÁN,americas_kickoff,Sentinel,"Viper, Chamber",5,104,1.01,174.0,0.98,0.67,116.8,0.087,0.058,0.23
+Sato,LEVIATÁN,americas_kickoff,Duelist,"Waylay, Yoru",11,231,0.9,195.0,0.96,0.67,130.8,0.134,0.203,0.31
+blowz,LEVIATÁN,americas_kickoff,Initiator,"Fade, Tejo, Sova",11,231,0.93,174.0,0.94,0.71,114.8,0.035,0.052,0.26
+kiNgg,LEVIATÁN,americas_kickoff,Controller,"Brimstone, Omen, Astra",11,231,1.01,190.0,1.03,0.68,120.5,0.061,0.078,0.33
+spike,LEVIATÁN,americas_kickoff,Flex,"Viper, Waylay, KAY/O",11,231,0.81,176.0,0.79,0.69,112.8,0.104,0.095,0.26
+Darker,LOUD,americas_kickoff,Initiator,"Viper, KAY/O, Tejo",7,146,0.92,191.0,0.88,0.69,120.4,0.096,0.089,0.24
+Virtyy,LOUD,americas_kickoff,Duelist,"Yoru, Jett, Neon",7,146,0.75,175.0,0.82,0.64,107.7,0.089,0.171,0.21
+cauanzin,LOUD,americas_kickoff,Initiator,"Sova, Fade",7,146,0.79,168.0,0.77,0.71,109.8,0.048,0.11,0.24
+lukxo,LOUD,americas_kickoff,Sentinel,"Killjoy, Chamber, Viper",7,146,1.13,230.0,1.21,0.71,151.2,0.13,0.178,0.31
+pANcada,LOUD,americas_kickoff,Controller,"Astra, Omen, Harbor",7,146,0.87,157.0,0.78,0.76,110.8,0.055,0.034,0.3
+Mazino,MIBR,americas_kickoff,Controller,"KAY/O, Omen, Astra",18,364,0.97,197.0,0.96,0.69,129.5,0.071,0.091,0.27
+Verno,MIBR,americas_kickoff,Initiator,"Sova, Fade",18,364,1.09,205.0,1.13,0.79,134.5,0.071,0.052,0.29
+aspas,MIBR,americas_kickoff,Duelist,"Jett, Raze, Waylay",18,364,0.98,196.0,1.11,0.7,130.7,0.132,0.135,0.26
+tex,MIBR,americas_kickoff,Sentinel,"Viper, Killjoy, Cypher",18,364,0.82,167.0,0.84,0.69,108.4,0.085,0.113,0.3
+zekken,MIBR,americas_kickoff,Flex,"Yoru, Omen, Astra",18,364,1.03,203.0,1.01,0.75,131.1,0.137,0.113,0.27
+Ethan,NRG,americas_kickoff,Initiator,"Tejo, Skye, Astra",16,319,0.89,171.0,0.83,0.71,115.1,0.107,0.113,0.24
+brawk,NRG,americas_kickoff,Initiator,"Sova, Tejo",16,319,1.09,193.0,1.08,0.71,131.0,0.069,0.056,0.21
+keiko,NRG,americas_kickoff,Controller,"Omen, Killjoy, Astra",16,319,1.07,198.0,1.09,0.73,127.8,0.085,0.075,0.36
+mada,NRG,americas_kickoff,Duelist,"Waylay, Yoru, Neon",16,319,1.08,220.0,1.16,0.71,138.8,0.194,0.157,0.3
+skuba,NRG,americas_kickoff,Sentinel,"Viper, Astra, Killjoy",16,319,1.07,187.0,1.09,0.76,127.2,0.078,0.066,0.3
+Kyu,Sentinels,americas_kickoff,Initiator,"Skye, Sova, Fade",8,190,0.9,176.0,0.86,0.68,114.0,0.053,0.089,0.21
+N4RRATE,Sentinels,americas_kickoff,Duelist,"Waylay, Neon, Chamber",8,190,0.8,187.0,0.79,0.69,124.3,0.137,0.142,0.22
+Reduxx,Sentinels,americas_kickoff,Flex,"Yoru, Waylay, Omen",8,190,0.95,193.0,0.96,0.67,127.4,0.179,0.168,0.33
+cortezia,Sentinels,americas_kickoff,Sentinel,"Viper, Astra, Killjoy",8,190,0.85,177.0,0.85,0.67,126.2,0.074,0.079,0.31
+johnqt,Sentinels,americas_kickoff,Controller,"Omen, Astra, Tejo",8,190,1.28,215.0,1.39,0.79,141.9,0.042,0.026,0.31
+Asuna,100 Thieves,americas_stage_1,Sentinel,"Neon, Phoenix, Sage",21,440,1.03,207.0,1.01,0.74,135.1,0.114,0.13,0.2
+Cryocells,100 Thieves,americas_stage_1,Sentinel,"Cypher, Viper, Chamber",21,440,1.07,205.0,1.16,0.71,132.5,0.089,0.082,0.22
+Timotino,100 Thieves,americas_stage_1,Duelist,"Neon, Phoenix, Raze",21,440,1.01,223.0,1.02,0.68,145.3,0.191,0.18,0.23
+bang,100 Thieves,americas_stage_1,Controller,"Omen, Harbor, Astra",21,440,1.08,187.0,1.07,0.75,117.6,0.057,0.05,0.33
+vora,100 Thieves,americas_stage_1,Initiator,"Sova, Fade, Skye",21,440,0.92,168.0,0.91,0.73,116.4,0.045,0.064,0.25
+Jackk,Cloud9,americas_stage_1,Initiator,"Fade, Sova",5,100,0.9,170.0,0.83,0.73,117.4,0.03,0.07,0.29
+Notexxd,Cloud9,americas_stage_1,Controller,Omen,2,41,1.02,197.0,1.0,0.8,122.7,0.049,0.049,0.23
+OXY,Cloud9,americas_stage_1,Duelist,"Neon, Raze",12,253,1.05,240.0,1.04,0.7,149.4,0.158,0.209,0.24
+Xeppaa,Cloud9,americas_stage_1,Flex,"Skye, Sova, Raze",12,253,0.88,187.0,0.81,0.69,126.1,0.055,0.087,0.24
+Zellsis,Cloud9,americas_stage_1,Sentinel,"Viper, Tejo, Killjoy",12,253,0.83,172.0,0.79,0.69,115.3,0.087,0.099,0.19
+penny,Cloud9,americas_stage_1,Sentinel,"Viper, Chamber, Vyse",7,153,0.94,198.0,1.0,0.68,124.8,0.092,0.092,0.19
+v1c,Cloud9,americas_stage_1,Controller,"Omen, Astra, Viper",10,212,0.99,179.0,0.91,0.74,120.4,0.071,0.09,0.31
+Demon1,ENVY,americas_stage_1,Sentinel,"Chamber, Veto, Jett",12,231,0.99,198.0,1.04,0.67,129.6,0.104,0.126,0.46
+Eggsterr,ENVY,americas_stage_1,Flex,"Omen, Phoenix, Brimstone",12,231,0.72,172.0,0.71,0.66,107.5,0.126,0.113,0.3
+P0PPIN,ENVY,americas_stage_1,Initiator,"Sova, Skye, Fade",12,231,0.89,178.0,0.81,0.67,117.2,0.039,0.108,0.18
+Rossy,ENVY,americas_stage_1,Flex,"Viper, Astra, Tejo",12,231,1.07,202.0,1.01,0.72,135.5,0.039,0.065,0.28
+keznit,ENVY,americas_stage_1,Duelist,"Neon, Raze, Waylay",12,231,0.97,222.0,1.03,0.69,143.3,0.156,0.121,0.21
+C0M,Evil Geniuses,americas_stage_1,Initiator,"Sova, Fade, Skye",9,192,0.76,150.0,0.67,0.65,106.0,0.042,0.073,0.21
+Okeanos,Evil Geniuses,americas_stage_1,Flex,"Omen, Waylay, KAY/O",9,192,0.85,176.0,0.77,0.64,120.7,0.057,0.099,0.36
+Paincakes,Evil Geniuses,americas_stage_1,Initiator,"Sova, Fade, Skye",3,67,0.98,185.0,0.86,0.69,120.7,0.0,0.075,0.3
+bao,Evil Geniuses,americas_stage_1,Sentinel,"Killjoy, Vyse, Brimstone",12,259,0.86,180.0,0.79,0.68,121.3,0.085,0.1,0.31
+dgzin,Evil Geniuses,americas_stage_1,Duelist,"Neon, Chamber",12,259,1.03,227.0,1.08,0.68,143.6,0.178,0.201,0.36
+supamen,Evil Geniuses,americas_stage_1,Controller,"Viper, Astra, Omen",12,259,0.88,175.0,0.85,0.68,116.8,0.077,0.093,0.34
+zerona,Evil Geniuses,americas_stage_1,Sentinel,"Viper, Phoenix",3,67,0.96,216.0,0.94,0.72,143.0,0.119,0.06,0.27
+alym,FURIA,americas_stage_1,Flex,"Neon, Harbor, Phoenix",18,360,0.91,216.0,0.97,0.67,133.4,0.167,0.208,0.2
+artzin,FURIA,americas_stage_1,Sentinel,"Vyse, Killjoy, Cypher",18,360,1.07,213.0,1.1,0.71,142.5,0.072,0.075,0.24
+eeiu,FURIA,americas_stage_1,Initiator,"Fade, Sova",18,360,0.95,182.0,0.93,0.65,120.1,0.081,0.044,0.27
+koalanoob,FURIA,americas_stage_1,Flex,"Phoenix, Omen, Jett",18,360,0.84,184.0,0.82,0.68,120.4,0.125,0.119,0.23
+nerve,FURIA,americas_stage_1,Controller,"Viper, Astra, Omen",18,360,0.92,169.0,0.89,0.71,115.3,0.036,0.072,0.28
+BABYBAY,G2 Esports,americas_stage_1,Sentinel,"Vyse, Chamber",28,608,1.07,211.0,1.08,0.76,139.1,0.104,0.074,0.22
+jawgemo,G2 Esports,americas_stage_1,Duelist,"Neon, Raze, Yoru",28,608,0.95,209.0,0.98,0.69,135.3,0.15,0.174,0.19
+leaf,G2 Esports,americas_stage_1,Flex,"Phoenix, Viper, Astra",28,608,1.01,200.0,1.01,0.71,132.6,0.097,0.13,0.24
+trent,G2 Esports,americas_stage_1,Initiator,"Fade, Sova",28,608,1.14,201.0,1.12,0.77,138.5,0.056,0.053,0.31
+valyn,G2 Esports,americas_stage_1,Controller,"Astra, Harbor, Omen",28,608,1.08,198.0,1.11,0.74,126.9,0.081,0.082,0.26
+Dantedeu5,KRÜ Esports,americas_stage_1,Duelist,Neon,16,335,0.81,186.0,0.84,0.68,117.8,0.158,0.176,0.23
+Less,KRÜ Esports,americas_stage_1,Sentinel,"Viper, Cypher",16,335,1.21,240.0,1.35,0.72,155.6,0.122,0.093,0.28
+mwzera,KRÜ Esports,americas_stage_1,Initiator,"Fade, Sova",16,335,1.09,199.0,1.07,0.76,133.9,0.057,0.03,0.21
+saadhak,KRÜ Esports,americas_stage_1,Controller,"Omen, Brimstone, Harbor",16,335,1.11,211.0,1.11,0.71,135.2,0.113,0.11,0.24
+silentzz,KRÜ Esports,americas_stage_1,Flex,"Vyse, Phoenix, KAY/O",16,335,0.88,170.0,0.87,0.7,113.6,0.087,0.054,0.27
+Neon,LEVIATÁN,americas_stage_1,Controller,"Chamber, Brimstone, Omen",26,543,1.25,224.0,1.45,0.77,147.1,0.127,0.09,0.25
+Sato,LEVIATÁN,americas_stage_1,Flex,"Phoenix, Waylay, Omen",26,543,1.06,222.0,1.09,0.74,144.9,0.138,0.094,0.34
+blowz,LEVIATÁN,americas_stage_1,Initiator,"Sova, Fade, Skye",26,543,1.06,180.0,1.09,0.78,125.1,0.05,0.031,0.31
+kiNgg,LEVIATÁN,americas_stage_1,Flex,"Viper, Astra, Breach",26,543,1.01,172.0,1.1,0.78,112.1,0.063,0.039,0.27
+spike,LEVIATÁN,americas_stage_1,Flex,"Neon, Omen",26,543,0.93,229.0,1.03,0.72,143.4,0.199,0.169,0.23
+Bati,LOUD,americas_stage_1,Flex,"Omen, KAY/O",7,152,0.7,140.0,0.61,0.66,89.9,0.033,0.112,0.2
+Darker,LOUD,americas_stage_1,Sentinel,"Astra, Vyse, Viper",15,311,0.98,205.0,0.92,0.71,134.5,0.074,0.071,0.25
+Virtyy,LOUD,americas_stage_1,Duelist,"Neon, Raze, Jett",15,311,0.81,181.0,0.79,0.67,118.0,0.145,0.167,0.2
+cauanzin,LOUD,americas_stage_1,Initiator,"Sova, Fade, Skye",15,311,0.96,174.0,0.88,0.69,117.0,0.064,0.058,0.2
+erde,LOUD,americas_stage_1,Controller,"Omen, Astra, KAY/O",8,159,1.13,216.0,1.1,0.73,139.1,0.088,0.101,0.26
+lukxo,LOUD,americas_stage_1,Sentinel,"Viper, Chamber, Harbor",15,311,1.07,217.0,1.07,0.67,141.7,0.135,0.119,0.25
+Mazino,MIBR,americas_stage_1,Controller,"Omen, Astra, Harbor",15,323,0.94,183.0,0.9,0.7,121.7,0.068,0.099,0.22
+Verno,MIBR,americas_stage_1,Initiator,"Fade, Skye, Sage",15,323,1.02,180.0,0.98,0.72,120.0,0.062,0.068,0.28
+aspas,MIBR,americas_stage_1,Duelist,"Jett, Raze",15,323,1.09,211.0,1.11,0.72,141.7,0.139,0.077,0.25
+tex,MIBR,americas_stage_1,Sentinel,"Vyse, Astra, Chamber",15,323,0.86,169.0,0.85,0.66,116.1,0.077,0.087,0.34
+zekken,MIBR,americas_stage_1,Flex,"Neon, Phoenix, Sova",15,323,1.02,226.0,1.05,0.68,139.0,0.167,0.155,0.2
+Ethan,NRG,americas_stage_1,Initiator,"Fade, KAY/O, Tejo",23,489,1.0,186.0,0.93,0.74,123.8,0.08,0.067,0.24
+brawk,NRG,americas_stage_1,Flex,"Sova, Vyse, Brimstone",23,489,1.24,223.0,1.28,0.79,146.6,0.072,0.039,0.18
+keiko,NRG,americas_stage_1,Flex,"Omen, Jett, Phoenix",23,489,1.08,215.0,1.12,0.72,141.9,0.119,0.106,0.3
+mada,NRG,americas_stage_1,Flex,"Neon, Harbor, Waylay",23,489,0.98,201.0,1.03,0.7,126.4,0.166,0.184,0.22
+skuba,NRG,americas_stage_1,Sentinel,"Viper, Cypher, Astra",23,489,0.92,173.0,0.92,0.72,113.9,0.082,0.086,0.23
+Jerrwin,Sentinels,americas_stage_1,Duelist,Neon,10,231,0.82,195.0,0.88,0.65,124.0,0.182,0.186,0.17
+JonahP,Sentinels,americas_stage_1,Initiator,"Sova, Fade, Skye",12,274,0.88,180.0,0.85,0.7,125.7,0.058,0.102,0.23
+Reduxx,Sentinels,americas_stage_1,Flex,"Omen, Iso, Raze",12,274,1.06,220.0,1.06,0.71,139.6,0.095,0.073,0.27
+Victor,Sentinels,americas_stage_1,Duelist,"Raze, Neon",2,43,0.7,192.0,0.76,0.56,121.0,0.233,0.209,0.11
+cortezia,Sentinels,americas_stage_1,Sentinel,"Viper, Killjoy, Veto",12,274,1.15,215.0,1.21,0.72,139.0,0.117,0.091,0.29
+johnqt,Sentinels,americas_stage_1,Sentinel,"Viper, Harbor, Sage",12,274,0.95,166.0,0.91,0.66,110.1,0.022,0.062,0.24
+Asuna,100 Thieves,americas_stage_2,Flex,"Phoenix, Omen",21,449,1.19,243.0,1.22,0.77,160.5,0.107,0.096,0.22
+Cryocells,100 Thieves,americas_stage_2,Sentinel,"Cypher, Viper, Chamber",21,449,1.05,191.0,1.17,0.73,126.1,0.096,0.082,0.26
+Timotino,100 Thieves,americas_stage_2,Duelist,"Neon, Jett",21,449,1.02,221.0,1.12,0.71,141.6,0.203,0.174,0.26
+bang,100 Thieves,americas_stage_2,Controller,"Omen, Harbor, Viper",21,449,1.05,178.0,1.04,0.73,114.5,0.053,0.04,0.32
+vora,100 Thieves,americas_stage_2,Initiator,"Sova, Fade, Skye",21,449,1.05,187.0,1.09,0.74,122.9,0.071,0.076,0.22
+Brinks,2Game Esports,americas_stage_2,Flex,"Omen, Cypher",5,111,0.82,167.0,0.87,0.68,114.6,0.081,0.081,0.28
+frz,2Game Esports,americas_stage_2,Initiator,"Sova, Skye, Fade",5,111,0.85,158.0,0.82,0.68,104.4,0.045,0.054,0.29
+gobera,2Game Esports,americas_stage_2,Duelist,"Neon, Jett, Raze",5,111,0.87,196.0,0.84,0.67,127.4,0.18,0.126,0.23
+qck,2Game Esports,americas_stage_2,Sentinel,"Phoenix, Jett, Killjoy",5,111,0.85,185.0,0.79,0.69,123.1,0.126,0.144,0.3
+xenom,2Game Esports,americas_stage_2,Flex,"Viper, Omen",5,111,1.16,214.0,1.17,0.73,144.3,0.126,0.036,0.33
+Loss,BESTIA,americas_stage_2,Sentinel,"Jett, Chamber, Sage",7,132,0.99,196.0,1.05,0.64,126.2,0.144,0.114,0.29
+Melser,BESTIA,americas_stage_2,Flex,"Omen, Sova",7,132,0.82,171.0,0.83,0.74,116.3,0.076,0.068,0.32
+Tacolilla,BESTIA,americas_stage_2,Duelist,"Neon, Waylay, Raze",7,132,1.04,217.0,1.12,0.7,135.9,0.152,0.205,0.25
+chubizin,BESTIA,americas_stage_2,Initiator,"Harbor, Fade, Sova",7,132,0.84,160.0,0.8,0.7,101.4,0.061,0.061,0.3
+david,BESTIA,americas_stage_2,Sentinel,"Cypher, Viper",7,132,1.04,194.0,1.06,0.73,135.9,0.061,0.061,0.36
+FireBallOps,Cloud9,americas_stage_2,Sentinel,"Cypher, Vyse, Viper",20,417,0.96,193.0,1.0,0.71,128.4,0.098,0.101,0.4
+Jackk,Cloud9,americas_stage_2,Initiator,"Sova, Fade, Skye",20,417,1.03,170.0,0.95,0.74,115.3,0.046,0.036,0.31
+OXY,Cloud9,americas_stage_2,Duelist,"Neon, Raze, Yoru",20,417,1.17,261.0,1.23,0.71,161.3,0.223,0.185,0.28
+Zellsis,Cloud9,americas_stage_2,Sentinel,"Viper, KAY/O, Sage",20,417,0.82,164.0,0.79,0.69,106.3,0.079,0.07,0.22
+v1c,Cloud9,americas_stage_2,Controller,"Omen, Harbor, Viper",20,417,0.92,176.0,0.86,0.76,117.5,0.082,0.082,0.26
+Demon1,ENVY,americas_stage_2,Sentinel,"Chamber, Omen, Killjoy",21,429,0.96,187.0,1.01,0.69,123.4,0.124,0.119,0.36
+GLYPH,ENVY,americas_stage_2,Initiator,"Sova, Fade, KAY/O",21,429,0.92,172.0,0.9,0.72,112.5,0.047,0.044,0.24
+Rossy,ENVY,americas_stage_2,Controller,"Omen, Viper, Astra",21,429,0.99,174.0,0.91,0.72,114.6,0.056,0.068,0.27
+keznit,ENVY,americas_stage_2,Duelist,"Neon, Jett, Raze",21,429,0.8,193.0,0.82,0.67,125.2,0.172,0.175,0.23
+nightz,ENVY,americas_stage_2,Flex,"Phoenix, Omen, Yoru",21,429,0.98,206.0,0.92,0.7,139.7,0.105,0.089,0.33
+Paincakes,Evil Geniuses,americas_stage_2,Initiator,"Sova, Fade, Skye",22,452,0.86,160.0,0.79,0.7,110.1,0.053,0.051,0.27
+bao,Evil Geniuses,americas_stage_2,Sentinel,"Cypher, Omen, Vyse",22,452,0.95,171.0,0.92,0.7,115.2,0.073,0.075,0.28
+dgzin,Evil Geniuses,americas_stage_2,Duelist,"Neon, Jett, Raze",22,452,1.02,233.0,1.06,0.66,145.3,0.195,0.155,0.28
+supamen,Evil Geniuses,americas_stage_2,Flex,"Omen, Viper",22,452,0.95,182.0,0.93,0.71,121.2,0.084,0.104,0.37
+zerona,Evil Geniuses,americas_stage_2,Sentinel,"Phoenix, Viper, Yoru",22,452,0.96,206.0,0.95,0.69,141.1,0.106,0.097,0.28
+C0M,FURIA,americas_stage_2,Initiator,"Sova, Fade",23,507,0.82,156.0,0.76,0.67,109.2,0.037,0.073,0.26
+Shyy,FURIA,americas_stage_2,Sentinel,"Cypher, Viper, Chamber",26,563,1.07,200.0,1.1,0.73,132.7,0.069,0.062,0.23
+artzin,FURIA,americas_stage_2,Controller,"Omen, Astra, Harbor",26,563,0.91,184.0,0.9,0.69,123.5,0.075,0.13,0.25
+basic,FURIA,americas_stage_2,Flex,"Phoenix, Harbor, KAY/O",26,563,1.18,215.0,1.17,0.77,142.1,0.085,0.085,0.28
+eeiu,FURIA,americas_stage_2,Initiator,"Sova, Skye",3,56,1.17,222.0,1.25,0.84,145.6,0.071,0.036,0.2
+koalanoob,FURIA,americas_stage_2,Duelist,"Neon, Jett, Yoru",26,563,0.83,198.0,0.88,0.64,126.3,0.162,0.218,0.24
+Palla,Fluxo W7M,americas_stage_2,Duelist,"Waylay, Jett, Neon",5,99,1.06,234.0,1.09,0.68,154.9,0.152,0.212,0.33
+Zanatsu,Fluxo W7M,americas_stage_2,Flex,"Neon, Sova, Raze",5,99,0.92,209.0,0.87,0.64,141.4,0.131,0.182,0.32
+jzz,Fluxo W7M,americas_stage_2,Sentinel,"Vyse, Viper, Cypher",5,99,0.77,141.0,0.67,0.68,96.9,0.04,0.061,0.22
+mazin,Fluxo W7M,americas_stage_2,Initiator,"Fade, Omen, Skye",5,99,0.71,140.0,0.69,0.63,87.7,0.051,0.081,0.21
+tuyz,Fluxo W7M,americas_stage_2,Controller,"Omen, Harbor, Astra",5,99,0.94,171.0,0.89,0.7,119.6,0.02,0.071,0.31
+BABYBAY,G2 Esports,americas_stage_2,Sentinel,"Chamber, Vyse, Waylay",30,642,1.06,197.0,1.08,0.71,130.9,0.14,0.106,0.22
+jawgemo,G2 Esports,americas_stage_2,Duelist,"Neon, Raze, Phoenix",30,642,0.88,202.0,0.9,0.7,130.8,0.14,0.162,0.22
+leaf,G2 Esports,americas_stage_2,Sentinel,"Viper, Sage, Yoru",30,642,1.06,206.0,1.08,0.71,134.6,0.092,0.123,0.24
+trent,G2 Esports,americas_stage_2,Initiator,"Sova, Skye, Fade",30,642,1.16,195.0,1.12,0.76,133.4,0.056,0.04,0.29
+valyn,G2 Esports,americas_stage_2,Controller,"Omen, Harbor, Astra",30,642,0.98,190.0,0.97,0.72,123.2,0.069,0.072,0.26
+Dantedeu5,KRÜ Esports,americas_stage_2,Duelist,"Neon, Waylay, Phoenix",24,479,0.78,178.0,0.79,0.69,116.8,0.121,0.184,0.32
+Less,KRÜ Esports,americas_stage_2,Sentinel,"Viper, Omen, Cypher",24,479,1.04,203.0,1.06,0.68,134.7,0.075,0.098,0.32
+heat,KRÜ Esports,americas_stage_2,Duelist,"Chamber, Phoenix, Raze",24,479,1.07,199.0,1.17,0.71,130.6,0.14,0.096,0.3
+mwzera,KRÜ Esports,americas_stage_2,Initiator,"Fade, Sova",24,479,1.02,200.0,0.99,0.72,131.6,0.075,0.048,0.21
+saadhak,KRÜ Esports,americas_stage_2,Controller,"KAY/O, Omen, Harbor",24,479,0.83,161.0,0.74,0.69,107.9,0.065,0.098,0.22
+Neon,LEVIATÁN,americas_stage_2,Flex,"Chamber, Omen, Jett",19,383,1.09,193.0,1.22,0.73,126.1,0.107,0.07,0.28
+Sato,LEVIATÁN,americas_stage_2,Flex,"Phoenix, Omen, Yoru",19,383,1.13,224.0,1.17,0.73,150.3,0.123,0.115,0.39
+blowz,LEVIATÁN,americas_stage_2,Initiator,"Fade, Sova, Skye",19,383,0.99,171.0,1.02,0.77,114.1,0.044,0.042,0.31
+kiNgg,LEVIATÁN,americas_stage_2,Controller,"Viper, Astra, Omen",19,383,1.12,192.0,1.19,0.77,123.0,0.099,0.078,0.29
+spike,LEVIATÁN,americas_stage_2,Flex,"Neon, Omen",19,383,0.94,217.0,1.02,0.72,140.8,0.157,0.162,0.25
+Darker,LOUD,americas_stage_2,Flex,"Omen, Phoenix, Viper",31,651,0.94,185.0,0.91,0.74,121.9,0.066,0.065,0.25
+DaviH,LOUD,americas_stage_2,Initiator,"Sova, Fade",31,651,0.99,163.0,0.91,0.73,113.0,0.04,0.035,0.24
+erde,LOUD,americas_stage_2,Controller,"Omen, Sage, Astra",31,651,1.07,198.0,1.07,0.72,131.0,0.086,0.081,0.26
+lukxo,LOUD,americas_stage_2,Sentinel,"Chamber, Yoru, Viper",31,651,1.16,238.0,1.31,0.7,153.9,0.171,0.129,0.27
+tkzin,LOUD,americas_stage_2,Duelist,"Neon, Waylay, Raze",31,651,0.91,210.0,0.96,0.69,139.2,0.143,0.18,0.35
+Boni,M80,americas_stage_2,Duelist,"Neon, Waylay",4,88,1.07,247.0,1.0,0.66,165.2,0.17,0.159,0.27
+Kyu,M80,americas_stage_2,Initiator,"Sova, Fade",4,88,0.75,150.0,0.66,0.68,108.2,0.045,0.057,0.27
+NiSMO,M80,americas_stage_2,Sentinel,"Deadlock, Raze, Phoenix",4,88,0.99,212.0,0.88,0.73,143.0,0.136,0.102,0.27
+Spaz,M80,americas_stage_2,Controller,"Omen, Viper, Harbor",4,88,0.9,175.0,0.8,0.68,110.9,0.068,0.08,0.23
+alvinboy,M80,americas_stage_2,Flex,"Cypher, Omen",4,88,0.92,181.0,0.78,0.64,127.4,0.068,0.114,0.27
+Mazino,MIBR,americas_stage_2,Controller,"Omen, Harbor, Vyse",23,486,0.95,183.0,0.88,0.73,122.4,0.08,0.078,0.25
+Verno,MIBR,americas_stage_2,Initiator,"Sova, Fade, Omen",23,486,1.16,208.0,1.19,0.76,140.1,0.053,0.058,0.26
+aspas,MIBR,americas_stage_2,Duelist,"Neon, Jett, Raze",23,486,1.09,230.0,1.19,0.75,151.7,0.158,0.14,0.27
+tex,MIBR,americas_stage_2,Sentinel,"Cypher, Viper, Vyse",23,486,0.89,168.0,0.9,0.67,115.2,0.095,0.105,0.36
+zekken,MIBR,americas_stage_2,Flex,"Phoenix, Omen, Neon",23,486,1.04,213.0,1.03,0.73,139.1,0.109,0.123,0.25
+Ethan,NRG,americas_stage_2,Flex,"KAY/O, Phoenix, Omen",22,454,1.0,185.0,0.94,0.77,122.6,0.081,0.093,0.24
+brawk,NRG,americas_stage_2,Flex,"Sova, Vyse",22,454,1.16,216.0,1.14,0.76,148.0,0.077,0.064,0.22
+keiko,NRG,americas_stage_2,Flex,"Jett, Chamber, Omen",22,454,1.08,201.0,1.1,0.73,135.8,0.141,0.108,0.3
+mada,NRG,americas_stage_2,Flex,"Neon, Phoenix, Harbor",22,454,0.99,212.0,1.05,0.72,135.7,0.165,0.163,0.26
+skuba,NRG,americas_stage_2,Sentinel,"Viper, Cypher, Omen",22,454,1.08,186.0,1.08,0.78,123.0,0.053,0.048,0.29
+Jerrwin,Sentinels,americas_stage_2,Duelist,"Waylay, Neon, Raze",20,427,0.86,195.0,0.88,0.67,128.7,0.197,0.176,0.22
+JonahP,Sentinels,americas_stage_2,Initiator,"Sova, Fade, Skye",20,427,0.92,172.0,0.86,0.68,117.1,0.044,0.075,0.22
+Marved,Sentinels,americas_stage_2,Controller,"Harbor, Omen, Viper",3,71,1.0,174.0,0.91,0.77,113.8,0.042,0.099,0.33
+Reduxx,Sentinels,americas_stage_2,Flex,"Omen, Phoenix, Jett",20,427,0.98,203.0,0.98,0.74,131.5,0.126,0.112,0.33
+cortezia,Sentinels,americas_stage_2,Sentinel,"Viper, Vyse, Cypher",20,427,1.04,200.0,1.08,0.68,135.2,0.089,0.103,0.34
+johnqt,Sentinels,americas_stage_2,Flex,"Harbor, Omen, Phoenix",17,356,1.13,200.0,1.14,0.75,133.1,0.039,0.025,0.24
+Asuna,100 Thieves,champions,Flex,"Phoenix, Omen, Sage",18,376,1.07,203.0,1.08,0.71,128.7,0.109,0.066,0.22
+Cryocells,100 Thieves,champions,Sentinel,"Chamber, Cypher",18,376,1.17,221.0,1.39,0.73,142.3,0.122,0.096,0.24
+Timotino,100 Thieves,champions,Duelist,"Neon, Jett",18,376,1.09,238.0,1.17,0.72,153.5,0.173,0.154,0.25
+bang,100 Thieves,champions,Controller,"Omen, Harbor, Viper",18,376,1.07,198.0,1.09,0.76,129.4,0.085,0.077,0.34
+vora,100 Thieves,champions,Initiator,"Sova, Fade, Skye",18,376,0.98,175.0,0.96,0.75,119.4,0.064,0.053,0.26
+CHICHOO,EDward Gaming,champions,Sentinel,"Cypher, Viper, Sage",4,76,0.77,143.0,0.61,0.63,97.3,0.039,0.079,0.29
+Smoggy,EDward Gaming,champions,Controller,Omen,4,76,0.88,168.0,0.82,0.61,112.0,0.053,0.105,0.28
+ZmjjKK,EDward Gaming,champions,Duelist,"Neon, Chamber, Waylay",4,76,1.02,222.0,1.02,0.66,140.6,0.184,0.171,0.29
+nobody,EDward Gaming,champions,Initiator,"Fade, Tejo, Sova",4,76,0.82,183.0,0.74,0.64,117.7,0.066,0.053,0.23
+stew,EDward Gaming,champions,Flex,"Neon, Breach, Yoru",4,76,0.58,145.0,0.55,0.55,96.6,0.079,0.171,0.37
+KROSTALY,FUT Esports,champions,Initiator,"Sova, Fade, Skye",6,124,1.08,200.0,1.15,0.75,123.4,0.065,0.089,0.18
+s0pp,FUT Esports,champions,Duelist,"Neon, Jett",6,124,0.92,224.0,1.01,0.69,138.8,0.169,0.161,0.27
+sociablEE,FUT Esports,champions,Controller,"Omen, Harbor",6,124,0.98,176.0,0.96,0.7,118.2,0.04,0.081,0.23
+xeus,FUT Esports,champions,Duelist,"Phoenix, Raze, Jett",6,124,0.95,198.0,1.0,0.73,130.7,0.121,0.153,0.42
+yetujey,FUT Esports,champions,Sentinel,"Cypher, Viper",6,124,1.09,200.0,1.16,0.73,133.0,0.081,0.04,0.31
+BABYBAY,G2 Esports,champions,Sentinel,"Chamber, Waylay, Vyse",17,361,1.07,207.0,1.08,0.71,139.4,0.125,0.127,0.27
+jawgemo,G2 Esports,champions,Duelist,"Neon, Raze",17,361,0.94,211.0,0.94,0.69,139.5,0.15,0.139,0.24
+leaf,G2 Esports,champions,Sentinel,"Viper, Astra, Vyse",17,361,0.94,194.0,0.93,0.7,126.5,0.105,0.1,0.22
+trent,G2 Esports,champions,Initiator,"Skye, Sova, Fade",17,361,1.12,202.0,1.18,0.76,131.6,0.039,0.036,0.33
+valyn,G2 Esports,champions,Controller,"Omen, Harbor",17,361,1.04,196.0,1.02,0.75,125.1,0.094,0.08,0.29
+Autumn,Global Esports,champions,Sentinel,"Yoru, Chamber, Veto",7,149,0.82,178.0,0.83,0.69,112.3,0.107,0.141,0.26
+Kr1stal,Global Esports,champions,Initiator,"Fade, Sova, Tejo",7,149,1.03,190.0,0.97,0.66,126.4,0.04,0.067,0.23
+PatMen,Global Esports,champions,Flex,"Omen, Chamber, Skye",7,149,1.17,234.0,1.17,0.79,153.8,0.087,0.04,0.36
+UdoTan,Global Esports,champions,Duelist,"Neon, Waylay, Raze",7,149,0.9,225.0,0.92,0.67,136.2,0.208,0.161,0.29
+xavi8k,Global Esports,champions,Controller,"Omen, Astra, Sage",7,149,1.08,197.0,1.04,0.62,125.9,0.074,0.074,0.27
+BerLIN,JD Gaming,champions,Initiator,"Sova, Fade, Harbor",5,95,0.9,171.0,0.79,0.67,115.5,0.042,0.042,0.32
+Yuicaw,JD Gaming,champions,Sentinel,"Cypher, Vyse, Sova",5,95,0.74,138.0,0.65,0.6,99.8,0.053,0.137,0.41
+crownfisher,JD Gaming,champions,Controller,Omen,5,95,0.95,177.0,0.84,0.74,111.1,0.095,0.074,0.23
+jkuro,JD Gaming,champions,Sentinel,"Waylay, Deadlock, Raze",5,95,0.94,188.0,0.84,0.66,122.7,0.137,0.105,0.3
+zhe,JD Gaming,champions,Duelist,"Yoru, Chamber, Neon",5,95,0.86,178.0,0.91,0.58,107.6,0.126,0.179,0.23
+Avez,Karmine Corp,champions,Initiator,"Fade, Sova",8,160,1.0,199.0,1.05,0.7,132.4,0.062,0.069,0.3
+LewN,Karmine Corp,champions,Duelist,"Neon, Waylay",8,160,0.91,204.0,1.01,0.71,131.2,0.181,0.15,0.3
+N4RRATE,Karmine Corp,champions,Duelist,"Chamber, Phoenix, Yoru",8,160,1.12,227.0,1.17,0.73,147.0,0.194,0.119,0.29
+SUYGETSU,Karmine Corp,champions,Sentinel,"Viper, Cypher",8,160,1.0,183.0,1.08,0.7,120.7,0.087,0.069,0.35
+dos9,Karmine Corp,champions,Controller,Omen,8,160,0.92,146.0,0.83,0.78,93.6,0.025,0.025,0.26
+Darker,LOUD,champions,Sentinel,"Omen, Viper, Vyse",18,398,0.92,175.0,0.88,0.74,115.9,0.055,0.058,0.28
+DaviH,LOUD,champions,Initiator,"Fade, Sova",18,398,0.98,161.0,0.94,0.73,109.5,0.048,0.035,0.23
+erde,LOUD,champions,Flex,"Omen, Sage",18,398,1.21,224.0,1.28,0.77,149.7,0.093,0.113,0.32
+lukxo,LOUD,champions,Sentinel,"Chamber, Yoru, Viper",18,398,1.22,244.0,1.41,0.72,153.8,0.183,0.133,0.24
+tkzin,LOUD,champions,Duelist,"Neon, Waylay",18,398,1.02,229.0,1.09,0.68,152.9,0.141,0.141,0.36
+Ethan,NRG,champions,Flex,"KAY/O, Phoenix, Fade",12,255,0.97,174.0,0.87,0.78,117.8,0.055,0.082,0.24
+brawk,NRG,champions,Initiator,"Sova, Fade, Vyse",12,255,1.09,207.0,1.09,0.75,134.8,0.082,0.039,0.19
+keiko,NRG,champions,Controller,"Chamber, Brimstone, Omen",12,255,1.12,205.0,1.18,0.72,133.2,0.129,0.133,0.24
+mada,NRG,champions,Duelist,"Neon, Raze, Phoenix",12,255,0.97,203.0,0.98,0.71,130.3,0.176,0.188,0.23
+skuba,NRG,champions,Sentinel,"Omen, Cypher, Viper",12,255,0.93,161.0,0.89,0.71,105.8,0.039,0.071,0.27
+Dambi,Nongshim RedForce,champions,Duelist,"Neon, Waylay",13,266,0.84,196.0,0.8,0.67,125.4,0.162,0.18,0.26
+Francis,Nongshim RedForce,champions,Duelist,"Yoru, Chamber",13,266,0.97,214.0,1.01,0.67,135.8,0.147,0.18,0.25
+Ivy,Nongshim RedForce,champions,Sentinel,"Sage, Viper, Cypher",13,266,0.97,184.0,0.96,0.67,122.8,0.086,0.064,0.3
+Rb,Nongshim RedForce,champions,Controller,"Omen, Harbor",13,266,0.92,165.0,0.91,0.7,102.7,0.026,0.071,0.3
+Xross,Nongshim RedForce,champions,Initiator,"Fade, Sova",13,266,1.01,183.0,0.96,0.73,126.6,0.038,0.041,0.27
+Jinggg,Paper Rex,champions,Sentinel,"Raze, Sage, Phoenix",11,241,1.05,221.0,1.05,0.7,147.2,0.133,0.095,0.23
+d4v41,Paper Rex,champions,Sentinel,"Chamber, Viper, Vyse",11,241,0.98,191.0,1.04,0.71,125.9,0.116,0.091,0.27
+f0rsakeN,Paper Rex,champions,Controller,"Omen, Astra",11,241,0.94,181.0,0.91,0.71,118.7,0.087,0.083,0.28
+invy,Paper Rex,champions,Initiator,"Fade, Sova",11,241,0.96,186.0,0.92,0.73,125.1,0.079,0.046,0.29
+something,Paper Rex,champions,Duelist,"Yoru, Chamber, Neon",11,241,1.06,217.0,1.15,0.69,140.9,0.112,0.158,0.32
+BuZz,T1,champions,Duelist,"Neon, Waylay",15,320,0.83,202.0,0.88,0.65,132.1,0.15,0.156,0.23
+Meteor,T1,champions,Sentinel,"Chamber, Yoru, Killjoy",15,320,0.96,205.0,1.04,0.69,133.8,0.153,0.125,0.25
+Munchkin,T1,champions,Sentinel,"Sage, Viper, Omen",15,320,0.93,189.0,0.9,0.68,122.8,0.084,0.109,0.27
+iZu,T1,champions,Initiator,"Fade, Sova",15,320,1.06,194.0,1.1,0.73,126.7,0.059,0.053,0.32
+stax,T1,champions,Controller,"Omen, Harbor",15,320,0.83,147.0,0.74,0.7,95.1,0.028,0.075,0.26
+Erv,TYLOO,champions,Controller,Omen,5,91,0.81,152.0,0.71,0.66,96.5,0.055,0.055,0.37
+Scales,TYLOO,champions,Sentinel,"Viper, Sage, Cypher",5,91,0.71,161.0,0.69,0.53,112.5,0.077,0.11,0.39
+SiuFatBB,TYLOO,champions,Initiator,"Fade, Skye",5,91,0.78,125.0,0.66,0.55,82.7,0.044,0.088,0.31
+slowly,TYLOO,champions,Duelist,"Chamber, Jett, Waylay",5,91,0.93,212.0,0.93,0.58,139.1,0.088,0.154,0.36
+splash,TYLOO,champions,Duelist,"Neon, Raze, Phoenix",5,91,0.78,197.0,0.73,0.69,128.1,0.143,0.187,0.35
+GSR,Team Liquid,champions,Duelist,"Yoru, Jett",8,159,1.03,210.0,1.05,0.74,137.4,0.145,0.138,0.31
+Kicks,Team Liquid,champions,Controller,"Omen, Harbor, Astra",8,159,1.03,186.0,0.99,0.68,120.5,0.082,0.031,0.29
+kamo,Team Liquid,champions,Duelist,"Raze, Phoenix, Waylay",8,159,1.13,245.0,1.17,0.71,159.5,0.195,0.145,0.24
+nAts,Team Liquid,champions,Sentinel,"Cypher, Viper, Killjoy",8,159,0.89,177.0,0.9,0.67,124.0,0.05,0.138,0.23
+trexx,Team Liquid,champions,Initiator,"Fade, Sova",8,159,1.0,186.0,0.91,0.74,130.3,0.038,0.038,0.26
+Chronicle,Team Vitality,champions,Flex,"Neon, Harbor, Viper",21,466,0.94,204.0,0.92,0.68,134.1,0.122,0.114,0.23
+Derke,Team Vitality,champions,Duelist,"Chamber, Yoru, Jett",21,466,0.96,214.0,1.03,0.67,139.6,0.161,0.146,0.24
+Jamppi,Team Vitality,champions,Flex,"Fade, Yoru, Phoenix",21,466,0.99,205.0,1.05,0.7,130.8,0.075,0.109,0.29
+PROFEK,Team Vitality,champions,Controller,"Omen, Astra, Harbor",21,466,0.97,175.0,0.97,0.74,116.9,0.049,0.056,0.35
+Sayonara,Team Vitality,champions,Initiator,"Sova, Fade, Viper",21,466,1.1,203.0,1.15,0.71,133.8,0.088,0.075,0.33
+Lysoar,Xi Lai Gaming,champions,Controller,"Omen, Astra",4,83,0.89,186.0,0.84,0.58,116.5,0.024,0.084,0.31
+NoMan,Xi Lai Gaming,champions,Duelist,Waylay,4,83,0.52,150.0,0.54,0.57,99.6,0.108,0.169,0.34
+Rarga,Xi Lai Gaming,champions,Duelist,"Yoru, Chamber",4,83,0.87,177.0,0.81,0.58,108.2,0.096,0.169,0.29
+WsLeo,Xi Lai Gaming,champions,Initiator,"Fade, Sova",4,83,0.87,168.0,0.82,0.65,105.5,0.096,0.12,0.29
+happywei,Xi Lai Gaming,champions,Sentinel,"Cypher, Harbor, Sage",4,83,0.9,171.0,0.87,0.71,118.1,0.048,0.06,0.28
+Au1,All Gamers,china_kickoff,Sentinel,"Viper, Veto, Killjoy",12,264,0.9,177.0,0.88,0.69,119.9,0.053,0.061,0.23
+K1ra,All Gamers,china_kickoff,Flex,"Raze, Astra, KAY/O",12,264,1.07,215.0,1.13,0.71,137.1,0.083,0.11,0.27
+Shr1mp,All Gamers,china_kickoff,Initiator,"Sova, Fade, Skye",12,264,1.15,199.0,1.14,0.72,130.9,0.064,0.023,0.3
+f4ngeer,All Gamers,china_kickoff,Duelist,"Yoru, Waylay",12,264,1.11,230.0,1.28,0.72,142.2,0.174,0.125,0.33
+iamgrq,All Gamers,china_kickoff,Flex,"Waylay, Omen, Brimstone",12,264,1.05,199.0,1.04,0.75,130.0,0.053,0.061,0.24
+Biank,Bilibili Gaming,china_kickoff,Initiator,"Fade, Tejo, Sova",9,201,0.88,165.0,0.79,0.71,108.6,0.085,0.085,0.22
+Knight,Bilibili Gaming,china_kickoff,Initiator,"Fade, Tejo, Sova",11,234,1.02,180.0,1.06,0.72,123.1,0.056,0.09,0.25
+bud,Bilibili Gaming,china_kickoff,Initiator,"Breach, Killjoy, Gekko",20,435,0.89,162.0,0.83,0.67,111.5,0.032,0.09,0.29
+nephh,Bilibili Gaming,china_kickoff,Controller,"Omen, Tejo, Astra",20,435,1.01,196.0,0.96,0.75,129.4,0.083,0.083,0.24
+rushia,Bilibili Gaming,china_kickoff,Sentinel,"Viper, Astra, Cypher",20,435,1.04,201.0,1.05,0.71,131.4,0.117,0.108,0.25
+whzy,Bilibili Gaming,china_kickoff,Duelist,"Waylay, Neon, Yoru",20,435,1.11,236.0,1.11,0.75,149.0,0.17,0.156,0.25
+Akeman,Dragon Ranger Gaming,china_kickoff,Duelist,"Neon, Waylay, Jett",14,291,0.82,187.0,0.82,0.66,123.7,0.172,0.182,0.29
+Flex1n,Dragon Ranger Gaming,china_kickoff,Controller,"Omen, Astra, Brimstone",14,291,0.85,176.0,0.8,0.7,112.7,0.079,0.065,0.28
+Nicc,Dragon Ranger Gaming,china_kickoff,Initiator,"Gekko, Tejo, Sova",14,291,0.98,179.0,0.97,0.72,120.1,0.058,0.052,0.32
+SpiritZ1,Dragon Ranger Gaming,china_kickoff,Duelist,"Yoru, Reyna, Phoenix",14,291,0.92,212.0,0.97,0.64,135.1,0.144,0.165,0.32
+vo0kashu,Dragon Ranger Gaming,china_kickoff,Sentinel,"Cypher, Vyse, Veto",14,291,1.19,217.0,1.25,0.71,143.9,0.055,0.027,0.27
+CHICHOO,EDward Gaming,china_kickoff,Sentinel,"Viper, Astra, Killjoy",20,400,1.14,202.0,1.15,0.74,138.1,0.072,0.045,0.3
+Smoggy,EDward Gaming,china_kickoff,Controller,"Omen, Astra, Harbor",20,400,1.02,190.0,1.03,0.72,119.5,0.05,0.055,0.35
+ZmjjKK,EDward Gaming,china_kickoff,Duelist,"Neon, Jett, Phoenix",20,400,0.98,233.0,1.07,0.68,148.1,0.193,0.14,0.23
+cb,EDward Gaming,china_kickoff,Duelist,"Yoru, Phoenix, Neon",20,400,0.97,198.0,0.96,0.65,130.2,0.083,0.122,0.25
+nobody,EDward Gaming,china_kickoff,Initiator,"Sova, Fade",20,400,0.89,181.0,0.89,0.66,121.1,0.048,0.052,0.31
+AAAAY,FunPlus Phoenix,china_kickoff,Sentinel,"Killjoy, Viper",7,141,1.2,206.0,1.07,0.62,147.3,0.05,0.035,0.35
+BerLIN,FunPlus Phoenix,china_kickoff,Initiator,"Sova, KAY/O, Fade",7,141,1.12,172.0,0.79,0.72,119.7,0.057,0.099,0.36
+Life,FunPlus Phoenix,china_kickoff,Duelist,"Neon, Raze, Yoru",7,141,0.65,169.0,0.63,0.64,118.9,0.099,0.177,0.34
+Setrod,FunPlus Phoenix,china_kickoff,Flex,"Tejo, Viper, Yoru",7,141,1.01,192.0,0.85,0.75,138.0,0.071,0.078,0.37
+sScary,FunPlus Phoenix,china_kickoff,Controller,"Brimstone, Omen, Astra",7,141,0.9,170.0,0.72,0.7,112.9,0.064,0.035,0.24
+Yuicaw,JD Gaming,china_kickoff,Sentinel,"Viper, Cypher, Killjoy",18,357,1.21,210.0,1.05,0.73,146.2,0.073,0.048,0.29
+coconut,JD Gaming,china_kickoff,Initiator,"Sova, Fade",18,357,0.92,156.0,0.83,0.68,107.8,0.034,0.045,0.31
+jkuro,JD Gaming,china_kickoff,Controller,"Omen, Astra, Brimstone",18,357,1.01,193.0,0.99,0.74,120.0,0.048,0.045,0.31
+stew,JD Gaming,china_kickoff,Duelist,"Neon, Waylay, Raze",18,357,1.01,217.0,1.07,0.72,135.6,0.098,0.087,0.28
+zhe,JD Gaming,china_kickoff,Duelist,Yoru,18,357,0.91,188.0,1.01,0.7,110.9,0.084,0.112,0.21
+Ezeir,Nova Esports,china_kickoff,Initiator,"Tejo, Viper, Fade",7,148,0.89,160.0,0.73,0.59,116.7,0.047,0.041,0.29
+GREEN,Nova Esports,china_kickoff,Flex,"Raze, Killjoy, KAY/O",7,148,0.93,220.0,0.97,0.64,137.0,0.081,0.074,0.31
+GuanG,Nova Esports,china_kickoff,Duelist,"Neon, Waylay",7,148,0.93,210.0,0.97,0.6,126.6,0.068,0.135,0.35
+OBONE,Nova Esports,china_kickoff,Controller,"Omen, Astra",7,148,1.02,173.0,0.76,0.66,127.9,0.041,0.068,0.34
+heybay,Nova Esports,china_kickoff,Initiator,"Skye, Fade, Veto",7,148,0.74,156.0,0.69,0.65,99.2,0.014,0.095,0.25
+Erv,TYLOO,china_kickoff,Controller,"Omen, Astra, Brimstone",17,348,1.08,200.0,1.1,0.73,124.3,0.057,0.06,0.32
+Scales,TYLOO,china_kickoff,Sentinel,"Viper, Killjoy, Veto",17,348,1.03,194.0,1.07,0.7,129.9,0.08,0.057,0.35
+slowly,TYLOO,china_kickoff,Flex,"Yoru, Killjoy, Skye",17,348,1.0,219.0,1.07,0.7,139.4,0.124,0.115,0.3
+splash,TYLOO,china_kickoff,Duelist,"Neon, Waylay, Raze",17,348,1.09,253.0,1.16,0.69,157.5,0.161,0.149,0.29
+sword9,TYLOO,china_kickoff,Initiator,"Sova, Fade, Tejo",17,348,0.96,168.0,0.98,0.7,110.8,0.043,0.063,0.26
+Abo,Titan Esports Club,china_kickoff,Flex,"Neon, Killjoy, Omen",12,255,0.91,193.0,0.92,0.69,120.0,0.129,0.094,0.28
+Coco,Titan Esports Club,china_kickoff,Initiator,"Viper, Sova, Fade",12,255,1.01,200.0,1.06,0.71,139.7,0.047,0.078,0.37
+Dynamite,Titan Esports Club,china_kickoff,Duelist,"Waylay, Yoru, Neon",12,255,1.01,196.0,1.0,0.67,129.1,0.082,0.11,0.27
+Haodong,Titan Esports Club,china_kickoff,Controller,"Omen, Astra, KAY/O",12,255,1.04,177.0,0.99,0.72,118.4,0.051,0.055,0.28
+lucas,Titan Esports Club,china_kickoff,Initiator,"Sova, Tejo, Fade",12,255,1.01,204.0,1.06,0.74,134.7,0.051,0.067,0.23
+FengF,Trace Esports,china_kickoff,Flex,"Breach, Killjoy, Raze",13,277,0.93,198.0,0.99,0.71,131.6,0.061,0.083,0.33
+Kai,Trace Esports,china_kickoff,Duelist,"Yoru, Neon, Waylay",13,277,1.01,210.0,1.05,0.72,134.5,0.123,0.097,0.3
+LuoK1ng,Trace Esports,china_kickoff,Controller,"Astra, Omen, Brimstone",13,277,0.96,168.0,0.89,0.72,115.4,0.058,0.065,0.3
+Viva,Trace Esports,china_kickoff,Initiator,"Sova, Fade, Skye",13,277,0.96,170.0,0.86,0.73,117.2,0.047,0.036,0.29
+deLb,Trace Esports,china_kickoff,Sentinel,"Viper, Waylay, Chamber",13,277,1.07,216.0,1.05,0.69,151.9,0.119,0.087,0.39
+SiuFatBB,Wolves Esports,china_kickoff,Initiator,"Sova, Skye, Fade",14,289,0.95,154.0,0.87,0.71,107.0,0.038,0.021,0.3
+Spring,Wolves Esports,china_kickoff,Duelist,"Waylay, Neon, Yoru",14,289,0.83,180.0,0.84,0.66,111.3,0.073,0.1,0.24
+jowa,Wolves Esports,china_kickoff,Controller,"Omen, Astra, Brimstone",14,289,0.98,209.0,0.99,0.72,127.0,0.08,0.08,0.3
+qiutiaN,Wolves Esports,china_kickoff,Sentinel,"Chamber, Killjoy, Yoru",14,289,0.97,191.0,0.92,0.7,134.0,0.121,0.1,0.26
+yosemite,Wolves Esports,china_kickoff,Sentinel,"Viper, Veto, Astra",14,289,1.03,216.0,0.99,0.67,151.6,0.076,0.087,0.28
+Lysoar,Xi Lai Gaming,china_kickoff,Controller,"Omen, Killjoy, Brimstone",14,293,1.04,187.0,1.09,0.78,121.2,0.055,0.038,0.21
+NoMan,Xi Lai Gaming,china_kickoff,Sentinel,"Waylay, Jett, Killjoy",14,293,0.91,192.0,1.04,0.66,123.6,0.157,0.174,0.29
+Rarga,Xi Lai Gaming,china_kickoff,Duelist,"Yoru, Neon",14,293,1.05,232.0,1.22,0.74,148.8,0.164,0.13,0.35
+WsLeo,Xi Lai Gaming,china_kickoff,Initiator,"Fade, Sova",14,293,0.95,184.0,0.97,0.75,124.9,0.075,0.065,0.24
+happywei,Xi Lai Gaming,china_kickoff,Flex,"Viper, Astra",14,293,1.33,237.0,1.49,0.77,156.1,0.082,0.051,0.34
+Bai,All Gamers,china_stage_1,Sentinel,"Neon, Viper",6,124,0.8,179.0,0.78,0.71,117.3,0.073,0.137,0.16
+K1ra,All Gamers,china_stage_1,Sentinel,"Cypher, Viper, Raze",26,523,0.97,204.0,0.97,0.7,132.1,0.115,0.092,0.23
+Septem7,All Gamers,china_stage_1,Controller,"Omen, Astra, Gekko",5,106,0.7,139.0,0.61,0.75,90.8,0.075,0.094,0.26
+Shr1mp,All Gamers,china_stage_1,Initiator,"Skye, Fade, Sova",26,523,1.09,192.0,1.09,0.72,117.4,0.055,0.04,0.25
+Youze,All Gamers,china_stage_1,Sentinel,"Neon, Viper",15,293,0.76,175.0,0.76,0.62,109.7,0.102,0.154,0.21
+f4ngeer,All Gamers,china_stage_1,Duelist,"Waylay, Chamber, Jett",26,523,1.17,237.0,1.25,0.7,148.5,0.136,0.117,0.32
+iamgrq,All Gamers,china_stage_1,Flex,"Omen, Brimstone, Neon",26,523,0.99,195.0,0.91,0.76,125.2,0.065,0.08,0.22
+Knight,Bilibili Gaming,china_stage_1,Initiator,"Tejo, Fade, Skye",13,259,1.05,183.0,1.0,0.73,126.4,0.046,0.054,0.27
+nephh,Bilibili Gaming,china_stage_1,Controller,"Astra, Omen, Brimstone",13,259,1.17,211.0,1.18,0.76,128.6,0.069,0.073,0.24
+rushia,Bilibili Gaming,china_stage_1,Sentinel,"Viper, Cypher, Killjoy",13,259,0.96,204.0,0.94,0.74,139.5,0.093,0.073,0.21
+whzy,Bilibili Gaming,china_stage_1,Duelist,"Waylay, Phoenix, Raze",13,259,1.02,222.0,1.05,0.73,143.7,0.158,0.143,0.22
+yilai,Bilibili Gaming,china_stage_1,Sentinel,"Neon, Killjoy, Waylay",13,259,0.98,215.0,1.01,0.7,137.3,0.127,0.158,0.24
+Flex1n,Dragon Ranger Gaming,china_stage_1,Controller,"Omen, Astra, Miks",29,581,1.0,179.0,0.93,0.75,115.3,0.05,0.072,0.25
+Life,Dragon Ranger Gaming,china_stage_1,Duelist,Neon,29,581,0.87,201.0,0.89,0.69,131.3,0.157,0.169,0.37
+Nicc,Dragon Ranger Gaming,china_stage_1,Initiator,"Skye, Sova, Fade",29,581,1.04,187.0,0.97,0.76,121.9,0.043,0.05,0.31
+SpiritZ1,Dragon Ranger Gaming,china_stage_1,Duelist,"Waylay, Jett",29,581,1.03,231.0,1.05,0.7,147.3,0.179,0.141,0.31
+vo0kashu,Dragon Ranger Gaming,china_stage_1,Sentinel,"Cypher, Omen, Viper",29,581,1.25,223.0,1.26,0.74,148.0,0.079,0.06,0.3
+CHICHOO,EDward Gaming,china_stage_1,Sentinel,"Cypher, Viper, Omen",27,554,1.19,211.0,1.27,0.77,138.3,0.074,0.074,0.3
+Jieni7,EDward Gaming,china_stage_1,Flex,"Neon, Omen, KAY/O",27,554,0.94,184.0,0.95,0.74,120.8,0.076,0.081,0.25
+Smoggy,EDward Gaming,china_stage_1,Flex,"Phoenix, Brimstone, Harbor",27,554,1.2,230.0,1.23,0.79,150.0,0.112,0.085,0.28
+ZmjjKK,EDward Gaming,china_stage_1,Duelist,"Jett, Waylay, Raze",27,554,1.16,253.0,1.27,0.73,164.9,0.209,0.148,0.23
+nobody,EDward Gaming,china_stage_1,Initiator,"Skye, Fade, Sova",27,554,0.94,172.0,0.91,0.73,113.0,0.054,0.087,0.26
+AAAAY,FunPlus Phoenix,china_stage_1,Sentinel,"Viper, Killjoy, Sage",13,262,1.16,231.0,1.26,0.76,147.6,0.084,0.042,0.36
+Ben1Ley,FunPlus Phoenix,china_stage_1,Duelist,Waylay,13,262,0.85,190.0,0.89,0.67,126.6,0.099,0.137,0.26
+BerLIN,FunPlus Phoenix,china_stage_1,Controller,"Omen, Astra, Viper",13,262,0.76,167.0,0.78,0.72,133.7,0.05,0.103,0.25
+KovaQ,FunPlus Phoenix,china_stage_1,Initiator,"Fade, Skye, Tejo",13,262,0.92,186.0,0.97,0.73,125.0,0.057,0.069,0.27
+Setrod,FunPlus Phoenix,china_stage_1,Duelist,Neon,13,262,0.91,195.0,0.94,0.69,120.7,0.118,0.141,0.23
+Yuicaw,JD Gaming,china_stage_1,Sentinel,"Waylay, Killjoy, Raze",21,438,0.89,187.0,0.86,0.67,123.0,0.13,0.137,0.3
+coconut,JD Gaming,china_stage_1,Initiator,"Sova, Skye, Fade",21,438,1.0,185.0,0.91,0.7,123.1,0.053,0.064,0.3
+jkuro,JD Gaming,china_stage_1,Controller,"Cypher, Omen, Astra",21,438,0.9,177.0,0.88,0.71,112.1,0.055,0.094,0.33
+stew,JD Gaming,china_stage_1,Flex,"Omen, Raze, Brimstone",21,438,1.0,207.0,0.97,0.74,132.1,0.089,0.08,0.29
+zhe,JD Gaming,china_stage_1,Sentinel,"Neon, Viper, Vyse",21,438,1.1,238.0,1.1,0.75,152.1,0.153,0.146,0.24
+Ezeir,Nova Esports,china_stage_1,Controller,"Omen, Brimstone",10,207,0.95,187.0,0.85,0.73,123.4,0.063,0.048,0.26
+GREEN,Nova Esports,china_stage_1,Initiator,"Viper, Breach, Skye",10,207,0.77,158.0,0.68,0.67,105.4,0.063,0.072,0.31
+GuanG,Nova Esports,china_stage_1,Sentinel,"Cypher, Jett, Killjoy",10,207,0.86,167.0,0.84,0.65,110.2,0.097,0.087,0.29
+qiutiaN,Nova Esports,china_stage_1,Initiator,"Sova, Fade, Tejo",10,207,0.96,193.0,0.91,0.69,126.9,0.082,0.053,0.25
+swagzor,Nova Esports,china_stage_1,Duelist,"Neon, Chamber, Raze",10,207,0.89,219.0,0.92,0.68,141.3,0.208,0.227,0.3
+Erv,TYLOO,china_stage_1,Flex,"Waylay, Phoenix, KAY/O",24,517,1.09,216.0,1.03,0.74,148.2,0.103,0.095,0.29
+Scales,TYLOO,china_stage_1,Sentinel,"Viper, Cypher, Chamber",24,517,0.97,198.0,0.97,0.73,131.7,0.114,0.077,0.29
+slowly,TYLOO,china_stage_1,Controller,"Brimstone, Astra, Omen",24,517,1.2,219.0,1.21,0.76,143.2,0.058,0.06,0.3
+splash,TYLOO,china_stage_1,Duelist,"Neon, Jett",24,517,1.03,244.0,1.07,0.72,154.4,0.182,0.161,0.27
+sword9,TYLOO,china_stage_1,Initiator,"Skye, Sova, Fade",24,517,0.84,153.0,0.8,0.7,105.2,0.039,0.06,0.23
+Coco,Titan Esports Club,china_stage_1,Sentinel,"Viper, Brimstone, Cypher",19,425,1.07,208.0,1.0,0.73,135.8,0.08,0.082,0.3
+Dynamite,Titan Esports Club,china_stage_1,Duelist,"Neon, Raze, Phoenix",19,425,0.99,210.0,0.98,0.71,139.2,0.127,0.167,0.22
+Haodong,Titan Esports Club,china_stage_1,Controller,"Omen, Cypher, Astra",19,425,0.87,167.0,0.86,0.7,111.1,0.066,0.092,0.31
+Spitfires,Titan Esports Club,china_stage_1,Duelist,"Waylay, Neon",19,425,0.93,203.0,0.96,0.68,130.1,0.148,0.122,0.28
+lucas,Titan Esports Club,china_stage_1,Initiator,"Skye, Sova, Fade",19,425,1.12,206.0,1.12,0.7,136.2,0.056,0.059,0.3
+Abo,Trace Esports,china_stage_1,Sentinel,"Viper, Vyse, Killjoy",19,406,0.95,181.0,0.91,0.69,125.0,0.057,0.074,0.28
+Kai,Trace Esports,china_stage_1,Duelist,"Neon, Raze, Jett",19,406,1.04,220.0,1.06,0.71,148.0,0.133,0.138,0.3
+Viva,Trace Esports,china_stage_1,Initiator,"Fade, Skye, Sova",19,406,0.83,164.0,0.76,0.71,113.5,0.059,0.086,0.26
+Xlele,Trace Esports,china_stage_1,Flex,"Waylay, Omen, Phoenix",19,406,0.98,210.0,1.02,0.73,130.3,0.096,0.101,0.33
+deLb,Trace Esports,china_stage_1,Controller,"Omen, Brimstone, Veto",19,406,1.12,210.0,1.1,0.73,138.9,0.084,0.079,0.4
+SiuFatBB,Wolves Esports,china_stage_1,Initiator,"Fade, Skye, Sova",12,253,0.86,153.0,0.78,0.69,103.5,0.032,0.067,0.32
+Spring,Wolves Esports,china_stage_1,Controller,"Viper, Astra, Brimstone",12,253,1.12,220.0,1.01,0.71,145.8,0.091,0.099,0.27
+glacier,Wolves Esports,china_stage_1,Duelist,"Waylay, Neon, Jett",12,253,0.87,208.0,0.85,0.69,130.9,0.19,0.209,0.29
+jowa,Wolves Esports,china_stage_1,Initiator,"Omen, Tejo, Breach",12,253,0.89,161.0,0.74,0.73,107.3,0.067,0.095,0.31
+yosemite,Wolves Esports,china_stage_1,Sentinel,"Killjoy, Cypher, Brimstone",12,253,1.01,200.0,1.01,0.69,130.9,0.071,0.079,0.31
+Lysoar,Xi Lai Gaming,china_stage_1,Controller,"Omen, Brimstone, Astra",31,639,1.1,204.0,1.08,0.77,132.7,0.055,0.045,0.24
+NoMan,Xi Lai Gaming,china_stage_1,Flex,"Waylay, KAY/O, Killjoy",31,639,0.9,179.0,0.93,0.72,115.6,0.103,0.131,0.29
+Rarga,Xi Lai Gaming,china_stage_1,Sentinel,"Neon, Sage, Chamber",31,639,0.95,219.0,1.04,0.71,136.8,0.194,0.15,0.25
+WsLeo,Xi Lai Gaming,china_stage_1,Initiator,"Skye, Sova, Fade",31,639,1.09,201.0,1.1,0.77,132.8,0.066,0.05,0.27
+happywei,Xi Lai Gaming,china_stage_1,Sentinel,"Viper, Cypher, Chamber",31,639,1.14,230.0,1.19,0.75,156.7,0.117,0.088,0.37
+Dingwei,A Team,china_stage_2,Initiator,"Fade, Sova",5,118,0.8,156.0,0.78,0.65,102.5,0.034,0.042,0.32
+Eren,A Team,china_stage_2,Sentinel,"Cypher, Viper, Waylay",5,118,0.97,210.0,0.94,0.75,143.9,0.119,0.102,0.31
+Folykiki,A Team,china_stage_2,Duelist,"Neon, Waylay",5,118,0.88,202.0,0.88,0.64,128.7,0.161,0.136,0.2
+Layla,A Team,china_stage_2,Sentinel,"Sage, Vyse, Cypher",5,118,1.05,215.0,1.11,0.64,137.2,0.127,0.136,0.29
+monk,A Team,china_stage_2,Controller,Omen,5,118,1.02,190.0,0.97,0.77,121.7,0.076,0.068,0.29
+Bai,All Gamers,china_stage_2,Sentinel,"Cypher, Viper, Neon",28,616,0.95,186.0,0.93,0.7,124.1,0.067,0.06,0.23
+K1ra,All Gamers,china_stage_2,Flex,"Omen, Raze, Phoenix",28,616,1.06,222.0,1.04,0.74,141.3,0.101,0.11,0.24
+Shr1mp,All Gamers,china_stage_2,Initiator,"Sova, Fade, Skye",28,616,1.06,183.0,1.0,0.73,123.0,0.057,0.049,0.21
+f4ngeer,All Gamers,china_stage_2,Duelist,"Neon, Jett, Chamber",28,616,1.08,230.0,1.12,0.69,147.6,0.192,0.148,0.29
+iamgrq,All Gamers,china_stage_2,Flex,"Omen, Phoenix, KAY/O",28,616,1.03,196.0,0.99,0.74,127.8,0.068,0.073,0.27
+FT,Bilibili Gaming,china_stage_2,Flex,"Waylay, Omen, Phoenix",26,572,0.86,176.0,0.86,0.65,113.9,0.068,0.084,0.29
+Knight,Bilibili Gaming,china_stage_2,Initiator,"Omen, Fade, Sova",26,572,1.17,220.0,1.12,0.73,141.5,0.066,0.054,0.25
+nephh,Bilibili Gaming,china_stage_2,Initiator,"Omen, Fade, Skye",26,572,0.88,182.0,0.88,0.72,108.6,0.047,0.07,0.25
+rushia,Bilibili Gaming,china_stage_2,Sentinel,"Cypher, Neon, Viper",26,572,0.92,193.0,0.89,0.65,128.2,0.082,0.103,0.21
+whzy,Bilibili Gaming,china_stage_2,Duelist,"Raze, Yoru, Chamber",26,572,1.07,229.0,1.12,0.67,151.1,0.133,0.108,0.22
+Life,Dragon Ranger Gaming,china_stage_2,Duelist,"Neon, Jett, Waylay",25,561,0.96,213.0,1.06,0.68,140.1,0.16,0.137,0.36
+Nicc,Dragon Ranger Gaming,china_stage_2,Initiator,"Skye, Fade, Sova",25,561,1.01,184.0,0.98,0.75,111.9,0.046,0.062,0.25
+SpiritZ1,Dragon Ranger Gaming,china_stage_2,Duelist,"Waylay, Yoru, Jett",25,561,0.91,214.0,0.95,0.69,139.3,0.132,0.125,0.32
+Verse,Dragon Ranger Gaming,china_stage_2,Controller,"Omen, Harbor",25,561,0.93,182.0,0.89,0.74,115.5,0.041,0.061,0.35
+vo0kashu,Dragon Ranger Gaming,china_stage_2,Sentinel,"Cypher, Viper",25,561,1.27,234.0,1.28,0.75,160.2,0.071,0.048,0.31
+CHICHOO,EDward Gaming,china_stage_2,Sentinel,"Cypher, Viper, Phoenix",22,468,1.15,215.0,1.16,0.7,153.2,0.071,0.073,0.31
+Jieni7,EDward Gaming,china_stage_2,Flex,"KAY/O, Omen, Vyse",22,468,0.86,181.0,0.95,0.68,112.8,0.056,0.068,0.27
+Smoggy,EDward Gaming,china_stage_2,Flex,"Omen, Harbor, Raze",22,468,0.9,184.0,0.82,0.7,124.7,0.066,0.075,0.29
+ZmjjKK,EDward Gaming,china_stage_2,Duelist,"Jett, Neon, Chamber",22,468,0.96,246.0,1.12,0.7,151.0,0.143,0.154,0.22
+nobody,EDward Gaming,china_stage_2,Initiator,"Sova, Skye, Fade",22,468,0.99,202.0,1.06,0.71,122.7,0.051,0.066,0.32
+AAAAY,FunPlus Phoenix,china_stage_2,Sentinel,"Cypher, Viper, Clove",21,438,1.0,200.0,1.1,0.7,136.0,0.05,0.037,0.38
+KovaQ,FunPlus Phoenix,china_stage_2,Controller,"Omen, Harbor, Astra",21,438,1.02,192.0,0.99,0.72,128.1,0.078,0.094,0.33
+Setrod,FunPlus Phoenix,china_stage_2,Sentinel,"Neon, Chamber, Vyse",21,438,0.95,216.0,1.1,0.7,136.1,0.158,0.119,0.26
+Xlele,FunPlus Phoenix,china_stage_2,Duelist,"Neon, Jett, Raze",21,438,0.96,191.0,0.92,0.69,132.8,0.119,0.103,0.3
+coconut,FunPlus Phoenix,china_stage_2,Initiator,"Sova, Fade, Tejo",21,438,1.1,185.0,0.99,0.69,126.4,0.034,0.055,0.31
+BerLIN,JD Gaming,china_stage_2,Initiator,"Sova, Fade, Skye",34,726,0.95,181.0,0.89,0.72,119.0,0.065,0.088,0.33
+Yuicaw,JD Gaming,china_stage_2,Sentinel,"Cypher, Viper, Vyse",34,726,1.02,200.0,0.98,0.72,134.6,0.077,0.073,0.3
+crownfisher,JD Gaming,china_stage_2,Flex,"Omen, Harbor, Jett",34,726,0.93,185.0,0.94,0.7,119.8,0.051,0.074,0.29
+jkuro,JD Gaming,china_stage_2,Duelist,"Raze, Jett, Waylay",34,726,0.95,190.0,0.92,0.65,127.3,0.09,0.124,0.3
+zhe,JD Gaming,china_stage_2,Duelist,"Neon, Chamber, Phoenix",34,726,1.05,221.0,1.14,0.72,140.7,0.139,0.128,0.25
+Akeman,KeepBest Gaming,china_stage_2,Duelist,"Neon, Jett",5,112,0.8,201.0,0.87,0.68,128.5,0.17,0.223,0.24
+Krst1Ng,KeepBest Gaming,china_stage_2,Controller,"Omen, Harbor",5,112,0.95,163.0,0.76,0.7,108.9,0.089,0.08,0.39
+Tonk,KeepBest Gaming,china_stage_2,Sentinel,"Cypher, Viper",5,112,1.04,211.0,1.0,0.68,142.1,0.116,0.08,0.31
+Ying,KeepBest Gaming,china_stage_2,Flex,"Viper, Breach, Phoenix",5,112,1.06,209.0,0.94,0.67,136.9,0.08,0.08,0.3
+sibeastw0w,KeepBest Gaming,china_stage_2,Initiator,"Sova, KAY/O",5,112,1.01,181.0,0.85,0.71,131.2,0.045,0.036,0.3
+Ezeir,Nova Esports,china_stage_2,Controller,"Omen, Astra, Harbor",22,466,1.16,209.0,1.13,0.76,137.8,0.06,0.052,0.26
+GuanG,Nova Esports,china_stage_2,Sentinel,"Viper, Cypher, Chamber",22,466,1.1,208.0,1.26,0.72,140.9,0.075,0.045,0.32
+cb,Nova Esports,china_stage_2,Flex,"Phoenix, Skye, Killjoy",22,466,1.06,200.0,1.04,0.73,132.7,0.094,0.092,0.23
+qiutiaN,Nova Esports,china_stage_2,Initiator,"Fade, Sova, Deadlock",22,466,0.86,164.0,0.86,0.72,107.9,0.041,0.077,0.26
+swagzor,Nova Esports,china_stage_2,Duelist,"Neon, Raze, Waylay",22,466,1.09,253.0,1.16,0.73,161.2,0.185,0.146,0.29
+Erv,TYLOO,china_stage_2,Flex,"Omen, KAY/O, Waylay",30,643,1.1,184.0,1.03,0.77,121.9,0.044,0.044,0.29
+Scales,TYLOO,china_stage_2,Sentinel,"Cypher, Viper, Sage",30,643,1.06,196.0,1.06,0.71,133.5,0.089,0.067,0.31
+SiuFatBB,TYLOO,china_stage_2,Initiator,"Fade, Sova, Skye",30,643,1.03,165.0,1.01,0.75,111.8,0.039,0.037,0.3
+slowly,TYLOO,china_stage_2,Duelist,"Waylay, Jett, Chamber",30,643,1.22,250.0,1.3,0.73,161.7,0.198,0.124,0.32
+splash,TYLOO,china_stage_2,Duelist,"Raze, Neon, Phoenix",30,643,1.19,247.0,1.2,0.74,161.2,0.134,0.121,0.3
+Coco,Titan Esports Club,china_stage_2,Controller,"Omen, Viper, Astra",29,641,1.05,189.0,0.94,0.73,124.7,0.039,0.047,0.33
+Dynamite,Titan Esports Club,china_stage_2,Duelist,"Phoenix, Neon, Waylay",29,641,0.93,206.0,0.91,0.69,134.7,0.125,0.136,0.24
+Haodong,Titan Esports Club,china_stage_2,Flex,"Cypher, Omen",29,641,0.92,177.0,0.95,0.68,113.8,0.055,0.066,0.3
+Spitfires,Titan Esports Club,china_stage_2,Sentinel,"Phoenix, Sage, Waylay",10,226,0.79,184.0,0.76,0.66,125.4,0.071,0.181,0.3
+lucas,Titan Esports Club,china_stage_2,Initiator,"Sova, Fade, Tejo",29,641,0.96,192.0,0.95,0.71,130.6,0.047,0.056,0.24
+ra1ny,Titan Esports Club,china_stage_2,Duelist,"Neon, Raze",19,415,1.01,225.0,0.94,0.66,149.7,0.159,0.205,0.22
+FKEY,Trace Esports,china_stage_2,Initiator,"Fade, KAY/O, Sage",30,647,0.79,175.0,0.79,0.65,113.2,0.09,0.087,0.31
+FengF,Trace Esports,china_stage_2,Flex,"Sova, Raze, Neon",30,647,1.03,204.0,0.96,0.71,140.3,0.074,0.108,0.29
+Kai,Trace Esports,china_stage_2,Duelist,"Jett, Waylay, Neon",30,647,0.9,216.0,0.97,0.67,134.3,0.151,0.128,0.26
+LuoK1ng,Trace Esports,china_stage_2,Controller,"Omen, Harbor",30,647,1.0,177.0,0.9,0.73,111.7,0.051,0.074,0.29
+deLb,Trace Esports,china_stage_2,Sentinel,"Cypher, Viper, Vyse",30,647,1.1,214.0,1.15,0.71,145.2,0.07,0.042,0.4
+Deryeon,Wolves Esports,china_stage_2,Flex,"Omen, KAY/O, Raze",24,519,0.98,191.0,0.96,0.73,124.1,0.052,0.067,0.24
+Spring,Wolves Esports,china_stage_2,Flex,"Viper, Omen",24,519,1.1,216.0,1.04,0.72,145.6,0.067,0.069,0.3
+aluba,Wolves Esports,china_stage_2,Initiator,"Sova, Fade, Skye",24,519,0.93,169.0,0.84,0.72,113.0,0.035,0.046,0.28
+glacier,Wolves Esports,china_stage_2,Duelist,"Neon, Raze, Jett",24,519,0.95,225.0,0.97,0.67,140.1,0.166,0.195,0.25
+yosemite,Wolves Esports,china_stage_2,Sentinel,"Vyse, Cypher, Killjoy",24,519,1.07,202.0,1.02,0.69,132.9,0.096,0.081,0.29
+Lysoar,Xi Lai Gaming,china_stage_2,Controller,"Omen, Harbor, Vyse",23,475,1.06,205.0,1.1,0.73,130.1,0.038,0.04,0.3
+NoMan,Xi Lai Gaming,china_stage_2,Duelist,"Waylay, Raze, Jett",21,428,0.9,185.0,0.89,0.65,122.0,0.107,0.114,0.31
+Rarga,Xi Lai Gaming,china_stage_2,Duelist,"Neon, Phoenix, Jett",23,475,0.99,218.0,1.07,0.71,141.0,0.126,0.114,0.35
+Sharks,Xi Lai Gaming,china_stage_2,Duelist,"Jett, Raze",2,47,,,0.89,0.7,,0.213,0.213,0.25
+WsLeo,Xi Lai Gaming,china_stage_2,Initiator,"Fade, Sova, Skye",23,475,1.0,195.0,1.02,0.74,131.2,0.082,0.044,0.24
+happywei,Xi Lai Gaming,china_stage_2,Sentinel,"Viper, Omen, Cypher",23,475,1.01,200.0,0.96,0.72,135.8,0.08,0.057,0.33
+Crewen,BBL Esports,emea_kickoff,Sentinel,"Cypher, Viper",12,262,0.84,170.0,0.88,0.67,108.6,0.061,0.103,0.34
+Lar0k,BBL Esports,emea_kickoff,Duelist,"Neon, Waylay, Jett",12,262,1.07,227.0,1.12,0.71,146.4,0.164,0.134,0.32
+Loita,BBL Esports,emea_kickoff,Controller,"Omen, Viper, Astra",12,262,1.11,191.0,1.13,0.73,129.1,0.065,0.092,0.39
+Rosé,BBL Esports,emea_kickoff,Initiator,"Sova, Fade",12,262,0.88,170.0,0.89,0.71,120.1,0.042,0.046,0.25
+lovers rock,BBL Esports,emea_kickoff,Duelist,Yoru,12,262,1.18,246.0,1.31,0.75,153.9,0.187,0.107,0.23
+Alfajer,FNATIC,emea_kickoff,Sentinel,"Vyse, Raze, Killjoy",20,474,1.17,240.0,1.22,0.75,160.7,0.158,0.091,0.34
+Boaster,FNATIC,emea_kickoff,Controller,"Astra, Brimstone, Omen",20,474,0.77,135.0,0.7,0.68,88.7,0.038,0.08,0.28
+Veqaj,FNATIC,emea_kickoff,Flex,"Viper, KAY/O, Jett",20,474,1.1,220.0,1.11,0.71,145.0,0.097,0.097,0.33
+crashies,FNATIC,emea_kickoff,Initiator,"Sova, Fade",20,474,1.03,190.0,1.06,0.72,126.4,0.046,0.046,0.32
+kaajak,FNATIC,emea_kickoff,Duelist,"Yoru, Jett, Waylay",20,474,0.95,204.0,1.03,0.65,129.5,0.173,0.173,0.32
+KROSTALY,FUT Esports,emea_kickoff,Initiator,"Fade, Tejo, KAY/O",8,187,0.85,175.0,0.84,0.7,113.9,0.07,0.08,0.31
+MrFaliN,FUT Esports,emea_kickoff,Initiator,"Sova, Omen, Fade",8,187,0.97,178.0,0.9,0.65,116.6,0.07,0.102,0.33
+baha,FUT Esports,emea_kickoff,Sentinel,"Astra, Viper, Killjoy",8,187,0.68,158.0,0.69,0.58,103.6,0.053,0.091,0.3
+xeus,FUT Esports,emea_kickoff,Duelist,"Waylay, Neon, Raze",8,187,0.98,211.0,1.01,0.68,133.2,0.182,0.16,0.41
+yetujey,FUT Esports,emea_kickoff,Flex,"Waylay, Cypher, Omen",8,187,0.89,176.0,0.83,0.68,119.2,0.07,0.118,0.28
+Cloud,GIANTX,emea_kickoff,Initiator,"Sova, Skye, Tejo",12,262,0.97,206.0,0.97,0.74,140.1,0.061,0.076,0.26
+Flickless,GIANTX,emea_kickoff,Initiator,"KAY/O, Viper, Breach",12,262,1.0,192.0,0.96,0.69,120.1,0.088,0.065,0.27
+ara,GIANTX,emea_kickoff,Duelist,"Raze, Neon, Waylay",12,262,0.9,182.0,0.93,0.68,118.4,0.164,0.172,0.3
+grubinho,GIANTX,emea_kickoff,Controller,"Astra, Omen, Brimstone",12,262,0.92,175.0,0.88,0.69,112.6,0.076,0.08,0.29
+westside,GIANTX,emea_kickoff,Sentinel,"Chamber, Sage, Viper",12,262,0.94,191.0,0.96,0.67,129.5,0.122,0.095,0.37
+GLYPH,Gentle Mates,emea_kickoff,Controller,Astra,16,370,0.91,159.0,0.89,0.73,101.7,0.068,0.062,0.22
+Minny,Gentle Mates,emea_kickoff,Sentinel,"Viper, Brimstone, Cypher",16,370,1.15,214.0,1.22,0.75,140.8,0.1,0.084,0.4
+bipo,Gentle Mates,emea_kickoff,Duelist,"Waylay, Neon, Raze",16,370,0.97,202.0,1.05,0.69,132.6,0.111,0.151,0.26
+marteen,Gentle Mates,emea_kickoff,Duelist,Yoru,16,370,1.27,255.0,1.38,0.76,160.5,0.178,0.114,0.31
+starxo,Gentle Mates,emea_kickoff,Initiator,"Fade, Sova",16,370,0.94,179.0,0.93,0.69,120.6,0.068,0.062,0.25
+Avez,Karmine Corp,emea_kickoff,Flex,"Tejo, Phoenix, KAY/O",11,230,0.96,205.0,0.95,0.7,133.4,0.1,0.135,0.26
+LewN,Karmine Corp,emea_kickoff,Duelist,"Yoru, Waylay, Jett",11,230,1.0,213.0,1.05,0.71,134.8,0.187,0.17,0.34
+SUYGETSU,Karmine Corp,emea_kickoff,Sentinel,"Astra, Viper, Cypher",11,230,1.02,197.0,1.07,0.7,133.2,0.091,0.078,0.36
+dos9,Karmine Corp,emea_kickoff,Controller,"Omen, Astra",11,230,1.1,200.0,1.13,0.8,127.9,0.052,0.096,0.33
+sheydos,Karmine Corp,emea_kickoff,Initiator,"Sova, Skye, Fade",11,230,0.86,157.0,0.83,0.73,101.7,0.043,0.048,0.3
+Filu,Natus Vincere,emea_kickoff,Duelist,"Raze, Yoru, Neon",12,261,0.84,194.0,0.9,0.67,132.7,0.126,0.153,0.28
+Ruxic,Natus Vincere,emea_kickoff,Sentinel,"Viper, Chamber, Omen",12,261,1.08,209.0,1.13,0.69,138.8,0.123,0.119,0.23
+Shao,Natus Vincere,emea_kickoff,Controller,"Omen, Sova, Brimstone",12,261,0.78,150.0,0.71,0.67,101.5,0.077,0.077,0.36
+hiro,Natus Vincere,emea_kickoff,Sentinel,"Tejo, Viper, Killjoy",12,261,1.3,238.0,1.44,0.74,158.8,0.092,0.077,0.31
+sociablEE,Natus Vincere,emea_kickoff,Flex,"Skye, Omen, Yoru",12,261,0.85,172.0,0.85,0.69,112.0,0.05,0.107,0.25
+NINJA,PCIFIC Esports,emea_kickoff,Initiator,"Fade, Tejo, Sova",8,169,0.89,181.0,0.87,0.68,121.6,0.059,0.089,0.26
+al0rante,PCIFIC Esports,emea_kickoff,Controller,"Brimstone, Viper, Astra",8,169,1.07,230.0,1.06,0.69,148.2,0.059,0.095,0.45
+cNed,PCIFIC Esports,emea_kickoff,Duelist,"Waylay, Yoru",8,169,0.78,159.0,0.75,0.66,102.8,0.13,0.178,0.27
+qpert,PCIFIC Esports,emea_kickoff,Controller,"Omen, Astra",8,169,0.86,144.0,0.73,0.7,95.3,0.047,0.095,0.31
+seven,PCIFIC Esports,emea_kickoff,Flex,"KAY/O, Yoru, Sage",8,169,1.13,219.0,1.04,0.67,141.7,0.136,0.107,0.3
+Boo,Team Heretics,emea_kickoff,Controller,"Omen, Brimstone, Astra",14,285,0.97,166.0,0.9,0.77,105.9,0.06,0.053,0.32
+ComeBack,Team Heretics,emea_kickoff,Duelist,"Neon, Jett, Raze",14,285,0.99,216.0,0.98,0.68,138.4,0.175,0.137,0.32
+RieNs,Team Heretics,emea_kickoff,Initiator,"Sova, Fade, Gekko",14,285,0.97,198.0,0.99,0.69,133.9,0.095,0.063,0.37
+Wo0t,Team Heretics,emea_kickoff,Flex,"Yoru, Fade, KAY/O",14,285,0.96,192.0,0.94,0.76,126.1,0.116,0.095,0.31
+benjyfishy,Team Heretics,emea_kickoff,Sentinel,"Cypher, Viper, Veto",14,285,1.04,205.0,1.06,0.66,133.8,0.116,0.088,0.38
+Kicks,Team Liquid,emea_kickoff,Controller,"Astra, Brimstone, Omen",3,72,1.02,165.0,0.98,0.69,114.5,0.069,0.028,0.26
+MiniBoo,Team Liquid,emea_kickoff,Duelist,"Neon, Waylay, Yoru",22,477,1.09,233.0,1.13,0.74,150.2,0.182,0.155,0.32
+kamo,Team Liquid,emea_kickoff,Flex,"Yoru, Waylay, Sova",22,477,0.99,202.0,1.01,0.73,132.1,0.103,0.124,0.36
+nAts,Team Liquid,emea_kickoff,Sentinel,"Viper, Cypher, Killjoy",22,477,1.06,209.0,1.12,0.72,144.8,0.078,0.096,0.27
+purp0,Team Liquid,emea_kickoff,Initiator,"Skye, Sova, Fade",22,477,0.96,169.0,0.97,0.73,110.5,0.08,0.069,0.44
+wayne,Team Liquid,emea_kickoff,Controller,"Omen, Brimstone, Astra",19,405,1.06,190.0,1.06,0.79,124.7,0.054,0.059,0.34
+Chronicle,Team Vitality,emea_kickoff,Sentinel,"Viper, Chamber, Veto",14,280,1.12,210.0,1.22,0.71,141.8,0.107,0.086,0.27
+Derke,Team Vitality,emea_kickoff,Duelist,"Jett, Phoenix, Waylay",14,280,1.11,236.0,1.14,0.71,155.4,0.182,0.143,0.26
+Jamppi,Team Vitality,emea_kickoff,Flex,"Yoru, Tejo, Sova",14,280,0.96,202.0,1.02,0.67,130.0,0.114,0.121,0.32
+PROFEK,Team Vitality,emea_kickoff,Controller,"Astra, Omen, Brimstone",14,280,0.96,173.0,1.01,0.74,113.3,0.068,0.057,0.29
+UNFAKE,Team Vitality,emea_kickoff,Initiator,"Sova, Skye, Fade",14,280,0.83,149.0,0.77,0.69,104.8,0.054,0.068,0.32
+Favian,ULF Esports,emea_kickoff,Flex,"Breach, Waylay, Jett",9,175,0.85,192.0,0.83,0.67,125.1,0.103,0.114,0.32
+audaz,ULF Esports,emea_kickoff,Controller,"Omen, Astra, Viper",9,175,0.98,187.0,0.88,0.73,119.1,0.08,0.063,0.43
+d3mur,ULF Esports,emea_kickoff,Duelist,"Neon, Waylay, Yoru",9,175,0.8,184.0,0.87,0.63,114.8,0.114,0.217,0.26
+nekky,ULF Esports,emea_kickoff,Initiator,"Sova, Fade, Skye",9,175,0.9,195.0,0.88,0.67,130.8,0.057,0.057,0.27
+sturNN,ULF Esports,emea_kickoff,Sentinel,"Viper, Astra, Killjoy",9,175,0.72,163.0,0.75,0.64,99.0,0.069,0.12,0.25
+Crewen,BBL Esports,emea_stage_1,Sentinel,"Cypher, Viper, Vyse",14,292,0.98,195.0,0.93,0.62,132.0,0.079,0.086,0.35
+Lar0k,BBL Esports,emea_stage_1,Flex,"Neon, Raze, Breach",14,292,0.93,194.0,0.94,0.68,125.3,0.089,0.123,0.25
+Loita,BBL Esports,emea_stage_1,Controller,"Omen, Astra, Brimstone",14,292,0.88,161.0,0.76,0.68,106.0,0.062,0.11,0.33
+Rosé,BBL Esports,emea_stage_1,Initiator,"Sova, Fade, Skye",14,292,0.84,164.0,0.81,0.63,112.9,0.065,0.103,0.28
+lovers rock,BBL Esports,emea_stage_1,Duelist,"Jett, Neon, Waylay",14,292,0.91,195.0,0.9,0.62,125.5,0.137,0.147,0.19
+Favian,Eternal Fire,emea_stage_1,Flex,"Raze, Phoenix, Skye",23,503,1.07,219.0,1.07,0.7,146.9,0.097,0.097,0.27
+Izzy,Eternal Fire,emea_stage_1,Duelist,"Neon, Jett, Waylay",23,503,0.96,197.0,1.0,0.68,125.4,0.155,0.181,0.24
+audaz,Eternal Fire,emea_stage_1,Controller,"Astra, Omen, Brimstone",23,503,1.02,178.0,0.97,0.76,117.6,0.056,0.048,0.35
+echo,Eternal Fire,emea_stage_1,Sentinel,"Cypher, Viper, Veto",23,503,1.01,215.0,1.06,0.7,138.3,0.127,0.123,0.33
+nekky,Eternal Fire,emea_stage_1,Initiator,"Fade, Sova, Tejo",23,503,0.98,190.0,0.99,0.71,127.6,0.056,0.06,0.27
+Alfajer,FNATIC,emea_stage_1,Sentinel,"Cypher, Viper, Killjoy",17,364,1.1,230.0,1.16,0.69,148.3,0.14,0.121,0.37
+Boaster,FNATIC,emea_stage_1,Controller,"Omen, Harbor, Brimstone",17,364,0.98,162.0,0.9,0.73,106.8,0.06,0.066,0.28
+CyvOph,FNATIC,emea_stage_1,Flex,"Phoenix, KAY/O, Viper",7,145,1.0,196.0,1.02,0.72,134.2,0.069,0.09,0.3
+Desmo,FNATIC,emea_stage_1,Flex,"Phoenix, Viper, KAY/O",3,58,0.83,161.0,0.83,0.72,98.2,0.069,0.155,0.42
+Veqaj,FNATIC,emea_stage_1,Flex,"Viper, KAY/O",7,161,1.06,205.0,1.08,0.75,138.4,0.124,0.056,0.34
+crashies,FNATIC,emea_stage_1,Initiator,"Sova, Fade, Skye",17,364,1.05,173.0,1.09,0.72,114.1,0.055,0.047,0.28
+kaajak,FNATIC,emea_stage_1,Duelist,"Neon, Jett, Waylay",17,364,1.1,238.0,1.21,0.69,152.1,0.179,0.154,0.31
+KROSTALY,FUT Esports,emea_stage_1,Initiator,"Sova, Skye, Fade",23,497,0.9,169.0,0.86,0.71,110.9,0.056,0.062,0.28
+s0pp,FUT Esports,emea_stage_1,Duelist,Neon,23,497,1.02,233.0,1.04,0.73,147.4,0.227,0.161,0.24
+sociablEE,FUT Esports,emea_stage_1,Controller,"Omen, Brimstone, Astra",23,497,1.01,191.0,0.94,0.71,124.0,0.07,0.093,0.26
+xeus,FUT Esports,emea_stage_1,Duelist,"Raze, Phoenix, Waylay",23,497,0.94,209.0,1.0,0.7,135.7,0.103,0.109,0.35
+yetujey,FUT Esports,emea_stage_1,Sentinel,"Viper, Cypher, Killjoy",23,497,1.06,182.0,1.06,0.72,125.0,0.062,0.056,0.28
+Cloud,GIANTX,emea_stage_1,Initiator,"Sova, Tejo, Skye",13,278,0.88,172.0,0.84,0.75,117.8,0.079,0.072,0.26
+Flickless,GIANTX,emea_stage_1,Sentinel,"Viper, Cypher, Fade",13,278,1.06,195.0,1.02,0.71,134.5,0.076,0.079,0.27
+ara,GIANTX,emea_stage_1,Duelist,"Neon, Waylay",13,278,1.05,214.0,1.12,0.71,132.4,0.165,0.151,0.28
+grubinho,GIANTX,emea_stage_1,Controller,"Omen, Astra, Brimstone",13,278,0.95,171.0,0.89,0.74,112.9,0.054,0.054,0.27
+westside,GIANTX,emea_stage_1,Sentinel,"Phoenix, Waylay, Cypher",13,278,0.95,194.0,0.99,0.72,129.8,0.126,0.144,0.4
+GLYPH,Gentle Mates,emea_stage_1,Controller,"Omen, Astra, Brimstone",17,351,1.0,187.0,0.92,0.76,117.0,0.057,0.046,0.24
+Minny,Gentle Mates,emea_stage_1,Sentinel,"Cypher, Viper, Breach",17,351,1.06,189.0,1.03,0.71,129.0,0.074,0.08,0.31
+bipo,Gentle Mates,emea_stage_1,Duelist,"Neon, Jett, Raze",17,351,0.76,174.0,0.79,0.66,110.2,0.128,0.171,0.2
+marteen,Gentle Mates,emea_stage_1,Sentinel,"Phoenix, Raze, Veto",17,351,1.1,227.0,1.1,0.73,151.6,0.131,0.137,0.26
+starxo,Gentle Mates,emea_stage_1,Initiator,"Fade, Sova, Skye",17,351,0.87,182.0,0.83,0.7,118.9,0.083,0.094,0.25
+Avez,Karmine Corp,emea_stage_1,Flex,"Omen, Phoenix, Tejo",13,273,0.76,157.0,0.73,0.66,102.7,0.088,0.143,0.31
+LewN,Karmine Corp,emea_stage_1,Duelist,"Waylay, Jett, Neon",13,273,0.97,216.0,0.99,0.7,140.8,0.154,0.139,0.36
+N4RRATE,Karmine Corp,emea_stage_1,Initiator,"Fade, Veto, Gekko",13,273,0.89,184.0,0.85,0.74,123.4,0.073,0.081,0.28
+SUYGETSU,Karmine Corp,emea_stage_1,Sentinel,"Vyse, Cypher, Astra",13,273,0.95,180.0,0.95,0.69,118.6,0.081,0.095,0.29
+dos9,Karmine Corp,emea_stage_1,Flex,"Omen, Astra, Neon",13,273,1.01,193.0,1.02,0.69,117.0,0.07,0.077,0.25
+ComeBack,Natus Vincere,emea_stage_1,Duelist,"Chamber, Neon",10,218,0.9,195.0,0.97,0.66,127.8,0.179,0.133,0.24
+Filu,Natus Vincere,emea_stage_1,Duelist,"Chamber, Raze, Neon",13,281,1.0,191.0,1.01,0.69,128.2,0.117,0.117,0.3
+Kolosha,Natus Vincere,emea_stage_1,Duelist,"Neon, Waylay",6,129,0.65,157.0,0.63,0.62,108.0,0.116,0.209,0.23
+Ruxic,Natus Vincere,emea_stage_1,Controller,"Omen, Viper, Astra",13,281,1.2,230.0,1.23,0.75,148.0,0.089,0.06,0.25
+chloric,Natus Vincere,emea_stage_1,Initiator,"Fade, Sova, Skye",13,281,0.94,169.0,0.92,0.72,112.5,0.05,0.082,0.2
+hiro,Natus Vincere,emea_stage_1,Sentinel,"Viper, Vyse, Tejo",13,281,1.08,218.0,1.11,0.69,146.4,0.057,0.089,0.31
+NINJA,PCIFIC Esports,emea_stage_1,Initiator,"Fade, Sova, Tejo",12,261,0.97,178.0,0.98,0.71,117.2,0.046,0.065,0.32
+al0rante,PCIFIC Esports,emea_stage_1,Sentinel,"Viper, Veto, Vyse",12,261,0.94,187.0,0.97,0.66,127.0,0.1,0.1,0.43
+cNed,PCIFIC Esports,emea_stage_1,Duelist,"Neon, Waylay, Jett",12,261,0.87,186.0,0.89,0.63,121.8,0.115,0.149,0.29
+qpert,PCIFIC Esports,emea_stage_1,Controller,"Astra, Omen",12,261,0.87,158.0,0.82,0.75,105.9,0.046,0.05,0.28
+seven,PCIFIC Esports,emea_stage_1,Flex,"Raze, KAY/O, Neon",12,261,0.89,200.0,0.87,0.68,132.6,0.146,0.184,0.21
+Boo,Team Heretics,emea_stage_1,Controller,"Omen, Astra, Brimstone",32,682,1.05,173.0,0.99,0.75,111.1,0.065,0.063,0.33
+RieNs,Team Heretics,emea_stage_1,Initiator,"Fade, Sova, Skye",32,682,1.08,205.0,1.1,0.76,138.3,0.063,0.059,0.35
+Wo0t,Team Heretics,emea_stage_1,Duelist,"Raze, Jett, Neon",32,682,1.06,223.0,1.11,0.74,146.0,0.166,0.125,0.26
+benjyfishy,Team Heretics,emea_stage_1,Sentinel,"Cypher, Vyse, Viper",32,682,1.04,190.0,1.08,0.75,124.9,0.065,0.075,0.31
+koshmaras,Team Heretics,emea_stage_1,Duelist,"Neon, Chamber",29,616,1.01,222.0,1.04,0.73,138.5,0.175,0.156,0.18
+MiniBoo,Team Liquid,emea_stage_1,Duelist,Neon,17,362,1.03,214.0,1.1,0.67,135.0,0.166,0.174,0.28
+kamo,Team Liquid,emea_stage_1,Flex,"Phoenix, Raze, KAY/O",17,362,1.04,223.0,1.09,0.72,147.5,0.133,0.088,0.31
+nAts,Team Liquid,emea_stage_1,Sentinel,"Killjoy, Viper, Cypher",17,362,0.98,204.0,1.02,0.69,138.2,0.099,0.102,0.22
+purp0,Team Liquid,emea_stage_1,Initiator,"Fade, Skye, Sova",17,362,1.05,184.0,1.11,0.76,120.3,0.061,0.052,0.39
+wayne,Team Liquid,emea_stage_1,Controller,"Omen, Astra, Brimstone",17,362,0.93,169.0,0.86,0.74,110.9,0.058,0.066,0.32
+Chronicle,Team Vitality,emea_stage_1,Sentinel,"Viper, Vyse, Chamber",24,534,1.03,202.0,1.11,0.72,138.0,0.096,0.107,0.23
+Derke,Team Vitality,emea_stage_1,Duelist,"Neon, Jett, Raze",24,534,1.02,216.0,1.09,0.72,137.0,0.176,0.154,0.21
+Jamppi,Team Vitality,emea_stage_1,Initiator,"Fade, KAY/O, Sova",24,534,1.04,195.0,1.04,0.75,125.4,0.084,0.079,0.27
+PROFEK,Team Vitality,emea_stage_1,Controller,"Omen, Astra, Harbor",24,534,1.01,183.0,0.98,0.73,122.9,0.092,0.052,0.23
+Sayonara,Team Vitality,emea_stage_1,Flex,"Sova, Viper, Phoenix",24,534,1.13,221.0,1.17,0.73,149.6,0.086,0.075,0.29
+Crewen,BBL Esports,emea_stage_2,Sentinel,"Cypher, Vyse, Viper",18,383,0.99,188.0,1.0,0.7,126.4,0.081,0.081,0.35
+Lar0k,BBL Esports,emea_stage_2,Sentinel,"Waylay, Deadlock, Raze",18,383,1.0,204.0,0.99,0.7,131.5,0.123,0.091,0.29
+Loita,BBL Esports,emea_stage_2,Controller,"Omen, Astra",18,383,1.12,198.0,1.1,0.73,128.9,0.057,0.081,0.39
+Rosé,BBL Esports,emea_stage_2,Initiator,"Sova, Fade",18,383,0.83,161.0,0.76,0.69,111.3,0.068,0.097,0.29
+lovers rock,BBL Esports,emea_stage_2,Duelist,"Yoru, Neon",18,383,1.16,232.0,1.27,0.76,148.2,0.217,0.104,0.2
+Fizzy,Eintracht Frankfurt,emea_stage_2,Controller,"Astra, Omen, Cypher",12,243,1.02,184.0,0.98,0.72,115.9,0.074,0.07,0.25
+Jamelinho213,Eintracht Frankfurt,emea_stage_2,Duelist,"Neon, Raze, Jett",12,243,1.01,230.0,1.04,0.7,149.0,0.214,0.189,0.28
+MONSTEERR,Eintracht Frankfurt,emea_stage_2,Sentinel,"Vyse, Phoenix, Waylay",12,243,1.1,217.0,1.11,0.69,152.7,0.062,0.095,0.31
+azury,Eintracht Frankfurt,emea_stage_2,Flex,"Viper, Fade, Omen",12,243,1.11,208.0,1.09,0.78,136.1,0.07,0.045,0.26
+musashi,Eintracht Frankfurt,emea_stage_2,Flex,"Sova, Fade, Raze",12,243,0.91,174.0,0.83,0.69,115.5,0.115,0.066,0.21
+Lime,Enterprise Esports,emea_stage_2,Duelist,"Phoenix, Neon, Yoru",15,322,0.89,188.0,0.89,0.71,123.3,0.14,0.121,0.33
+MAGNUM,Enterprise Esports,emea_stage_2,Sentinel,"Vyse, Cypher, Astra",15,322,1.07,205.0,1.12,0.7,133.9,0.075,0.096,0.29
+iluri,Enterprise Esports,emea_stage_2,Initiator,"Sova, Skye, Fade",15,322,0.9,160.0,0.86,0.65,108.8,0.053,0.075,0.39
+kozzy,Enterprise Esports,emea_stage_2,Duelist,"Neon, Raze, Jett",15,322,1.13,245.0,1.16,0.7,162.0,0.155,0.143,0.31
+paTiTek,Enterprise Esports,emea_stage_2,Controller,"Omen, Harbor, Brimstone",15,322,0.91,167.0,0.86,0.71,108.9,0.075,0.065,0.21
+Favian,Eternal Fire,emea_stage_2,Sentinel,"Neon, Veto, Waylay",17,365,1.06,228.0,1.1,0.67,146.8,0.151,0.153,0.29
+Izzy,Eternal Fire,emea_stage_2,Duelist,Neon,4,81,0.95,203.0,1.09,0.75,120.5,0.198,0.136,0.18
+Spear,Eternal Fire,emea_stage_2,Duelist,"Neon, Phoenix, Jett",13,284,0.92,203.0,0.87,0.65,135.1,0.127,0.134,0.29
+audaz,Eternal Fire,emea_stage_2,Controller,"Omen, Astra",17,365,0.89,153.0,0.81,0.69,99.6,0.055,0.055,0.35
+echo,Eternal Fire,emea_stage_2,Sentinel,"Viper, Cypher, Vyse",17,365,0.93,195.0,0.91,0.66,132.4,0.107,0.096,0.35
+nekky,Eternal Fire,emea_stage_2,Initiator,"Fade, Sova",17,365,0.86,176.0,0.85,0.66,120.3,0.027,0.079,0.32
+Alfajer,FNATIC,emea_stage_2,Sentinel,"Neon, Chamber, Cypher",18,398,1.06,238.0,1.1,0.66,154.5,0.151,0.153,0.35
+Boaster,FNATIC,emea_stage_2,Controller,"Omen, Astra, Harbor",18,398,0.77,143.0,0.7,0.67,92.2,0.058,0.108,0.27
+Cloud,FNATIC,emea_stage_2,Initiator,"Viper, Fade, Sova",18,398,1.04,187.0,1.0,0.7,127.2,0.065,0.068,0.25
+crashies,FNATIC,emea_stage_2,Sentinel,"Fade, Viper, Cypher",18,398,0.99,186.0,0.98,0.7,125.0,0.04,0.053,0.26
+kaajak,FNATIC,emea_stage_2,Duelist,"Neon, Yoru, Raze",18,398,0.92,205.0,0.96,0.67,134.4,0.136,0.168,0.35
+KROSTALY,FUT Esports,emea_stage_2,Initiator,"Sova, Skye, Fade",27,580,1.0,180.0,0.98,0.73,120.6,0.06,0.053,0.32
+s0pp,FUT Esports,emea_stage_2,Duelist,"Neon, Jett",27,580,1.04,224.0,1.08,0.71,145.2,0.183,0.136,0.26
+sociablEE,FUT Esports,emea_stage_2,Flex,"Omen, Breach, Phoenix",27,580,0.92,179.0,0.86,0.71,118.4,0.081,0.095,0.24
+xeus,FUT Esports,emea_stage_2,Duelist,"Waylay, Raze, Phoenix",27,580,0.87,192.0,0.91,0.66,129.3,0.109,0.121,0.38
+yetujey,FUT Esports,emea_stage_2,Sentinel,"Cypher, Viper, Astra",27,580,1.04,197.0,1.09,0.69,132.5,0.081,0.078,0.28
+DeadInk,Fire Flux Esports,emea_stage_2,Duelist,"Waylay, Chamber, Raze",16,352,0.99,185.0,1.07,0.71,117.5,0.151,0.074,0.2
+Kachoww,Fire Flux Esports,emea_stage_2,Flex,"Neon, Omen, Yoru",16,352,1.17,260.0,1.27,0.76,167.0,0.182,0.116,0.37
+batujnax,Fire Flux Esports,emea_stage_2,Initiator,"Fade, Sova, Skye",16,352,1.0,193.0,0.97,0.72,129.0,0.082,0.082,0.21
+hezacoil,Fire Flux Esports,emea_stage_2,Controller,"Astra, Omen, Vyse",16,352,1.05,183.0,1.03,0.75,123.6,0.091,0.08,0.34
+reazy,Fire Flux Esports,emea_stage_2,Flex,"Viper, Omen, Sova",16,352,0.95,175.0,0.98,0.73,117.5,0.068,0.071,0.3
+Flickless,GIANTX,emea_stage_2,Flex,"Viper, Phoenix, Omen",17,349,0.82,171.0,0.8,0.68,111.5,0.069,0.135,0.28
+Jesse,GIANTX,emea_stage_2,Flex,"Omen, Phoenix, Brimstone",17,349,0.83,152.0,0.74,0.68,101.4,0.046,0.077,0.27
+ara,GIANTX,emea_stage_2,Duelist,"Neon, Jett, Raze",17,349,0.96,221.0,1.0,0.65,141.0,0.152,0.152,0.28
+neT,GIANTX,emea_stage_2,Initiator,"Sova, Fade",17,349,0.94,191.0,0.9,0.7,130.9,0.077,0.069,0.32
+westside,GIANTX,emea_stage_2,Sentinel,"Cypher, Phoenix",17,349,0.98,198.0,1.0,0.68,128.3,0.112,0.112,0.42
+H1ber,Gentle Mates,emea_stage_2,Sentinel,"Cypher, Viper",4,87,0.86,165.0,0.77,0.59,111.5,0.023,0.149,0.31
+Minny,Gentle Mates,emea_stage_2,Duelist,"Neon, Jett, Waylay",16,344,0.82,196.0,0.88,0.65,126.1,0.169,0.198,0.27
+Proxh,Gentle Mates,emea_stage_2,Controller,Omen,16,344,0.93,176.0,0.88,0.72,116.5,0.049,0.073,0.3
+bipo,Gentle Mates,emea_stage_2,Sentinel,"Cypher, Viper",12,257,0.83,160.0,0.83,0.67,107.7,0.078,0.047,0.32
+marteen,Gentle Mates,emea_stage_2,Duelist,"Phoenix, Raze, Yoru",16,344,1.23,254.0,1.23,0.74,169.0,0.119,0.102,0.34
+starxo,Gentle Mates,emea_stage_2,Initiator,"Sova, Fade",16,344,0.9,172.0,0.88,0.67,112.8,0.067,0.087,0.28
+Pa1ze,Joblife,emea_stage_2,Duelist,"Neon, Jett",13,289,1.02,232.0,1.04,0.7,151.0,0.246,0.183,0.3
+UNFAKE,Joblife,emea_stage_2,Initiator,"Sova, Fade, Skye",13,289,0.89,162.0,0.86,0.71,107.3,0.038,0.048,0.28
+doma,Joblife,emea_stage_2,Sentinel,"Cypher, Omen, Viper",13,289,0.98,172.0,0.95,0.72,111.6,0.062,0.062,0.21
+kamyk,Joblife,emea_stage_2,Controller,"Omen, Viper, Astra",13,289,1.09,200.0,1.07,0.72,130.4,0.062,0.087,0.3
+runneR,Joblife,emea_stage_2,Flex,"Raze, KAY/O, Jett",13,289,1.09,216.0,1.05,0.7,148.5,0.107,0.104,0.27
+Avez,Karmine Corp,emea_stage_2,Initiator,"Fade, Sova",21,456,1.14,200.0,1.19,0.75,132.6,0.061,0.064,0.28
+LewN,Karmine Corp,emea_stage_2,Duelist,"Neon, Raze",21,456,1.1,239.0,1.25,0.71,151.9,0.16,0.134,0.3
+N4RRATE,Karmine Corp,emea_stage_2,Sentinel,"Chamber, Phoenix, Sage",21,456,1.21,235.0,1.34,0.76,153.1,0.171,0.09,0.27
+SUYGETSU,Karmine Corp,emea_stage_2,Sentinel,"Viper, Cypher, Astra",21,456,0.88,164.0,0.93,0.72,110.7,0.077,0.068,0.36
+dos9,Karmine Corp,emea_stage_2,Controller,"Omen, Harbor",21,456,1.06,186.0,1.09,0.76,121.2,0.101,0.07,0.27
+CyvOph,Natus Vincere,emea_stage_2,Flex,"Sage, Phoenix, KAY/O",15,328,0.88,163.0,0.76,0.69,111.2,0.058,0.091,0.24
+ExiT,Natus Vincere,emea_stage_2,Duelist,"Neon, Waylay, Phoenix",18,400,0.87,209.0,0.9,0.68,134.9,0.142,0.2,0.25
+Kolosha,Natus Vincere,emea_stage_2,Duelist,Neon,3,72,0.71,182.0,0.78,0.64,122.1,0.125,0.153,0.26
+Ruxic,Natus Vincere,emea_stage_2,Controller,"Omen, Astra, Harbor",18,400,1.08,211.0,1.05,0.74,137.9,0.065,0.077,0.28
+chloric,Natus Vincere,emea_stage_2,Initiator,"Sova, Skye, Fade",18,400,0.91,177.0,0.86,0.69,123.0,0.06,0.072,0.27
+hiro,Natus Vincere,emea_stage_2,Sentinel,"Cypher, Viper, Chamber",18,400,1.12,221.0,1.19,0.69,147.4,0.115,0.095,0.38
+NINJA,PCIFIC Esports,emea_stage_2,Sentinel,"Chamber, Deadlock, Sage",18,367,0.95,190.0,0.95,0.64,127.0,0.12,0.147,0.25
+al0rante,PCIFIC Esports,emea_stage_2,Sentinel,"Viper, Cypher",18,367,0.97,198.0,1.0,0.67,131.3,0.079,0.076,0.43
+qpert,PCIFIC Esports,emea_stage_2,Controller,"Omen, Harbor",18,367,0.84,162.0,0.74,0.68,106.0,0.063,0.104,0.3
+seven,PCIFIC Esports,emea_stage_2,Duelist,"Neon, Phoenix, Raze",18,367,0.82,191.0,0.79,0.7,130.3,0.098,0.207,0.25
+waddle,PCIFIC Esports,emea_stage_2,Flex,"Fade, Sova, Phoenix",18,367,0.98,194.0,0.93,0.68,133.0,0.035,0.068,0.31
+Boo,Team Heretics,emea_stage_2,Controller,"Omen, Astra, Fade",18,371,1.05,184.0,1.0,0.76,120.4,0.046,0.089,0.36
+RieNs,Team Heretics,emea_stage_2,Initiator,"Sova, Fade, Viper",18,371,1.12,217.0,1.07,0.76,146.8,0.084,0.049,0.37
+Wo0t,Team Heretics,emea_stage_2,Duelist,"Chamber, Jett, Yoru",18,371,1.14,231.0,1.18,0.72,147.5,0.164,0.14,0.27
+benjyfishy,Team Heretics,emea_stage_2,Sentinel,"Cypher, Vyse, Sage",18,371,0.95,183.0,0.96,0.74,121.6,0.092,0.081,0.35
+koshmaras,Team Heretics,emea_stage_2,Flex,"Neon, Phoenix, Omen",18,371,0.87,191.0,0.85,0.72,128.5,0.113,0.143,0.23
+Kicks,Team Liquid,emea_stage_2,Controller,"Omen, Harbor, Tejo",27,559,0.97,169.0,0.93,0.73,110.1,0.066,0.066,0.3
+LohaN,Team Liquid,emea_stage_2,Sentinel,Viper,2,34,0.52,118.0,0.45,0.56,84.0,0.059,0.147,0.22
+kamo,Team Liquid,emea_stage_2,Duelist,"Phoenix, Raze, Yoru",27,559,1.17,248.0,1.23,0.75,166.3,0.14,0.118,0.34
+nAts,Team Liquid,emea_stage_2,Sentinel,"Cypher, Viper, Vyse",25,525,1.16,217.0,1.28,0.74,143.1,0.08,0.088,0.25
+purp0,Team Liquid,emea_stage_2,Duelist,"Jett, Neon, Chamber",27,559,0.92,186.0,0.99,0.7,118.7,0.174,0.175,0.33
+trexx,Team Liquid,emea_stage_2,Initiator,"Sova, Fade, Skye",27,559,1.1,199.0,1.1,0.77,136.9,0.045,0.043,0.22
+Chronicle,Team Vitality,emea_stage_2,Sentinel,"Chamber, Vyse, Viper",19,414,1.17,226.0,1.25,0.74,150.6,0.121,0.077,0.2
+Derke,Team Vitality,emea_stage_2,Duelist,"Jett, Neon, Raze",19,414,0.98,213.0,1.02,0.73,142.0,0.155,0.147,0.25
+Jamppi,Team Vitality,emea_stage_2,Flex,"Phoenix, Yoru, Fade",19,414,0.97,211.0,0.99,0.71,137.4,0.118,0.147,0.27
+PROFEK,Team Vitality,emea_stage_2,Controller,"Omen, Astra, Harbor",19,414,0.91,169.0,0.94,0.75,111.7,0.058,0.07,0.27
+Sayonara,Team Vitality,emea_stage_2,Initiator,"Sova, Fade, Viper",19,414,1.19,201.0,1.31,0.76,135.2,0.07,0.034,0.26
+Flex1n,Dragon Ranger Gaming,masters_london,Controller,"Omen, Astra, Brimstone",5,97,0.8,151.0,0.65,0.65,97.3,0.093,0.103,0.25
+Life,Dragon Ranger Gaming,masters_london,Duelist,"Chamber, Phoenix, Neon",5,97,0.75,172.0,0.77,0.63,110.3,0.113,0.206,0.45
+Nicc,Dragon Ranger Gaming,masters_london,Initiator,"Skye, Fade, Sova",5,97,1.08,191.0,1.06,0.7,127.1,0.041,0.062,0.31
+SpiritZ1,Dragon Ranger Gaming,masters_london,Duelist,"Waylay, Jett",5,97,0.84,197.0,0.85,0.62,130.3,0.113,0.113,0.35
+vo0kashu,Dragon Ranger Gaming,masters_london,Sentinel,"Cypher, Viper, Vyse",5,97,1.21,245.0,1.13,0.78,166.8,0.103,0.052,0.25
+CHICHOO,EDward Gaming,masters_london,Controller,"Viper, Omen, Astra",12,260,1.02,184.0,0.97,0.67,127.5,0.065,0.073,0.26
+Jieni7,EDward Gaming,masters_london,Sentinel,"Vyse, Omen, Cypher",12,260,0.91,180.0,0.93,0.63,119.1,0.046,0.088,0.3
+Smoggy,EDward Gaming,masters_london,Flex,"Raze, Phoenix, Harbor",12,260,0.91,197.0,0.88,0.73,135.1,0.112,0.092,0.28
+ZmjjKK,EDward Gaming,masters_london,Duelist,"Jett, Neon, Waylay",12,260,0.97,215.0,1.01,0.68,137.9,0.162,0.181,0.23
+nobody,EDward Gaming,masters_london,Initiator,"Skye, Fade, Sova",12,260,0.91,183.0,0.88,0.7,117.2,0.085,0.096,0.32
+Crws,FULL SENSE,masters_london,Controller,"Viper, Brimstone, Omen",5,100,0.82,161.0,0.69,0.64,113.7,0.08,0.08,0.23
+JitBoyS,FULL SENSE,masters_london,Sentinel,"Neon, Sage, Phoenix",5,100,0.71,160.0,0.7,0.65,110.1,0.08,0.19,0.33
+Killua,FULL SENSE,masters_london,Initiator,"Fade, Sova",5,100,0.75,152.0,0.72,0.65,99.0,0.08,0.1,0.37
+Leviathan,FULL SENSE,masters_london,Sentinel,"Omen, Cypher, Chamber",5,100,0.65,146.0,0.6,0.58,97.8,0.04,0.11,0.33
+primmie,FULL SENSE,masters_london,Duelist,"Jett, Phoenix",5,100,1.4,281.0,1.51,0.74,169.0,0.15,0.09,0.3
+KROSTALY,FUT Esports,masters_london,Initiator,"Fade, Sova, KAY/O",15,317,0.97,175.0,0.92,0.74,119.1,0.044,0.041,0.29
+s0pp,FUT Esports,masters_london,Duelist,"Jett, Neon, Chamber",15,317,1.04,222.0,1.03,0.7,142.5,0.189,0.158,0.26
+sociablEE,FUT Esports,masters_london,Controller,"Omen, Brimstone, Fade",15,317,0.99,184.0,0.97,0.73,117.3,0.076,0.101,0.24
+xeus,FUT Esports,masters_london,Duelist,"Raze, Waylay, Jett",15,317,1.04,223.0,1.08,0.68,145.9,0.139,0.12,0.39
+yetujey,FUT Esports,masters_london,Sentinel,"Cypher, Vyse, Astra",15,317,1.01,194.0,0.98,0.72,134.7,0.073,0.06,0.27
+BABYBAY,G2 Esports,masters_london,Sentinel,Vyse,5,106,0.95,212.0,0.95,0.75,137.8,0.113,0.123,0.23
+jawgemo,G2 Esports,masters_london,Duelist,"Raze, Neon, Waylay",5,106,0.94,185.0,0.88,0.68,124.5,0.104,0.113,0.23
+leaf,G2 Esports,masters_london,Sentinel,"Viper, Phoenix",5,106,1.11,219.0,0.97,0.74,144.5,0.104,0.142,0.33
+trent,G2 Esports,masters_london,Initiator,"Fade, Sova",5,106,1.05,201.0,0.91,0.77,141.3,0.057,0.047,0.3
+valyn,G2 Esports,masters_london,Controller,"Omen, Astra",5,106,0.91,182.0,0.92,0.71,124.9,0.075,0.123,0.29
+Autumn,Global Esports,masters_london,Sentinel,"Phoenix, Viper, Chamber",9,195,0.92,183.0,1.02,0.68,117.6,0.113,0.123,0.34
+Kr1stal,Global Esports,masters_london,Initiator,"Fade, Killjoy, Sova",9,195,1.13,207.0,1.19,0.72,135.6,0.097,0.051,0.29
+PatMen,Global Esports,masters_london,Flex,"Omen, Fade, Viper",9,195,0.75,180.0,0.8,0.66,119.5,0.072,0.123,0.3
+UdoTan,Global Esports,masters_london,Duelist,"Neon, Raze, Chamber",9,195,1.05,233.0,1.11,0.73,147.7,0.138,0.149,0.29
+xavi8k,Global Esports,masters_london,Flex,"Sage, Astra, Sova",9,195,0.83,157.0,0.82,0.7,103.4,0.046,0.087,0.24
+Neon,LEVIATÁN,masters_london,Flex,"Chamber, Jett, Omen",23,451,1.21,226.0,1.37,0.75,147.5,0.177,0.113,0.29
+Sato,LEVIATÁN,masters_london,Duelist,"Phoenix, Raze, Waylay",23,451,1.1,229.0,1.16,0.75,151.0,0.106,0.104,0.3
+blowz,LEVIATÁN,masters_london,Initiator,"Sova, Skye, Fade",23,451,1.1,182.0,1.09,0.77,123.3,0.058,0.044,0.33
+kiNgg,LEVIATÁN,masters_london,Sentinel,"Vyse, Astra, Viper",23,451,1.0,168.0,1.04,0.75,110.5,0.055,0.058,0.27
+spike,LEVIATÁN,masters_london,Flex,"Neon, Omen",23,451,1.15,238.0,1.21,0.75,151.8,0.164,0.12,0.25
+Ethan,NRG,masters_london,Initiator,"Fade, Tejo, Astra",8,176,0.92,186.0,0.83,0.7,127.8,0.108,0.136,0.22
+brawk,NRG,masters_london,Flex,"Sova, Vyse, Brimstone",8,176,0.96,188.0,0.88,0.7,130.6,0.074,0.074,0.18
+keiko,NRG,masters_london,Flex,"Phoenix, Omen, Vyse",8,176,1.23,236.0,1.27,0.69,155.5,0.091,0.062,0.35
+mada,NRG,masters_london,Duelist,"Waylay, Raze, Jett",8,176,0.8,187.0,0.9,0.7,118.4,0.159,0.188,0.26
+skuba,NRG,masters_london,Sentinel,"Viper, Astra, Cypher",8,176,1.07,183.0,1.06,0.71,118.1,0.074,0.028,0.24
+Jinggg,Paper Rex,masters_london,Flex,"Raze, Omen, Sage",13,263,1.15,226.0,1.19,0.76,153.8,0.11,0.099,0.23
+d4v41,Paper Rex,masters_london,Sentinel,"Viper, Vyse, Killjoy",13,263,1.03,185.0,1.09,0.73,129.9,0.095,0.046,0.33
+f0rsakeN,Paper Rex,masters_london,Flex,"Omen, Neon, Skye",13,263,0.9,195.0,0.85,0.74,130.0,0.144,0.167,0.24
+invy,Paper Rex,masters_london,Initiator,"Sova, Skye, Breach",13,263,1.25,218.0,1.29,0.79,148.6,0.046,0.046,0.29
+something,Paper Rex,masters_london,Flex,"Jett, Brimstone, Yoru",13,263,1.15,225.0,1.23,0.77,145.4,0.148,0.099,0.24
+Boo,Team Heretics,masters_london,Controller,"Omen, Sage, Astra",5,98,0.71,136.0,0.62,0.61,85.8,0.01,0.092,0.32
+RieNs,Team Heretics,masters_london,Initiator,"Fade, Sova",5,98,0.84,178.0,0.79,0.61,111.6,0.061,0.082,0.35
+Wo0t,Team Heretics,masters_london,Duelist,"Raze, Chamber, Jett",5,98,0.67,163.0,0.67,0.57,112.1,0.082,0.184,0.22
+benjyfishy,Team Heretics,masters_london,Sentinel,"Vyse, Viper, Cypher",5,98,0.89,181.0,0.81,0.67,119.7,0.051,0.061,0.37
+koshmaras,Team Heretics,masters_london,Duelist,Neon,5,98,0.94,206.0,0.86,0.63,138.1,0.184,0.194,0.24
+Chronicle,Team Vitality,masters_london,Sentinel,"Vyse, Viper, Cypher",14,260,1.07,212.0,1.17,0.73,141.7,0.085,0.112,0.24
+Derke,Team Vitality,masters_london,Duelist,"Jett, Raze, Neon",14,260,1.21,253.0,1.27,0.71,168.5,0.169,0.123,0.25
+Jamppi,Team Vitality,masters_london,Initiator,"Fade, KAY/O, Sova",14,260,0.87,171.0,0.87,0.73,109.0,0.058,0.092,0.24
+PROFEK,Team Vitality,masters_london,Controller,"Omen, Harbor, Brimstone",14,260,1.06,185.0,1.09,0.72,118.1,0.085,0.046,0.23
+Sayonara,Team Vitality,masters_london,Flex,"Viper, Sova, Phoenix",14,260,0.98,204.0,1.03,0.7,134.7,0.108,0.123,0.27
+Lysoar,Xi Lai Gaming,masters_london,Controller,"Omen, Astra, Brimstone",16,331,0.93,184.0,0.9,0.73,118.8,0.039,0.051,0.26
+NoMan,Xi Lai Gaming,masters_london,Sentinel,"Jett, Deadlock, Raze",16,331,0.86,174.0,0.84,0.66,114.7,0.1,0.124,0.29
+Rarga,Xi Lai Gaming,masters_london,Sentinel,"Phoenix, Sage, Waylay",16,331,0.93,192.0,0.94,0.69,125.3,0.136,0.157,0.32
+WsLeo,Xi Lai Gaming,masters_london,Initiator,"Fade, Sova, Skye",16,331,0.84,169.0,0.77,0.69,112.5,0.063,0.106,0.25
+happywei,Xi Lai Gaming,masters_london,Sentinel,"Cypher, Viper, Vyse",16,331,1.09,218.0,1.07,0.7,146.8,0.139,0.082,0.34
+Au1,All Gamers,masters_santiago,Sentinel,"Viper, Killjoy, Harbor",8,152,0.88,193.0,0.84,0.66,131.8,0.066,0.079,0.16
+K1ra,All Gamers,masters_santiago,Flex,"Raze, Astra, Omen",8,152,0.95,192.0,0.98,0.65,125.5,0.072,0.151,0.24
+Shr1mp,All Gamers,masters_santiago,Initiator,"Fade, Skye, Sova",8,152,0.9,160.0,0.83,0.72,108.0,0.066,0.066,0.32
+f4ngeer,All Gamers,masters_santiago,Duelist,"Yoru, Waylay, Chamber",8,152,0.98,210.0,1.02,0.66,137.1,0.171,0.145,0.31
+iamgrq,All Gamers,masters_santiago,Flex,"Omen, Waylay, Neon",8,152,0.83,176.0,0.83,0.71,112.4,0.066,0.118,0.25
+Crewen,BBL Esports,masters_santiago,Sentinel,"Cypher, Viper",8,176,0.92,189.0,0.96,0.63,129.5,0.091,0.091,0.36
+Lar0k,BBL Esports,masters_santiago,Duelist,"Neon, Waylay, Jett",8,176,1.07,219.0,1.09,0.7,143.0,0.142,0.165,0.27
+Loita,BBL Esports,masters_santiago,Controller,"Omen, Viper, Astra",8,176,1.05,192.0,1.0,0.7,125.8,0.034,0.074,0.35
+Rosé,BBL Esports,masters_santiago,Initiator,"Sova, Fade",8,176,0.74,157.0,0.71,0.61,107.4,0.068,0.114,0.32
+lovers rock,BBL Esports,masters_santiago,Duelist,Yoru,8,176,0.93,197.0,0.91,0.68,126.9,0.114,0.108,0.17
+CHICHOO,EDward Gaming,masters_santiago,Sentinel,"Viper, Killjoy",4,81,0.88,175.0,0.81,0.63,112.9,0.086,0.111,0.29
+Smoggy,EDward Gaming,masters_santiago,Controller,"Omen, Astra, Brimstone",4,81,0.78,150.0,0.67,0.68,102.9,0.074,0.086,0.3
+ZmjjKK,EDward Gaming,masters_santiago,Duelist,"Chamber, Neon",4,81,1.08,216.0,1.12,0.63,140.0,0.16,0.136,0.3
+cb,EDward Gaming,masters_santiago,Duelist,"Neon, Yoru",4,81,0.74,168.0,0.78,0.69,106.7,0.111,0.123,0.25
+nobody,EDward Gaming,masters_santiago,Initiator,"Sova, Skye",4,81,0.69,147.0,0.62,0.54,93.3,0.049,0.062,0.15
+alym,FURIA,masters_santiago,Duelist,"Neon, Waylay",6,126,0.76,181.0,0.8,0.61,116.1,0.167,0.206,0.26
+artzin,FURIA,masters_santiago,Controller,"Omen, Killjoy, Astra",6,126,0.89,186.0,0.85,0.69,124.4,0.071,0.087,0.22
+eeiu,FURIA,masters_santiago,Initiator,"Sova, Fade",6,126,1.24,244.0,1.34,0.69,166.5,0.095,0.048,0.35
+koalanoob,FURIA,masters_santiago,Flex,"Omen, Yoru",6,126,0.9,190.0,0.91,0.7,119.2,0.095,0.095,0.19
+nerve,FURIA,masters_santiago,Flex,"Viper, Tejo",6,126,0.87,172.0,0.75,0.67,116.7,0.071,0.063,0.26
+BABYBAY,G2 Esports,masters_santiago,Duelist,"Waylay, Chamber, Yoru",16,330,0.87,172.0,0.89,0.65,111.0,0.106,0.13,0.22
+jawgemo,G2 Esports,masters_santiago,Duelist,"Neon, Phoenix, Iso",16,330,1.04,232.0,1.09,0.7,150.7,0.148,0.17,0.25
+leaf,G2 Esports,masters_santiago,Flex,"Viper, Yoru, Astra",16,330,0.99,208.0,1.01,0.69,134.8,0.112,0.112,0.23
+trent,G2 Esports,masters_santiago,Initiator,"Fade, Sova, Skye",16,330,1.15,194.0,1.11,0.73,131.1,0.052,0.036,0.29
+valyn,G2 Esports,masters_santiago,Controller,"Astra, Harbor",16,330,1.04,189.0,1.0,0.74,122.9,0.073,0.061,0.23
+GLYPH,Gentle Mates,masters_santiago,Controller,Astra,9,186,0.93,168.0,0.83,0.72,110.6,0.038,0.043,0.25
+Minny,Gentle Mates,masters_santiago,Sentinel,"Cypher, Viper, KAY/O",9,186,0.94,182.0,0.92,0.74,117.6,0.102,0.151,0.32
+bipo,Gentle Mates,masters_santiago,Duelist,"Neon, Waylay, Raze",9,186,0.78,167.0,0.81,0.67,106.5,0.124,0.194,0.24
+marteen,Gentle Mates,masters_santiago,Duelist,"Yoru, Phoenix",9,186,1.41,268.0,1.43,0.76,169.1,0.151,0.102,0.31
+starxo,Gentle Mates,masters_santiago,Initiator,"Fade, Sova",9,186,1.06,186.0,0.98,0.7,126.1,0.048,0.048,0.23
+Ethan,NRG,masters_santiago,Initiator,"Tejo, Omen, Skye",18,397,0.88,164.0,0.86,0.71,109.5,0.053,0.081,0.23
+brawk,NRG,masters_santiago,Flex,"Sova, Vyse, Brimstone",18,397,0.95,177.0,0.86,0.7,126.1,0.04,0.055,0.23
+keiko,NRG,masters_santiago,Sentinel,"Omen, Killjoy, Viper",18,397,1.11,216.0,1.16,0.74,139.6,0.111,0.078,0.33
+mada,NRG,masters_santiago,Duelist,"Waylay, Neon, Yoru",18,397,1.0,213.0,1.01,0.7,134.3,0.214,0.164,0.27
+skuba,NRG,masters_santiago,Sentinel,"Viper, Astra, Killjoy",18,397,1.1,208.0,1.14,0.74,134.9,0.108,0.088,0.25
+Dambi,Nongshim RedForce,masters_santiago,Duelist,"Neon, Waylay",10,215,1.11,238.0,1.19,0.73,142.4,0.2,0.149,0.18
+Francis,Nongshim RedForce,masters_santiago,Duelist,Yoru,10,215,1.08,223.0,1.09,0.77,146.9,0.153,0.121,0.25
+Ivy,Nongshim RedForce,masters_santiago,Sentinel,"Viper, Cypher, Killjoy",10,215,1.1,207.0,1.26,0.73,137.0,0.088,0.056,0.39
+Rb,Nongshim RedForce,masters_santiago,Controller,"Omen, Brimstone",10,215,0.95,165.0,0.95,0.74,105.6,0.074,0.065,0.22
+Xross,Nongshim RedForce,masters_santiago,Initiator,"Fade, Sova",10,215,1.14,206.0,1.19,0.78,139.9,0.074,0.019,0.29
+Jinggg,Paper Rex,masters_santiago,Flex,"Omen, Raze, Phoenix",23,481,1.02,213.0,1.08,0.74,140.4,0.116,0.123,0.25
+d4v41,Paper Rex,masters_santiago,Sentinel,"Viper, Vyse, Chamber",23,481,1.08,204.0,1.2,0.7,138.3,0.077,0.064,0.31
+f0rsakeN,Paper Rex,masters_santiago,Flex,"Omen, Viper, Yoru",23,481,0.96,205.0,0.99,0.72,135.5,0.104,0.121,0.28
+invy,Paper Rex,masters_santiago,Initiator,"Fade, Sova, Brimstone",23,481,1.07,199.0,1.11,0.74,136.2,0.062,0.079,0.3
+something,Paper Rex,masters_santiago,Duelist,"Yoru, Waylay, Jett",23,481,1.03,195.0,1.09,0.71,127.1,0.127,0.125,0.26
+BuZz,T1,masters_santiago,Duelist,"Jett, Raze, Waylay",6,135,0.98,230.0,0.98,0.74,153.1,0.2,0.148,0.2
+Meteor,T1,masters_santiago,Sentinel,"Astra, Viper, Killjoy",6,135,0.77,174.0,0.79,0.64,115.9,0.081,0.104,0.33
+Munchkin,T1,masters_santiago,Controller,"Viper, Omen, Brimstone",6,135,1.03,198.0,0.95,0.74,130.9,0.096,0.059,0.18
+iZu,T1,masters_santiago,Flex,"Yoru, Omen, Cypher",6,135,1.14,234.0,1.24,0.65,155.2,0.111,0.126,0.4
+stax,T1,masters_santiago,Initiator,"Sova, Fade",6,135,1.11,190.0,1.15,0.73,127.7,0.03,0.044,0.26
+MiniBoo,Team Liquid,masters_santiago,Duelist,Neon,6,130,0.81,194.0,0.83,0.7,126.5,0.208,0.177,0.33
+kamo,Team Liquid,masters_santiago,Duelist,"Yoru, Waylay",6,130,0.9,198.0,0.96,0.7,127.6,0.092,0.1,0.41
+nAts,Team Liquid,masters_santiago,Flex,"Viper, Astra",6,130,0.94,194.0,0.95,0.68,127.7,0.062,0.085,0.3
+purp0,Team Liquid,masters_santiago,Initiator,"Skye, Sova",6,130,0.92,178.0,0.97,0.75,118.6,0.054,0.038,0.41
+wayne,Team Liquid,masters_santiago,Controller,"Omen, Harbor, Brimstone",6,130,0.92,187.0,0.9,0.65,117.0,0.092,0.085,0.3
+Lysoar,Xi Lai Gaming,masters_santiago,Controller,Omen,4,75,0.88,186.0,0.9,0.75,116.8,0.027,0.04,0.35
+NoMan,Xi Lai Gaming,masters_santiago,Sentinel,"Killjoy, Waylay",4,75,0.73,154.0,0.74,0.63,95.9,0.147,0.12,0.31
+Rarga,Xi Lai Gaming,masters_santiago,Duelist,"Neon, Yoru",4,75,0.75,214.0,0.8,0.65,138.8,0.147,0.173,0.32
+WsLeo,Xi Lai Gaming,masters_santiago,Initiator,Sova,4,75,0.67,134.0,0.54,0.68,97.1,0.067,0.067,0.24
+happywei,Xi Lai Gaming,masters_santiago,Flex,"Viper, Astra",4,75,1.02,208.0,0.96,0.64,139.3,0.107,0.093,0.24
+Akame,DetonatioN FocusMe,pacific_kickoff,Initiator,"Fade, Sova",16,323,0.96,180.0,0.91,0.71,123.5,0.05,0.062,0.29
+Caedye,DetonatioN FocusMe,pacific_kickoff,Sentinel,"Viper, Phoenix, Killjoy",16,323,0.87,199.0,0.87,0.65,132.0,0.108,0.127,0.32
+Meiy,DetonatioN FocusMe,pacific_kickoff,Duelist,"Raze, Yoru, Neon",16,323,1.09,242.0,1.16,0.72,156.2,0.133,0.146,0.28
+SSeeS,DetonatioN FocusMe,pacific_kickoff,Controller,"Astra, Omen, Brimstone",16,323,0.91,161.0,0.85,0.71,103.5,0.031,0.056,0.24
+yatsuka,DetonatioN FocusMe,pacific_kickoff,Duelist,"Yoru, Chamber",16,323,0.93,186.0,0.94,0.67,116.9,0.146,0.142,0.28
+JitBoyS,FULL SENSE,pacific_kickoff,Sentinel,"Cypher, Viper, Killjoy",12,237,0.87,167.0,0.84,0.73,110.1,0.105,0.127,0.3
+Killua,FULL SENSE,pacific_kickoff,Initiator,"Fade, Sova",12,237,1.05,201.0,1.05,0.73,128.5,0.076,0.072,0.41
+Leviathan,FULL SENSE,pacific_kickoff,Controller,"Omen, Astra, Brimstone",12,237,0.96,189.0,0.93,0.75,126.1,0.051,0.084,0.38
+primmie,FULL SENSE,pacific_kickoff,Duelist,Yoru,12,237,1.23,261.0,1.34,0.74,166.7,0.169,0.118,0.32
+thyy,FULL SENSE,pacific_kickoff,Duelist,"Raze, Waylay, Jett",12,237,0.78,168.0,0.77,0.7,114.8,0.08,0.114,0.25
+Ash,Gen.G,pacific_kickoff,Controller,"Astra, Omen",11,266,0.95,155.0,0.91,0.75,97.2,0.049,0.083,0.28
+Karon,Gen.G,pacific_kickoff,Sentinel,"Viper, Cypher, Veto",11,266,1.15,216.0,1.14,0.74,149.4,0.079,0.049,0.29
+Lakia,Gen.G,pacific_kickoff,Initiator,"Sova, Tejo, Skye",11,266,0.86,170.0,0.76,0.71,118.4,0.056,0.068,0.23
+ZynX,Gen.G,pacific_kickoff,Duelist,"Yoru, Waylay",11,266,0.94,215.0,1.0,0.65,140.6,0.128,0.139,0.35
+t3xture,Gen.G,pacific_kickoff,Duelist,"Jett, Yoru, Neon",11,266,0.98,221.0,1.03,0.68,138.7,0.162,0.188,0.22
+Autumn,Global Esports,pacific_kickoff,Duelist,"Yoru, Jett, Waylay",16,353,1.1,224.0,1.16,0.72,141.9,0.159,0.15,0.29
+Kr1stal,Global Esports,pacific_kickoff,Initiator,"Sova, Fade, Viper",16,353,0.97,169.0,0.94,0.72,118.8,0.054,0.074,0.28
+PatMen,Global Esports,pacific_kickoff,Flex,"Omen, Viper, Waylay",16,353,1.14,226.0,1.24,0.77,148.1,0.127,0.099,0.31
+UdoTan,Global Esports,pacific_kickoff,Sentinel,"Veto, Chamber, Neon",16,353,0.99,208.0,1.02,0.72,136.1,0.127,0.085,0.31
+xavi8k,Global Esports,pacific_kickoff,Controller,"Astra, Omen, Sage",16,353,1.03,192.0,1.03,0.75,122.9,0.065,0.057,0.24
+BeYN,KIWOOM DRX,pacific_kickoff,Initiator,"Fade, Sova, Breach",16,339,0.98,182.0,0.97,0.72,118.7,0.062,0.05,0.27
+HYUNMIN,KIWOOM DRX,pacific_kickoff,Duelist,"Waylay, Raze, Jett",16,339,1.05,232.0,1.09,0.71,150.3,0.147,0.13,0.27
+Hermes,KIWOOM DRX,pacific_kickoff,Flex,"Yoru, Viper, KAY/O",16,339,0.85,174.0,0.88,0.69,110.5,0.118,0.142,0.27
+MaKo,KIWOOM DRX,pacific_kickoff,Controller,"Omen, Brimstone, Viper",16,339,1.05,202.0,1.07,0.76,128.5,0.086,0.08,0.28
+free1ng,KIWOOM DRX,pacific_kickoff,Flex,"Viper, Tejo, Astra",16,339,1.03,190.0,1.07,0.69,123.8,0.091,0.091,0.34
+Dambi,Nongshim RedForce,pacific_kickoff,Duelist,"Neon, Waylay",12,250,1.11,241.0,1.19,0.7,141.6,0.16,0.144,0.19
+Francis,Nongshim RedForce,pacific_kickoff,Duelist,Yoru,12,250,0.94,204.0,0.98,0.7,129.1,0.172,0.156,0.26
+Ivy,Nongshim RedForce,pacific_kickoff,Sentinel,"Viper, Killjoy, Astra",12,250,1.05,189.0,1.15,0.72,125.9,0.068,0.08,0.29
+Rb,Nongshim RedForce,pacific_kickoff,Controller,"Omen, Brimstone, Viper",12,250,1.12,189.0,1.16,0.76,119.7,0.068,0.048,0.22
+Xross,Nongshim RedForce,pacific_kickoff,Initiator,"Fade, Sova",12,250,1.06,185.0,1.07,0.75,125.0,0.06,0.044,0.27
+Jinggg,Paper Rex,pacific_kickoff,Duelist,"Raze, Phoenix, Jett",20,432,1.04,211.0,1.08,0.73,137.7,0.141,0.095,0.22
+d4v41,Paper Rex,pacific_kickoff,Sentinel,"Viper, Chamber, Killjoy",20,432,0.93,186.0,0.94,0.72,124.8,0.106,0.076,0.24
+f0rsakeN,Paper Rex,pacific_kickoff,Controller,"Omen, Astra, Brimstone",20,432,1.09,227.0,1.14,0.72,146.0,0.109,0.095,0.32
+invy,Paper Rex,pacific_kickoff,Initiator,"Fade, Sova, KAY/O",20,432,1.05,196.0,1.02,0.73,131.2,0.069,0.074,0.35
+something,Paper Rex,pacific_kickoff,Duelist,"Yoru, Waylay, Jett",20,432,0.94,187.0,1.0,0.68,124.4,0.102,0.132,0.27
+Jemkin,Rex Regum Qeon,pacific_kickoff,Duelist,"Chamber, Yoru, Neon",16,348,1.13,227.0,1.21,0.73,141.8,0.187,0.109,0.29
+Kushy,Rex Regum Qeon,pacific_kickoff,Initiator,"Sova, Fade, Skye",16,348,0.97,186.0,0.91,0.72,125.4,0.069,0.052,0.28
+Monyet,Rex Regum Qeon,pacific_kickoff,Sentinel,"Neon, Viper, Raze",16,348,0.87,198.0,0.82,0.68,132.5,0.109,0.207,0.27
+crazyguy,Rex Regum Qeon,pacific_kickoff,Controller,"Omen, Astra, Tejo",16,348,0.85,156.0,0.83,0.66,103.7,0.046,0.118,0.29
+xffero,Rex Regum Qeon,pacific_kickoff,Sentinel,"Viper, Astra, Killjoy",16,348,1.07,196.0,1.07,0.78,132.3,0.06,0.043,0.33
+BuZz,T1,pacific_kickoff,Duelist,"Neon, Raze, Jett",16,346,1.0,217.0,1.11,0.68,136.0,0.142,0.136,0.19
+Meteor,T1,pacific_kickoff,Sentinel,"Viper, Killjoy, Astra",16,346,1.05,223.0,1.14,0.75,146.7,0.124,0.107,0.35
+Munchkin,T1,pacific_kickoff,Controller,"Viper, Astra, Omen",16,346,1.01,179.0,1.0,0.79,115.5,0.061,0.081,0.21
+iZu,T1,pacific_kickoff,Flex,"Yoru, Omen, Sova",16,346,1.14,225.0,1.34,0.74,143.2,0.153,0.098,0.29
+stax,T1,pacific_kickoff,Initiator,"Sova, Fade, Tejo",16,346,0.9,158.0,0.85,0.73,106.4,0.055,0.043,0.23
+BerserX,Team Secret,pacific_kickoff,Sentinel,"Viper, Killjoy, Vyse",7,133,0.94,194.0,0.91,0.71,129.1,0.053,0.053,0.2
+JessieVash,Team Secret,pacific_kickoff,Initiator,"Fade, Sova",7,133,0.94,201.0,0.93,0.74,131.6,0.053,0.053,0.29
+Sylvan,Team Secret,pacific_kickoff,Controller,"Omen, Brimstone, Astra",7,133,0.75,142.0,0.64,0.68,88.1,0.068,0.12,0.27
+TenTen,Team Secret,pacific_kickoff,Duelist,"Waylay, Raze, Neon",7,133,0.79,173.0,0.76,0.64,109.0,0.135,0.195,0.17
+kellyS,Team Secret,pacific_kickoff,Sentinel,"Yoru, Viper",7,133,0.97,217.0,1.0,0.73,135.8,0.09,0.173,0.25
+C1ndeR,VARREL,pacific_kickoff,Controller,"Astra, Omen, Brimstone",8,187,0.66,135.0,0.56,0.66,85.7,0.075,0.08,0.27
+Klaus,VARREL,pacific_kickoff,Sentinel,"Yoru, Cypher, Veto",8,187,0.99,195.0,0.96,0.66,128.1,0.086,0.102,0.34
+XuNa,VARREL,pacific_kickoff,Initiator,"Sova, Skye, Fade",8,187,1.05,200.0,1.01,0.7,141.0,0.059,0.032,0.31
+Zexy,VARREL,pacific_kickoff,Duelist,"Raze, Jett, Yoru",8,187,1.0,233.0,1.04,0.66,148.3,0.214,0.16,0.26
+oonzmlp,VARREL,pacific_kickoff,Flex,"Viper, Yoru, Harbor",8,187,0.81,165.0,0.78,0.66,109.2,0.07,0.118,0.29
+Absol,ZETA DIVISION,pacific_kickoff,Duelist,"Yoru, Raze",10,198,0.85,196.0,0.91,0.7,122.4,0.131,0.146,0.18
+SugarZ3ro,ZETA DIVISION,pacific_kickoff,Controller,"Omen, Brimstone",10,198,1.01,208.0,0.95,0.75,129.3,0.071,0.086,0.3
+SyouTa,ZETA DIVISION,pacific_kickoff,Sentinel,"Viper, Cypher, Astra",10,198,0.8,157.0,0.8,0.66,104.8,0.056,0.081,0.37
+Xdll,ZETA DIVISION,pacific_kickoff,Initiator,"Fade, Sova, Skye",10,198,0.88,168.0,0.85,0.65,112.3,0.076,0.056,0.29
+eKo,ZETA DIVISION,pacific_kickoff,Duelist,"Neon, Waylay",10,198,0.95,205.0,0.99,0.72,130.1,0.157,0.136,0.19
+Akame,DetonatioN FocusMe,pacific_stage_1,Flex,"Neon, Sova, Tejo",16,357,0.91,202.0,0.94,0.68,129.7,0.109,0.174,0.23
+Caedye,DetonatioN FocusMe,pacific_stage_1,Sentinel,"Cypher, Vyse, Killjoy",16,357,0.96,209.0,1.0,0.68,132.4,0.112,0.092,0.27
+Meiy,DetonatioN FocusMe,pacific_stage_1,Duelist,"Waylay, Neon, Raze",16,357,1.17,252.0,1.21,0.75,156.0,0.202,0.112,0.27
+SSeeS,DetonatioN FocusMe,pacific_stage_1,Controller,"Omen, Brimstone, Tejo",16,357,0.9,165.0,0.8,0.73,107.3,0.045,0.073,0.26
+yatsuka,DetonatioN FocusMe,pacific_stage_1,Initiator,"Skye, Fade, Sova",16,357,0.89,154.0,0.82,0.69,100.9,0.045,0.036,0.38
+Crws,FULL SENSE,pacific_stage_1,Controller,"Brimstone, Vyse, Astra",21,442,0.89,165.0,0.85,0.73,111.3,0.066,0.084,0.23
+JitBoyS,FULL SENSE,pacific_stage_1,Sentinel,"Neon, Raze, Cypher",21,442,1.01,213.0,1.07,0.71,136.8,0.12,0.131,0.24
+Killua,FULL SENSE,pacific_stage_1,Initiator,"Skye, Fade, Sova",21,442,1.06,199.0,1.07,0.77,129.5,0.063,0.068,0.32
+Leviathan,FULL SENSE,pacific_stage_1,Sentinel,"Omen, Cypher, Viper",21,442,0.99,178.0,1.03,0.7,120.5,0.05,0.075,0.39
+primmie,FULL SENSE,pacific_stage_1,Duelist,"Jett, Phoenix, Waylay",21,442,1.24,265.0,1.31,0.74,166.7,0.201,0.143,0.3
+Ash,Gen.G,pacific_stage_1,Flex,"Neon, Omen, Brimstone",11,244,1.0,203.0,0.94,0.69,131.9,0.127,0.131,0.27
+Foxy9,Gen.G,pacific_stage_1,Controller,"Brimstone, Omen",2,38,0.72,141.0,0.7,0.71,82.2,0.053,0.053,0.27
+Karon,Gen.G,pacific_stage_1,Sentinel,"Viper, Phoenix, Vyse",13,282,1.02,199.0,1.03,0.72,131.7,0.067,0.074,0.28
+KiTae,Gen.G,pacific_stage_1,Controller,"Omen, Astra",6,143,0.72,151.0,0.65,0.7,101.3,0.077,0.112,0.28
+Lakia,Gen.G,pacific_stage_1,Initiator,"Fade, Sova, Breach",13,282,0.96,186.0,0.88,0.76,122.6,0.046,0.046,0.24
+ZynX,Gen.G,pacific_stage_1,Sentinel,"Neon, Yoru, Cypher",7,139,0.71,171.0,0.7,0.68,105.9,0.079,0.108,0.24
+t3xture,Gen.G,pacific_stage_1,Duelist,"Neon, Raze, Chamber",13,282,1.1,233.0,1.1,0.73,149.9,0.177,0.163,0.23
+Autumn,Global Esports,pacific_stage_1,Sentinel,"Chamber, Brimstone, Cypher",21,441,1.04,205.0,1.05,0.72,132.9,0.125,0.118,0.31
+Kr1stal,Global Esports,pacific_stage_1,Initiator,"Deadlock, Fade, Sova",21,441,0.94,185.0,0.91,0.69,123.9,0.073,0.063,0.26
+PatMen,Global Esports,pacific_stage_1,Flex,"Viper, Omen, Fade",21,441,1.08,227.0,1.08,0.71,147.8,0.113,0.084,0.35
+UdoTan,Global Esports,pacific_stage_1,Sentinel,"Neon, Raze, Sage",21,441,0.97,205.0,1.01,0.73,133.6,0.132,0.152,0.24
+xavi8k,Global Esports,pacific_stage_1,Controller,"Omen, Sage, Astra",21,441,0.91,168.0,0.84,0.68,111.9,0.05,0.088,0.22
+BeYN,KIWOOM DRX,pacific_stage_1,Initiator,"Fade, Skye, Breach",20,435,0.97,174.0,0.91,0.72,112.7,0.064,0.074,0.27
+HYUNMIN,KIWOOM DRX,pacific_stage_1,Duelist,"Jett, Raze, Phoenix",20,435,1.08,227.0,1.08,0.7,153.0,0.101,0.117,0.28
+Hermes,KIWOOM DRX,pacific_stage_1,Sentinel,"Vyse, Cypher",2,42,0.69,142.0,0.63,0.62,101.3,0.048,0.048,0.25
+MaKo,KIWOOM DRX,pacific_stage_1,Controller,"Omen, Astra, Brimstone",20,435,1.14,208.0,1.12,0.77,137.7,0.09,0.069,0.29
+free1ng,KIWOOM DRX,pacific_stage_1,Flex,"Neon, Tejo, Raze",20,435,0.88,189.0,0.96,0.69,121.0,0.117,0.154,0.22
+yong,KIWOOM DRX,pacific_stage_1,Sentinel,"Chamber, Cypher, Vyse",18,393,0.89,189.0,0.93,0.69,127.8,0.109,0.117,0.29
+Dambi,Nongshim RedForce,pacific_stage_1,Duelist,"Neon, Phoenix, Raze",17,375,0.97,214.0,0.94,0.69,138.1,0.147,0.131,0.24
+Francis,Nongshim RedForce,pacific_stage_1,Flex,"Neon, Breach, Waylay",17,375,0.94,216.0,0.96,0.69,135.5,0.123,0.16,0.17
+Ivy,Nongshim RedForce,pacific_stage_1,Sentinel,"Viper, Chamber, Cypher",17,375,0.91,181.0,0.92,0.65,121.9,0.104,0.128,0.33
+Rb,Nongshim RedForce,pacific_stage_1,Controller,"Omen, Brimstone, Astra",17,375,0.92,159.0,0.86,0.7,102.5,0.043,0.08,0.24
+Xross,Nongshim RedForce,pacific_stage_1,Initiator,"Fade, Sova, Tejo",17,375,1.04,200.0,1.02,0.72,133.7,0.037,0.048,0.24
+Jinggg,Paper Rex,pacific_stage_1,Flex,"Raze, Phoenix, Omen",27,564,1.18,234.0,1.25,0.77,155.9,0.129,0.092,0.26
+d4v41,Paper Rex,pacific_stage_1,Sentinel,"Vyse, Viper, Killjoy",27,564,1.02,199.0,1.06,0.72,136.0,0.103,0.083,0.26
+f0rsakeN,Paper Rex,pacific_stage_1,Flex,"Omen, Neon, Astra",27,564,1.04,211.0,1.07,0.76,137.1,0.098,0.085,0.24
+invy,Paper Rex,pacific_stage_1,Initiator,"Skye, Sova, Fade",27,564,1.07,195.0,1.05,0.77,132.9,0.078,0.05,0.27
+something,Paper Rex,pacific_stage_1,Duelist,"Jett, Neon, Yoru",27,564,1.22,234.0,1.4,0.74,152.5,0.177,0.105,0.24
+Jemkin,Rex Regum Qeon,pacific_stage_1,Duelist,"Chamber, Waylay, Raze",21,469,1.19,228.0,1.3,0.71,146.4,0.158,0.139,0.29
+Kushy,Rex Regum Qeon,pacific_stage_1,Initiator,"Sova, Skye, Fade",21,469,0.93,169.0,0.86,0.75,113.4,0.045,0.06,0.33
+Monyet,Rex Regum Qeon,pacific_stage_1,Flex,"Neon, Harbor, Omen",21,469,0.89,195.0,0.9,0.7,124.3,0.128,0.149,0.25
+crazyguy,Rex Regum Qeon,pacific_stage_1,Controller,"Omen, Brimstone, KAY/O",21,469,0.96,180.0,0.91,0.7,116.3,0.064,0.104,0.23
+xffero,Rex Regum Qeon,pacific_stage_1,Sentinel,"Viper, Veto, Cypher",21,469,1.1,212.0,1.13,0.72,141.9,0.09,0.064,0.25
+BuZz,T1,pacific_stage_1,Duelist,"Neon, Jett",19,400,1.09,242.0,1.21,0.72,147.5,0.182,0.15,0.22
+Meteor,T1,pacific_stage_1,Sentinel,"Viper, Killjoy, Phoenix",19,400,0.98,200.0,1.0,0.72,135.8,0.105,0.11,0.29
+Munchkin,T1,pacific_stage_1,Controller,"Omen, Astra, Harbor",19,400,0.96,171.0,0.92,0.73,109.9,0.037,0.102,0.19
+iZu,T1,pacific_stage_1,Sentinel,"Chamber, Killjoy, Sova",19,400,1.17,214.0,1.33,0.72,141.9,0.117,0.085,0.24
+stax,T1,pacific_stage_1,Initiator,"Skye, Fade, Sova",19,400,1.02,183.0,1.04,0.75,121.4,0.072,0.037,0.28
+BerserX,Team Secret,pacific_stage_1,Sentinel,"Cypher, Viper, Killjoy",12,269,0.92,172.0,0.87,0.74,119.0,0.071,0.078,0.22
+JessieVash,Team Secret,pacific_stage_1,Initiator,"Skye, Sova, Tejo",12,269,0.86,152.0,0.77,0.74,105.6,0.041,0.033,0.25
+Rimuru,Team Secret,pacific_stage_1,Duelist,"Neon, Jett",6,141,0.67,170.0,0.7,0.59,111.2,0.191,0.319,0.3
+Sylvan,Team Secret,pacific_stage_1,Controller,"Astra, Omen, Brimstone",12,269,1.09,210.0,1.07,0.76,135.9,0.063,0.059,0.31
+Zeus,Team Secret,pacific_stage_1,Duelist,Neon,6,128,0.96,232.0,0.95,0.77,152.6,0.211,0.227,0.22
+kellyS,Team Secret,pacific_stage_1,Sentinel,"Viper, KAY/O, Chamber",12,269,1.05,214.0,1.03,0.76,143.2,0.1,0.074,0.24
+C1ndeR,VARREL,pacific_stage_1,Controller,"Omen, Astra, Brimstone",12,275,0.78,157.0,0.73,0.68,97.7,0.058,0.069,0.31
+Klaus,VARREL,pacific_stage_1,Sentinel,"Neon, Waylay, Killjoy",12,275,0.85,177.0,0.88,0.64,114.2,0.12,0.142,0.31
+XuNa,VARREL,pacific_stage_1,Initiator,"Skye, Sova, Fade",12,275,1.0,189.0,0.96,0.69,130.7,0.065,0.033,0.34
+Zexy,VARREL,pacific_stage_1,Duelist,"Jett, Raze, Neon",12,275,0.82,192.0,0.85,0.62,126.9,0.135,0.149,0.28
+oonzmlp,VARREL,pacific_stage_1,Sentinel,"Viper, Cypher, Chamber",12,275,1.16,233.0,1.19,0.71,151.0,0.127,0.102,0.32
+Absol,ZETA DIVISION,pacific_stage_1,Duelist,Neon,13,269,1.03,228.0,1.06,0.66,147.4,0.123,0.167,0.21
+SugarZ3ro,ZETA DIVISION,pacific_stage_1,Controller,"Omen, Brimstone, Harbor",13,269,0.87,172.0,0.8,0.69,110.1,0.074,0.086,0.3
+SyouTa,ZETA DIVISION,pacific_stage_1,Sentinel,"Viper, Raze, Veto",13,269,0.93,194.0,0.97,0.72,125.4,0.115,0.112,0.35
+Xdll,ZETA DIVISION,pacific_stage_1,Initiator,"Skye, Breach, Sova",13,269,0.84,163.0,0.77,0.65,111.3,0.048,0.059,0.32
+eKo,ZETA DIVISION,pacific_stage_1,Flex,"Waylay, Skye, Phoenix",13,269,0.87,177.0,0.8,0.67,121.5,0.097,0.119,0.27
+Akame,DetonatioN FocusMe,pacific_stage_2,Initiator,"Sova, Skye, Fade",22,484,1.17,223.0,1.2,0.73,149.5,0.083,0.056,0.3
+Caedye,DetonatioN FocusMe,pacific_stage_2,Sentinel,"Cypher, Omen, Viper",22,484,0.89,178.0,0.87,0.7,118.1,0.07,0.074,0.34
+Meiy,DetonatioN FocusMe,pacific_stage_2,Duelist,"Jett, Neon, Waylay",22,484,1.13,244.0,1.17,0.72,154.2,0.186,0.14,0.25
+SSeeS,DetonatioN FocusMe,pacific_stage_2,Sentinel,"Omen, Viper, Vyse",22,484,0.94,167.0,0.88,0.73,106.6,0.058,0.076,0.25
+yatsuka,DetonatioN FocusMe,pacific_stage_2,Duelist,"Neon, Raze, Phoenix",22,484,0.93,199.0,0.89,0.7,131.8,0.107,0.149,0.28
+Crws,FULL SENSE,pacific_stage_2,Controller,"Omen, Astra, Harbor",24,494,0.89,156.0,0.78,0.68,104.2,0.057,0.087,0.24
+JitBoyS,FULL SENSE,pacific_stage_2,Duelist,"Neon, Raze, Phoenix",24,494,0.93,213.0,0.98,0.67,137.6,0.184,0.16,0.27
+Killua,FULL SENSE,pacific_stage_2,Initiator,"Skye, Sova, Fade",24,494,1.03,195.0,0.98,0.76,131.5,0.049,0.036,0.34
+primmie,FULL SENSE,pacific_stage_2,Sentinel,"Jett, Waylay, Deadlock",24,494,1.15,235.0,1.23,0.72,152.6,0.134,0.121,0.3
+seph1roth,FULL SENSE,pacific_stage_2,Sentinel,"Cypher, Omen, Killjoy",24,494,0.85,173.0,0.88,0.69,110.8,0.087,0.085,0.37
+Ash,Gen.G,pacific_stage_2,Duelist,Neon,19,421,0.92,219.0,0.98,0.69,138.0,0.157,0.164,0.29
+Efina,Gen.G,pacific_stage_2,Initiator,"Fade, Sova",19,421,0.77,150.0,0.73,0.69,101.6,0.038,0.045,0.19
+Karon,Gen.G,pacific_stage_2,Controller,"Omen, Astra, Harbor",19,421,1.06,195.0,1.05,0.75,121.1,0.069,0.062,0.38
+Raxcal,Gen.G,pacific_stage_2,Sentinel,"Sage, Vyse, Phoenix",19,421,1.03,192.0,1.04,0.74,126.0,0.071,0.074,0.26
+t3xture,Gen.G,pacific_stage_2,Duelist,"Chamber, Raze, Phoenix",19,421,1.09,235.0,1.19,0.71,150.1,0.2,0.121,0.23
+Autumn,Global Esports,pacific_stage_2,Sentinel,"Yoru, Veto, Chamber",29,624,0.99,192.0,1.06,0.69,126.1,0.099,0.136,0.3
+Kr1stal,Global Esports,pacific_stage_2,Initiator,"Sova, Tejo, Killjoy",29,624,1.01,175.0,0.97,0.75,119.9,0.053,0.066,0.22
+PatMen,Global Esports,pacific_stage_2,Flex,"Omen, Viper, Skye",29,624,1.07,221.0,1.1,0.72,143.3,0.112,0.085,0.32
+UdoTan,Global Esports,pacific_stage_2,Duelist,"Raze, Neon, Waylay",29,624,1.03,222.0,1.07,0.7,146.8,0.159,0.141,0.28
+xavi8k,Global Esports,pacific_stage_2,Controller,"Astra, Omen, Sova",29,624,1.13,208.0,1.11,0.74,138.7,0.079,0.071,0.25
+BeYN,KIWOOM DRX,pacific_stage_2,Initiator,"Sova, Fade, Skye",25,524,1.01,187.0,0.98,0.72,125.9,0.061,0.059,0.31
+Flicker,KIWOOM DRX,pacific_stage_2,Duelist,"Waylay, Neon",10,196,0.67,151.0,0.63,0.65,104.1,0.102,0.148,0.22
+HYUNMIN,KIWOOM DRX,pacific_stage_2,Duelist,"Phoenix, Raze, Yoru",25,524,1.06,225.0,1.07,0.74,148.6,0.109,0.115,0.31
+MaKo,KIWOOM DRX,pacific_stage_2,Flex,"Omen, Viper",25,524,0.92,181.0,0.87,0.73,117.8,0.069,0.073,0.28
+free1ng,KIWOOM DRX,pacific_stage_2,Sentinel,"Neon, Chamber, Cypher",25,524,0.94,197.0,1.02,0.7,123.9,0.134,0.166,0.3
+yong,KIWOOM DRX,pacific_stage_2,Sentinel,"Cypher, Vyse, Chamber",15,328,1.05,213.0,1.1,0.7,140.8,0.107,0.085,0.34
+Dambi,Nongshim RedForce,pacific_stage_2,Duelist,"Neon, Waylay, Jett",32,677,1.05,221.0,1.09,0.7,140.9,0.117,0.161,0.25
+Francis,Nongshim RedForce,pacific_stage_2,Flex,"Yoru, Sova, Omen",32,677,1.05,220.0,1.05,0.71,144.3,0.129,0.123,0.24
+Ivy,Nongshim RedForce,pacific_stage_2,Sentinel,"Cypher, Viper, Killjoy",32,677,0.98,198.0,1.03,0.7,130.5,0.114,0.09,0.31
+Rb,Nongshim RedForce,pacific_stage_2,Flex,"Omen, Yoru, Harbor",32,677,1.05,193.0,1.07,0.74,119.9,0.058,0.086,0.27
+Xross,Nongshim RedForce,pacific_stage_2,Flex,"Sova, Phoenix, Fade",32,677,1.09,194.0,1.09,0.75,131.6,0.069,0.055,0.27
+Cloudy,ONSIDE GAMING,pacific_stage_2,Initiator,"Sova, Fade, Skye",11,234,0.76,142.0,0.7,0.66,97.3,0.047,0.073,0.3
+Hermes,ONSIDE GAMING,pacific_stage_2,Flex,"Cypher, Omen, Yoru",11,234,0.98,177.0,0.94,0.7,113.9,0.077,0.094,0.26
+Ray,ONSIDE GAMING,pacific_stage_2,Flex,"Omen, Neon, Waylay",11,234,1.15,231.0,1.17,0.73,147.8,0.115,0.081,0.28
+Wolverine,ONSIDE GAMING,pacific_stage_2,Sentinel,"Phoenix, Cypher, Viper",11,234,0.99,197.0,1.01,0.69,126.8,0.124,0.09,0.23
+Xiesta,ONSIDE GAMING,pacific_stage_2,Duelist,"Neon, Phoenix, Jett",11,234,1.13,237.0,1.13,0.72,152.1,0.154,0.145,0.24
+Jinggg,Paper Rex,pacific_stage_2,Flex,"Raze, Harbor, Waylay",18,415,0.92,198.0,0.91,0.7,133.2,0.111,0.111,0.25
+d4v41,Paper Rex,pacific_stage_2,Sentinel,"Viper, Chamber, Sage",18,415,1.06,198.0,1.15,0.73,131.7,0.111,0.089,0.33
+f0rsakeN,Paper Rex,pacific_stage_2,Controller,"Omen, Harbor, Miks",18,415,0.98,204.0,0.97,0.7,132.4,0.082,0.108,0.32
+invy,Paper Rex,pacific_stage_2,Initiator,"Sova, Fade, Harbor",18,415,1.03,187.0,1.02,0.74,128.7,0.055,0.065,0.29
+something,Paper Rex,pacific_stage_2,Sentinel,"Yoru, Sage, Viper",18,415,1.11,212.0,1.2,0.68,138.4,0.137,0.13,0.28
+Kippei,QT DIG∞,pacific_stage_2,Controller,"Omen, Astra, Harbor",6,126,0.89,171.0,0.8,0.7,113.5,0.103,0.056,0.28
+Misaya,QT DIG∞,pacific_stage_2,Initiator,"Skye, Fade, Sova",6,126,0.71,155.0,0.64,0.61,102.7,0.071,0.032,0.19
+Pkm,QT DIG∞,pacific_stage_2,Duelist,"Neon, Jett",6,126,0.87,195.0,0.87,0.6,129.5,0.151,0.135,0.29
+margaret,QT DIG∞,pacific_stage_2,Sentinel,"Cypher, Viper, Chamber",6,126,1.09,214.0,1.11,0.69,139.8,0.111,0.087,0.3
+yuran,QT DIG∞,pacific_stage_2,Duelist,"Raze, Phoenix",6,126,0.76,170.0,0.75,0.58,117.7,0.087,0.167,0.29
+Jemkin,Rex Regum Qeon,pacific_stage_2,Duelist,"Yoru, Waylay, Chamber",16,342,1.01,198.0,1.03,0.7,124.8,0.155,0.146,0.26
+Kushy,Rex Regum Qeon,pacific_stage_2,Flex,"Phoenix, Fade, Sage",5,114,0.66,167.0,0.67,0.64,113.0,0.061,0.158,0.31
+Monyet,Rex Regum Qeon,pacific_stage_2,Controller,"Omen, Astra, Harbor",19,404,1.14,216.0,1.1,0.75,138.2,0.059,0.057,0.33
+Xan,Rex Regum Qeon,pacific_stage_2,Duelist,"Neon, Raze",17,352,0.86,201.0,0.9,0.68,129.1,0.136,0.145,0.25
+crazyguy,Rex Regum Qeon,pacific_stage_2,Initiator,"Sova, Fade, Sage",19,404,1.02,207.0,0.94,0.71,138.4,0.087,0.101,0.23
+xffero,Rex Regum Qeon,pacific_stage_2,Sentinel,"Cypher, Sage, Veto",19,404,0.99,187.0,1.01,0.7,127.1,0.054,0.079,0.26
+Apinya,Sharper Esports,pacific_stage_2,Flex,"Sage, Phoenix, Sova",12,253,1.03,203.0,1.02,0.7,134.2,0.142,0.119,0.24
+Kadoom,Sharper Esports,pacific_stage_2,Duelist,Neon,12,253,0.85,208.0,0.89,0.67,137.4,0.166,0.202,0.23
+Laz,Sharper Esports,pacific_stage_2,Sentinel,"Cypher, Killjoy, Viper",12,253,0.95,178.0,0.95,0.68,122.2,0.055,0.071,0.29
+NIZ,Sharper Esports,pacific_stage_2,Flex,"Sova, Omen",12,253,1.08,197.0,1.09,0.75,128.9,0.043,0.04,0.3
+PTC,Sharper Esports,pacific_stage_2,Flex,"Omen, Harbor, Yoru",12,253,1.02,196.0,0.99,0.72,126.6,0.083,0.079,0.3
+BuZz,T1,pacific_stage_2,Duelist,"Neon, Phoenix, Raze",27,577,1.07,229.0,1.14,0.74,150.1,0.13,0.111,0.24
+DH,T1,pacific_stage_2,Sentinel,"Omen, Cypher, Viper",9,209,0.88,171.0,0.84,0.72,115.2,0.091,0.081,0.27
+Meteor,T1,pacific_stage_2,Duelist,"Yoru, Chamber, Jett",27,577,1.06,222.0,1.14,0.68,143.2,0.18,0.121,0.29
+Munchkin,T1,pacific_stage_2,Sentinel,"Viper, Cypher, Sova",27,577,0.98,184.0,0.97,0.7,123.7,0.076,0.088,0.19
+iZu,T1,pacific_stage_2,Flex,"Sova, Fade, Neon",27,577,1.1,204.0,1.14,0.76,134.7,0.076,0.085,0.26
+stax,T1,pacific_stage_2,Controller,"Omen, Harbor",18,368,1.08,185.0,1.11,0.75,118.0,0.057,0.052,0.26
+STYRON,Team Secret,pacific_stage_2,Initiator,"Sova, Fade, Skye",17,357,0.93,183.0,0.86,0.72,123.0,0.078,0.048,0.23
+Sylvan,Team Secret,pacific_stage_2,Controller,"Omen, Astra, Brimstone",17,357,1.01,195.0,1.0,0.7,130.2,0.053,0.081,0.33
+Zeus,Team Secret,pacific_stage_2,Duelist,"Neon, Jett, Raze",17,357,1.03,224.0,1.05,0.73,145.8,0.179,0.196,0.29
+kellyS,Team Secret,pacific_stage_2,Flex,"Viper, Phoenix, KAY/O",17,357,0.91,192.0,0.86,0.71,130.8,0.09,0.081,0.22
+natz,Team Secret,pacific_stage_2,Sentinel,"Cypher, Vyse, Waylay",15,313,0.82,174.0,0.81,0.65,119.8,0.099,0.093,0.29
+skye,Team Secret,pacific_stage_2,Sentinel,Cypher,2,44,0.9,192.0,0.94,0.61,120.7,0.114,0.068,0.42
+C1ndeR,VARREL,pacific_stage_2,Controller,"Omen, Astra",11,247,0.83,151.0,0.75,0.67,99.4,0.045,0.101,0.28
+Foxy9,VARREL,pacific_stage_2,Sentinel,"Viper, Cypher, Chamber",20,446,1.12,236.0,1.19,0.69,151.0,0.15,0.108,0.37
+Klaus,VARREL,pacific_stage_2,Flex,"Omen, Raze",9,199,1.05,181.0,1.01,0.74,115.1,0.07,0.06,0.36
+XuNa,VARREL,pacific_stage_2,Initiator,"Fade, Sova, Tejo",20,446,1.09,203.0,1.09,0.76,140.9,0.065,0.056,0.35
+Zexy,VARREL,pacific_stage_2,Duelist,"Raze, Neon, Jett",20,446,0.88,190.0,0.9,0.68,120.4,0.155,0.177,0.24
+oonzmlp,VARREL,pacific_stage_2,Sentinel,"Sage, Phoenix, Vyse",20,446,0.99,185.0,0.96,0.72,122.2,0.072,0.074,0.31
+Surf,Xipto Esports,pacific_stage_2,Sentinel,"Cypher, Killjoy, Viper",5,113,0.84,177.0,0.91,0.67,113.1,0.08,0.088,0.32
+aLerT,Xipto Esports,pacific_stage_2,Controller,Omen,5,113,0.99,184.0,0.99,0.77,121.7,0.062,0.053,0.3
+canady,Xipto Esports,pacific_stage_2,Initiator,"Fade, Sova, Skye",5,113,0.94,184.0,1.0,0.73,118.2,0.142,0.035,0.26
+doffy,Xipto Esports,pacific_stage_2,Duelist,"Neon, Yoru, Jett",5,113,0.97,214.0,1.05,0.66,137.0,0.142,0.133,0.35
+endoist,Xipto Esports,pacific_stage_2,Duelist,"Phoenix, Raze, Neon",5,113,1.11,251.0,1.16,0.73,167.3,0.159,0.106,0.27
+Absol,ZETA DIVISION,pacific_stage_2,Duelist,"Neon, Waylay, Yoru",20,443,0.95,213.0,0.94,0.65,135.9,0.158,0.172,0.2
+SugarZ3ro,ZETA DIVISION,pacific_stage_2,Controller,"Omen, Harbor",20,443,0.84,167.0,0.75,0.72,110.8,0.054,0.095,0.28
+SyouTa,ZETA DIVISION,pacific_stage_2,Sentinel,"Cypher, Viper, Vyse",20,443,0.97,204.0,0.95,0.69,137.0,0.095,0.081,0.35
+Xdll,ZETA DIVISION,pacific_stage_2,Initiator,"Sage, Sova, Skye",20,443,0.91,173.0,0.9,0.68,112.8,0.054,0.088,0.28
+eKo,ZETA DIVISION,pacific_stage_2,Flex,"Yoru, Fade, Sova",20,443,1.03,206.0,0.96,0.71,137.2,0.093,0.111,0.3

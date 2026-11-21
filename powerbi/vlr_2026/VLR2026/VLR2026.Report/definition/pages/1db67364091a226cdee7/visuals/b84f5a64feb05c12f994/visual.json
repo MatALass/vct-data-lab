@@ -1,0 +1,418 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "b84f5a64feb05c12f994",
+  "position": {
+    "x": 16.0,
+    "y": 208,
+    "z": 8000,
+    "width": 1248.0,
+    "height": 496,
+    "tabOrder": 8000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Equipes"
+                    }
+                  },
+                  "Property": "Équipe"
+                }
+              },
+              "queryRef": "Equipes.Équipe",
+              "nativeQueryRef": "Équipe"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Equipes"
+                    }
+                  },
+                  "Property": "Région"
+                }
+              },
+              "queryRef": "Equipes.Région",
+              "nativeQueryRef": "Région"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Equipes"
+                    }
+                  },
+                  "Property": "Profil tactique"
+                }
+              },
+              "queryRef": "Equipes.Profil tactique",
+              "nativeQueryRef": "Profil tactique"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Compositions"
+                    }
+                  },
+                  "Property": "Winrate"
+                }
+              },
+              "queryRef": "Compositions.Winrate",
+              "nativeQueryRef": "Winrate"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Compositions"
+                    }
+                  },
+                  "Property": "Maps jouées"
+                }
+              },
+              "queryRef": "Compositions.Maps jouées",
+              "nativeQueryRef": "Maps jouées"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Compositions"
+                    }
+                  },
+                  "Property": "Compos différentes"
+                }
+              },
+              "queryRef": "Compositions.Compos différentes",
+              "nativeQueryRef": "Compos différentes"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Compositions"
+                    }
+                  },
+                  "Property": "Diversité des compos"
+                }
+              },
+              "queryRef": "Compositions.Diversité des compos",
+              "nativeQueryRef": "Diversité des compos"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Picks"
+                    }
+                  },
+                  "Property": "Agents joués"
+                }
+              },
+              "queryRef": "Picks.Agents joués",
+              "nativeQueryRef": "Agents joués"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Equipes"
+                    }
+                  },
+                  "Property": "Score profil tactique"
+                }
+              },
+              "queryRef": "Equipes.Score profil tactique",
+              "nativeQueryRef": "Score profil tactique"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "Compositions"
+                  }
+                },
+                "Property": "Winrate"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "objects": {
+      "columnWidth": [
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "134.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Equipes.Équipe"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "134.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Equipes.Région"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "134.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Equipes.Profil tactique"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "134.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Compositions.Winrate"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "134.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Compositions.Maps jouées"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "134.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Compositions.Compos différentes"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "134.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Compositions.Diversité des compos"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "134.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Picks.Agents joués"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "134.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Equipes.Score profil tactique"
+          }
+        }
+      ],
+      "total": [
+        {
+          "properties": {
+            "totals": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "values": [
+        {
+          "properties": {
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Compositions"
+                        }
+                      },
+                      "Property": "Couleur Winrate"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "selector": {
+            "data": [
+              {
+                "dataViewWildcard": {
+                  "matchingOption": 1
+                }
+              }
+            ],
+            "metadata": "Compositions.Winrate"
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Équipes, de la meilleure à la moins bonne sur les maps'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "e7fb46e9c7f7bf12488a",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Compositions"
+              }
+            },
+            "Property": "Maps jouées"
+          }
+        },
+        "type": "Advanced",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "t",
+              "Entity": "Compositions",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "Comparison": {
+                  "ComparisonKind": 2,
+                  "Left": {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Source": "t"
+                        }
+                      },
+                      "Property": "Maps jouées"
+                    }
+                  },
+                  "Right": {
+                    "Literal": {
+                      "Value": "1L"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "howCreated": "User"
+      }
+    ]
+  }
+}

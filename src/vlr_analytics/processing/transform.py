@@ -167,6 +167,8 @@ def transform_players(
     players = read_csv_required(players_path)
     matrix = read_csv_required(matrix_path)
     teams = read_csv_required(teams_path)
+    # Some team pages show no tag (T1, M80): the stats page then uses the name itself.
+    teams["tag"] = teams["tag"].fillna(teams["team"])
     events = read_csv_required(events_path)
     require_columns(players, {"player", "team", "event", "rounds", "rating"}, "players raw")
 
