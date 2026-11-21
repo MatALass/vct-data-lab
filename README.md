@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" alt="Project status">
   </a>
   <img src="https://img.shields.io/badge/python-3.11%2B-blue?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/tests-89%20passed-brightgreen?style=for-the-badge&logo=pytest" alt="Tests">
+  <img src="https://img.shields.io/badge/tests-122%20passed-brightgreen?style=for-the-badge&logo=pytest" alt="Tests">
   <img src="https://img.shields.io/badge/FastAPI-API-009688?style=for-the-badge&logo=fastapi" alt="FastAPI">
   <img src="https://img.shields.io/badge/Streamlit-apps-FF4B4B?style=for-the-badge&logo=streamlit" alt="Streamlit">
   <img src="https://img.shields.io/badge/React-frontends-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
@@ -22,13 +22,18 @@
 
 **VCT Data Lab** is a full-stack analytics project focused on professional Valorant esports.
 
-It combines five previously separate projects into one unified, maintainable repository:
+It combines eight previously separate projects into one unified, maintainable repository:
 
 1. a VLR.gg analytics pipeline,
 2. legacy VLR scraping and exploratory notebooks,
 3. an Elo-based VCT role ranker,
 4. a tournament-based VCT role ranker,
-5. a playoff odds simulator with CLI, Streamlit and React interfaces.
+5. a playoff odds simulator with CLI, Streamlit and React interfaces,
+6. **Meta Lens**: a Power BI star schema on the full 2025 VCT season (ex `vct-meta-lens`),
+7. **Roster tracker**: daily roster and team ranking follow-up for VCT 2026 EMEA (ex `vct-roster-analytics`),
+8. **Kickoff simulator**: a triple-elimination bracket and worst-to-best ranker (ex `vct-emea-kickoff-simulator`).
+
+The last three were merged with their git history kept.
 
 The goal is not only to display statistics, but to build a structured analytics platform with reproducible data processing, business rules, role inference, data-quality checks, APIs, dashboards and simulation tooling.
 
@@ -38,13 +43,16 @@ This project was developed by **Mathieu Alassoeur**.
 
 ## Project scope
 
-VCT Data Lab currently covers three main analytical areas:
+VCT Data Lab currently covers six analytical areas:
 
 | Module                     | Purpose                                                                                  |
 | -------------------------- | ---------------------------------------------------------------------------------------- |
 | **VLR Analytics**          | Scrape, clean, transform and model Valorant agent/team composition data from VLR.gg      |
 | **VCT Role Ranker**        | Infer player roles, compare players through duels, and build user-driven rankings        |
 | **Playoff Odds Simulator** | Simulate qualification/playoff scenarios using Monte Carlo logic and what-if assumptions |
+| **Meta Lens (Power BI)**   | Season-long meta: 15 tournaments, 59 teams, 349 players, 100,000+ kills, star schema and PBIP report |
+| **Roster tracker**         | Daily ranking snapshots in Excel, transfers, eliminated teams highlighted from bracket results |
+| **Kickoff simulator**      | Triple-elimination Kickoff bracket (BO3/BO5) and an interactive worst-to-best ranker |
 
 ---
 
@@ -199,6 +207,40 @@ npm install
 npm run dev
 ```
 
+### 5. Meta Lens: season-long meta in Power BI
+
+Pipeline from the VLR.gg Kaggle export to a star schema and a Power BI project written as code
+(TMDL + PBIR, generated with [pbip-generator](https://github.com/MatALass/pbip-generator)).
+Full write-up, dataset pitfalls and data model: [docs/meta_lens/README.md](docs/meta_lens/README.md).
+
+```bash
+pip install -e ".[ingest,powerbi]"
+python -m vct_meta_lens.ingest        # Kaggle CSV -> data/meta_lens/raw/
+python -m vct_meta_lens.clean         # -> data/meta_lens/processed/*.parquet
+python -m vct_meta_lens.build_model   # -> data/meta_lens/model/*.csv (star schema)
+python powerbi/meta_lens/build_report.py --data-folder "<absolute path to data/meta_lens/model/>"
+```
+
+Then open `powerbi/meta_lens/VCTMetaLens/VCTMetaLens.pbip` in Power BI Desktop and refresh.
+The CI regenerates the PBIP and fails if the committed project differs from the script.
+
+### 6. Roster tracker (VCT 2026 EMEA)
+
+```bash
+python -m vct_roster.run_daily              # scrape, add a dated sheet to data/roster/vct.xlsx, compare
+python -m streamlit run apps/roster_streamlit/app.py
+```
+
+Details: [docs/roster/README.md](docs/roster/README.md).
+
+### 7. Kickoff simulator
+
+```bash
+python -m streamlit run apps/kickoff_streamlit/Home.py
+```
+
+Details: [docs/kickoff/README.md](docs/kickoff/README.md).
+
 ---
 
 ## Repository structure
@@ -208,10 +250,14 @@ VCT-Data-Lab/
 ├── apps/
 │   ├── playoff_odds_react/          # React frontend for playoff odds
 │   ├── playoff_odds_streamlit/      # Streamlit playoff odds app
-│   └── role_ranker_streamlit/       # Streamlit role ranker apps
+│   ├── role_ranker_streamlit/       # Streamlit role ranker apps
+│   ├── roster_streamlit/            # Roster tracker dashboard
+│   └── kickoff_streamlit/           # Kickoff bracket simulator
 │
 ├── data/
 │   ├── legacy_2026_agents/          # Preserved legacy data
+│   ├── meta_lens/                   # Meta Lens raw/processed/model (not versioned)
+│   ├── roster/                      # Roster tracker workbook, roles, bracket results
 │   ├── marts/                       # Analytical marts
 │   ├── models/                      # Modeling outputs
 │   ├── playoff_odds/                # Playoff simulator configs/outputs
@@ -220,7 +266,8 @@ VCT-Data-Lab/
 │   ├── reports/                     # Data-quality reports
 │   └── role_ranker/                 # Ranker local data/state
 │
-├── docs/                            # Technical documentation
+├── docs/                            # Technical documentation (one folder per merged module)
+├── powerbi/meta_lens/               # Power BI report as code + generated PBIP
 ├── frontend/                        # React frontend for VLR analytics
 ├── notebooks/                       # Preserved exploratory notebooks
 ├── scripts/                         # Utility scripts
@@ -228,6 +275,8 @@ VCT-Data-Lab/
 │   ├── playoff_odds/                # Playoff odds simulation engine
 │   ├── vct_ranker/                  # Tournament role ranker
 │   ├── vct_ranker_elo/              # Legacy Elo role ranker
+│   ├── vct_meta_lens/               # Meta Lens pipeline (ingest, clean, star schema)
+│   ├── vct_roster/                  # Roster tracker scripts
 │   └── vlr_analytics/               # VLR analytics pipeline/API
 │
 └── tests/                           # Python test suite
@@ -283,7 +332,7 @@ python -m pytest
 Expected result:
 
 ```text
-89 passed
+122 passed
 ```
 
 ---
@@ -363,7 +412,7 @@ npm run build
 The project has been validated with:
 
 ```text
-Python tests: 89 passed
+Python tests: 122 passed (CI on every push)
 VLR React frontend: build passed
 Playoff Odds React frontend: build passed
 Playoff Odds npm audit: 0 vulnerabilities
